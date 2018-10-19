@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Prototype of encoding and indexing cards -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aarhus, Denmark (1917~)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Released by Office of the Historian</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Scanned from index card and converted to TEI XML</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <settingDesc>
+                <setting>
+                    <date notBefore="1917"/>
+                </setting>
+                <place>
+                    <settlement>Aarhus</settlement>
+                    <country>Denmark</country>
+                </place>
+            </settingDesc>
+            <textClass>
+                <keywords>
+                    <term>Aarhus</term>
+                    <term>Denmark</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="kehl">
+                        <persName>
+                            <forename>John E.</forename>
+                            <surname>Kehl</surname>
+                        </persName>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org>
+                        <orgName>Official U.S. representative office (post? consul?) in Aarhus,
+                            Denmark</orgName>
+                    </org>
+                </listOrg>
+            </particDesc>
+        </profileDesc>
+        
+    </teiHeader>
+    <!-- Could use facsimile instead of sourceDoc, no? -->
+    <sourceDoc>
+        <surfaceGrp>
+            <surface>
+                <graphic url="00001.tif"/>
+                <zone xml:id="c00001" ulx="0" uly="0" lrx="200" lry="200">
+                    <line>aarhus, denmark</line>
+                    <gap/>
+                    <line>John E. Kehl</line>
+                    <gap/>
+                </zone>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>peiping, china</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="o"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface>
+                <graphic url="00002.tif"/>
+                <zone xml:id="c00002" ulx="0" uly="0" lrx="200" lry="200">
+                    <line>aarhus, denmark</line>
+                </zone>
+            </surface>
+        </surfaceGrp>
+    </sourceDoc>
+    <text>
+        <body>
+            <pb facs="#c00001"/>
+            <div type="face">
+                <head>Aarhus, Denmark</head>
+                <table cols="8">
+                    <row role="label">
+                        <cell role="label">Prev. office</cell>
+                        <cell role="label">Name</cell>
+                        <cell role="label">Office <hi rend="stamp">Grade. Class</hi></cell>
+                        <cell role="label">Allegiance <hi rend="stamp">Date of Appt. to Class</hi></cell>
+                        <cell role="label">Where Born</cell>
+                        <cell role="label">Whence Apptd.</cell>
+                        <cell role="label">Date of Appointment <hi rend="stamp">Date of Assignment</hi></cell>
+                        <cell role="label">Remarks</cell>
+                    </row>
+                    <row>
+                        <cell><gap/></cell>
+                        <cell><persName ref="#kehl">John E. Kehl</persName></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                    </row>
+                    <row>
+                        <cell><gap/></cell>
+                        <cell>John E. Kehl</cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                        <cell><gap/></cell>
+                    </row>
+                    <row>
+                        <cell cols="8"><ab ana="mission-note">Office ordered closed Sept 7., 1920;</ab></cell>
+                    </row>
+                </table>
+            </div>
+            <pb facs="#c00002"/>
+            <div type="face">
+                <head>Aarhus, Denmark</head>
+                <ab ana="mission-note">Henry C.A. Damm, arrived at Aarhus Sept. 30, 1919 and assumed charge during illness of Consul Kehl.</ab>
+            </div>
+        </body>
+    </text>
+</TEI>
