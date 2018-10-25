@@ -21,7 +21,7 @@ let $content :=
             <thead>
                 <tr>
                     <th>Cards</th>
-                    <th>Faces</th>
+                    <th>Face</th>
                 </tr>
             </thead>
             <tbody>
@@ -70,7 +70,13 @@ let $content :=
                                                     <dt>Start Year</dt>
                                                     <dd>{$year}</dd>
                                                 </td>
-                                                <td><img src="https://static.history.state.gov/consular-cards/color/medium/{$face/tei:graphic/@url => replace("\.tif", ".jpg")}"/></td>
+                                                <td>
+                                                    <div id="openseadragon1" style="width: 800px; height: 600px;"></div>
+                                                </td>
+                                                <!-- 
+                                                <img src="https://static.history.state.gov/consular-cards/color/medium/{$face/tei:graphic/@url => replace("\.tif", ".jpg")}"/>
+                                                -->
+                                                
                                             </tr>
                                         }</tbody>
                                     </table>
@@ -79,6 +85,30 @@ let $content :=
                 }
             </tbody>
         </table>
+        <script src="/exist/apps/consular-cards/resources/openseadragon/openseadragon.min.js"/>
+        <script type="text/javascript">
+            OpenSeadragon({{
+                id:                 "openseadragon1",
+                prefixUrl:          "/exist/apps/consular-cards/resources/openseadragon/images/",
+                preserveViewport:   true,
+                visibilityRatio:    1,
+                minZoomLevel:       1,
+                defaultZoomLevel:   1,
+                sequenceMode:       true,
+                tileSources:   [{{
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://localhost:8182/iiif/2/{$face/tei:graphic/@url/string()}",
+                  "height": {$face/tei:graphic/@height => substring-before("px") },
+                  "width": {$face/tei:graphic/@width => substring-before("px") },
+                  "profile": [ "http://iiif.io/api/image/2/level2.json" ],
+                  "protocol": "http://iiif.io/api/image",
+                  "tiles": [{{
+                    "scaleFactors": [ 1, 2, 4, 8, 16, 32 ],
+                    "width": 1024
+                  }}]
+                }}]
+            }});
+        </script>
     </div>
 return
     cc:wrap-html($title, $content)
