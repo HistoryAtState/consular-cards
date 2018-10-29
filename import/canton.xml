@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canton, China (1790~)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Released by Office of the Historian</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Scanned from index card and converted to TEI XML</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <settingDesc>
+                <setting>
+                    <date notBefore="1790"/>
+                </setting>
+                <place>
+                    <settlement>Canton</settlement>
+                    <country>China</country>
+                </place>
+            </settingDesc>
+            <textClass>
+                <keywords>
+                    <term>Canton</term>
+                    <term>China</term>
+                </keywords>
+            </textClass>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="shaw">
+                        <persName>
+                            <forename>Samuel</forename>
+                            <surname>Shaw</surname>
+                        </persName>
+                    </person>
+                </listPerson>
+                <listOrg>
+                    <org>
+                        <orgName>Official U.S. representative office (post? consul?) in Canton,
+                            China</orgName>
+                    </org>
+                </listOrg>
+            </particDesc>
+        </profileDesc>        
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0168f1">
+                <graphic url="00243.tif" width="6004px" height="3632px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canton, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1790</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00243</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0168f2">
+                <graphic url="00244.tif" width="6004px" height="3632px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canton, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00244</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text>
+        <body>
+            <pb facs="#c0168f1"/>
+            <div type="face">
+                <head>
+                    <label rendition="simple_left">1</label>
+                    <label rendition="simple_centre">Canton, China</label>
+                </head>
+                <table cols="8">
+                    <row role="label">
+                        <cell role="label">Prev. office</cell>
+                        <cell role="label">Name</cell>
+                        <cell role="label">Office</cell>
+                        <cell role="label">Allegiance</cell>
+                        <cell role="label">Where Born</cell>
+                        <cell role="label">Whence Apptd.</cell>
+                        <cell role="label">Date of Appointment</cell>
+                        <cell role="label">Remarks</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><persName ref="#shaw">Samuel Shaw</persName></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>[?] Feb. 10, 1790 Conf.</cell>
+                        <cell>"No compensation"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Snow</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>R.I.</cell>
+                        <cell>[?] May 14, 1798 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Reid</cell>
+                        <cell>Vice "</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.H.</cell>
+                        <cell>[?] Mar. 29, 1799 recess<lb/>Dec. 10, 1799</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Carrington</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>R.I.</cell>
+                        <cell>[?] Mar. 11, </cell>
+                        <cell/>
+                    </row>
+                    <gap/>
+                    <row>
+                        <cell cols="8">(over) <handShift/> (Continued on card
+                                # 2)</cell>
+                    </row>
+                </table>
+            </div>
+            <pb facs="#c00002"/>
+            <div type="face">
+                <head>Canton, China</head>
+                <ab ana="mission-note"><unclear/> acted as Con. Agt. in 1926, following Thompson. <unclear/> left <unclear/> Talbot, of N.Y. in charge 1928, 1929, &amp; 1930.</ab>
+                <ab ana="mission-note"><gap/></ab>
+                <ab ana="mission-note"><gap/></ab>
+            </div>
+        </body>
+    </text>
+</TEI>
