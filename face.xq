@@ -97,7 +97,7 @@ let $content :=
                 sequenceMode:       true,
                 tileSources:   [{{
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "http://localhost:8182/iiif/2/{$face/tei:graphic/@url/string()}",
+                  "@id": "https://ci.history.state.gov/iiif/2/{encode-for-uri("consular-cards/color/original/" || $face/tei:graphic/@url)}",
                   "height": {$face/tei:graphic/@height => substring-before("px") },
                   "width": {$face/tei:graphic/@width => substring-before("px") },
                   "profile": [ "http://iiif.io/api/image/2/level2.json" ],
