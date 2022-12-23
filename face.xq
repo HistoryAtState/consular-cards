@@ -12,6 +12,23 @@ declare option output:media-type "text/html";
 let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
 let $face-id := request:get-parameter("id", ())
 let $face := $cards-doc//tei:surface[@xml:id eq $face-id]
+return
+
+    (: Catch invalid `id` parameter, temporary workaround to avoid XSS :)
+    if (empty($face)) then
+        let $title := "Content Not Found"
+        let $content := 
+            <div>
+                <h2>Content Not Found</h2>
+                <p>No face with the requested ID was found. Please return to the homepage and try your search again.</p>
+            </div>
+        return
+            (
+                response:set-status-code(404),
+                cc:wrap-html($title, $content)
+            )
+    else
+    
 let $primary-label := $face//tei:f[@name eq "label"]/tei:string/string()
 let $title := "Face " || $face-id || " (“" || $primary-label || "”)"
 let $card := $face/parent::tei:surfaceGrp

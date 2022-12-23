@@ -11,8 +11,25 @@ declare option output:media-type "text/html";
 
 let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
 let $label := request:get-parameter("label", ())
-let $title := "Cards labeled “" || $label || "”"
 let $cards := $cards-doc//tei:string[. eq $label]/ancestor::tei:surfaceGrp
+return
+
+    (: Catch invalid `id` parameter, temporary workaround to avoid XSS :)
+    if (empty($cards)) then
+        let $title := "Content Not Found"
+        let $content := 
+            <div>
+                <h2>Content Not Found</h2>
+                <p>No cards with the requested label were found. Please return to the homepage and try your search again.</p>
+            </div>
+        return
+            (
+                response:set-status-code(404),
+                cc:wrap-html($title, $content)
+            )
+    else
+    
+let $title := "Cards labeled “" || $label || "”"
 let $start-years := $cards//tei:f[@name eq "year"]/tei:string[. ne ""]
 let $content := 
     <div>

@@ -19,7 +19,32 @@ let $query-options :=
         <leading-wildcard>no</leading-wildcard>
         <filter-rewrite>yes</filter-rewrite> 
     </options>
-let $cards := if ($q) then $cards-doc//tei:string[ft:query(., $q, $query-options)]/ancestor::tei:surfaceGrp else ()
+let $cards := 
+    if (exists($q)) then 
+        try {
+            $cards-doc//tei:string[ft:query(., $q, $query-options)]/ancestor::tei:surfaceGrp 
+        } catch * {
+            element error { "Invalid input" }
+        }
+    else 
+        ()
+return
+
+    (: Catch invalid `q` parameter, temporary workaround to avoid XSS :)
+    if ($cards instance of element(error)) then
+        let $title := "Server Error"
+        let $content := 
+            <div>
+                <h2>Server Error</h2>
+                <p>The server reported an unexpected error processing your search. Please reformulate your search, taking care to remove any special characters.</p>
+            </div>
+        return
+            (
+                response:set-status-code(500),
+                cc:wrap-html($title, $content)
+            )
+    else
+    
 let $content := 
     if (exists($q)) then
         <div>
