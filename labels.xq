@@ -5,7 +5,8 @@ import module namespace cc = "http://history.state.gov/ns/xquery/apps/consular-c
 declare namespace output="http://www.w3.org/2010/xslt-xquery-serialization";
 declare namespace tei="http://www.tei-c.org/ns/1.0";
 
-declare option output:method "html5";
+declare option output:method "html";
+declare option output:html-version "5";
 declare option output:media-type "text/html";
 
 let $title := "All Labels"
