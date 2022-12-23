@@ -6,6 +6,8 @@
         <url>http://history.state.gov/ns/xquery/apps/consular-cards</url>
         <version>0.3.0</version>
     </app>
+    
+    <!--
     <trigger>
         <provider-url>
             <dev>failover:tcp://10.0.1.114:61616</dev>
@@ -16,4 +18,5 @@
             <prod>dynamicTopics/hsg-replication</prod>
         </destination>
     </trigger>
+    -->
 </root>
