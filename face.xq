@@ -14,8 +14,8 @@ let $face-id := request:get-parameter("id", ())
 let $face := $cards-doc//tei:surface[@xml:id eq $face-id]
 return
 
-    (: Catch invalid `id` parameter, temporary workaround to avoid XSS :)
-    if (empty($face)) then
+    (: Catch missing or malformed `id` parameter, temporary workaround to avoid XSS :)
+    if (empty($face) or not(matches($face-id, "^c\d{4}f[1-3]$"))) then
         let $title := "Content Not Found"
         let $content := 
             <div>
