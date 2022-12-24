@@ -32,8 +32,22 @@ let $cards :=
         ()
 return
 
+    (: Catch missing or malformed `id` parameter, temporary workaround to avoid XSS :)
+    if (exists($q) and empty($cards)) then
+        let $title := "Content Not Found"
+        let $content := 
+            <div>
+                <h2>Content Not Found</h2>
+                <p>No cards with the search term were found. Please reformulate your search.</p>
+            </div>
+        return
+            (
+                response:set-status-code(404),
+                cc:wrap-html($title, $content)
+            )
+    
     (: Catch invalid `q` parameter, temporary workaround to avoid XSS :)
-    if ($cards instance of element(error)) then
+    else if ($cards instance of element(error)) then
         let $title := "Server Error"
         let $content := 
             <div>
