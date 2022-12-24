@@ -11,7 +11,9 @@ declare option output:media-type "text/html";
 
 let $title := "Consular Cards"
 let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
-let $q := request:get-parameter("q", ())[not(. eq "")]
+let $q := request:get-parameter("q", ())[normalize-space(.) ne ""] 
+    (: strip out angle brackets to avoid XSS :)
+    ! replace(., "[&lt;&gt;]", "")
 let $query-options := 
     <options>
         <default-operator>and</default-operator>

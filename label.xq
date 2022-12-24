@@ -10,7 +10,9 @@ declare option output:html-version "5";
 declare option output:media-type "text/html";
 
 let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
-let $label := request:get-parameter("label", ())
+let $label := request:get-parameter("label", ())[normalize-space(.) ne ""]
+    (: strip out angle brackets to avoid XSS :)
+    ! replace(., "[&lt;&gt;]", "")
 let $cards := $cards-doc//tei:string[. eq $label]/ancestor::tei:surfaceGrp
 return
 
