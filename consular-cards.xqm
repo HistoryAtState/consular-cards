@@ -2,9 +2,11 @@ xquery version "3.1";
 
 module namespace cc = "http://history.state.gov/ns/xquery/apps/consular-cards";
 
-declare function cc:wrap-html($title, $body) {
-    let $q := request:get-parameter("q", ())
-    return
+declare function cc:wrap-html($title as xs:string, $body as element()) {
+    cc:wrap-html($title, $body, ())
+};
+
+declare function cc:wrap-html($title as xs:string, $body as element(), $q as xs:string?) {
     <html lang="en">
         <head>
             <!-- Required meta tags -->

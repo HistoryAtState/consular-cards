@@ -41,7 +41,7 @@ return
         return
             (
                 response:set-status-code(500),
-                cc:wrap-html($title, $content)
+                cc:wrap-html($title, $content, $q)
             )
     else
     
@@ -111,4 +111,4 @@ let $content :=
         </div>
     
 return
-    cc:wrap-html($title, $content)
+    cc:wrap-html($title, $content, $q)
