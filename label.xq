@@ -14,8 +14,8 @@ let $label := request:get-parameter("label", ())
 let $cards := $cards-doc//tei:string[. eq $label]/ancestor::tei:surfaceGrp
 return
 
-    (: Catch invalid `id` parameter, temporary workaround to avoid XSS :)
-    if (empty($cards)) then
+    (: Catch missing or invalid `label` parameter, temporary workaround to avoid XSS :)
+    if (empty($label) or empty($cards)) then
         let $title := "Content Not Found"
         let $content := 
             <div>
