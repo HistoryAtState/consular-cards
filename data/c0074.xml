@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0074" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ancona, Papal States</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0073" type="prev"/>
+                <relatedItem target="c0075" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0074f1">
+                <graphic height="3626px" url="00110.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ancona, Papal States</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00110</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0074f2">
+                <graphic height="3626px" url="00111.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ancona, Papal States</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1841</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00111</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0074">
+        <body>
+            <div corresp="#c0074f1">
+                <head>Ancona, Papal States.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Rebighini</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 25, 1865</cell>
+                        <cell>Apptd Consul Mar. 18, 1867.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert P. Tomassini</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sep. 7, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert P. Tomassini</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 9, 1870.</cell>
+                        <cell>Apptd Consul Feb. 25, 1871.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. P. Tomassini</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 23, 1871</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. P. Tomassini</cell>
+                        <cell>Con Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1875</cell>
+                        <cell>Died Nov. 28, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward A. Kane</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1903</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed July 23, 1907.</p>
+            </div>
+            <div corresp="#c0074f2">
+                <head>Ancona</head>
+                <p>Caesar A. Magnani - apptd by Consul to act in his absence Sept. 1841</p>
+                <p>Consul was absent a great deal - dates not given.</p>
+                <p>Consul Freeman acted as Consul at Rome from July 5, 1849 to Oct. 22, 1849.</p>
+                <p>Magnani in charge at Ancona</p>
+                <p>Consul Freeman lived at Rome and Consul Mozier at Florence till Oct. 1850 when he
+                    lived at home Magnani did the work at Ancona for both</p>
+                <p>C. A. Magnani V. C. in charge Oct. 1853 to Jan. 1861?</p>
+                <p>Archives in Florence Consulate (Consul resigned) - May 1, 1864 to Sept. 15, 1869
+                    to Jan. 7, 1870.</p>
+                <p>A. P. Tomassini V. C. in charge (resig, of Consul) Sept. 15, 1869 to Jan. 7,
+                    1870.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

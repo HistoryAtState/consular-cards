@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5436" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saudi Arabia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5435" type="prev"/>
+                <relatedItem target="c5437" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5436f1">
+                <graphic height="3616px" url="07078.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Saudi Arabia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07078</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5436">
+        <body>
+            <div corresp="#c5436f1">
+                <head>SAUDI ARABIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>FSI Dept.</cell>
+                        <cell>Thomas P. Gallagher</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert W. Stookey</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Jidda</cell>
+                        <cell>Richard W. Murphy</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Army Wan College Penn.</cell>
+                        <cell>C. Melvin Sonne, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>To Amman as 1st Sec. 8-14-66</cell>
+                    </row>
+                    <row>
+                        <cell>Attache Beirut</cell>
+                        <cell>Michael Dowling</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 28, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Cal-cutta</cell>
+                        <cell>David L. Blakemore</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 20, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William W. Douglass</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tehran</cell>
+                        <cell>Daniel L. Williamson, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Aug. 28, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tehran</cell>
+                        <cell>James A. Allitto</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 5, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Tangier</cell>
+                        <cell>David E. Long</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 5, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

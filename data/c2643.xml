@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2643" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karachi, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2642" type="prev"/>
+                <relatedItem target="c2644" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2643f1">
+                <graphic height="3620px" url="03510.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Karachi, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03510</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2643">
+        <body>
+            <div corresp="#c2643f1">
+                <head>KARACHI, Pakistan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James W. Shinn</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lahore</cell>
+                        <cell>Richard C. Scissors</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell>Also 2d Sec.</cell>
+                        <cell>Designated Consul-Karachi 5-15-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Ronald B. Casagrande</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 28, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>On June 9, 1966, the American Embassy in Karachi was redesignated American
+                    Embassy Branch Office.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0320" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kalgan, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0319" type="prev"/>
+                <relatedItem target="c0321" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0320f1">
+                <graphic height="3644px" url="00444.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kalgan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00444</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0320f2">
+                <graphic height="3644px" url="00445.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kalgan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00445</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0320">
+        <body>
+            <div corresp="#c0320f1">
+                <head>Kalgan, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Manking</cell>
+                        <cell>J. Paul Jameson</cell>
+                        <cell>Con.</cell>
+                        <cell>5</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>D.C.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 17, 1920</cell>
+                        <cell>Did not go to Kalgan <lb/> Assignment cancelled</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0320f2">
+                <head>Kalgan, China.</head>
+                <p>Samuel Sokobin, lately Interpreter at $8000, was appt'd Consul Class 6 Nov. 23,
+                    1921. Apt'd F.S.O. class 7 July 1, 1924; class 6 Aug. 8, 1924, assigned to
+                    Mukden Sept. 12, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2631" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannesburg, Transvaal, Union-Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2630" type="prev"/>
+                <relatedItem target="c2632" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2631f1">
+                <graphic height="3610px" url="03498.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Johannesburg, Transvaal, Union-Republic of South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1958</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03498</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2631">
+        <body>
+            <div corresp="#c2631f1">
+                <head>JOHANNESBURG, TRANSVAAL, UNION OF SOUTH AFRICA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. 2d Sec. Colombo</cell>
+                        <cell>N. Hunt Heubeck</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Fla.</cell>
+                        <cell>June 16, 1958</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.t V.C. Bucharest</cell>
+                        <cell>Harry J. Mullin, Jr.,</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1958</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.t V.C. Athens</cell>
+                        <cell>Miss Mary G. Crain</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 9, 1959</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS) Johannesburg</cell>
+                        <cell>Miss E. Ursula Wallace</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 25, 1960</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas A. Schlenker</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 5, 1963</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Joseph E. Olenik</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1965</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Castrodale</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 20, 1966</cell>
+                    </row>
+                </table>
+                <p>Designated Consul, Johannesburg, 2-2-61.</p>
+                <p>to Casablanca as V.C: 1-25-60</p>
+                <p>To Berlin as, Economic officer, 8-19-62.</p>
+                <p>To Ottawa al V.C.+ 3d Sec. 7-24-61.</p>
+                <p>FSO assigned to the Dept., 6-20-65.</p>
+                <p>Designated Consul, Johannesburg, 5-26-65.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

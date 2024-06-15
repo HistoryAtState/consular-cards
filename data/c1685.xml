@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1685" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Verviers, Belgium</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1684" type="prev"/>
+                <relatedItem target="c1686" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1685f1">
+                <graphic height="3626px" url="02250.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Verviers, Belgium</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02250</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1685">
+        <body>
+            <div corresp="#c1685f1">
+                <head>Verviers, Belgium.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Adam Gohr</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 24, 1873.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. W. Johnston</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 18, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix Lison</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 25, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Müllender</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 27, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Dodt</cell>
+                        <cell>Cons. Agt. Belg.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 28, 1890.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Sept 30, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

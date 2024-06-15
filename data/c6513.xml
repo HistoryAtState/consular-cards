@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6513" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stanleyville, Republic of the Congo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6512" type="prev"/>
+                <relatedItem target="c6514" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6513f1">
+                <graphic height="3630px" url="08617.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stanleyville, Republic of the Congo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="o"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08617</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6513">
+        <body>
+            <div corresp="#c6513f1">
+                <head>STANLEYVILLE, Republic of the Congo</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Consul + 2d Sec. Léopoldville</cell>
+                        <cell>John W. Simms</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons. May 14, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>750 assigned to the Dept. 1-20-63.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. + 2d Sec. Léopoldville</cell>
+                        <cell>Dean O. Claussen</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Dec. 13, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>sec. Léopoldville</cell>
+                        <cell>John R. Clingerman</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Cons. Mar. 4, 1963</cell>
+                        <cell>USIA</cell>
+                        <cell>750 asgd to the Dept. 9-13-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max W. Kraus</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Apr. 14, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>STANLEYVILLE, Democratic Republic of the Congo</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. + 2d Sec. Vientiane</cell>
+                        <cell>Andre J. Navez</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Cons. Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell>eff. Aug. 1, 1964 To Bukavu as Consul, 7-19-65.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Paris</cell>
+                        <cell>James P. Farber</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons. July 5, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

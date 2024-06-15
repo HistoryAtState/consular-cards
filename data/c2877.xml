@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2877" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Macao, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2876" type="prev"/>
+                <relatedItem target="c2878" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2877f1">
+                <graphic height="3624px" url="03791.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Macao, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03791</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2877f2">
+                <graphic height="3624px" url="03792.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Macao, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1836</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03792</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2877">
+        <body>
+            <div corresp="#c2877f1">
+                <head>Macao, China. (under Portugal)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Z. Barton</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 22, 1866.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2877f2"/>
+        </body>
+    </text>
+</TEI>

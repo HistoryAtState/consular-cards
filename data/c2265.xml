@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2265" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gothenburg, Sweden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2264" type="prev"/>
+                <relatedItem target="c2266" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2265f1">
+                <graphic height="3626px" url="03019.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gothenburg, Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03019</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2265f2">
+                <graphic height="3626px" url="03020.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gothenburg, Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03020</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2265">
+        <body>
+            <div corresp="#c2265f1">
+                <head>Gothenburg, Sweden.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franklin M. Bazier</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Sept. 28, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl Lidbeck</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ July 22, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustavus W. Schroeder</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Dec. 22, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Urban Korner</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Sweden</cell>
+                        <cell/>
+                        <cell>✓ Nov. 9, 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Berghaus</cell>
+                        <cell>V.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Oct. 28, 1895.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl W. Lindgreist</cell>
+                        <cell>" "</cell>
+                        <cell>Sweden</cell>
+                        <cell>Sweden</cell>
+                        <cell>Sweden</cell>
+                        <cell>✓ July 19, 1902.</cell>
+                        <cell>Resigned July 13, 1907.<lb/>Made Vice Consul by Act<lb/>approved Feb.
+                            5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilhelm Hartman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Sept. 12, 1907.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(see Goteborg)</p>
+            </div>
+            <div corresp="#c2265f2">
+                <head>Gothenburg, Sweden.</head>
+                <p>Wilhelm Hartman, VoD C. took over the Consulate from Robertson March 12, 1909 and
+                    turned it over to Consul Filler January 31, 1911.</p>
+                <p>Wilhelm Hartman, VoD C. took over the Consulate from Consul Fuller Apr. 6, 1912,
+                    and turned it over to Consul Jenkins May 10, 1912.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

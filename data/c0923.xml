@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0923" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. George, Azores</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0922" type="prev"/>
+                <relatedItem target="c0924" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0923f1">
+                <graphic height="3632px" url="01236.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. George, Azores</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1869</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01236</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0923">
+        <body>
+            <div corresp="#c0923f1">
+                <head>St. George, Azores.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Amaro José de Albera</cell>
+                        <cell>Joaquin José Ardozo</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1869,</cell>
+                        <cell>Canceled July 23, 1878,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 7, 1879.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed July 28, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

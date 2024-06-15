@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0299" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivica, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0298" type="prev"/>
+                <relatedItem target="c0300" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0299f1">
+                <graphic height="3634px" url="00415.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ivica, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00415</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0299">
+        <body>
+            <div corresp="#c0299f1">
+                <head>Ivica, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miguel Sora</cell>
+                        <cell>Const. Aft.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 7, 1864.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Wallis</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 5, 1864.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed Nov. 2, 1876. Archives at Barcelona.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

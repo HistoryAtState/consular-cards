@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0895" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sabanilla, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0894" type="prev"/>
+                <relatedItem target="c0896" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0895f1">
+                <graphic height="3630px" url="01201.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sabanilla, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1856</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01201</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0895">
+        <body>
+            <div corresp="#c0895f1">
+                <head>Sabanilla, Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James H. Horner</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 15, 1856</cell>
+                        <cell>Conf.</cell>
+                        <cell>Mar. 17, 1857 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Magill</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ill.</cell>
+                        <cell>Nov. 23, 1859</cell>
+                        <cell>recess</cell>
+                        <cell>May, 1862 to Sept. 1862.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A. Chapman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ill.</cell>
+                        <cell>Jan. 10, 1860</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Barranquilla</cell>
+                        <cell>Elias P. Pellett</cell>
+                        <cell>Comil Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Soffa</cell>
+                        <cell>Nov. 14, 1861</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Elias P. Pellett</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>nilla</cell>
+                        <cell>July 12, 1862</cell>
+                        <cell>Conf.</cell>
+                        <cell>Sept. 1866 to</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>W. W. Randall</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 11, 1866</cell>
+                        <cell/>
+                        <cell>To Oct. 18, 1880.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 17, 1874</cell>
+                        <cell>Conf</cell>
+                        <cell>Resigned July 8, 1880.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 8, 1880</cell>
+                        <cell>recess</cell>
+                        <cell>Resigned Dec. 1, 1882.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Wise, Feb. 16, 1881</cell>
+                        <cell>Conf</cell>
+                        <cell>accepted Feb. 8, 1883.</cell>
+                    </row>
+                </table>
+                <p>Office changed to Barranquilla March 20, 1883.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

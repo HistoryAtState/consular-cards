@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0266" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hue, Vietnam</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0265" type="prev"/>
+                <relatedItem target="c0267" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0266f1">
+                <graphic height="3630px" url="00373.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hue, Vietnam</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00373</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0266">
+        <body>
+            <div corresp="#c0266f1">
+                <head>Hue, Viet-Nam</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John P. Rhodes</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell>Other Agencies</cell>
+                        <cell>Ohio</cell>
+                        <cell>Jan. 12, 1962</cell>
+                        <cell>To Marrakech as Branch Public Aff. (7SR) (USIA), 12-8-63. <lb/> 7.S.S.
+                            Officer assigned to <lb/> the Dept., 1-5-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George D. Clee, Jr.</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1962</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed Jan. 1, 1967.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

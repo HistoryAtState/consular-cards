@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2432" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Franconia, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2431" type="prev"/>
+                <relatedItem target="c2433" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2432f1">
+                <graphic height="3636px" url="03237.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Franconia, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1794</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03237</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2432">
+        <body>
+            <div corresp="#c2432f1">
+                <head>Franconia, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Philip Marek</cell>
+                        <cell>Consul France</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 29, 1794 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

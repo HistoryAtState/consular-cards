@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1592" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tonga Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1591" type="prev"/>
+                <relatedItem target="c1593" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1592f1">
+                <graphic height="3644px" url="02125.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tonga Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02125</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1592">
+        <body>
+            <div corresp="#c1592f1"/>
+        </body>
+    </text>
+</TEI>

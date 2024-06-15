@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1444" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stanstead Junction, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1443" type="prev"/>
+                <relatedItem target="c1445" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1444f1">
+                <graphic height="3630px" url="01919.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stanstead Junction, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01919</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1444">
+        <body>
+            <div corresp="#c1444f1">
+                <head>Stanstead Junction, Quebec, Canada. (see Lineboro)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Line-<lb/>bors</cell>
+                        <cell>Noel S. Beebe</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Mar. 31, 1908,</cell>
+                        <cell>Appt'd Con. Agt. at Beebe<lb/>Junction Oct. 15, 1909.</cell>
+                    </row>
+                </table>
+                <p>Name of place changed to Beebe Junction Oct. 15, 1909.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

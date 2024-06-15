@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2061" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cologne, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2060" type="prev"/>
+                <relatedItem target="c2062" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2061f1">
+                <graphic height="3604px" url="02759.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cologne, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02759</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2061">
+        <body>
+            <div corresp="#c2061f1">
+                <head>Cologne, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>1st Secy of Legn, Vienna</cell>
+                        <cell>Alfred St. Klieforth : </cell>
+                        <cell>8.0</cell>
+                        <cell>4</cell>
+                        <cell>12/19/1929</cell>
+                        <cell>3-1-23 Consul</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 16, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Alfred St. Klieforth</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>12/19/1929</cell>
+                        <cell>6-17-36 Cou. Sen.</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 17, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>2d Secy of Legn, Ciudad Trujillo</cell>
+                        <cell>Franklin B. Atwood</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>10/1/1935R</cell>
+                        <cell>2-4-31 Consul</cell>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 29, 1937</cell>
+                    </row>
+                    <row>
+                        <cell>Class 4</cell>
+                        <cell>Alfred St. Klieforth</cell>
+                        <cell>Do</cell>
+                        <cell>3</cell>
+                        <cell>3-23 EFFECTIVE</cell>
+                        <cell>6-8-39 Cou. Sen.</cell>
+                        <cell>Pa</cell>
+                        <cell>continued under assignment of June 17, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Class 7 Consul &amp; Secy Budapest</cell>
+                        <cell>Franklin B. Atwood</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>4-1-39</cell>
+                        <cell>2-4-31 Consul</cell>
+                        <cell>Mass.</cell>
+                        <cell>continued under assignment of Sept. 29, 1937</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dale W. Maker</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>4-1-36 C.</cell>
+                        <cell>12-19-29</cell>
+                        <cell>Mo.</cell>
+                        <cell>Jan 16, 1940</cell>
+                    </row>
+                </table>
+                <p>appld. a Cou. Sen., June 17, 1936. Resigd. as Cou. Sen., June 17, 1936</p>
+                <p>Apptd. F.S.O., el. 3, Mar. 23, 1939.</p>
+                <p>Died July 13, 1946.</p>
+                <p>Apptd. F.S.O., el. 6, June 8, 1939</p>
+                <p>Resigd. Winnipeg, Sept. 5, 1941.</p>
+                <p>Retired Act 4/24/379, eff. Apr. 30, 1940</p>
+                <p>Resigd. Lyon, Apr. 14, 1941.</p>
+                <p>+ Name changed to Klieforth under laws of State of Wisconsin, 1935</p>
+            </div>
+        </body>
+    </text>
+</TEI>

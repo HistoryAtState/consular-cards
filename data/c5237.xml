@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5237" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Barbados</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5236" type="prev"/>
+                <relatedItem target="c5238" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5237f1">
+                <graphic height="3614px" url="06804.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Barbados</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06804</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5237">
+        <body>
+            <div corresp="#c5237f1">
+                <head>Barbados</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Bridgetown</cell>
+                        <cell>William E. Ryerson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 30, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bridgetown</cell>
+                        <cell>Frank J. Walters</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Nov. 30, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bridgetown</cell>
+                        <cell>Robert A. Jackson</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Nov. 30, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

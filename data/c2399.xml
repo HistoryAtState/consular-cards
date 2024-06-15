@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2399" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fiji Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2398" type="prev"/>
+                <relatedItem target="c2400" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2399f1">
+                <graphic height="3634px" url="03197.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fiji Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1844</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03197</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2399">
+        <body>
+            <div corresp="#c2399f1">
+                <head>Fiji Islands. (at Lauthala) (see Ovalau<lb/>// Suva<lb/>// Levuka</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John D. Williams</cell>
+                        <cell>Consul Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. Aug. 19, 1844 by Sey</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Located at Auckland, New Zealand. Was also Consul at<lb/>Bay of Islands, &amp;gt;
+                    lived at Auckland, from Sept. 10, 1845 to<lb/>He was in Fiji from Jan. 1846 to
+                    July 1846; Sept. 1846 to Mar. 1848?; April 1848 to 1854?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

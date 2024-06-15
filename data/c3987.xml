@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3987" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sofia, Bulgaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3986" type="prev"/>
+                <relatedItem target="c3988" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3987f1">
+                <graphic height="3612px" url="05202.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sofia, Bulgaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05202</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3987">
+        <body>
+            <div corresp="#c3987f1">
+                <head>SOFIA, Bulgaria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert W. Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell>Also 2d Sec. Designated Consul, Sofia, <lb/> 5-26-65. <lb/> Also 3d
+                            Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard E. Combs, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Raised from Legation to Embassy eff. Nov. 28, 1966.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

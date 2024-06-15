@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6074" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6073" type="prev"/>
+                <relatedItem target="c6075" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6074f1">
+                <graphic height="3628px" url="07969.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="21.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07969</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6074f2">
+                <graphic height="3628px" url="07970.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="21.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07970</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6074">
+        <body>
+            <div corresp="#c6074f1"/>
+            <div corresp="#c6074f2">
+                <head>Lucian L. Rocke, Jr, FSO assigned to Paris, France June 12, 1950 Designated
+                    V.C. 43d Sec. Paris, France. 6-15-67.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

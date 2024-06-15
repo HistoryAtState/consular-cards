@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2174" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dartmouth, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2173" type="prev"/>
+                <relatedItem target="c2175" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2174f1">
+                <graphic height="3632px" url="02901.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dartmouth, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1888</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02901</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2174">
+        <body>
+            <div corresp="#c2174f1">
+                <head>Dartmouth, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Hingaton</cell>
+                        <cell>Con. Agt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1888.</cell>
+                        <cell>Died June 26, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jasper Bartlett</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1898.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed July 14, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

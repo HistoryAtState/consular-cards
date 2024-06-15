@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1686" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vevey, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1685" type="prev"/>
+                <relatedItem target="c1687" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1686f1">
+                <graphic height="3626px" url="02251.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vevey, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02251</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1686f2">
+                <graphic height="3626px" url="02252.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vevey, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02252</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1686">
+        <body>
+            <div corresp="#c1686f1">
+                <head>Vevey, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Philippe Ginton</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 12, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>William Cuenod</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Swity.</cell>
+                        <cell/>
+                        <cell>Nov. 2, 1898.</cell>
+                        <cell>superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore F. Dwight</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>(Died in Boston, Mass. Feb. 3, 1917.)</cell>
+                        <cell>Mass. Mar. 28, 1904.</cell>
+                        <cell>May 16, 1904 to Jan. 7, 1914 <lb/> Resigned 1/7/14; Dexter in
+                            chg.</cell>
+                    </row>
+                    <row>
+                        <cell>Lw-Perone</cell>
+                        <cell>Fletcher Dexter</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Brookline, Mass. Feb. 2, 1914.</cell>
+                        <cell>Commission canceled</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C. Cowell Frazer</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ga. Ga. Feb. 12, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fletcher Dexter</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Brookline, Mass. June 9, 1915.</cell>
+                        <cell>Appt'd Con. Agt. at Lausanne 4/19/16</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency transferred to Lausanne. Closed Feb. 26, 1916.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1686f2">
+                <head>Vemy, Switzerland</head>
+                <p>Fletcher Dexter look over the office from Dwight Jan. 7/1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

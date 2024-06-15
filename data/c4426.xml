@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4426" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Algiers, Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4425" type="prev"/>
+                <relatedItem target="c4427" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4426f1">
+                <graphic height="3600px" url="05763.tif" width="6052px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Algiers, Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05763</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4426">
+        <body>
+            <div corresp="#c4426f1"/>
+        </body>
+    </text>
+</TEI>

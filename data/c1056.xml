@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1056" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Hawksbury and Mulgrave, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1055" type="prev"/>
+                <relatedItem target="c1057" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1056f1">
+                <graphic height="3642px" url="01410.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Hawksbury and Mulgrave, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01410</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1056f2">
+                <graphic height="3630px" url="01411.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Hawksbury, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01411</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1056">
+        <body>
+            <div corresp="#c1056f1">
+                <head>Port Hawksbury and Moulgrave, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Bain</cell>
+                        <cell>(Died in Port Hawksbury Feb. 1928 aged 89 years)</cell>
+                        <cell>Con. Agt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 26, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jeremiah Shilpot</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Port Hawksbury N.S.</cell>
+                        <cell>Canada</cell>
+                        <cell>Nov. 2, 1916.</cell>
+                        <cell>Died at his post Dec. 26, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Bourinot</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 14, 1923.</cell>
+                        <cell>Serv.term. Jan. 15, 1930, after closing of agency.</cell>
+                    </row>
+                </table>
+                <p>Agency closed January 16, 1930.</p>
+            </div>
+            <div corresp="#c1056f2"/>
+        </body>
+    </text>
+</TEI>

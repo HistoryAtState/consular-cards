@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0369" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kudat, British North Borneo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0368" type="prev"/>
+                <relatedItem target="c0370" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0369f1">
+                <graphic height="3632px" url="00505.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kudat, British North Borneo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00505</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0369">
+        <body>
+            <div corresp="#c0369f1">
+                <head>Rudat, British North Borneo. (under Sandakan.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Francis Giddy</cell>
+                        <cell>Con. Agt. Dr.</cell>
+                        <cell>Br. York</cell>
+                        <cell>Br. Yorkshire</cell>
+                        <cell>Borneo</cell>
+                        <cell>July 24, 1908.</cell>
+                        <cell>Transferred by Governor for duty elsewhere. <lb/> Declined appt.
+                            F.11972/5</cell>
+                    </row>
+                </table>
+                <p>Agency was never opened.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

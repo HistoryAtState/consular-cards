@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0116" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arthabaska, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0115" type="prev"/>
+                <relatedItem target="c0117" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0116f1">
+                <graphic height="3620px" url="00168.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arthabaska, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00168</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0116">
+        <body>
+            <div corresp="#c0116f1">
+                <head>Arthabaska, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>☆</cell>
+                        <cell>N. Poitras.<lb/>Milton P. Townshend</cell>
+                        <cell>Con. Axt Gr.Br.<lb/>" " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug.11, 1887.<lb/>Md. May 10, 1898.</cell>
+                        <cell>Out by afpt of Agent at<lb/>Victoriaville Apr. 28,
+                            1902.<lb/>Cancelled. Apped to Megantie</cell>
+                    </row>
+                </table>
+                <p>Name of town changed to Victoriaville in 1902.</p>
+                <p>☆ Despatch #57 from Three Rivers, Aug. 1/87 gives his correct name as Arthur
+                    Poitras.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

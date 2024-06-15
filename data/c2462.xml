@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2462" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Furth, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2461" type="prev"/>
+                <relatedItem target="c2463" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2462f1">
+                <graphic height="3634px" url="03276.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Furth, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03276</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2462">
+        <body>
+            <div corresp="#c2462f1">
+                <head>Fürth, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Gartenmann</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jel. Mar. 14, 1878.</cell>
+                        <cell>Removed Mar. 4, 1880.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick J. Huschman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Dec. 23, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Gartenmann</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mar. 30, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas A. Roberson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo. June 24, 1887.</cell>
+                        <cell>Died 1888.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick J. Hirschmann</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Aug. 15, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick J. Hirschmann</cell>
+                        <cell>Vice Con. Agt.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 8, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick J. Hirschmann</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 11, 1898.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate abolished July 1, 1898.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

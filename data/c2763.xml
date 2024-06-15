@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2763" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Libreville, Republic of Gabon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2762" type="prev"/>
+                <relatedItem target="c2764" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2763f1">
+                <graphic height="3634px" url="03651.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Libreville, Republic of Gabon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03651</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2763">
+        <body>
+            <div corresp="#c2763f1">
+                <head>LIBREVILLE, REPUBLIC OF GABON</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Bonn</cell>
+                        <cell>Walker A. Diamanti</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Mar. 20, 1961</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.<lb/>780 assigned to the Dept.,<lb/>9-29-63.<lb/>Also 2d
+                            Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Libreville</cell>
+                        <cell>Adolph W. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 7, 1962</cell>
+                        <cell/>
+                        <cell>750 asgd to the Dept., 9-27-64.<lb/>Also Counselor of Embassy
+                            and<lb/>Deputy Chief of Mission<lb/>750 assigned to the Dept.,
+                            10-10-65,</cell>
+                    </row>
+                    <row>
+                        <cell>1st Sec. Brussels (USEC)</cell>
+                        <cell>William F. Courtney</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To Bamako<lb/>as 2d Sec., 1-1-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Willis B. Collins, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>July 20, 1964</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. + Deputy Chief<lb/>of Mission</cell>
+                    </row>
+                    <row>
+                        <cell>Bujumbura</cell>
+                        <cell>Thompson R. Buchanan</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Prague</cell>
+                        <cell>Aloysius J. Warnecki</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

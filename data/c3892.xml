@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3892" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago de Los Caballeros, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3891" type="prev"/>
+                <relatedItem target="c3893" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3892f1">
+                <graphic height="3628px" url="05074.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santiago de Los Caballeros, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05074</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3892">
+        <body>
+            <div corresp="#c3892f1"/>
+        </body>
+    </text>
+</TEI>

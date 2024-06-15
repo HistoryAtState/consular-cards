@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0316" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kahului, Hawaii</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0315" type="prev"/>
+                <relatedItem target="c0317" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0316f1">
+                <graphic height="3638px" url="00438.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kahului, Hawaii</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00438</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0316">
+        <body>
+            <div corresp="#c0316f1">
+                <head>Kahului, Hawaii.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>August Frederie Hopke</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 20, 1880</cell>
+                        <cell>Resigned Oct. 1894. <lb/> Nov. 1894 to Aug. 12, 1898,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Almot Gray Dickins</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C. Jan 29, 1898,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>August 12, 1878.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Hawaii transferred to the U.S.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

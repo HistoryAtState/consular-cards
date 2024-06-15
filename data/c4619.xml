@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4619" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Buenos Aires, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4618" type="prev"/>
+                <relatedItem target="c4620" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4619f1">
+                <graphic height="3632px" url="06022.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenos Aires, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="9.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06022</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4619">
+        <body>
+            <div corresp="#c4619f1">
+                <head>BUENOS AIRES, Argentina</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>Edward V. Lindberg</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>May 3, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec. To San Salvador at Consul + 2d Sec. 8-3-64</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William P. Boswell</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Oct. 28, 1963 (commn. dated 2-3-64)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. V.C.</cell>
+                        <cell>William P. Boswell</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Sept. 2, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec. Also 1st Sec., 4-12-64. Do Cali as Consul,
+                            1-17-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>Calvin C. Berlin</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>April 13, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elmer E. Yelton</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Gen.</cell>
+                        <cell>Mar. 10, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Nat'l</cell>
+                        <cell>Charles A. Gendreau</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Consul</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec. Assigned To Dept 8-28-66 also Counselor of Emb. for
+                            Commercial &amp; Economic Affairs</cell>
+                    </row>
+                    <row>
+                        <cell>War Col.</cell>
+                        <cell>Albert P. Mayio</cell>
+                        <cell>FSO</cell>
+                        <cell>2 Cons.</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also Counselor of Emb. for Political Affairs.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Ellwood M. Rabenold, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>2Cons</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dijuana San Sal-vador</cell>
+                        <cell>Louis Villalovos</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>July 5, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also Counselor of Embassy and Deputy Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard J. Saccio</cell>
+                        <cell>FSO</cell>
+                        <cell>1 Cons.</cell>
+                        <cell>July 5, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>T. Elkin Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1581" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tiflis, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1580" type="prev"/>
+                <relatedItem target="c1582" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1581f1">
+                <graphic height="3622px" url="02111.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tiflis, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02111</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1581f2">
+                <graphic height="3622px" url="02112.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tiflis, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02112</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1581">
+        <body>
+            <div corresp="#c1581f1">
+                <head>Tiflis, Russia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Odessa</cell>
+                        <cell>Hooker A. Doolittle</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mohawk</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 19, 1917.</cell>
+                        <cell>Appt'd V.E. de corriere Class 3 <lb/> Sept. 7, 1920 and assigned to
+                            Tiflis</cell>
+                    </row>
+                    <row>
+                        <cell>Odessa</cell>
+                        <cell>Hooker A. Doolittle</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>(This appt canceled)</cell>
+                        <cell>Appt'd V.C., Odessa Jan. 18, 1919 <lb/> Did not go to Odessa <lb/>
+                            Returned to Tiflis under old comm.</cell>
+                    </row>
+                    <row>
+                        <cell>Odessa</cell>
+                        <cell>John Randolph</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 7, 1919</cell>
+                        <cell>Appt'd Consul, Class 7 Apr. 29, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Odessa</cell>
+                        <cell>Alfred S. Burri</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 7, 1919</cell>
+                        <cell>Appt'd V.C., Constantinople 7/21/1920</cell>
+                    </row>
+                </table>
+                <p>Closed in 1921.</p>
+            </div>
+            <div corresp="#c1581f2">
+                <head>Jiflias, Renasia.</head>
+                <p>Hooker A. Dolittle, V. C. took over the office from Consul Jenkins July 1,
+                    1919</p>
+                <p>Alfred P. Burri, V.C. was instructed May 16, 1920 by U.S. High Commr Bristol,
+                    Constantinople, to proceed to Sevastopol, Crimea and establish an office as
+                    Consul.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

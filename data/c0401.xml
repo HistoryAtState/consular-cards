@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0401" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Palma, Canary Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0400" type="prev"/>
+                <relatedItem target="c0402" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0401f1">
+                <graphic height="3632px" url="00552.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Palma, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1900</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00552</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0401">
+        <body>
+            <div corresp="#c0401f1">
+                <head>La Palma, Canary Islands, (see Palma)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Yaner</cell>
+                        <cell>Con. Agt. Spain</cell>
+                        <cell>La Palma</cell>
+                        <cell>La Palma</cell>
+                        <cell>Jan. 11, 1900.</cell>
+                        <cell>Sept. 12, 1899 to Closing<lb/>of Ageny</cell>
+                    </row>
+                </table>
+                <p>Ageny closed December 31, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

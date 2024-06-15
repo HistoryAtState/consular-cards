@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0709" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>New Orleans</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0708" type="prev"/>
+                <relatedItem target="c0710" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0709f1">
+                <graphic height="3636px" url="00967.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>New Orleans</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1797</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00967</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0709">
+        <body>
+            <div corresp="#c0709f1">
+                <head>New Orleans.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Procopio Jacinta Pollock</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1797 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Empson Hulinge</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Mar. 19, 1798 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Evan Jones</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell/>
+                        <cell>May 1, 1799 recess<lb/>Dec. 10, 1799 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Clark</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>New Orleans</cell>
+                        <cell/>
+                        <cell>July 16, 1801 recess<lb/>Jan. 26, 1802 Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

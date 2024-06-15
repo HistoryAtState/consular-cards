@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0975" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paraguay</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0974" type="prev"/>
+                <relatedItem target="c0976" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0975f1">
+                <graphic height="3640px" url="01304.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paraguay</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1844</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01304</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0975">
+        <body>
+            <div corresp="#c0975f1">
+                <head>Paraguay. (see Asuncion)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John M. Macpherson</cell>
+                        <cell>Coml. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Contotoe Miss.</cell>
+                        <cell>Feb. 20, 1844</cell>
+                        <cell>by Secy Declined.<lb/>Nov. 14? 1853 to Sept. 1854.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>Edward A. Hopkins</cell>
+                        <cell>Consul " "</cell>
+                        <cell/>
+                        <cell>Vt.</cell>
+                        <cell>Feb. 14, 1851</cell>
+                        <cell>Conf. Resigned Aug. 22, 1854.<lb/>Signatur withdrawn Sept. 1,
+                            1854.<lb/>Reported.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>† Hopkins was formerly Special Agent to Paraguay under President Polk (in 1846?)
+                    No records.</p>
+                <p>Klement Busebius Hopkins, of N.Y. (brother of Consul) in charge (absence of
+                    Consul) Dec. 27, 1853 to Feb. 11, 1854.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

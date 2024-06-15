@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0919" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Gall, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0918" type="prev"/>
+                <relatedItem target="c0920" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0919f1">
+                <graphic height="3642px" url="01230.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Gall, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01230</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0919f2">
+                <graphic height="3648px" url="01231.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Gall, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01231</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0919">
+        <body>
+            <div corresp="#c0919f1">
+                <head>St. Gall, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert J. De Zeyk</cell>
+                        <cell>Comil Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jowa</cell>
+                        <cell>Mar. 5, 1878</cell>
+                        <cell>1878,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emory P. Beauchamp</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell>Mar. 24, 1882</cell>
+                        <cell>Conf</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Staub</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell>May 9, 1885</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Staub</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell>May 14, 1886</cell>
+                        <cell>Conf. Resigned</cell>
+                        <cell>1888,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Robertson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Jan. 12, 1889</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel H. Byers</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Died in Los Angeles, Calif. May 25, 1933</cell>
+                        <cell>Jowa</cell>
+                        <cell>Feb 27, 1891</cell>
+                        <cell>Conf</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel H. M. Byers</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 16, 1892</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Irving B. Richman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jowa</cell>
+                        <cell>May 13, 1893</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Irving B. Richman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jowa</cell>
+                        <cell>Aug. 29, 1893</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James J. Du Bois</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Nov. 15, 1897</cell>
+                        <cell>recess</cell>
+                        <cell>Appt'd Law Clerk, Dept. State July 6, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James J. Du Bois</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 18, 1897</cell>
+                        <cell>Conf.</cell>
+                        <cell>Resigned in U.S. Mar. 14, 1908</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James I. M. Callum</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>July 6, 1901</cell>
+                        <cell>recess</cell>
+                        <cell>to take effect Apr. 29, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James I. M. Callum</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Dec. 9, 1901</cell>
+                        <cell>Conf.</cell>
+                        <cell>July, 1903 to May 14, 1907</cell>
+                    </row>
+                    <row>
+                        <cell>Reich-enberg</cell>
+                        <cell>Thomas Willing Peters</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 18, 1903</cell>
+                        <cell>Conf.</cell>
+                        <cell>to take effect Mar. 30, 1903</cell>
+                    </row>
+                    <row>
+                        <cell>Reich-enberg</cell>
+                        <cell>Thomas Willing Peters</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 30, 1907</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd C. L. Munich, Mar. 30, 1907</cell>
+                    </row>
+                    <row>
+                        <cell>Reich-enberg</cell>
+                        <cell>Silas O. McFarland</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jowa</cell>
+                        <cell>Dec. 10, 1907</cell>
+                        <cell>recess</cell>
+                        <cell>May 15, 1907 to Aug. 31, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell>Reich-enberg</cell>
+                        <cell>Silas O. McFarland</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jowa</cell>
+                        <cell>June 10, 1908</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd C. at Large 6/10/1908.</cell>
+                    </row>
+                    <row>
+                        <cell>Lucerne</cell>
+                        <cell>Robert C. Mansfield</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jowa</cell>
+                        <cell>Ind. Dec. 14, 1908</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd C. at Zurich 2/17/1909.</cell>
+                    </row>
+                    <row>
+                        <cell>Bordeaux</cell>
+                        <cell>Dominie J. Murphy</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa. D.C.</cell>
+                        <cell>Feb. 18, 1909</cell>
+                        <cell>Conf.</cell>
+                        <cell>Apr. 13, 1909 to Feb. 20, 1914.</cell>
+                    </row>
+                    <row>
+                        <cell>Nuremberg</cell>
+                        <cell>George N. Ifft</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa. Idaho</cell>
+                        <cell>Feb. 6, 1914</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd Consul Amsterdam 7/1/14</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George N. Ifft</cell>
+                        <cell>Con. 4</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa. Pa.</cell>
+                        <cell>July 12, 1916</cell>
+                        <cell>Conf.</cell>
+                        <cell>Apr. 1, 1914 to <lb/> see below</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George N. Ifft</cell>
+                        <cell>Con. 4</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa. Idaho</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Continued under appt ge. above to Aug. 4, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell>Coburg</cell>
+                        <cell>William J. Bike</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa. Pa.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Assigned to Stuttgart July 8, 1916</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Bike</cell>
+                        <cell>Con. 4</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 5, 1916 to <lb/> Assigned to Strasbourg Apr. 16, 1920</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0919f2">
+                <head>St. Gall, Switzerland</head>
+                <p>Ralph F. Cheshrough, Consul, Cl 8, detailed to St. Gall and assumed duties Dec.
+                    10, 1917</p>
+            </div>
+        </body>
+    </text>
+</TEI>

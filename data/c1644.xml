@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1644" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Turks Island, W.I.</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1643" type="prev"/>
+                <relatedItem target="c1645" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1644f1">
+                <graphic height="3622px" url="02197.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turks Island, W.I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02197</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1644">
+        <body>
+            <div corresp="#c1644f1">
+                <head>Turks Island, W.G.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J.R. Talbot</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 30, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Darrell</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 28, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Darrell</cell>
+                        <cell>Con. Aft</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct 14, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Darrell</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 7, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred A. Darrell</cell>
+                        <cell>Dep. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 2, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jeremiah D. Murphy</cell>
+                        <cell>V.D. " Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 3, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Stanley Jones</cell>
+                        <cell>Vice " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 9, 1895.</cell>
+                        <cell>(should be Walter Stantry Jones)</cell>
+                    </row>
+                    <row>
+                        <cell>Vice</cell>
+                        <cell><unclear>C</unclear>. W. Stanley Jones</cell>
+                        <cell>V.D. " Gr. Br. P. Dal. P. Dal.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 24, 1909.</cell>
+                        <cell>Appt'd V.D.C. Sept. 24, 1909, <lb/> Made Vice Consul by Act <lb/>
+                            approved Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>W. Stanley Jones</cell>
+                        <cell>Vice Con. " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>By Act of Feb 5, 1915.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate abolished July, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

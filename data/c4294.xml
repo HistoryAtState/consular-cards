@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4294" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vientiane, Kingdom of Laos</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4293" type="prev"/>
+                <relatedItem target="c4295" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4294f1">
+                <graphic height="3608px" url="05588.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vientiane, Kingdom of Laos</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05588</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4294">
+        <body>
+            <div corresp="#c4294f1">
+                <head>Vientiane Kingdom of Laos</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office Vientiane officially opened Aug. 22 1950</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel E. Peterson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 12, 1951</cell>
+                        <cell>Also V.C. Saigon &amp; V.C. Phnom Penh.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Saigon</cell>
+                        <cell>Theodore Kobrin</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn. Sept. 17, 1953</cell>
+                        <cell>also V.C. Saigon &amp; Phnom Penh</cell>
+                    </row>
+                    <row>
+                        <cell>Saigon</cell>
+                        <cell>Roger S. Darling</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill. July 8, 1954</cell>
+                        <cell>Fss. to the Dept.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roger L. Pierre</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 27, 1954</cell>
+                        <cell>Also V.C. Saigon &amp; Phnom Penh</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Wenzel</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. July 13, 1954</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

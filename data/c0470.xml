@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0470" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Limerick, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0469" type="prev"/>
+                <relatedItem target="c0471" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0470f1">
+                <graphic height="3640px" url="00642.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Limerick, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00642</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0470">
+        <body>
+            <div corresp="#c0470f1">
+                <head>Limerick, Ireland (for former records, see Northern Ireland)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Dublin</cell>
+                        <cell>Consulate established eff. May, 1946.<lb/>George M.
+                            Fuich<lb/>Consulate officially closed January 22, 1949</cell>
+                        <cell>F50</cell>
+                        <cell>6</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 20, 1947</cell>
+                        <cell>a/l. secy.<lb/>To Dublin as V.C./12-23-47</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

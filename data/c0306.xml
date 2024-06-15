@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0306" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jakarta, Java, Republic of the United States of Indonesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0305" type="prev"/>
+                <relatedItem target="c0307" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0306f1">
+                <graphic height="3640px" url="00424.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jakarta, Java, Republic of the United States of Indonesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00424</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0306">
+        <body>
+            <div corresp="#c0306f1">
+                <head>Jakarta, Java, Republic of the United States of Indonesia:</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See<lb/>"Batavia"<lb/>Card</cell>
+                        <cell>John A. Halley</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 28, 1949.</cell>
+                        <cell>entry transferred to "Sjakarta"<lb/>card</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert C. Cijauskar</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>December 22, 1949</cell>
+                        <cell>entry transferred to "Sjakarta"<lb/>card</cell>
+                    </row>
+                </table>
+                <p>For previous entries see Batavia, Java, Indonesia.</p>
+                <p>* see "ljakarta, Java, Republic of the Und of Indonesia</p>
+                <p>* change in spelling of name of capital of<lb/>Indonesia adopted by the
+                    Department Feb. 14, 1950</p>
+            </div>
+        </body>
+    </text>
+</TEI>

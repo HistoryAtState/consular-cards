@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0798" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quibdo, Columbia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0797" type="prev"/>
+                <relatedItem target="c0799" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0798f1">
+                <graphic height="3630px" url="01080.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Quibdo, Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1899</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01080</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0798f2">
+                <graphic height="3630px" url="01081.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Quibdo, Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01081</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0798">
+        <body>
+            <div corresp="#c0798f1">
+                <head>Quibdo Cor Citara) Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry G. Granger</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Feb. 11, 1899.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed Sept. 24, 1907.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Callao</cell>
+                        <cell>Louis G. Dreyfus Jr. (e.a)</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>Cal.</cell>
+                        <cell>Cal.</cell>
+                        <cell>July 5, 1913.</cell>
+                        <cell>Appt'd Vice Consul, Berlin 3/26/1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Brussells</cell>
+                        <cell>Charles Day Permith (C.f)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 26, 1914</cell>
+                        <cell>Did not proceed to Zurich</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency ordered closed Sept. 26, 1914; Closed Sept. 7, 1914</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0798f2">
+                <head>Quibdo, Colombia.</head>
+                <p>Frank E. Wilson, In charge of Agency</p>
+                <p>Luis Durier, in charge of archives, departures of Wilson) Sept. 17, 1914 to -
+                    early in the week of Oct, 27, 1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

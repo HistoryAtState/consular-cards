@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2137" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Crefeld, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2136" type="prev"/>
+                <relatedItem target="c2138" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2137f1">
+                <graphic height="3636px" url="02855.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Crefeld, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02855</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2137">
+        <body>
+            <div corresp="#c2137f1">
+                <head>Grefeld, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Glas-jow</cell>
+                        <cell>Bret Harte</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Cal.</cell>
+                        <cell>May 6, 1878</cell>
+                        <cell>July 18, 1878 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph S. Potter</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 16, 1880 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Evans Blake</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>July 20, 1889 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl Bailey Hurst</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Dec.</cell>
+                        <cell>16, 1889 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Jonas</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Sept. 23, 1893 Conf.</cell>
+                        <cell>To Prague Mar 22, 1895.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Victor Denster</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Wuer.</cell>
+                        <cell>Mar. 22, 1895 recess</cell>
+                        <cell/>
+                        <cell>Died Jan. 15, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julian Thelpe</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>llise.</cell>
+                        <cell>Feb. 19, 1896 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas R. Wallace</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>Oct. 15, 1897 recess</cell>
+                        <cell>Resigned May 17, 1901 to take effect Aug. 1, 1901.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>Dec. 18, 1897 Conf.</cell>
+                        <cell>to May 31, 1907</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>St. Chris-topher</cell>
+                        <cell>Joseph B. Haven</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>July 6, 1901 recess</cell>
+                        <cell>Apptd Cons. Jerusalem Mar. 30, 1907.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Dec.</cell>
+                        <cell>9, 1901 Conf.</cell>
+                        <cell>Oct. 16, 1907 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mar. 30, 1907 recess</cell>
+                        <cell>Dec. 10, 1907</cell>
+                        <cell>Apptd Cons. Roubaix 6/10/1908.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

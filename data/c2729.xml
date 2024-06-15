@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2729" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Ceiba, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2728" type="prev"/>
+                <relatedItem target="c2730" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2729f1">
+                <graphic height="3626px" url="03610.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Ceiba, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03610</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2729">
+        <body>
+            <div corresp="#c2729f1">
+                <head>La Ceiba, Honduras</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Acting Concular<lb/>Agent</cell>
+                        <cell>Loyal R. Baker</cell>
+                        <cell>Consular<lb/>Agent</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 8, 1949</cell>
+                        <cell>Died 9-7-53.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>San Pedro Sula</cell>
+                        <cell>Earl R. Michalka</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1949</cell>
+                        <cell>To Cali as V.C. 2-16-49</cell>
+                    </row>
+                    <row>
+                        <cell>Acting Cons.<lb/>Agent<lb/>La Ceiba</cell>
+                        <cell>Joseph F. Culotta</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 3, 1954</cell>
+                        <cell>Resigned for personal reasons<lb/>without prejudice eff COB
+                            5-31-58<lb/>Resigned Sept. 23, 1960</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William E. Martin</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 22, 1958</cell>
+                        <cell>Termination of appt<lb/>as Cons. Agt. COB 10-22-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leroy J. Stift</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 27, 1963</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

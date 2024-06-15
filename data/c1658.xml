@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1658" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1657" type="prev"/>
+                <relatedItem target="c1659" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1658f1">
+                <graphic height="3626px" url="02216.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valencia, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1888</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02216</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1658">
+        <body>
+            <div corresp="#c1658f1">
+                <head>Valencia, Venezuela.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. H. Grosewisch</cell>
+                        <cell>Con. Agt. Gen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 12, 1888.</cell>
+                        <cell>To Oct. 11, 1898,<lb/>Resigned Feb. 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Otto H. Becker</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1898.</cell>
+                        <cell>Oct. 12, 1898 to<lb/>Resigned June 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Silvio A. Braschi</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 25, 1902.</cell>
+                        <cell>Resigned June 1906.</cell>
+                    </row>
+                </table>
+                <p>Agency closed Aug 31, 1906. - Closed Sept. 27, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -10,7 +10,7 @@ declare option output:html-version "5";
 declare option output:media-type "text/html";
 
 let $title := "All Labels"
-let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
+let $cards-doc := collection("/db/apps/consular-cards/data")
 let $cards := $cards-doc//tei:surfaceGrp
 let $content :=
     <div class="container">

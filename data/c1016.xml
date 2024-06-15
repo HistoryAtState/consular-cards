@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1016" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peterborough, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1015" type="prev"/>
+                <relatedItem target="c1017" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1016f1">
+                <graphic height="3638px" url="01358.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peterborough, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01358</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1016">
+        <body>
+            <div corresp="#c1016f1">
+                <head>Peterborough, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>St. Thomas, <lb/> Ont</cell>
+                        <cell>Roland J Hemmick</cell>
+                        <cell>Consul Gen. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Ja. June 15, 1905.</cell>
+                        <cell>Apr. 3, 1905. <lb/> Resigned Apr. 10, 1906.</cell>
+                    </row>
+                </table>
+                <p>Agency Closed May 30, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

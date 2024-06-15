@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0127" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Augsburg, Bavaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0126" type="prev"/>
+                <relatedItem target="c0128" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0127f1">
+                <graphic height="3626px" url="00185.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Augsburg, Bavaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00185</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0127">
+        <body>
+            <div corresp="#c0127f1">
+                <head>Augsburg, Bavaria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max Obermayer</cell>
+                        <cell>Vice Con,</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Apr.26, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max Obermayer</cell>
+                        <cell>Con. A</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Aug. 4, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>G. Oberndorf</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ May 17, 1886.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

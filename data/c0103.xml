@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0103" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Apia, Samoa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0102" type="prev"/>
+                <relatedItem target="c0104" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0103f1">
+                <graphic height="3632px" url="00151.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Apia, Samoa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00151</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0103">
+        <body>
+            <div corresp="#c0103f1">
+                <head>Apia, Samoa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Saloniki</cell>
+                        <cell>Quincy F. Roberts</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>2</cell>
+                        <cell>2/24/1920</cell>
+                        <cell>Tex. July 8, 1920.</cell>
+                        <cell>Appt'd F.S.O., Unclassified July 1, 1924.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Quincy F. Roberts</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Une</cell>
+                        <cell>Tex.</cell>
+                        <cell>Continued under assignment of July 8, 1920.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Office ordered, closed June 6, 1927; closed Sept. 28, 1927.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

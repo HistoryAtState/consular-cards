@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1203" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sandwich Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1202" type="prev"/>
+                <relatedItem target="c1204" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1203f1">
+                <graphic height="3634px" url="01602.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sandwich Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1820</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01602</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1203">
+        <body>
+            <div corresp="#c1203f1">
+                <head>Sandwich Islands, (see Honolulu &amp; Hawaii)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John C. Jones Jr.<lb/>Joel Turrill</cell>
+                        <cell>Agt. for Com. &amp;<lb/>Beamen U.S.<lb/>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. Sept. 19, 1820 by Secy<lb/>July 1, 1845 rec'd<lb/>Feb. 24, 1846
+                            Conf.</cell>
+                        <cell>Kahului,<lb/>Makulcona</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

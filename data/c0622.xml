@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0622" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montserrat, West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0621" type="prev"/>
+                <relatedItem target="c0623" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0622f1">
+                <graphic height="3634px" url="00844.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Montserrat, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00844</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0622f2">
+                <graphic height="3634px" url="00845.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Montserrat, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1831</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00845</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0622">
+        <body>
+            <div corresp="#c0622f1">
+                <head>Montserrat, West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Collins Bryce</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell>Scotland Montserrat</cell>
+                        <cell/>
+                        <cell>Nov. 18, 1881.</cell>
+                        <cell>Jan. 17, 1882 to Mar. 27, 1883. <lb/> Died Apr. 4, 1883.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Hannam</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 6, 1884.</cell>
+                        <cell>Aug. 5, 1884 to <lb/> Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Driver</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 14, 1901.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 31, 1906.</p>
+            </div>
+            <div corresp="#c0622f2">
+                <head>Montserrat, West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell>John P. Trott</cell>
+                        <cell>Actg Agent (appt by Consul at Antigua)</cell>
+                        <cell>Apr. 1881?</cell>
+                        <cell>to June 1883 Resigned</cell>
+                    </row>
+                    <row>
+                        <cell>William A. Thurman</cell>
+                        <cell>Actg Agt - (absence of Agent)</cell>
+                        <cell>Mar. 27, 1883</cell>
+                        <cell>to June 1883</cell>
+                    </row>
+                    <row>
+                        <cell>Thomas Arnot</cell>
+                        <cell>" "</cell>
+                        <cell>June 1883</cell>
+                        <cell>to June 1884.</cell>
+                    </row>
+                    <row>
+                        <cell>William West</cell>
+                        <cell>" "</cell>
+                        <cell>June 1884</cell>
+                        <cell>to Dec. 4, 1884.</cell>
+                    </row>
+                    <row>
+                        <cell>John Cox Collins</cell>
+                        <cell>" "</cell>
+                        <cell>(absence of Agt)</cell>
+                        <cell>July 1888 to</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

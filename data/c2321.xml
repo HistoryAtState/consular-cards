@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2321" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guben, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2320" type="prev"/>
+                <relatedItem target="c2322" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2321f1">
+                <graphic height="3626px" url="03091.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guben, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03091</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2321">
+        <body>
+            <div corresp="#c2321f1">
+                <head>Guben, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Bremer-<lb/>haven,<lb/>Seesti-<lb/>mnnde</cell>
+                        <cell>Wilhelm Sempe</cell>
+                        <cell>Con. Agh Ger</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Aug. 8, 1890.</cell>
+                        <cell>Sept. 1890 to Oct. 30, 1893.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William C. Dreher</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>So. Car.</cell>
+                        <cell>Sept. 9, 1893.</cell>
+                        <cell>Oct. 31, 1893 to Oct. 1, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William B. Murphy</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>No. Car.</cell>
+                        <cell>Sept. 23, 1897.</cell>
+                        <cell>Oct. 2, 1897 to Sept. 30, 1898.<lb/>To Soran</cell>
+                    </row>
+                </table>
+                <p>Agenby closed Sept. 30, 1898.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

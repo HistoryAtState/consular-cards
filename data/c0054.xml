@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0054" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Altata, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0053" type="prev"/>
+                <relatedItem target="c0055" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0054f1">
+                <graphic height="3628px" url="00079.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Altata, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00079</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0054">
+        <body>
+            <div corresp="#c0054f1">
+                <head>Altata, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Norman</cell>
+                        <cell>Con. Agt</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mar. 22, 1882</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hernando Diaz Peña</cell>
+                        <cell>" "</cell>
+                        <cell>" U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 14, 1882</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.S. Rising</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Feb. 8, 1886</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

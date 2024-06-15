@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2107" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cordoba, Argentine Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2106" type="prev"/>
+                <relatedItem target="c2108" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2107f1">
+                <graphic height="3634px" url="02815.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cordoba, Argentine Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02815</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2107">
+        <body>
+            <div corresp="#c2107f1">
+                <head>Cordoba, Argentine Republic.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry J. Zimmerman</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 1, 1871 Conf.</cell>
+                        <cell>Resigned Oct. 22, 1873</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>B.W. Green</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 15, 1876 Conf</cell>
+                        <cell>Resigned Dec. 1880.</cell>
+                    </row>
+                </table>
+                <p>Closed April 12, 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0450" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lemberg, Galicias</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0449" type="prev"/>
+                <relatedItem target="c0451" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0450f1">
+                <graphic height="3634px" url="00616.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lemberg, Galicias</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00616</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0450">
+        <body>
+            <div corresp="#c0450f1">
+                <head>Lemberg, Galicia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>sretail<lb/>Brussels</cell>
+                        <cell>J. Preston Doughten</cell>
+                        <cell>Con. 6</cell>
+                        <cell>9/5/1919.</cell>
+                        <cell>Del.</cell>
+                        <cell>Del.</cell>
+                        <cell>Date of assignment.<lb/>(Arrived 6-24-20)</cell>
+                        <cell>May 26, 1920.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

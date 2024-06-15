@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4900" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Florence, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4899" type="prev"/>
+                <relatedItem target="c4901" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4900f1">
+                <graphic height="3628px" url="06368.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Florence, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06368</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4900">
+        <body>
+            <div corresp="#c4900f1">
+                <head>FLORENCE, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Frances E. Coughlin</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 5, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>Also Consul for San Marino. To Barcelona as Cons. 9-12-66 <lb/> Also
+                            Consul for San Marino 7-4-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard L. Springer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>March 18, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. <lb/> Florence</cell>
+                        <cell>Harold E. Horan</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                        <cell>Also Cons. Gen. for San Marino</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph C. Wheeler</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Gen.</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>Also Consul for San Marino.</cell>
+                    </row>
+                    <row>
+                        <cell>Turin</cell>
+                        <cell>Mrs. Lucy N. Johansen</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

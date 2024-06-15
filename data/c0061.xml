@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0061" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amherstburg, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0060" type="prev"/>
+                <relatedItem target="c0062" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0061f1">
+                <graphic height="3630px" url="00088.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amherstburg, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00088</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0061f2">
+                <graphic height="3630px" url="00089.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amherstburg, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00089</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0061">
+        <body>
+            <div corresp="#c0061f1">
+                <head>Amherstburg, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Templeton</cell>
+                        <cell>Con. Agt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 20, 1866</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles N. Scott</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 9, 1874</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert James Scott</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Bapter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Octo. 11, 1876</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leander St. Burnett</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mich.</cell>
+                        <cell/>
+                        <cell>Jan. 28, 1879.</cell>
+                        <cell>to Apr. 30, 1882.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William D. Tolland</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 5, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Johneten</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 26, 1883,</cell>
+                        <cell>Died March 1888</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Septimus S. Rolfage</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Amperst.<lb/>burg.</cell>
+                        <cell/>
+                        <cell>June 5, 1888,</cell>
+                        <cell>to Nov, 1891?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. M. Florey</cell>
+                        <cell>V.D. Con.</cell>
+                        <cell/>
+                        <cell>Amperst.<lb/>burg</cell>
+                        <cell/>
+                        <cell>Dec. 19, 1891.</cell>
+                        <cell>Resigned June 29, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franklin A. Strugh</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Canada</cell>
+                        <cell/>
+                        <cell>June 8, 1897.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed June 30, 1906.</p>
+            </div>
+            <div corresp="#c0061f2">
+                <head>Amhersthing, Ontario.</head>
+                <p>Arr. Johnston V. C. incharge (absence of Consul) June 4 to June 18, 1885</p>
+                <p>Consul absent Jan. 8 to 23, 1891?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

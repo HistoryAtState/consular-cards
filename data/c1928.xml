@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1928" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Boulogne, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1927" type="prev"/>
+                <relatedItem target="c1929" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1928f1">
+                <graphic height="3636px" url="02584.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Boulogne, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02584</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1928">
+        <body>
+            <div corresp="#c1928f1">
+                <head>Boulogne, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles V. Dyer</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Jan. 18, 1865</cell>
+                        <cell>Conf.</cell>
+                        <cell>Jan. 18, 1865</cell>
+                        <cell>No despatches.</cell>
+                    </row>
+                    <row>
+                        <cell>Nantes</cell>
+                        <cell>John de la Montagnie (Dr.)</cell>
+                        <cell/>
+                        <cell>New York</cell>
+                        <cell>Sept. 23, 1865</cell>
+                        <cell>Conf.</cell>
+                        <cell>Sept. 23, 1865</cell>
+                        <cell>reeds May 11, 1866 to Oct. 27, 1873</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Trager</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 16, 1866</cell>
+                        <cell>Conf.</cell>
+                        <cell>Feb. 16, 1866</cell>
+                        <cell>Suspended July 22, 1873.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>New Orleans</cell>
+                        <cell>July 22, 1873</cell>
+                        <cell/>
+                        <cell>July 22, 1873</cell>
+                        <cell>reeds, Nov. 24, 1873 to July 1, 1874.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell>May 20, 1874</cell>
+                        <cell>Conf.</cell>
+                        <cell>May 20, 1874</cell>
+                        <cell>Office abolished</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>GRADE, CLASS</cell>
+                        <cell>DATE</cell>
+                        <cell>Rank and Appt. Class</cell>
+                        <cell>Date of Rank</cell>
+                        <cell>Date of assignment</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>5/23/1929</cell>
+                        <cell>Mass. May 23, 1929.</cell>
+                        <cell>Assigned to Warsaw, May 28, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Okla. May 28, 1929.</cell>
+                        <cell>Apptd. F.S.O. Class 6, May 9, 1930.<lb/>Jan. 1, 1931 to<lb/>Assigned
+                            to Stavanger June 10, 1932</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Do</cell>
+                        <cell>5/9/1930</cell>
+                        <cell>Okla. Do</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed (FA Memo. 6/9/32); archives of records to Calais.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

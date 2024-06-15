@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1712" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vlaardingen, Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1711" type="prev"/>
+                <relatedItem target="c1713" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1712f1">
+                <graphic height="3628px" url="02284.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vlaardingen, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02284</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1712">
+        <body>
+            <div corresp="#c1712f1">
+                <head>Vlaardingen, Netherlands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Prins<lb/>W. H. C. Jansen</cell>
+                        <cell>Con. Agt.<lb/>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>*Sept. 25, 1866.<lb/>July 1, 1870,</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

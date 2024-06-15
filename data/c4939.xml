@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4939" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freiburg, Baden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4938" type="prev"/>
+                <relatedItem target="c4940" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4939f1">
+                <graphic height="3620px" url="06412.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Freiburg, Baden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06412</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4939">
+        <body>
+            <div corresp="#c4939f1">
+                <head>Freiburg, Baden.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.G. Johnson</cell>
+                        <cell>Con. Agh U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>See.</cell>
+                        <cell>Mar. 5, 1891.</cell>
+                        <cell>to Oct. 1892. <lb/> Dismissed Sept. 28, 1892. <lb/> to Apr. 12,
+                            1895</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix S. S. Johnson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 28, 1891</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilhelm Strigmeyer</cell>
+                        <cell>Coml Agh. Swiz</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 2, 1894</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Conrad</cell>
+                        <cell>U.S.D.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 26, 1896</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bernard Thiel</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>June 6, 1898</cell>
+                        <cell>Resigned <lb/> Appt'd V.C. at Kehl <lb/> Sept. 1, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin F. Liefeld</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Jan. 3, 1899.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mainz</cell>
+                        <cell>Walter C. Schneider</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>See.</cell>
+                        <cell>May 19, 1906.</cell>
+                        <cell>Resigned Apr. 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter A. Leonard</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>See.</cell>
+                        <cell>Aug. 2, 1907.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

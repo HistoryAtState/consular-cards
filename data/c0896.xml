@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0896" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sabanilla, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0895" type="prev"/>
+                <relatedItem target="c0897" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0896f1">
+                <graphic height="3632px" url="01202.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sabanilla, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1874</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01202</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0896f2">
+                <graphic height="3630px" url="01203.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sabanilla, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01203</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0896">
+        <body>
+            <div corresp="#c0896f1">
+                <head>Labanilla, Colombia. (see Barranquilla)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank P. Tiffany</cell>
+                        <cell>U. Com'l Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 29, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Christopher Hoyet</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 9, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Conn, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 6, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>G.D. Howell</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>Oct. 13, 1882.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office changed to Barranquilla March 20, 1883.</p>
+            </div>
+            <div corresp="#c0896f2">
+                <head>Sabanilla, Colombia.</head>
+                <p>E.W.J. Smith (Cons. at Cartagena) in charge Dec. 1, 1882 to Mar. 20,
+                    1883.<lb/>(office changed to Barranquilla.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

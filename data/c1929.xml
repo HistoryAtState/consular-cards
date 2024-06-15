@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1929" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Boulogne-Sur-Mer, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1928" type="prev"/>
+                <relatedItem target="c1930" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1929f1">
+                <graphic height="3632px" url="02585.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Boulogne-Sur-Mer, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02585</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1929">
+        <body>
+            <div corresp="#c1929f1">
+                <head>Boulogne sur mer, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>Madras</cell>
+                        <cell>William le. Corcoran</cell>
+                        <cell>V.C.de carrière</cell>
+                        <cell>3</cell>
+                        <cell>5/24, 1920</cell>
+                        <cell>Mass.</cell>
+                        <cell>May 14. 1921</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>William W. Corcoran</cell>
+                        <cell/>
+                        <cell>2</cell>
+                        <cell>11/17/1921</cell>
+                        <cell>Mass</cell>
+                        <cell>Do</cell>
+                    </row>
+                </table>
+                <p>See above William W. Corcoran F.B.O. Une. 7/1/1924 R. Mass. Continued under
+                    assignment of May 14, 1921.</p>
+                <p>Office closed ; archives and records to Calais</p>
+                <p>Appt'd V. C. de carrière Class 2 Nov. 17. 1921</p>
+                <p>Appt'd F.B.O., Unclassified, July 1, 1924.</p>
+                <p>Appt'd F.B.O. Class 8, vice Consul, May 23, 1929, and assigned to
+                    Boulogne-sur-Mer, May 23, 1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

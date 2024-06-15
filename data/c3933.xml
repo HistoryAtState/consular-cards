@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3933" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Seoul, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3932" type="prev"/>
+                <relatedItem target="c3934" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3933f1">
+                <graphic height="3628px" url="05128.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Seoul, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05128</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3933">
+        <body>
+            <div corresp="#c3933f1">
+                <head>SEOUL, Korea</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Seoul</cell>
+                        <cell>Leroy E. Debold, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Quito</cell>
+                        <cell>Thomas K. Shields</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. For Econ. Affairs</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

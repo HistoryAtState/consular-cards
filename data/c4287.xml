@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4287" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vientiane, Kingdom of Laos</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4286" type="prev"/>
+                <relatedItem target="c4288" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4287f1">
+                <graphic height="3634px" url="05580.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vientiane, Kingdom of Laos</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05580</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4287">
+        <body>
+            <div corresp="#c4287f1">
+                <head>VIENTIANE, Kingdom of Laos</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Nat'l War College Wash, DC.</cell>
+                        <cell>Emory C. Swank</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 20, 1964</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. + Deputy Chief of Mission. Designated Consul
+                            General, Vientiane 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Bangkok</cell>
+                        <cell>Thomas J. Barnes</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Vientiane</cell>
+                        <cell>Nicholas G. W. Thorne</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. + Deputy Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Vientiane</cell>
+                        <cell>Emory C. Swank</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Vientiane</cell>
+                        <cell>Elwood J. McGuire</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

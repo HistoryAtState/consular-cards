@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5925" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5924" type="prev"/>
+                <relatedItem target="c5926" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5925f1">
+                <graphic height="3634px" url="07763.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1934</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07763</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5925f2">
+                <graphic height="3634px" url="07764.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07764</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5925">
+        <body>
+            <div corresp="#c5925f1">
+                <head>China (Nanking Office)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>WHENCE APPTD</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Cou. Shanghai</cell>
+                        <cell>John S. Service</cell>
+                        <cell>(see back)</cell>
+                        <cell>J.8.0.</cell>
+                        <cell>8</cell>
+                        <cell>11-16-39R</cell>
+                        <cell>April 18, 1941-</cell>
+                        <cell>3rd Sec.</cell>
+                        <cell>To Chungking on in Sect.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul at Shanghai</cell>
+                        <cell>Oliver Edmund Clubb</cell>
+                        <cell>"</cell>
+                        <cell>6</cell>
+                        <cell>1-13-40R</cell>
+                        <cell>Ohio</cell>
+                        <cell>Temporarily assigned to Shanghai; also 2nd Sect. Nanking</cell>
+                        <cell>2nd. Sect.</cell>
+                        <cell>To Dept. JState 8-19-40</cell>
+                    </row>
+                    <row>
+                        <cell>Nanking</cell>
+                        <cell>Everett F. Drumright</cell>
+                        <cell>"</cell>
+                        <cell>8</cell>
+                        <cell>8-17-38</cell>
+                        <cell>"</cell>
+                        <cell>Okla. March 25, 1938</cell>
+                        <cell>3rd Sect.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 7</cell>
+                        <cell>Everett F. Drumright</cell>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>4-22-34</cell>
+                        <cell>"</cell>
+                        <cell>June 20, 1939</cell>
+                        <cell>2nd Sect. Consul Shanghai</cell>
+                        <cell>11-10-41</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>John Carter Vincent</cell>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>6-8-39</cell>
+                        <cell>"</cell>
+                        <cell>June 3, 1941</cell>
+                        <cell>1st. Sect. appt's F.S.O. 3 2-1-42c</cell>
+                        <cell>Counsel of Embassy; assigned to Chungking</cell>
+                    </row>
+                    <row>
+                        <cell>v.e. Shanghai</cell>
+                        <cell>Bores C. Hart, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>4-1-39</cell>
+                        <cell>"</cell>
+                        <cell>Conn. Sept. 6, 1941</cell>
+                        <cell>3rd Sect. permanent. 7-1-42</cell>
+                        <cell>detailed to Chungking 7-1-42 U.C. Running, China</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>11-16-39R</cell>
+                        <cell/>
+                        <cell>Dec. 1, 1941</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office Closed Dec. 1, 1941</p>
+            </div>
+            <div corresp="#c5925f2">
+                <head>John S. Service Class 8 U.C. at Shanghai, was designated 3rd Sect. Ranking and
+                    detailed in that capacity to Chungking temporarily. He retained his designation
+                    as V.E. at Shanghai (memo. # 702, dated April 18, 1941).</head>
+            </div>
+        </body>
+    </text>
+</TEI>

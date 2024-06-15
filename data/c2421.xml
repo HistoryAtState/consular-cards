@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2421" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fortaleza, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2420" type="prev"/>
+                <relatedItem target="c2422" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2421f1">
+                <graphic height="3632px" url="03225.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fortaleza, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03225</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2421">
+        <body>
+            <div corresp="#c2421f1">
+                <head>Fortaleza, Brazil:</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Preston Rambo</cell>
+                        <cell>V. Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>-</cell>
+                        <cell>Flouda</cell>
+                        <cell>Nov. 28, 1940.</cell>
+                        <cell>2. Florianópolis<lb/>12-16-42</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Pará</cell>
+                        <cell>Dudley E. Cyphers</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Comn.</cell>
+                        <cell>June 2, 1943</cell>
+                        <cell>To Toronto as D. C. June 19, 1944.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1943</cell>
+                        <cell>American Vice Consulate roised to Consulate</cell>
+                    </row>
+                    <row>
+                        <cell>VICE CONSUL<lb/>NATAL</cell>
+                        <cell>George J. Colman</cell>
+                        <cell>Cancelled Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>4.9. April 7, 1947</cell>
+                        <cell/>
+                        <cell>To Belgrade as VC 3653</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Natal</cell>
+                        <cell>Richard A. Godfrey</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ky June 21, 1947</cell>
+                        <cell/>
+                        <cell>To Habana as V.C. 9-7-50</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Santos</cell>
+                        <cell>Luther A. Thomas, 2d</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 12, 1950</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 30, 1953</cell>
+                        <cell>Closed to the public</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>August 15, 1953</cell>
+                        <cell>Officially closed</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

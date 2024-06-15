@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2183" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Denia, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2182" type="prev"/>
+                <relatedItem target="c2184" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2183f1">
+                <graphic height="3634px" url="02911.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Denia, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1852</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02911</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2183">
+        <body>
+            <div corresp="#c2183f1">
+                <head>Denia, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Morand</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 11/852 Conf.</cell>
+                        <cell>Died</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Morand</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 10, 1872 Conf.</cell>
+                        <cell>Died</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John D. Arzuimban</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Apr 30, 1879 Conf.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar Malmros</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>Oct 1, 1890 Conf.</cell>
+                        <cell>Resigned July 1892.<lb/>to Feb. 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ransom F. McCrillis</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 29, 1892 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry R.D. Mac Iver</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 14, 1893 Conf.</cell>
+                        <cell>Resigned Apr. 1895.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew F. Fay</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Jan. 9, 1896 Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate erased to exist June 30, 1898.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

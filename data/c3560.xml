@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3560" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pretoria, Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3559" type="prev"/>
+                <relatedItem target="c3561" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3560f1">
+                <graphic height="3626px" url="04653.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pretoria, Republic of South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04653</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3560">
+        <body>
+            <div corresp="#c3560f1"/>
+        </body>
+    </text>
+</TEI>

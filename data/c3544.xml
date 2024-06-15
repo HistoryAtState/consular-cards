@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3544" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prague, Bohemia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3543" type="prev"/>
+                <relatedItem target="c3545" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3544f1">
+                <graphic height="3608px" url="04635.tif" width="6056px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Prague, Bohemia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04635</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3544">
+        <body>
+            <div corresp="#c3544f1">
+                <head>Prague, Bohemia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Praha, Czecho.</cell>
+                        <cell>Irving N. Linnell</cell>
+                        <cell>8.A.0.</cell>
+                        <cell>2</cell>
+                        <cell>12-17-31</cell>
+                        <cell>Con. Sen.</cell>
+                        <cell>Mans.</cell>
+                        <cell>May 26, 1939</cell>
+                        <cell>Assgd. Dept. State, Aug. 26/40</cell>
+                    </row>
+                    <row>
+                        <cell>2d. Secy of <lb/> Reg. Prague</cell>
+                        <cell>George F. Kennan</cell>
+                        <cell>Do</cell>
+                        <cell>5</cell>
+                        <cell>7-1-31</cell>
+                        <cell>4-30-27</cell>
+                        <cell>Mans.</cell>
+                        <cell>June 28, 1939</cell>
+                        <cell>Assgd. as 2d Secy of Eur. Berlin, <lb/> Sep. 17, 1939</cell>
+                    </row>
+                    <row>
+                        <cell>Mexico</cell>
+                        <cell>Joseph F. Burt</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>1-5-38</cell>
+                        <cell>Consul</cell>
+                        <cell>Hese.</cell>
+                        <cell>Apr. 27, 1940.</cell>
+                        <cell>assignment Cancelled.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 14, 1940.</p>
+                <p>Name changed to Praha, Czechoslovakia.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

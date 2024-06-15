@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0036" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alberton, Prince Edward Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0035" type="prev"/>
+                <relatedItem target="c0037" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0036f1">
+                <graphic height="3638px" url="00053.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Alberton, Prince Edward Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00053</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0036">
+        <body>
+            <div corresp="#c0036f1">
+                <head>Alberton, Prince Edward Island.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George St. Howlan</cell>
+                        <cell>Conn. Azt</cell>
+                        <cell>Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Octo. 9, 1883</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander McLeod</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 23, 1888</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert Glidden</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Me, May 22, 1891</cell>
+                        <cell>Died Octo 26, 1906.</cell>
+                    </row>
+                </table>
+                <p>Office closed Jan. 1, 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1286" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chaudiere Junction, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1285" type="prev"/>
+                <relatedItem target="c1287" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1286f1">
+                <graphic height="3620px" url="01710.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chaudiere Junction, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1901</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01710</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1286">
+        <body>
+            <div corresp="#c1286f1">
+                <head>Chandiere Junction, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph E. Fonthier</cell>
+                        <cell>Vice Deputy <lb/> Consl Agent</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>St. Br.</unclear></cell>
+                        <cell/>
+                        <cell>Dec. 18, 1901</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed May 1, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

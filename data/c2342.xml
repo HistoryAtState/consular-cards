@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2342" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guayama, Porto Rico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2341" type="prev"/>
+                <relatedItem target="c2343" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2342f1">
+                <graphic height="3638px" url="03119.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guayama, Porto Rico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03119</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2342">
+        <body>
+            <div corresp="#c2342f1">
+                <head>Guayama, Porto Rico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene M. Verger</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 2, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur McCormick</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 3, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. O. Mc Cormick</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sr. Br.</cell>
+                        <cell>Nov. 22, 1890.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5978" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Czechoslovak Socialist Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5977" type="prev"/>
+                <relatedItem target="c5979" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5978f1">
+                <graphic height="3610px" url="07833.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Czechoslovak Socialist Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="9.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07833</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5978">
+        <body>
+            <div corresp="#c5978f1">
+                <head>Diplomatic 9.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Prague</cell>
+                        <cell>Edward West Burgess</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Oct. 9, 1966</cell>
+                        <cell/>
+                        <cell>Couns. of Emb.</cell>
+                        <cell>Also Consul &amp; Deputy Chief of Mission</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0431" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leeds, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0430" type="prev"/>
+                <relatedItem target="c0432" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0431f1">
+                <graphic height="3632px" url="00588.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leeds, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00588</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0431f2">
+                <graphic height="3632px" url="00589.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leeds, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00589</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0431">
+        <body>
+            <div corresp="#c0431f1">
+                <head>Leeds, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk at Glasgow</cell>
+                        <cell>Kenneth R. Snow</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>July 12, 1921</cell>
+                        <cell>Resigned effective Aug. 10, 1922. <lb/> Did not go to Leeds <lb/>
+                            Resigned as vice consul at Naples <lb/> in Wash. D.C. effective close of
+                            Sep 9, '22</cell>
+                    </row>
+                    <row>
+                        <cell>Naples</cell>
+                        <cell>Jackson C. Lusby</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>Md.</cell>
+                        <cell>Aug. 10, 1922</cell>
+                        <cell>Left Dec. 21, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>John F. Claffey</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Sept. 1, 1922.</cell>
+                        <cell>Appt'd V.C. London Dec. 22, 1922. <lb/> Did not go to Leeds</cell>
+                    </row>
+                    <row>
+                        <cell>Breslau</cell>
+                        <cell>William E. Holland</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Apr. 28, 1923.</cell>
+                        <cell>Resigned as V.C. Breslau 6/12/1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Man-chester</cell>
+                        <cell>John Shelton Williams Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>July 18, 1923.</cell>
+                        <cell>Resigned Apr. 23 effective 4/27/1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Hull</cell>
+                        <cell>Albert W. Scott</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Aug. 9, 1926.</cell>
+                        <cell>Appt'd V.C. Hull Sept. 8, 1926.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Clerk. Consulate</cell>
+                        <cell>Walter A. Thomas</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Jan. 28, 1927</cell>
+                        <cell>Appt'd V.C. Hull Mar. 31, 1928.</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Mar. 16, 1928.</p>
+            </div>
+            <div corresp="#c0431f2">
+                <head>Leeds, England.</head>
+                <p>John Shelton Williams, jr., V. C. took over the office from</p>
+                <p>and turned it over to Consul Cells 8/4/25.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

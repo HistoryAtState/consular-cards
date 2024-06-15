@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0105" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Archangel, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0104" type="prev"/>
+                <relatedItem target="c0106" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0105f1">
+                <graphic height="3632px" url="00154.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Archangel, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1811</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00154</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0105f2">
+                <graphic height="3632px" url="00155.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Archangel, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1833</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00155</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0105">
+        <body>
+            <div corresp="#c0105f1">
+                <head>Archangel under Russian</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Hazard</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Mar. 3, 1811</cell>
+                        <cell>Conf.</cell>
+                        <cell>Aug. 7, 1811 to Nov. 30,1814 <lb/> Appt'd Con. Antwerp Sept? 1814
+                            <lb/> Nov. 27, 1833 to <lb/> ftatout 1860.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edmund Brandt</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Archangel</cell>
+                        <cell>June 21, 1832</cell>
+                        <cell>Conf.</cell>
+                        <cell>Res. Nov. 6, 1880</cell>
+                    </row>
+                </table>
+                <p>Ordered closed April 13, 1894. Archives to St. Petersburg, March, 1901.</p>
+                <p>According to Registers of the Dept. of State, no office at Archangel,
+                    1881-1888?</p>
+            </div>
+            <div corresp="#c0105f2">
+                <head>Archangel</head>
+                <p>Wm Brandt, Jr. (brother of Consul) acted as Consul (absence of Consul) Dec. 1833?
+                    to 1836?</p>
+                <p>Edw Brandt signs for the Consul (no despatches 1836-1841) Jan. 1841 to Jan.
+                    1848.</p>
+                <p>George Mallison signs for Consul Brandt as Secretary Jan. 1849 to Dec. 1850.</p>
+                <p>Charles Brandt " " Edmund " " (no despatches 1850 to 1853) Apr. 1853 to Jan.
+                    1856.</p>
+                <p>R. Finch " " " " in despatch dated March 1857</p>
+                <p>E.H. Brandt " " " " Jan. 1858 to Jan. 1859.</p>
+                <p>Charles Brandt " " " " despatch dated Jan. 1860.</p>
+                <p>E.H. Brandt " " " " Jan. 1861 (last despatch)</p>
+                <p>R. Lindes writes as Consul - Oct. 1889.</p>
+                <p>Ferd Lindes declines to give bond - March 13, 1894 - last despatch</p>
+                <p>Shelby P. Strother, Consul, Cl 8, was detailed to Archangel and arrived there
+                    Aug. 9, 1919; detailed to Helsingfors Apr. 15, 1919; turned office over to
+                    Consul Strother May 15, 1919.</p>
+                <p>Leald A. Davis, from Hartford, Conn., appointed V.C. at Archangel Oct. 4, 1917,
+                    and promoted to Consul Feb. 19, 1918 (<unclear>Consulate closed Sept. 13,
+                        1919</unclear>).</p>
+                <p>Felix Cole, who was appointed U.S.C. at Archangel Oct. 4, 1917, took over the
+                    office from Consul Davis Dec. 31, 1918, and ordered Aug. 6, 1919 to return to
+                    U.S.A. Left 9/14/1919.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

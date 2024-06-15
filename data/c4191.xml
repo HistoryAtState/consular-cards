@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4191" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trieste, Province of Trieste</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4190" type="prev"/>
+                <relatedItem target="c4192" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4191f1">
+                <graphic height="3610px" url="05455.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trieste, Province of Trieste</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05455</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4191">
+        <body>
+            <div corresp="#c4191f1">
+                <head>TRIESTE, Province of Trieste</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Samuel Edwin Fry, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 24, 1961</cell>
+                        <cell>FSO assigned to the Dept., 9-1-63</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Douglas R. Perry</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 30, 1961</cell>
+                        <cell>Designated Consul, Trieste, 3-1-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Joseph T. O'Brien</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 16, 1963</cell>
+                        <cell>FSO assigned to the Dept, 11-7-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald K. Parsons</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Palermo</cell>
+                        <cell>Walter Frederick Weiss</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

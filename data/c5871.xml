@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5871" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Transjordan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5870" type="prev"/>
+                <relatedItem target="c5872" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5871f1">
+                <graphic height="3620px" url="07683.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Transjordan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07683</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5871">
+        <body>
+            <div corresp="#c5871f1">
+                <head>Transjordan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPT. TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                    </row>
+                    <row>
+                        <cell>Dept</cell>
+                        <cell>A. David Fritzlan</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Zy.</cell>
+                        <cell>April 8, 1949</cell>
+                        <cell>2d Secy. Also V.C. name transferred to Hashemite Jordan Kingdom
+                            card</cell>
+                    </row>
+                    <row>
+                        <cell>Jerusalem</cell>
+                        <cell>Wells Stabler</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 19, 1949</cell>
+                        <cell>3d Secy</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wells Stabler</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>H.C.</cell>
+                        <cell>April 21, 1949</cell>
+                        <cell>2d Secy also V.C. - designated 2d Secy 4-21-49</cell>
+                    </row>
+                </table>
+                <p>The Legation at Amman, Transjordan, was officially established on Feb. 28,
+                    1949.</p>
+                <p>For subsequent entries see "Jordan Kingdom, Hashemite" card</p>
+            </div>
+        </body>
+    </text>
+</TEI>

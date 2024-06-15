@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4887" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Elisabethville-Lubumbashi, Belgian Congo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4886" type="prev"/>
+                <relatedItem target="c4888" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4887f1">
+                <graphic height="3626px" url="06352.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Elisabethville-Lubumbashi, Belgian Congo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06352</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4887">
+        <body>
+            <div corresp="#c4887f1">
+                <head>Elisabethville, Belgian Congo (name changed to Lubumbashi 6-30-66)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>John Selben</cell>
+                        <cell>Cancelled</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 20, 1947</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate established</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1948</cell>
+                        <cell>Opened to Public May 12, 1948</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>ELISABETHVILLE, Republic of the Congo</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>eff. June 30, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>ELISABETHVILLE, Democratic Republic of the Congo</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>eff. Aug. 1, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>LUBUMBASHI, Democratic Republic of the Congo</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2900" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madrid, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2899" type="prev"/>
+                <relatedItem target="c2901" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2900f1">
+                <graphic height="3602px" url="03821.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madrid, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03821</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2900">
+        <body>
+            <div corresp="#c2900f1">
+                <head>MADRID, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Luanda</cell>
+                        <cell>Charles W. Walker</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Dec. 6, 1965</cell>
+                        <cell>Also 2d Sec. designated Cons., Madrid 5-13-66</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>S. Dickson Tenney</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell>To Mexico as V.C., 1-16-67.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Michele M. Bova</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 12,1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Henry Young McCown, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 12,1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Santo Domingo</cell>
+                        <cell>Kenneth W. Bleakley</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 21,1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tel Aviv</cell>
+                        <cell>Timothy C. Brown</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>William E. Barreda</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

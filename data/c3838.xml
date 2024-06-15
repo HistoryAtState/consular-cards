@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3838" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saloniki, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3837" type="prev"/>
+                <relatedItem target="c3839" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3838f1">
+                <graphic height="3606px" url="05007.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Saloniki, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1954</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05007</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3838">
+        <body>
+            <div corresp="#c3838f1">
+                <head>Salonika, Greece</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Woodward Romine</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 4, 1954</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry L. Davis</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>July 18, 1955</cell>
+                        <cell>designated Consul <lb/>Salonika 2-9-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A. Campbell</cell>
+                        <cell>V.Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 25, 1957</cell>
+                        <cell>Transferred from 755 <lb/>to 75R Office 9-30-55. Salonika</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John M. Curry</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1958</cell>
+                        <cell>to Salonika as V.C. of career <lb/>6-29-59</cell>
+                    </row>
+                </table>
+                <p>Name changed from Salonika to Thessaloniki on November 18, 1959.</p>
+                <p>* see card for Thessaloniki</p>
+            </div>
+        </body>
+    </text>
+</TEI>

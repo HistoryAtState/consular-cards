@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1646" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tuxpam, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1645" type="prev"/>
+                <relatedItem target="c1647" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1646f1">
+                <graphic height="3640px" url="02200.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tuxpam, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02200</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1646">
+        <body>
+            <div corresp="#c1646f1">
+                <head>Tuxpam, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Ravesies</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Ala.</cell>
+                        <cell>July 18, 1882</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Marcelin A. Ledet</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>La.</cell>
+                        <cell>Mar. 2, 1883</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustus M. Boyd</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Nov. 13, 1885</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Drayton</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Aug. 3, 1886</cell>
+                        <cell>Conf</cell>
+                        <cell>Died</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abraham Jones</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>So. Car</cell>
+                        <cell>Feb. 28, 1887</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. Mulkey</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ala.</cell>
+                        <cell>Nov. 3, 1897</cell>
+                        <cell>Conf</cell>
+                        <cell>Died July 13, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Meridas Alphonse J. Lespinasse</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ala.</cell>
+                        <cell>Apr. 11, 1900</cell>
+                        <cell>Conf</cell>
+                        <cell>Did not take charge <lb/> Resigned July 9, 1900.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Jan. 28, 1902</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd Cons. Frontera 1/10/1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office abolished June 30, 1908, Act of May 11, 1908.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

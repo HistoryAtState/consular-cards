@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0002" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aberdeen, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0001" type="prev"/>
+                <relatedItem target="c0003" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0002f1">
+                <graphic height="3622px" url="00003.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aberdeen, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00003</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0002">
+        <body>
+            <div corresp="#c0002f1">
+                <head>Aberdeen, Scotland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Brand</cell>
+                        <cell>Con. Agt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 20, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Ramsay</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 19, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew Murray</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr. Br.</cell>
+                        <cell>May 28, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>Adolphe Hangigeren)</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>Cal. April 12, 1904</cell>
+                        <cell>App't revoked Nov. 7, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Quann</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>MinnisAug. 18, 1906.</cell>
+                        <cell>Resigned July '1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Mc Clellan Wells</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Millville</cell>
+                        <cell>N.J.</cell>
+                        <cell>Aug. 27, 1915.</cell>
+                        <cell>Appt'd Con Agt, at Leicester 7/12/13. <lb/> went out of office when
+                            <lb/> agency closed.</cell>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3319" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nuevo Laredo, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3318" type="prev"/>
+                <relatedItem target="c3320" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3319f1">
+                <graphic height="3604px" url="04350.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nuevo Laredo, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1954</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04350</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3319">
+        <body>
+            <div corresp="#c3319f1">
+                <head>NUEVO LAREDO, MEXICO</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>v.c.<lb/>Piedras negras</cell>
+                        <cell>Jack B. Gabbert</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Mo.</cell>
+                        <cell>July 27, 1954</cell>
+                        <cell>To Piedras Negras as V.C. 1-15-55.</cell>
+                    </row>
+                    <row>
+                        <cell>v.c.<lb/>Piedras negras</cell>
+                        <cell>Jack B. Gabbert</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Mo.</cell>
+                        <cell>Jan. 26, 1955</cell>
+                        <cell>to Monterrey as V.C. 1-21-56</cell>
+                    </row>
+                    <row>
+                        <cell>v.c.<lb/>Monterrey</cell>
+                        <cell>Jack B. Gabbert</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Mo.</cell>
+                        <cell>Feb. 11, 1956</cell>
+                        <cell>Designated Consul nuevo Laredo 1-25-57<lb/>to Bilbao as V.C.
+                            6-15-59</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Daniel H. Daniels</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Va.</cell>
+                        <cell>July 2, 1956</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Goodwin Shapiro</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Md.</cell>
+                        <cell>June 17, 1957</cell>
+                        <cell>Designated Cons. Nuevo Laredo 3-9-59</cell>
+                    </row>
+                    <row>
+                        <cell>v.consul<lb/>Ciudad Juarez</cell>
+                        <cell>Anthony J. Jay</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>I11.</cell>
+                        <cell>June 25, 1957</cell>
+                        <cell>To Ciudad Juárez as U.C. 8-1-57</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Alvis Craig Murphy</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 6, 1959</cell>
+                        <cell>To Asunción as V.C. 3d sec.,<lb/>8-7-61.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Scc. +<lb/>v.c.<lb/>México</cell>
+                        <cell>Robert S. Gershenson</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 25, 1958</cell>
+                        <cell>to Mexico as 3d Sec. &amp; V.C. 12-13-58</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>V.C.</cell>
+                        <cell>Robert Y. Hayashida</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 15, 1961</cell>
+                        <cell>To Brazzaville as V.C. +<lb/>3d Sec., 9-30-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Edward Marks</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 10, 1963</cell>
+                        <cell>To Luanda as V-Cil 10-25-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>James P. Murphy<lb/>cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell>Detailed to San Pedro Sula as V.C.,<lb/>7-5-65.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

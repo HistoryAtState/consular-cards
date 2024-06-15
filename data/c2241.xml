@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2241" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Glasgow, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2240" type="prev"/>
+                <relatedItem target="c2242" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2241f1">
+                <graphic height="3634px" url="02991.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Glasgow, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02991</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2241">
+        <body>
+            <div corresp="#c2241f1">
+                <head>GLASGOW, SCOTLAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>(AID) Saigo U.C. Glasgow</cell>
+                        <cell>Frederic N. Spotts cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 26, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>John O. Grimes</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate at Glasgow closed to the public effective October 31, 1965.</p>
+                <p>To Valletta as Con. 2d Sec. 11-8-65</p>
+            </div>
+        </body>
+    </text>
+</TEI>

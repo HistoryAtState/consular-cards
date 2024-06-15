@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6379" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6378" type="prev"/>
+                <relatedItem target="c6380" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6379f1">
+                <graphic height="3624px" url="08433.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08433</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6379f2">
+                <graphic height="3624px" url="08434.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08434</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6379">
+        <body>
+            <div corresp="#c6379f1">
+                <head>Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS<lb/>APPT. TO CLASS</cell>
+                        <cell>WHENCE APPTD</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>RANK AND<lb/>DATE OF RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>1.C. 1928<lb/>Secy. Beghd</cell>
+                        <cell>Morris N. Haughes</cell>
+                        <cell>J.S.O.</cell>
+                        <cell>Une. 5/17/1928</cell>
+                        <cell>Ill.</cell>
+                        <cell>Oct. 3, 1933</cell>
+                        <cell>3d Secy<lb/>6-16-32</cell>
+                        <cell>Apptd. F.S.O., Cl. 8, Jan. 22/35, eff. July 1, 1934</cell>
+                    </row>
+                    <row>
+                        <cell>Stockholm</cell>
+                        <cell>Edward S. Crocker, 2d</cell>
+                        <cell>Do</cell>
+                        <cell>6 12/19/1929</cell>
+                        <cell>Mase.</cell>
+                        <cell>Nov. 13, 1933</cell>
+                        <cell>2d Secy<lb/>10-10-29</cell>
+                        <cell>Apptd. F.S.O., Cl. 5, Oct. 1, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Cabana</cell>
+                        <cell>George D. Andrews, Jo.,</cell>
+                        <cell>Do</cell>
+                        <cell>Une. 8/28/1927</cell>
+                        <cell>Denn.</cell>
+                        <cell>Nov. 10, 1933</cell>
+                        <cell>3d Secy<lb/>12-20-30</cell>
+                        <cell>Apptd. F.S.O., Cl. 8, Jan. 22/35, eff. July 1/34</cell>
+                    </row>
+                    <row>
+                        <cell>Une.</cell>
+                        <cell>Morris N. Hughes</cell>
+                        <cell>Do</cell>
+                        <cell>8<lb/>1/22/1935<lb/>EFFECTIVE<lb/>7/1/1934</cell>
+                        <cell>Ill.</cell>
+                        <cell>Continued under assignment of Oct. 3, 1933</cell>
+                        <cell>3d Decy<lb/>6-16-32</cell>
+                        <cell>Assgd. to Addis Ababa as Consul,<lb/>Nov. 27, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Une.</cell>
+                        <cell>George D. Andrews, Jo.,</cell>
+                        <cell>Do</cell>
+                        <cell>8<lb/>2/4/19310<lb/>7/1/1934</cell>
+                        <cell>Jenn.</cell>
+                        <cell>Continued under assignment of Nov. 10, 1933</cell>
+                        <cell>3d Decy<lb/>12-20-30</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>duer</cell>
+                        <cell>Cabot Coville</cell>
+                        <cell>Do</cell>
+                        <cell>7<lb/>10/1/1925</cell>
+                        <cell>Calif.</cell>
+                        <cell>Feb. 16, 1935</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>Cabot Coville</cell>
+                        <cell>Do</cell>
+                        <cell>7<lb/>10/1/1935<lb/>1/18/1936</cell>
+                        <cell>Calif.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 6</cell>
+                        <cell>Edward S. Crocker, 2d</cell>
+                        <cell>Do</cell>
+                        <cell>7<lb/>10/1/1935<lb/>1/18/1936</cell>
+                        <cell>Mass.</cell>
+                        <cell>Continued under assignment of Nov. 13, 1933.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Erle R. Dickover</cell>
+                        <cell>Do</cell>
+                        <cell>7<lb/>10/1/1935<lb/>1/18/1936</cell>
+                        <cell>Mase.</cell>
+                        <cell>Continued under assignment of May 24, 1934.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Coon. Sen,<lb/>Mukden</cell>
+                        <cell>Joseph W. Ballantine</cell>
+                        <cell>Do</cell>
+                        <cell>3<lb/>10/1/1935R<lb/>1/18/1936</cell>
+                        <cell>Mase.</cell>
+                        <cell>July 14, 1936</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>State</cell>
+                        <cell>Joseph F. McGurk</cell>
+                        <cell>Do</cell>
+                        <cell>3<lb/>10/1/1935R<lb/>1/18/1936</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 8, 1936</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>State</cell>
+                        <cell>Eugene H. Dooman</cell>
+                        <cell>Do</cell>
+                        <cell>2<lb/>10/1/1935R<lb/>1/18/1936</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 5, 1937</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>George D. Andrews, Jo.</cell>
+                        <cell>Do</cell>
+                        <cell>7<lb/>4-2-37<lb/>EFFECTIVE<lb/>6-1-37</cell>
+                        <cell>Denn.</cell>
+                        <cell>Continued under assignment of Nov. 10, 1933</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 7</cell>
+                        <cell>Cabot Coville</cell>
+                        <cell>Do</cell>
+                        <cell>6<lb/>6-17-37<lb/>EFFECTIVE<lb/>6-1-37</cell>
+                        <cell>Calif.</cell>
+                        <cell>Continued under assignment of Feb. 16, 1935</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>P.C.<lb/>Note</cell>
+                        <cell>Frank A. Schuler, fr.</cell>
+                        <cell>Do</cell>
+                        <cell>Une. 12/16/1930</cell>
+                        <cell>Mich.</cell>
+                        <cell>Oct. 25, 1937</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Joseph F. McGurk</cell>
+                        <cell>Do</cell>
+                        <cell>7<lb/>1/3/1938<lb/>EFFECTIVE<lb/>1/3/1938</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Continued under assignment of Aug. 8, 1936</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c6379f2">
+                <head>Tokyo, Japan</head>
+                <p>Morris J. Hughes-detailed to Dept. of State temp. Nov. 6, 1933.</p>
+                <p>Cabot Coville B. A. O. el. 8, lately Consul at Harbin, assigned to Embassy at
+                    Tokyo as a Foreign Service Officer, Jan. 24, 1935; apptd. a Secy in Diplomatic
+                    Service Feb. 9, 1935, assigned as 3d Secy of Embassy, Tokyo, Feb. 16, 1935.</p>
+                <p>Cabot Coville detailed to Dept. of State temp., Nov. 25, 1935.</p>
+                <p>Frank A. Schuler detailed to Dept. State, temp., June 17, 1938.</p>
+                <p>Joseph F. M. Burk detailed to Dept. State temp., Oct. 6, 1939.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

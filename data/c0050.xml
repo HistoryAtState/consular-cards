@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0050" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Almeria, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0049" type="prev"/>
+                <relatedItem target="c0051" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0050f1">
+                <graphic height="3622px" url="00073.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Almeria, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00073</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0050f2">
+                <graphic height="3622px" url="00074.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Almeria, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00074</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0050">
+        <body>
+            <div corresp="#c0050f1">
+                <head>Almeria, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE. CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Trieste</cell>
+                        <cell>Ralph C. Busser</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>7/12/1916</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 21, 1917</cell>
+                        <cell>May 16, 1917 to Oct. 9, 1917<lb/>Assigned to Bergen Nov. 30,
+                            1917<lb/>Dec. 10, 1917 to<lb/>Assigned to Malaga July 25, 1919</cell>
+                    </row>
+                    <row>
+                        <cell>Blue-fields</cell>
+                        <cell>Gaston Smith (formerly) Con.</cell>
+                        <cell>7</cell>
+                        <cell>9/14/1917</cell>
+                        <cell>La.</cell>
+                        <cell>La.</cell>
+                        <cell>Nov. 5, 1917</cell>
+                        <cell>Consulate ordered closed July 15, 1919; Closed Aug. 5, 1919 (See
+                            Malaga)</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0050f2">
+                <head>Almeria, Spain</head>
+                <p>James H. Goodier, Consul at Malaga, Palma de Mallorca, was instructed Sept. 3,
+                    1919 to proceed to Almeria &amp; take charge during the fruit season. Arrived at
+                    1 A.M. Sept. 18, 1919; closed Consulate 6 P.M. Nov. 8, 1919, and left for
+                    Algiers Nov. 10, 1919. James H. Goodier, Consul at Palma de Mallorca, was
+                    detailed to Almeria July 2, 1920 to proceed about Sept. 1, 1920, &amp; open
+                    Consulate during grape season. Proceeded to U.S.A. on leave of absence.</p>
+                <p>Percy G. Kemp, Vice Consul at Almeria grape shipping season of 1921 see White
+                    Card.</p>
+                <p>Edward E. Silvers, V.C. dec., Seville detailed to Almeria " " 1922 " " Blue " "
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5659" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chengtu, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5658" type="prev"/>
+                <relatedItem target="c5660" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5659f1">
+                <graphic height="3026px" url="07383.tif" width="4800px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chengtu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07383</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5659f2">
+                <graphic height="3026px" url="07384.tif" width="4800px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chengtu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07384</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5659">
+        <body>
+            <div corresp="#c5659f1">
+                <head>CHENGTU, CHINA</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Temporary (not an office)</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                        <cell>SUPERVISION (over or under)</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>11/6/42</cell>
+                        <cell>Says regular office will not be established. An officer of the Embassy
+                            will be detailed to Chengtu and will be addressed "Secretary of Embassy
+                            on detail at Chengtu, China". All telegrams to and from Dept. will be
+                            through the Embassy. The officer will be commissioned at Kunming in
+                            order that he may perform some consular functions for American citizens.
+                            Under supervision of Embassy, except re consular functions which will be
+                            under supervision of Cons. Gen. at Kunming.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>11/1/43</cell>
+                        <cell>TO req. from FP for transfer of Clubb from Chungking to Dept. said :
+                            "Please include a suggestion that the Embassy may wish</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5659f2">
+                <head>Chengtu, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Chungking</cell>
+                        <cell><unclear>J.</unclear>
+                            <unclear>C.</unclear>
+                            <unclear>Clubb</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>N.Y.</unclear></cell>
+                        <cell><unclear>Wash.</unclear></cell>
+                        <cell><unclear>Aug.</unclear>
+                            <unclear>1943</unclear></cell>
+                        <cell><unclear>Appt'd</unclear>
+                            <unclear>Consul</unclear>
+                            <unclear>Class</unclear>
+                            <unclear>3</unclear>
+                            <lb/>
+                            <unclear>June</unclear>
+                            <unclear>4</unclear>, <unclear>1920</unclear></cell>
+                    </row>
+                </table>
+                <p>To close the office (sic) at Chengtu temporarily if it is deemed advisable for
+                    Mr. Clubb to leave at an earlier date" than after arrival of Paxton.</p>
+                <p>Desp. 2518 from Chungking May 1, 1944: Recommends that no office be established,
+                    at least during the war.</p>
+                <p>Was assured today that visa files this post are still in Manila - December 4,
+                    1950, A.M. Thornett - information procured DC/RM</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2259" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Golfito, Costa Rica</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2258" type="prev"/>
+                <relatedItem target="c2260" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2259f1">
+                <graphic height="3636px" url="03012.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Golfito, Costa Rica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03012</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2259">
+        <body>
+            <div corresp="#c2259f1">
+                <head>Golfito, Costa Rica</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fred F. Flandry</cell>
+                        <cell>Con. Ag.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 20, 1943</cell>
+                        <cell>Res. 3-10-45 <lb/> Resigned effective <lb/> 2-28-49</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jamie H. Logan</cell>
+                        <cell>Con. Ag.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 31, 1945</cell>
+                        <cell>Resigned QWOP-Cob-7-31-59</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John G. Spiller</cell>
+                        <cell>Con. Ag.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 24, 1949</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ewen M. Campbell</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 16, 1959</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2073" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Comayagua and Tegucigalpa, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2072" type="prev"/>
+                <relatedItem target="c2074" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2073f1">
+                <graphic height="3628px" url="02774.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Comayagua and Tegucigalpa, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02774</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2073">
+        <body>
+            <div corresp="#c2073f1">
+                <head>Comayagua and Tegucigalpa, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Spilebury</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1871.</cell>
+                        <cell>Office discontinued Aug 19, 1873. (transferred to Amapala)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0257" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Horgen, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0256" type="prev"/>
+                <relatedItem target="c0258" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0257f1">
+                <graphic height="3632px" url="00361.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Horgen, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00361</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0257">
+        <body>
+            <div corresp="#c0257f1">
+                <head>Horgen, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Geneva</cell>
+                        <cell>William J. Rice</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Feb. 17, 1852</cell>
+                        <cell>Conf. To Leghorn June 20, 1859.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lyell T. Adams</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 19, 1889</cell>
+                        <cell>June 20, 1889 recess.</cell>
+                        <cell>Dec. 19, 1889 Conf. Died at Post May 24, 1892.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles August Vortriede</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>July 2, 1892</cell>
+                        <cell>July 2, 1892 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William F. Kemmler</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>June 23, 1893</cell>
+                        <cell>June 23, 1893 reclas</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Aug. 29, 1893</cell>
+                        <cell>Aug. 29, 1893 Conf. Resigned Jan. 23, 1896.</cell>
+                        <cell>May 2, 1896</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ethelbert Watts</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Mar. 25, 1896</cell>
+                        <cell>Mar. 25, 1896 Conf. Appt'd U.S.C., Cairo May 5, 1897</cell>
+                        <cell>July 24, 1897 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry H. Morgan</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell>June 6, 1897</cell>
+                        <cell>June 6, 1897 Conf. To Parau</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate abolished July 1, 1898.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

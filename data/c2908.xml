@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2908" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Malaga, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2907" type="prev"/>
+                <relatedItem target="c2909" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2908f1">
+                <graphic height="3628px" url="03831.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Malaga, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1953</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03831</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2908f2">
+                <graphic height="3628px" url="03832.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Malaga, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03832</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2908">
+        <body>
+            <div corresp="#c2908f1">
+                <head>Málaga, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Acta. Cons.<lb/>As Malaga</cell>
+                        <cell>Edward John Norton</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>April 24, 1954</cell>
+                        <cell><unclear>Resigned</unclear>
+                            <unclear>after</unclear>
+                            <unclear>COB</unclear>
+                            <unclear>7-8-55</unclear>.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Schenstrom, Jr.</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 12, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consular Agency closed to public Aug. 14, 1959</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consular Agency was re-opened to the public May 7, 1960</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Montgomery Paterson Ford</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 2, 1960</cell>
+                        <cell>Resigned (close of 5-1-66)</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2908f2">
+                <head>Montgomery Ford serving as Acting Consular Agent at Malaga, Spain May
+                    1960</head>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6514" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stanleyville, Republic of the Congo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6513" type="prev"/>
+                <relatedItem target="c6515" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6514f1">
+                <graphic height="3642px" url="08618.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stanleyville, Republic of the Congo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="o"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08618</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6514">
+        <body>
+            <div corresp="#c6514f1">
+                <head>STANLEYVILLE, Republic of the Congo</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>David K. Grinwis</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May 3, 1962</cell>
+                        <cell/>
+                        <cell>FSR assigned to the Dept., 5-9-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Pierre Shostal cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 3, 1962</cell>
+                        <cell/>
+                        <cell>To Bukavu as V.C., 3-30-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Lewis R. Macfarlane</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Information<lb/>(USIA)<lb/>Stanleyville</cell>
+                        <cell>Philip R. Mayhew</cell>
+                        <cell>FSO</cell>
+                        <cell/>
+                        <cell>Apr. 29, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell>To Saigon as East. Information officer (field operations)
+                            10-25-64.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

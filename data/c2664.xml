@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2664" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kigali, Republic of Rwanda</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2663" type="prev"/>
+                <relatedItem target="c2665" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2664f1">
+                <graphic height="3630px" url="03532.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kigali, Republic of Rwanda</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03532</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2664">
+        <body>
+            <div corresp="#c2664f1">
+                <head>KIGALI, Republic of Rwanda</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>F50 assigned<lb/>to air<lb/>College<lb/>montytimery, Ala</cell>
+                        <cell>David J. S. Manbey</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 1, 1962.<lb/>July 2, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William N. Harben</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 31, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kigali</cell>
+                        <cell>Walter G. La Pointe</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William C. Kinsey</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Effective 7-1-62.</p>
+                <p>Also Counselor of Emb. &amp; Deputy Chief of<lb/>Mission.</p>
+                <p>asgd. to dept. 10-11-64.<lb/>Also 1st Sec. To Mérida<lb/>as Consul,
+                    7-4-66..<lb/>Also 2d Sec.</p>
+                <p>Also 1st Sec., &amp; Dep. Chief of Mission</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0665" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nancy, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0664" type="prev"/>
+                <relatedItem target="c0666" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0665f1">
+                <graphic height="3626px" url="00906.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nancy, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00906</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0665">
+        <body>
+            <div corresp="#c0665f1">
+                <head>Nancy, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>St.<lb/>Etienne</cell>
+                        <cell>Howard Pulver</cell>
+                        <cell>Vice Con. U.S. Comn. Comm.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Conn. Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>July 27, 1922.</cell>
+                        <cell>Appt'd V.C. St. Etienne Sept. 30, 1922</cell>
+                    </row>
+                    <row>
+                        <cell>Alex-<lb/>andria</cell>
+                        <cell>George C. Cobb</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ga.</cell>
+                        <cell>Ga.</cell>
+                        <cell>Mar. 11, 1925.</cell>
+                        <cell>Appt'd V.C. Boulogne-sur-mer. 12/2/25.</cell>
+                    </row>
+                </table>
+                <p>Office ordered to be closed on June 30, 1926. Closed by<lb/>Consul left as
+                    ordered.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

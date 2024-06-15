@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1437" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Spezzia, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1436" type="prev"/>
+                <relatedItem target="c1438" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1437f1">
+                <graphic height="3642px" url="01912.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Spezzia, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1856</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01912</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1437">
+        <body>
+            <div corresp="#c1437f1">
+                <head>Spesia, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Leese</cell>
+                        <cell>Consul US.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 10, 1856</cell>
+                        <cell>Conf</cell>
+                        <cell>(to Sardinia)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William T. Rice</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>July 31, 1861</cell>
+                        <cell>Conf</cell>
+                        <cell>(to Italy)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

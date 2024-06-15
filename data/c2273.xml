@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2273" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guanajuato, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2272" type="prev"/>
+                <relatedItem target="c2274" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2273f1">
+                <graphic height="3636px" url="03029.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guanajuato, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03029</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2273f2">
+                <graphic height="3636px" url="03030.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guanajuato, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03030</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2273">
+        <body>
+            <div corresp="#c2273f1">
+                <head>Guanajuato, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Williams</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 8, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dwight Furness</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 9, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Jackson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill. Sept. 16, 1905.</cell>
+                        <cell>Resigned Nov, 1907 <lb/> Did not take charge. Apoft. <lb/> suspended
+                            Nov 28,1905. <lb/> to Mar, 8, 1912</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Norman Rowe</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Nov.30, 1907.</cell>
+                        <cell>Resigned effect Feb. 1, 1912. <lb/> Mar. 8, 1912 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Glenn</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.C. N.C.</cell>
+                        <cell/>
+                        <cell>Feb. 27, 1912.</cell>
+                        <cell>Resignation withdr <lb/> Resigned Apr, 19, 1916. Mar. 1917 <lb/>
+                            Apr.11, 19 <lb/> was to leave <lb/> Aug 18,1917</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Glenn</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.C. N.C.</cell>
+                        <cell/>
+                        <cell>Feb. 27, 1912.</cell>
+                        <cell>Return to Mexico City wife's health</cell>
+                    </row>
+                </table>
+                <p>Agency closed, August 30, 1917.</p>
+            </div>
+            <div corresp="#c2273f2">
+                <head>Guanajuato, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P. L. Lujan</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Am. city</unclear></cell>
+                        <cell/>
+                        <cell>Apr. 19, 1916</cell>
+                        <cell>Residing in Guanajuato, Mexico.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

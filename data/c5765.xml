@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5765" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Central American States</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5764" type="prev"/>
+                <relatedItem target="c5766" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5765f1">
+                <graphic height="3630px" url="07537.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Central American States</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1884</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07537</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5765">
+        <body>
+            <div corresp="#c5765f1">
+                <head>Central American States.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell/>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Densen Whitehouse</cell>
+                        <cell>Sec. of Leg. &amp; <lb/> Con. Gen'l</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 5, 1884 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D. Lynch Pringle</cell>
+                        <cell>Sec. Leg. and <lb/> Con. Gen'l</cell>
+                        <cell/>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell>Oct. 13, 1885. receas <lb/> Feb. 8, 1886 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James R. Hosmer</cell>
+                        <cell>Sec. of Leg. to <lb/> C.A. States <lb/> Con. Gen'l at <lb/>
+                            Guatemala</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 12, 1887. receas <lb/> Jan. 19, 1888 Conf.</cell>
+                        <cell>Arrived Assumed duties <lb/> Apr. 28, 1887; Apr. 30, 1887 ;</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Kimberly</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>July 24, 1890 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

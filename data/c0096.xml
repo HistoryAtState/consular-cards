@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0096" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antung, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0095" type="prev"/>
+                <relatedItem target="c0097" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0096f1">
+                <graphic height="3620px" url="00141.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antung, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00141</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0096">
+        <body>
+            <div corresp="#c0096f1">
+                <head>Antung, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See card #1</cell>
+                        <cell>William R. Langdon</cell>
+                        <cell><unclear>$80</unclear></cell>
+                        <cell>6</cell>
+                        <cell>7/1/1924 R.</cell>
+                        <cell>Consul 1/23-21</cell>
+                        <cell>Continued under assignment of May 10, 1922. Assigned to Dairen Aug. 8,
+                            1925.</cell>
+                        <cell>to Aug. 31, 1925.</cell>
+                    </row>
+                </table>
+                <p>Office closed July 7, 1928.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

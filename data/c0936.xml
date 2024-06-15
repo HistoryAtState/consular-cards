@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0936" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. John's, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0935" type="prev"/>
+                <relatedItem target="c0937" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0936f1">
+                <graphic height="3634px" url="01251.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. John's, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01251</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0936f2">
+                <graphic height="3630px" url="01252.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. John's, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01252</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0936">
+        <body>
+            <div corresp="#c0936f1">
+                <head>St. John's, Quebec. (see St. Lambert)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Huestis</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ut.</cell>
+                        <cell>Mar. 4, 1865.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Calvert</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 9, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lucius C. Smith</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 7, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Harman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 27, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Harmon</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 22, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Donaghy</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 21, 1875.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Donaghy</cell>
+                        <cell>" " Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 26, 1890.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed March 6, 1915.</p>
+            </div>
+            <div corresp="#c0936f2">
+                <head>St. John's, Quebec.</head>
+                <p>John Donaghy, V.O.D.C. took over the office from Con. Mc Connies Sept. 30, 1913
+                    &amp; turned it over to Connel Kirk Dec. 18, 1913.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

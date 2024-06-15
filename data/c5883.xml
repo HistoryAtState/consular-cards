@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5883" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ceylon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5882" type="prev"/>
+                <relatedItem target="c5884" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5883f1">
+                <graphic height="3610px" url="07699.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ceylon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07699</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5883">
+        <body>
+            <div corresp="#c5883f1">
+                <head>CEYLON</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Glenwood B. Matthews</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>July 3, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Assigned to the Dept. 1-12-67.</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Eugene W. Trone</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>William D. Wade</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 1, 1967</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Lange Schermerhorn</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

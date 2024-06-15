@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5457" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>South Africa, Republic of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5456" type="prev"/>
+                <relatedItem target="c5458" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5457f1">
+                <graphic height="3624px" url="07105.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>South Africa, Republic of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07105</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5457">
+        <body>
+            <div corresp="#c5457f1">
+                <head>SOUTH AFRICA, REPUBLIC OF</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Bernard F. Piatek</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>July 18, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Morris J. Amitay</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 3, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pretoria</cell>
+                        <cell>Marion V. Creekmore, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>To Accra as V.C.+2d Sec. 10-24-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas F. O'Herron</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 4, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Free-town</cell>
+                        <cell>Donald S. Spigler</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Jan. 1, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Counselor of Embassy for Economic Affairs</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

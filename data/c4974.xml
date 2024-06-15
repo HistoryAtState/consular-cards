@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4974" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genoa, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4973" type="prev"/>
+                <relatedItem target="c4975" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4974f1">
+                <graphic height="3612px" url="06459.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Genoa, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06459</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4974">
+        <body>
+            <div corresp="#c4974f1">
+                <head>GENOA, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>VC.+ 3d Sec. México</cell>
+                        <cell>Miss Carolyn E. Kingsley</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 9, 1962</cell>
+                        <cell>To montered and ad Sec., 1-18-65. <unclear>750</unclear> assigned to
+                            the Dept., 1-17-65. <unclear>710</unclear> assigned to the Univ. of
+                            Mich., Ann Arbor, Michigan, 9-1-63. <unclear>750</unclear> assigned to
+                            the Dept., 5-23-65.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Rome</cell>
+                        <cell>Albert W. Whiting</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 20,1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Michael Acton Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Feb. 4, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Phnom Penh</cell>
+                        <cell>Kenneth Allen Hartung</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 14,1964</cell>
+                        <cell>Resigned COB 12-11-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Asmara</cell>
+                        <cell>Leonard B. Weddle</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 9, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Carol Ann Lucas</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Mar. 11, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter 0. Suchman</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell>To Milan as V.C., 11-21-66.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

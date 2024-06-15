@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4144" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tijuana, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4143" type="prev"/>
+                <relatedItem target="c4145" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4144f1">
+                <graphic height="3624px" url="05398.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tijuana, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05398</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4144">
+        <body>
+            <div corresp="#c4144f1">
+                <head>TIJUANA, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Mexico</cell>
+                        <cell>Lewis Roy Murray, Jr. (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 7, 1965</cell>
+                        <cell/>
+                        <cell>Detail terminated 9-17-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>F. Raymond Senden</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Quito</cell>
+                        <cell>Lionel B. Miller</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert Allan Mautino</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 14, 1966</cell>
+                        <cell/>
+                        <cell>Detail terminated 10-19-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>Edwin Ho (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 20, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Monterrey</cell>
+                        <cell>Wilson A. Riley, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Manila</cell>
+                        <cell>Spencer W. Phillips</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

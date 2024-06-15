@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1130" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Stephen, New Brunswick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1129" type="prev"/>
+                <relatedItem target="c1131" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1130f1">
+                <graphic height="3636px" url="01506.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Stephen, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1932</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01506</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1130">
+        <body>
+            <div corresp="#c1130f1">
+                <head>St. Stephen, New Brunswick</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Sherbrooke</cell>
+                        <cell>William H. Brown</cell>
+                        <cell>Vice Con</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.J.</cell>
+                        <cell>Jan. 8, 1932.</cell>
+                        <cell>Appt'd V.C. Moncton, July 18, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Moncton</cell>
+                        <cell>William C. Brown</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J.</cell>
+                        <cell>Aug. 24, 1935</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Yarmouth</cell>
+                        <cell>Robert Jakes, 3d</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>July 26, 1938</cell>
+                        <cell>Appt'd V.C., St. Piene, Oct. 7, 1938</cell>
+                    </row>
+                    <row>
+                        <cell>St. Pierre</cell>
+                        <cell>Robert Jakes, 3d</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Dec. 5, 1939</cell>
+                        <cell>appt'd V.C., Bahia, June 5, 1940 <lb/> To Halifax 5-31-43</cell>
+                    </row>
+                    <row>
+                        <cell>Miquelon</cell>
+                        <cell>Charles H. Taliaferro</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>May 15, 1943</cell>
+                        <cell>Inducted into Armed Forces: <lb/> Promoted &amp; resumed duties
+                            4-2-46</cell>
+                    </row>
+                    <row>
+                        <cell>r.c.</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Halifax</cell>
+                        <cell>William Alexander Mitchell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>July 15, 1943</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Edwin M. Gunsaulus</cell>
+                        <cell>Vice Con</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>Oct. 27, 1944</cell>
+                        <cell>To Visit Chile <lb/> To Port.</cell>
+                    </row>
+                    <row>
+                        <cell>Halifax</cell>
+                        <cell>Benjamin L. Sewell</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Oct. 23, 1945</cell>
+                        <cell>of Spain as V.C. 8-2-46</cell>
+                    </row>
+                    <row>
+                        <cell>Monterio</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mil. Leave</cell>
+                        <cell>William Alexander Mitchell</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>July 15, 1943</cell>
+                        <cell>Continuing under appt'd <lb/> To St. John, N.B. <lb/> as V.C.
+                            1-27-48</cell>
+                    </row>
+                </table>
+                <p>Consulate to be closed on or about December 31, 1947.</p>
+                <p>Consulate closed to the public December 15, 1947.</p>
+                <p>Consulate officially closed Feb. 7, 1948</p>
+            </div>
+        </body>
+    </text>
+</TEI>

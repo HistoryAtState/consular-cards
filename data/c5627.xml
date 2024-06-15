@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5627" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>West Indies, the</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5626" type="prev"/>
+                <relatedItem target="c5628" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5627f1">
+                <graphic height="3630px" url="07344.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>West Indies, the</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07344</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5627f2">
+                <graphic height="3630px" url="07345.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>West Indies, the</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07345</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5627">
+        <body>
+            <div corresp="#c5627f1"/>
+            <div corresp="#c5627f2">
+                <head>William H. Christensen, Deputy Chief of Mission and Cons. Gen., Port-of-Spain,
+                    9-18-61.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

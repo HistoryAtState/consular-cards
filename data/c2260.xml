@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2260" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gonaives, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2259" type="prev"/>
+                <relatedItem target="c2261" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2260f1">
+                <graphic height="3630px" url="03013.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gonaives, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03013</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2260f2">
+                <graphic height="3630px" url="03014.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gonaives, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03014</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2260">
+        <body>
+            <div corresp="#c2260f1">
+                <head>Gonaives, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Hilchenbach</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 28, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Heberlein</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 26, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John D. Metzger</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 1, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Etheart Dupuy</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 16, 1886.</cell>
+                        <cell>to Sept. 11, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. William Wael on</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 8, 1899.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2260f2">
+                <head>Gonacves, Haiti</head>
+                <p>J. William Woel - Rety Cons. Apt. – Septh 1, 1897 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

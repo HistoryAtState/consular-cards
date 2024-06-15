@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2145" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cumana, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2144" type="prev"/>
+                <relatedItem target="c2146" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2145f1">
+                <graphic height="3628px" url="02866.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cumana, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02866</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2145">
+        <body>
+            <div corresp="#c2145f1">
+                <head>Cumana, Venezuela.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joś Gabriel Muñiz Rombey</cell>
+                        <cell>Con. Agt. Venez.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Venez.</cell>
+                        <cell>Mar. 6, 1883</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed Nov. 30, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

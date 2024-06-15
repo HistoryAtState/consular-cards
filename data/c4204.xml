@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4204" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tripoli, Libya</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4203" type="prev"/>
+                <relatedItem target="c4205" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4204f1">
+                <graphic height="3602px" url="05472.tif" width="6048px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tripoli, Libya</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05472</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4204">
+        <body>
+            <div corresp="#c4204f1">
+                <head>TRIPOLI, LIBYA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Reykjavik</cell>
+                        <cell>Miss Colette Meyer</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Nov. 23, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Phillip B. Dahl</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Holsey G. Handyside</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

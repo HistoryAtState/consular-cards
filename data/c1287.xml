@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1287" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chaux-De-Fonds, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1286" type="prev"/>
+                <relatedItem target="c1288" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1287f1">
+                <graphic height="3636px" url="01711.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chaux-De-Fonds, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01711</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1287f2">
+                <graphic height="3636px" url="01712.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chaux-De-Fonds, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01712</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1287">
+        <body>
+            <div corresp="#c1287f1">
+                <head>Chaux-de-Fonds, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Otto A. Peyere</cell>
+                        <cell>Con. Agh. Us.</cell>
+                        <cell>"</cell>
+                        <cell>Switz.</cell>
+                        <cell>Switz.</cell>
+                        <cell>Sept. 22, 1882.</cell>
+                        <cell>Nov. 15, 1882 to July 13, 1890.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henri Rieckel Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Switz.</cell>
+                        <cell>Switz.</cell>
+                        <cell>July 20, 1891.</cell>
+                        <cell>July 13, 1890 to May 11, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John K. Scott</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S. Iowa</cell>
+                        <cell>Ill.</cell>
+                        <cell>Mar. 14, 1898.</cell>
+                        <cell>May 11, 1898 to Sept. 30, 1898 <lb/> Res'd Sept. 20 to date
+                            10/1/98</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henri Rieckel Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 12, 1898.</cell>
+                        <cell>Oct. 1, 1898 to <lb/> Superseded</cell>
+                    </row>
+                    <row>
+                        <cell>Cardiff</cell>
+                        <cell>Ernest L. Phillips</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Nov. 10, 1905.</cell>
+                        <cell>Jan. 12, 1906 to <lb/> Appt'd Agt St. Helena Apr. 9, 1908.</cell>
+                    </row>
+                </table>
+                <p>Closed May 1, 1908.</p>
+            </div>
+            <div corresp="#c1287f2">
+                <head>Chane de Ronde, Switzerland</head>
+                <p>Prof. H. Eugene Soquel to act when Deyer is absent from Nov. 1882 to Nov.
+                    1883.</p>
+                <p>Henry Rieckel, Jr. - " " " " " " Nov. 1883 " July 1891</p>
+                <p>Henry Rieckel, Sr. - Rety. in charge (absence of Agt.) a few days in Aug.
+                    1890.</p>
+                <p>Henry Rieckel, Jr. - to act when Scott is absent May 1898 to Sept. 1898.</p>
+                <p>Henry Rieckel, Sr. - Rety in chg. (absence of Agt.) Aug. 7, 1899 to Aug. 24,
+                    1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

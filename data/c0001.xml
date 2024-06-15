@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0001" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aarhus, Denmark</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="" type="prev"/>
+                <relatedItem target="c0002" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0001f1">
+                <graphic height="3650px" url="00001.tif" width="6026px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aarhus, Denmark</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00001</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0001f2">
+                <graphic height="3650px" url="00002.tif" width="6026px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aarhus, Denmark</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00002</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0001">
+        <body>
+            <div corresp="#c0001f1">
+                <head>Aarhus, Denmark.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Deputy State</cell>
+                        <cell>John E. Kehl</cell>
+                        <cell>Con. 4</cell>
+                        <cell>9/14/1917</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Apr. 13, 1918. (Arrived July 30, 1918)</cell>
+                        <cell>Appt'd Consul Class 3 June 4, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Class 4</cell>
+                        <cell>John E. Kehl</cell>
+                        <cell>Con. 3</cell>
+                        <cell>4/4/1920 C</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Sept. 7, 1920;</p>
+            </div>
+            <div corresp="#c0001f2">
+                <head>Aarhus, Denmark.</head>
+                <p>Henry C. A. Damm, arrived at Aarhus Sept. 30, 1919 and assumed charge during
+                    illness of Consul Kehl.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

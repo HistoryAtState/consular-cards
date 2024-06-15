@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3439" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3438" type="prev"/>
+                <relatedItem target="c3440" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3439f1">
+                <graphic height="3620px" url="04500.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paris, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="19.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04500</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3439">
+        <body>
+            <div corresp="#c3439f1">
+                <head>PARIS, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul and 2d Sec. London</cell>
+                        <cell>James O. Belden</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 28, 1963</cell>
+                        <cell/>
+                        <cell>Resigned as FSO Oct 6-19-65<lb/>Designated V.C. (788)
+                            Paris<lb/>6.21/65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Paris</cell>
+                        <cell>Miss A. Dorothea Wool</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 14, 1963</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To Palermo<lb/>as Cons. 11-9-64.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Paris</cell>
+                        <cell>Richard W. Faville, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To Nouakchott<lb/>as Consul + 2d Sec, 10-11-65.<lb/>Also
+                            Couns. of Emb. for Cone. Aff.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Paris</cell>
+                        <cell>Perry H. Culley</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Gen.</cell>
+                        <cell>Mar. 10, 1964</cell>
+                        <cell>OECD</cell>
+                        <cell>Do Madrid as 2d Sec,<lb/>7-17-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Paris</cell>
+                        <cell>Ronald A. Webb</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul Strasbourg</cell>
+                        <cell>Richard W. Kautsky</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul Strasbourg</cell>
+                        <cell>John L. Kuhn</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell/>
+                        <cell>Designated Cons. Gen.<lb/>Paris, 5-10-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Monrovia</cell>
+                        <cell>Miss Mary T. Chiavarini</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 7, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>James 0. Belden</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>John L. Kuhn</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Gen.</cell>
+                        <cell>May 10, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

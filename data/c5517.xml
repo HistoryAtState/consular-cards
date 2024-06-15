@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5517" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5516" type="prev"/>
+                <relatedItem target="c5518" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5517f1">
+                <graphic height="3618px" url="07193.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07193</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5517f2">
+                <graphic height="3618px" url="07194.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07194</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5517">
+        <body>
+            <div corresp="#c5517f1">
+                <head>Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Secretary<lb/>Class 1</cell>
+                        <cell>Alexander R. Magruder</cell>
+                        <cell>Counselor</cell>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>Feb. 20, 1924.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. 2st.<lb/>Inspector</cell>
+                        <cell>Frederic R. Dolbeare</cell>
+                        <cell>Do</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 28, 1927</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Counsellor<lb/>at Berlin</cell>
+                        <cell>George L. Brandt,</cell>
+                        <cell>Do</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Dec. 17, 1941.</cell>
+                        <cell>Temp. detailed at Bern as 1st Secy.<lb/>Assgd. to Dept. of State as
+                            soon as possible.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5517f2">
+                <head>Note. For authority, see reverse side of Counselor's card under
+                    Austria-Hungary</head>
+            </div>
+        </body>
+    </text>
+</TEI>

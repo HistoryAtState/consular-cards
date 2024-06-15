@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1800" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chinkiang, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1799" type="prev"/>
+                <relatedItem target="c1801" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1800f1">
+                <graphic height="3636px" url="02400.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chinkiang, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02400</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1800f2">
+                <graphic height="3636px" url="02401.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chinkiang, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02401</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1800">
+        <body>
+            <div corresp="#c1800f1">
+                <head>Chinhiang, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lazurence Leahy</cell>
+                        <cell>Marchal U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 19, 1865 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles J. Bandel</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 6, 1865 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Lewton</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>June 18, 1866 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred C. Colpit</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 24, 1870 recess</cell>
+                        <cell/>
+                        <cell>Did not give bond</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George E. Sevey</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>June 4, 1898 Pres. alone. Ret's to 18. July 1878.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H.M. Smith</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Dr.</cell>
+                        <cell/>
+                        <cell>Feb. 11, 1902 1" " </cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished &amp; Nanking established July 1902.</p>
+            </div>
+            <div corresp="#c1800f2">
+                <head>Chinkiang, China.</head>
+                <p>Wong Kuo Liang, Boty Marshal (absence of Levey) July 1898 to Oct 1, 1899</p>
+                <p>F. W. Smith, Br. subject acted as Marshal - Oct 1, 1899 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

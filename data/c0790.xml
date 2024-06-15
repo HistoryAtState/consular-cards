@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0790" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puntarenas, Costa Rica</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0789" type="prev"/>
+                <relatedItem target="c0791" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0790f1">
+                <graphic height="3632px" url="01070.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puntarenas, Costa Rica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01070</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0790">
+        <body>
+            <div corresp="#c0790f1">
+                <head>Puntarenas, Costa Rica</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>Ciudad<lb/>Suarez, Mex.</cell>
+                        <cell>Livringston L. Watrous</cell>
+                        <cell>P.O.</cell>
+                        <cell>Une 9-3-40.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 3, 1941</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Deagd 3d Secy. Con. San Jose 10-7-42.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0964" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palma, Island of Majorca- Balearic Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0963" type="prev"/>
+                <relatedItem target="c0965" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0964f1">
+                <graphic height="3634px" url="01290.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palma, Island of Majorca- Balearic Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01290</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0964">
+        <body>
+            <div corresp="#c0964f1">
+                <head>Palma, Island Majorca Balearic Islands)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell><lb/>see Majorca<lb/>"<lb/>Minorca<lb/>"<lb/>Palma de
+                            Mallorca)<lb/></cell>
+                        <cell>J. Fiol</cell>
+                        <cell>Con. Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 28, 1864.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Caceres</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 3, 1869</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernesto Canut</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 8, 1870.</cell>
+                        <cell>Exey'r canceled by war Apr. 21, 1898.</cell>
+                    </row>
+                </table>
+                <p>Agency closed Nov. 9, 1899, (see Palma de Mallorca.)</p>
+                <p>Agency closed Sept. 19, 1876 - Reopened by same Agent Dec(26) 1876.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

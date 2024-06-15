@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3753" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rome, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3752" type="prev"/>
+                <relatedItem target="c3754" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3753f1">
+                <graphic height="3616px" url="04900.tif" width="6052px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rome, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="11.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04900</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3753">
+        <body>
+            <div corresp="#c3753f1">
+                <head>ROME, ITALY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell>Stephen P. Dorsey</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons. Gen.</cell>
+                        <cell>July 2, 1965</cell>
+                        <cell/>
+                        <cell>also Counselor of Emb. for consuler Aㅋㅋ.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William B. Lonam</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

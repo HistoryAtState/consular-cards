@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0922" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Gall, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0921" type="prev"/>
+                <relatedItem target="c0923" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0922f1">
+                <graphic height="3636px" url="01235.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Gall, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01235</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0922">
+        <body>
+            <div corresp="#c0922f1">
+                <head>St. Gall, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>Reginald A. Williams</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>By Act of Feb. 5, 1915.</cell>
+                        <cell>Appt'd V.C., Limoges Jan. 27, 1916.<lb/>June 10, 1916 to<lb/>Resigned
+                            in Wash=D.C. June 22, 1917</cell>
+                    </row>
+                    <row>
+                        <cell>Fiume</cell>
+                        <cell>James L. A. Burrell</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Pa.</cell>
+                        <cell>Md.</cell>
+                        <cell>May 26, 1916.</cell>
+                        <cell>Aug. 18, 1921 to</cell>
+                    </row>
+                    <row>
+                        <cell>Basel</cell>
+                        <cell>William E. Holland</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>June 30, 1921</cell>
+                        <cell>Appt'd V.C., Breslaw Nov. 15, 1921<lb/>Under oath at U.S. St. Gall
+                            Nov. 9, 1921.<lb/>Did not go to St. Gall. Appt. canceled<lb/>Remained at
+                            Limoges.</cell>
+                    </row>
+                    <row>
+                        <cell>Limoges</cell>
+                        <cell>Reginald A. Williams</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 3, 1921</cell>
+                        <cell>May 4, 1922 to<lb/>Resignation accepted 1/19/23 effective<lb/>upon
+                            arrival of successor.</cell>
+                    </row>
+                    <row>
+                        <cell>Bix-<lb/>-ninghem</cell>
+                        <cell>Mare T. Greene</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>R.I.</cell>
+                        <cell>Me.</cell>
+                        <cell>Apr. 6, 1922</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Barry Bigelow</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mich.</cell>
+                        <cell>July 10, 1922.</cell>
+                        <cell/>
+                        <cell>Appt'd V.C., Lucerne Feb. 20, 1925.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed March 31, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

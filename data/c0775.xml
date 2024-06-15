@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0775" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ostend</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0774" type="prev"/>
+                <relatedItem target="c0776" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0775f1">
+                <graphic height="3638px" url="01049.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ostend</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1801</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01049</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0775f2">
+                <graphic height="3638px" url="01050.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ostend</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01050</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0775">
+        <body>
+            <div corresp="#c0775f1">
+                <head>Ostend, France, then Netherlands, then Belgiment</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis L. Janey</cell>
+                        <cell>Comly/18.</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>July 20, 1801 recess,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Wilson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Jan. 26, 1802 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Wilson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 21, 1803 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emanuel Wamberice</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 15, 1805 Conf. (to French Imperor)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Mark</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ga.</cell>
+                        <cell>Apr. 1, 1816 Conf. (to King Netherlands)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Mark</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 8, 1822 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>M.Van Iseghem Duclos</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb.9, 1833 Conf. (to King Belgium)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar 18, 1867 Conf. (Should lie August J. Van Iseghem</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0775f2">
+                <head>Ostend</head>
+                <p>Aurel Batoniji tetigraphez, Oct. 31, 1914. "Closed Ostend consulate yesterday.
+                    Consul Johnson's request. Respectfully, Skuistolland, Oct. 31, 1914."</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6351" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ivory Coast, Republic of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6350" type="prev"/>
+                <relatedItem target="c6352" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6351f1">
+                <graphic height="3642px" url="08387.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ivory Coast, Republic of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08387</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6351">
+        <body>
+            <div corresp="#c6351f1"/>
+        </body>
+    </text>
+</TEI>

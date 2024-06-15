@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3023" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Melbourne, Australia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3022" type="prev"/>
+                <relatedItem target="c3024" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3023f1">
+                <graphic height="3602px" url="03982.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Melbourne, Australia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03982</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3023">
+        <body>
+            <div corresp="#c3023f1">
+                <head>Melbourne, Australia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Cincinnatti<lb/>2d Sec. +<lb/>V.C.<lb/>Mexico<lb/>2d Sec.
+                            +<lb/>V.C.<lb/>Bogotá</cell>
+                        <cell>William J. Bushwaller</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>Dec. 17, 1956</cell>
+                        <cell>Designated cons. Melbourne 1-29-57<lb/>FSO assigned to the Dept.
+                            2-5-61</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph P. Leahy</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 20, 1958</cell>
+                        <cell>Designated cons, melbourne, 3-18-60</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jack Liebof</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 22, 1958</cell>
+                        <cell>Designated Consul, Melbourne, 4-762.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles R. Carlisle</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 31, 1960</cell>
+                        <cell>To Tijuana as V.C., 2-4-63.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Hong Kong<lb/>V.C. 43dSet.<lb/>Belgrade</cell>
+                        <cell>Arturo S. Macias</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 31, 1960</cell>
+                        <cell>Designated Consul, Melbourne,<lb/>3-1-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Lois J. Roork</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 24, 1960</cell>
+                        <cell>FSO aagd to Indiana Univ.,<lb/>Bloomington,
+                            Indiania,<lb/>8-2-64<lb/>Resigned close of 1-30-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John G. Peters</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 12, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard F. Simpson</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 13, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>u.s. Mission<lb/>Berlin</cell>
+                        <cell>Don Roland Kienzle</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bonn</cell>
+                        <cell>Edward G. Murphy</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 10, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2422" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fort-De-France, Martinique</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2421" type="prev"/>
+                <relatedItem target="c2423" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2422f1">
+                <graphic height="3638px" url="03226.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fort-De-France, Martinique</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03226</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2422">
+        <body>
+            <div corresp="#c2422f1">
+                <head>Fort de France, Martinique. (see Port de France)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Mollet</cell>
+                        <cell>Contgt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 10, 1865</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Theodore Labat</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 27, 1878,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles van Romondt</cell>
+                        <cell>"</cell>
+                        <cell>Neth.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 4, 1893,</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

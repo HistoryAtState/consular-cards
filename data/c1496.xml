@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1496" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cochin, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1495" type="prev"/>
+                <relatedItem target="c1497" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1496f1">
+                <graphic height="3632px" url="01997.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cochin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1832</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01997</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1496">
+        <body>
+            <div corresp="#c1496f1">
+                <head>Cochin China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edmund Roberts</cell>
+                        <cell>Special Agent</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 26, 1832.</cell>
+                        <cell>To negotiate for the extension of the commerce of the U.S. in the
+                            Pacific.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Balestier, (Consul at Singapore)</cell>
+                        <cell>Empowered Aug. 16, 1849, to negotiate relative to friendship, commerce
+                            &amp; navigation.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

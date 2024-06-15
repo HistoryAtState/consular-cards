@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project default="xar" name="carousel">
+<project default="xar" name="consular-cards">
     <xmlproperty file="build.properties.xml" semanticAttributes="true" keepRoot="false"/>
     <property name="build.dir" value="build"/>
     
@@ -34,90 +34,6 @@
             </filterset>
             <globmapper from="*.tmpl" to="*"/>
         </copy>
-    </target>
-    
-    <target name="apply-filters-to-producer-dev">
-        <echo message="Apply DEV values to collection.xconf..."/>
-        <copy todir="${build.dir}/${app.name}-${app.version}" overwrite="true" verbose="true">
-            <fileset file="collection.xconf.tmpl"/>
-            <fileset file="expath-pkg.xml.tmpl"/>
-            <filterset>
-                <filter token="provider-url" value="${trigger.provider-url.dev}"/>
-                <filter token="destination" value="${trigger.destination.dev}"/>
-                <filter token="name" value="${app.name}"/>
-                <filter token="version" value="${app.version}"/>
-                <filter token="url" value="${app.url}"/>
-                <filter token="title" value="${app.title}"/>
-            </filterset>
-            <globmapper from="*.tmpl" to="*"/>
-        </copy>
-    </target>
-    
-    <target name="apply-filters-to-producer-prod">
-        <echo message="Apply PROD values to collection.xconf..."/>
-        <copy todir="${build.dir}/${app.name}-${app.version}" overwrite="true" verbose="true">
-            <fileset file="collection.xconf.tmpl"/>
-            <fileset file="expath-pkg.xml.tmpl"/>
-            <filterset>
-                <filter token="provider-url" value="${trigger.provider-url.prod}"/>
-                <filter token="destination" value="${trigger.destination.prod}"/>
-                <filter token="name" value="${app.name}"/>
-                <filter token="version" value="${app.version}"/>
-                <filter token="url" value="${app.url}"/>
-                <filter token="title" value="${app.title}"/>
-            </filterset>
-            <globmapper from="*.tmpl" to="*"/>
-        </copy>
-    </target>
-    
-    <target name="xar-dev" depends="clean,prepare" description="create xar files for DEV environment">
-        <antcall target="copy"/>
-        <antcall target="apply-filters-to-expath-pkg"/>
-        <echo message="------------------------------------------------------------"/>
-        <echo message="Creating DEV 'consumer' xar file..."/>
-        <echo message="------------------------------------------------------------"/>
-        
-        <zip basedir="${build.dir}/${app.name}-${app.version}" destfile="${build.dir}/${app.name}-${app.version}-consumer-dev.xar">
-            <exclude name="${build.dir}/**"/>
-            <exclude name="**/*.tmpl"/>
-        </zip>
-        
-        <antcall target="apply-filters-to-producer-dev"/>
-        
-        <echo message="------------------------------------------------------------"/>
-        <echo message="Creating DEV 'producer' xar file containing triggers..."/>
-        <echo message="------------------------------------------------------------"/>
-        
-        <zip basedir="${build.dir}/${app.name}-${app.version}" destfile="${build.dir}/${app.name}-${app.version}-producer-dev.xar">
-            <exclude name="**/*.tmpl"/>
-        </zip>
-        <delete dir="${build.dir}/${app.name}-${app.version}"/>
-    </target>
-    
-    <target name="xar-prod" depends="clean,prepare" description="create xar files for PROD environment">
-        <antcall target="copy"/>
-        <antcall target="apply-filters-to-expath-pkg"/>
-        
-        <echo message="------------------------------------------------------------"/>
-        <echo message="Creating PROD 'consumer' xar file..."/>
-        <echo message="------------------------------------------------------------"/>
-        
-        <zip basedir="${build.dir}/${app.name}-${app.version}" destfile="${build.dir}/${app.name}-${app.version}-consumer.xar">
-            <exclude name="${build.dir}/**"/>
-            <exclude name="**/*.tmpl"/>
-        </zip>
-        
-        <antcall target="apply-filters-to-producer-prod"/>
-        
-        <echo message="------------------------------------------------------------"/>
-        <echo message="Creating PROD 'producer' xar file containing triggers..."/>
-        <echo message="------------------------------------------------------------"/>
-        
-        <zip basedir="${build.dir}/${app.name}-${app.version}" destfile="${build.dir}/${app.name}-${app.version}-producer.xar">
-            <exclude name="${build.dir}/**"/>
-            <exclude name="**/*.tmpl"/>
-        </zip>
-        <delete dir="${build.dir}/${app.name}-${app.version}"/>
     </target>
     
     <target name="xar" depends="clean,prepare" description="create xar file">

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2198" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dresden, Saxony</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2197" type="prev"/>
+                <relatedItem target="c2199" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2198f1">
+                <graphic height="3638px" url="02932.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dresden, Saxony</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02932</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2198">
+        <body>
+            <div corresp="#c2198f1">
+                <head>Dresden, Saxony.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell>Christian T. Steger</cell>
+                        <cell>V.C. de carrière</cell>
+                        <cell>3</cell>
+                        <cell>9/27/1919</cell>
+                        <cell>Va.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Christian T. Steger</cell>
+                        <cell/>
+                        <cell>2</cell>
+                        <cell>1/17/1921</cell>
+                        <cell>Va.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 2</cell>
+                        <cell>Christian T. Steger</cell>
+                        <cell/>
+                        <cell>1</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Va.</cell>
+                    </row>
+                    <row>
+                        <cell>Newcastle</cell>
+                        <cell>Russell M. Brooks</cell>
+                        <cell/>
+                        <cell>3</cell>
+                        <cell>7/26/1922</cell>
+                        <cell>Ore.</cell>
+                    </row>
+                    <row>
+                        <cell>class 3</cell>
+                        <cell>Russell M. Brooks</cell>
+                        <cell/>
+                        <cell>2</cell>
+                        <cell>5/10/1924</cell>
+                        <cell>Ore.</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>"</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Nov. 15, 1921.</cell>
+                        <cell>"</cell>
+                        <cell>Nov. 25, 1921 &amp;<lb/>Appt'd V.C. de carrière Class 2 Nov. 17,
+                            1921<lb/>Officially opened Con-<lb/>sulate Dec. 14, 1921;<lb/>Appt'd
+                            V.C. de carrière, Class 1 May 26, 1922<lb/>Appt'd Consul Class 7 Dec.
+                            19, 1923.<lb/>Remained at Dresden on detail.</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Assigned to Belfast Apr. 19, 1924.<lb/>See promotion on "Belfast"
+                            card</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>V.C. Clerk, Dresden'</cell>
+                        <cell>Durward Grinstead</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une.</cell>
+                        <cell>3/20/1925R<lb/>EFFECTIVE<lb/>7/27/1925C</cell>
+                        <cell>Mass. Sept. 2, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard Elting, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>12/17/1931E</cell>
+                        <cell>Jan. 2, 1932. Assigned to Dept. of State, Mar. 17, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Brewster H. Marris</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>1/10/1936R<lb/>EFFECTIVE<lb/>1/23/1937C</cell>
+                        <cell>Pa. Oct. 16, 1939 Assigned to Berlin, Aug. 31, 1940.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2477" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaspe, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2476" type="prev"/>
+                <relatedItem target="c2478" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2477f1">
+                <graphic height="3632px" url="03294.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gaspe, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1856</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03294</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2477">
+        <body>
+            <div corresp="#c2477f1">
+                <head>Gaspi, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William W. Merriam</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 12, 1856 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Fitnam</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 9, 1861 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Le Boutillier</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>July 12, 1862 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edmond C. Getty</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y</cell>
+                        <cell>Mar. 18, 1867 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. Holt</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y</cell>
+                        <cell>July 30, 1869 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Almar F. Dickson</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 21, 1870 Conf.</cell>
+                        <cell>Apr. 17, 1871 Conf.</cell>
+                        <cell>Com'n <lb/> Aug. 2, 1887 Appt Cons. St. Pierre 8/5/07 cancelled</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 16, 1888 Conf.</cell>
+                        <cell/>
+                        <cell>Appt Cons. Tapachula 6/10/1908.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

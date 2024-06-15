@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2000" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cabano, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1999" type="prev"/>
+                <relatedItem target="c2001" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2000f1">
+                <graphic height="3628px" url="02680.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cabano, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1902</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02680</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2000f2">
+                <graphic height="3628px" url="02681.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cabano, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02681</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2000">
+        <body>
+            <div corresp="#c2000f1">
+                <head>Cabano, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jay With Hall</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Me.</cell>
+                        <cell>Mar. 25, 1902.</cell>
+                        <cell>Resigned July 17, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell>Clk. Dept.</cell>
+                        <cell>Thomas J. Hammond</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Me.</cell>
+                        <cell>Sept. 6, 1906.</cell>
+                        <cell>Oct. 1, 1906 to Mar. 31, 1913. <lb/> Resigned effect Mar. 31,
+                            1913.</cell>
+                    </row>
+                    <row>
+                        <cell>of State</cell>
+                        <cell>Luther O. Keceton</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Miss. Miss.</cell>
+                        <cell>Aug. 16, 1913.</cell>
+                        <cell>Did not go to Post 9/11/13. <lb/> Appt'd Con. Agt, Edmundston
+                            9/11/13.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry C. Hamel</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Me.</cell>
+                        <cell>Oct. 22, 1913.</cell>
+                        <cell>Appt'd Con. Agt, Armprior 9/22/19.</cell>
+                    </row>
+                </table>
+                <p>Agency closed October 15, 1917.</p>
+            </div>
+            <div corresp="#c2000f2">
+                <head>Cabano, Quebec.</head>
+                <p>J. A. Riqué, of Cabano, in temp. charge of Szeney about Apr. 7, 1913 to; learned
+                    over to Manuel James Dec. 31, 1913.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

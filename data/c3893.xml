@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3893" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santo Domingo, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3892" type="prev"/>
+                <relatedItem target="c3894" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3893f1">
+                <graphic height="3634px" url="05075.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santo Domingo, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05075</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3893">
+        <body>
+            <div corresp="#c3893f1">
+                <head>SANTO DOMINGO, Dominican Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Santo Domingo</cell>
+                        <cell>James M. Hall</cell>
+                        <cell>FSS</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell/>
+                        <cell>To Ciudad Juárez as Cons. 8-29-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John Hugh Crimmins</cell>
+                        <cell>FSO</cell>
+                        <cell>1 Gen.</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                        <cell>also Counselor of Embassy &amp; Deputy Chief of Mission, charge
+                            d'affaires fai. with pers. rank of Min.<lb/>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Rio de Janeiro</cell>
+                        <cell>Lowell C. Kilday</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Consul</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                        <cell>Also 1st Sec. Also Counselor of Embassy<lb/>3-3-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Frank J. Devine</cell>
+                        <cell>FSO</cell>
+                        <cell>2 Cons.</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell>Also Dep. Chief of Mission 6-28-66<lb/>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>David Santo Domingo</cell>
+                        <cell>David E. Simcox</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Feb. 14, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Domingo</cell>
+                        <cell>Richard H. Melton</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Jane M. Potter</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Consul</cell>
+                        <cell>Feb. 28, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

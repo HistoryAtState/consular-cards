@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3487" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ponta Delgada, Sao Miguel, Azores</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3486" type="prev"/>
+                <relatedItem target="c3488" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3487f1">
+                <graphic height="3632px" url="04561.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ponta Delgada, Sao Miguel, Azores</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04561</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3487f2">
+                <graphic height="3632px" url="04562.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ponta Delgada, Sao Miguel, Azores</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04562</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3487">
+        <body>
+            <div corresp="#c3487f1">
+                <head>Ponta Delgada, Sao Miguel Azores</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>William P. Boswell</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>b. J.</cell>
+                        <cell>June 27, 1950</cell>
+                        <cell>To Le Havre as V.C. 9-22-53</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Dublin J. Alfred La Fremiere</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>mase.</cell>
+                        <cell>May 11, 1951</cell>
+                        <cell>Designated Consul, Ponta Delgada 9-20-51</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Oporto Stanley M. Howe</cell>
+                        <cell>Vice Cons. US</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Sept. 21, 1953</cell>
+                        <cell>To Montreal as V.C. 7-9-54 <lb/> Iss Officer, assigned to Dept.
+                            1-16-55.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Liverpool Julian E. Merris, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 3, 1955</cell>
+                        <cell>Resigned exz. COB 6-10-57.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George D. Clee, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James W. McGunnigle</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3487f2"/>
+        </body>
+    </text>
+</TEI>

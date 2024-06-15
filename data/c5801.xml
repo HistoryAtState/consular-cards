@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5801" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5800" type="prev"/>
+                <relatedItem target="c5802" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5801f1">
+                <graphic height="3636px" url="07588.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07588</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5801f2">
+                <graphic height="3583px" url="07589.tif" width="5951px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07589</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5801">
+        <body>
+            <div corresp="#c5801f1">
+                <head>Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Yasunosuke Tukukita</cell>
+                        <cell>Clerk</cell>
+                        <cell>Japan Japan</cell>
+                        <cell>Oct. 1, 1905</cell>
+                        <cell>(Data re. clerks prior to 1905 not obtainable)</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry St. Hawley</cell>
+                        <cell>"</cell>
+                        <cell>N.J. N.Y.</cell>
+                        <cell>Nov. 1, 1909.</cell>
+                        <cell>Resigned Nov. 9, 1912</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>M. Mochizuki</cell>
+                        <cell>"</cell>
+                        <cell>Japan Japan</cell>
+                        <cell>Nov. 9, 1912.</cell>
+                        <cell>Assigned to Yokkaichi Oct. 5, 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. B. Andrews</cell>
+                        <cell>"</cell>
+                        <cell>Ill. Ill.</cell>
+                        <cell>Sept. 24, 1914</cell>
+                        <cell>Appt'd Consul, Class 8, Sept. 14, 1917.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Out</cell>
+                        <cell>1915</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Resigned Oct. 31, 1915.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5801f2">
+                <head>Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell/>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John T. B. Reed</cell>
+                        <cell/>
+                        <cell>American citizen</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 5, 1917</cell>
+                        <cell>leaved Oct. 18, 1917</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harvey F. Oltmans</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 20, 1917</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thontas F. C. Smith</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 12, 1918</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Leary Baldwin</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 6, 1918</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

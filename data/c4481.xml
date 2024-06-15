@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4481" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Berlin, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4480" type="prev"/>
+                <relatedItem target="c4482" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4481f1">
+                <graphic height="3632px" url="05839.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Berlin, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05839</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4481">
+        <body>
+            <div corresp="#c4481f1">
+                <head>Berlin, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Stutt gast</cell>
+                        <cell>Edwin H. Rohde</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 1, 1951</cell>
+                        <cell>To Frankfort as V.C. 8-16-52</cell>
+                    </row>
+                    <row>
+                        <cell>rc.<lb/>Athens</cell>
+                        <cell>Miss Helen W. Rose</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 1, 1952</cell>
+                        <cell>Designated Consul,<lb/>Berlin 7-28-56.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Michael B Lustgarten</cell>
+                        <cell>Viceconsul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 2, 1952</cell>
+                        <cell>To New Delhi as attache - 6-25-55<lb/>FSS</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>Miss Virginia Ellás</cell>
+                        <cell>Vice Cons. U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 1, 1953</cell>
+                        <cell>To Tokyo as V.C. 12-17-55</cell>
+                    </row>
+                    <row>
+                        <cell>Procurement<lb/>Officer,<lb/>Berlin</cell>
+                        <cell>Theron S. Henderson</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 5, 1954</cell>
+                        <cell>Designated VC of career<lb/>Berlin 7-26-55</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Paris</cell>
+                        <cell>S. Douglas Martin</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 1, 1954</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Edmund Burke</cell>
+                        <cell>Vice Cons..</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March 10, 1955</cell>
+                        <cell>Transferred from FSS to FSR<lb/>9-3-55</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stephen J. Shuttack</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 4, 1955</cell>
+                        <cell>Transferred from FSS to FSR 7-10-59<lb/>FSR off. assigned to
+                            Berlin,<lb/>57.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Mary A. Newman</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1964</cell>
+                        <cell>To México as V.C.<lb/>(FSS), 12-5-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Sidney L. Woollons</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 27, 1965</cell>
+                        <cell>Designated Consul (FSS)<lb/>Berlin, 12-11-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Betty Nussbaum</cell>
+                        <cell>V.Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

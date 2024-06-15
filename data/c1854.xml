@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1854" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bastia, Corsica</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1853" type="prev"/>
+                <relatedItem target="c1855" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1854f1">
+                <graphic height="3628px" url="02476.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bastia, Corsica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02476</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1854">
+        <body>
+            <div corresp="#c1854f1">
+                <head>Bastia, Corsica.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>O.A. Gaudin</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 7, 1882</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Simon Damiani</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 30, 1886</cell>
+                        <cell>went out at time of closing agency</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed Aug. 27, 1919</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1078" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port of Marbella, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1077" type="prev"/>
+                <relatedItem target="c1079" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1078f1">
+                <graphic height="3626px" url="01435.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port of Marbella, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01435</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1078">
+        <body>
+            <div corresp="#c1078f1">
+                <head>Port of Marbella, Spain. (under Malaga)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(d.) Miguel Calzado</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 5, 1870.</cell>
+                        <cell>Died Apr. 11, 1899.</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Oct. 7, 1899; Closed Oct. 11, 1899.</p>
+                <p>(Miguel Calzado (son of above) Closed office &amp; forwarded archives to Malaga
+                    Oct. 11, 1899.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6006" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6005" type="prev"/>
+                <relatedItem target="c6007" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6006f1">
+                <graphic height="3626px" url="07867.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07867</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6006f2">
+                <graphic height="3626px" url="07868.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07868</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6006">
+        <body>
+            <div corresp="#c6006f1"/>
+            <div corresp="#c6006f2"/>
+        </body>
+    </text>
+</TEI>

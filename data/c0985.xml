@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0985" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paso Del Norte, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0984" type="prev"/>
+                <relatedItem target="c0986" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0985f1">
+                <graphic height="3630px" url="01316.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paso Del Norte, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01316</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0985">
+        <body>
+            <div corresp="#c0985f1">
+                <head>Paso del Norte, Mexico. (see Ciudad Juarez)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George O. Edgerton</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 20, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William F. Hellen</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>New Mex</cell>
+                        <cell>July 24, 1868.</cell>
+                        <cell/>
+                        <cell>to Sept. 1874.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William M. Pierson</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 25, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Kohlberg</cell>
+                        <cell>U.S. Coml. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 16, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. Kohlberg</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 12, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Solomon Schutz</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 15, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Barker Burnell</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass</cell>
+                        <cell>June 30, 1884.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ben Jenkins</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>July 6, 1887.</cell>
+                        <cell/>
+                        <cell>Declined.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. F. Crosby</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Apr. 11, 1888.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William B. M. Lachlen U.S.D.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 8, 1890.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles E. Lesche</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 30, 1894.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

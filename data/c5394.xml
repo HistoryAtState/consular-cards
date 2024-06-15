@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5394" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Poland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5393" type="prev"/>
+                <relatedItem target="c5395" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5394f1">
+                <graphic height="3602px" url="07023.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Poland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="14.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07023</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5394">
+        <body>
+            <div corresp="#c5394f1">
+                <head>POLAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Alfred P. Brainard</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Walter E. Jenkins, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell>Couns. of Emb.</cell>
+                        <cell>also Consul &amp; Deputy Chief of mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gary L. Matthews</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Barclay Ward</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Can-berra</cell>
+                        <cell>Norman E. Terrell</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Joseph G. Simanis</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Oct. 9, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Harry E. Christie</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Feb. 12, 1967</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

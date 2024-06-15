@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0502" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lurgan, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0501" type="prev"/>
+                <relatedItem target="c0503" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0502f1">
+                <graphic height="3632px" url="00685.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lurgan, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00685</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0502">
+        <body>
+            <div corresp="#c0502f1">
+                <head>Lurgan, Ireland (under Belfast)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick W Magahan</cell>
+                        <cell>Con. Sgt. Gr.Br.</cell>
+                        <cell/>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell>Mar. 29, 1882.</cell>
+                        <cell>Out closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed December 31, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

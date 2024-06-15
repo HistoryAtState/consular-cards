@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2419" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fortaleza, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2418" type="prev"/>
+                <relatedItem target="c2420" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2419f1">
+                <graphic height="3630px" url="03223.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fortaleza, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03223</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2419">
+        <body>
+            <div corresp="#c2419f1">
+                <head>Fortaleza, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Florianopolis</cell>
+                        <cell>Reginald S. Kazanjian</cell>
+                        <cell>F.5.0.</cell>
+                        <cell>7</cell>
+                        <cell>6-1-42c Consul</cell>
+                        <cell>6-26-42 6-15-42</cell>
+                        <cell>R.Í.</cell>
+                        <cell>Dec. 16, 1942</cell>
+                        <cell>assigned to Rio de Janeiro as 2d Secy. &amp; Consul 7-30-43</cell>
+                    </row>
+                    <row>
+                        <cell>Rio de Janeiro</cell>
+                        <cell>Prescott Childs</cell>
+                        <cell>F.3.0.</cell>
+                        <cell>5</cell>
+                        <cell>9-29-41 Consul</cell>
+                        <cell>8-1-41 5-9-30</cell>
+                        <cell>Mass.</cell>
+                        <cell>Feb. 6, 1943</cell>
+                        <cell>also 2d Secy. Janeiro 4-5-43</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Walter W. Hoffman</cell>
+                        <cell>F.8.0.</cell>
+                        <cell>7</cell>
+                        <cell>11-2-42 Consul</cell>
+                        <cell>EFFECTIVE 8-19-43R</cell>
+                        <cell>Calif</cell>
+                        <cell>Sept 28, 1943</cell>
+                        <cell>Assigned as F.S.O on staff of U.S. Pol. Adv. on German Affairs,
+                            7-23-45</cell>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Coldwell S. Johnston</cell>
+                        <cell>F.L.0.</cell>
+                        <cell>8</cell>
+                        <cell>10-20-42c 9-29-43C</cell>
+                        <cell>7-17-41C Consul</cell>
+                        <cell>New.</cell>
+                        <cell>July 23, 1945</cell>
+                        <cell>Hoechst, Germany. 3-5-47. <lb/> So. Mexico Consul + 3d Secty.
+                            6-12-47.</cell>
+                    </row>
+                    <row>
+                        <cell>consul</cell>
+                        <cell>Eugene L. Padberg, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>To Tehran as Cons. &amp; 2d Sec. 10-22-53.</cell>
+                    </row>
+                </table>
+                <p>Closed to the Public June 30, 1953</p>
+                <p>officially closed August 15, 1953</p>
+                <p>Consul mo. Mar 31, 1953</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1600" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Torrevieja, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1599" type="prev"/>
+                <relatedItem target="c1601" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1600f1">
+                <graphic height="3624px" url="02135.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Torrevieja, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02135</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1600f2">
+                <graphic height="3624px" url="02136.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Torreviya, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1853</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02136</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1600">
+        <body>
+            <div corresp="#c1600f1">
+                <head>Torrejón, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ceferino Palavera</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 6, 1882.</cell>
+                        <cell>July 1882 to Dec. 6, 1890. <lb/> Died Dec. 6, 1890.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franz Grieg</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Norway</cell>
+                        <cell/>
+                        <cell>Jan. 16, 1891.</cell>
+                        <cell>Dec. 9, 1890 to Mar. 1893. <lb/> Resigned Apr. 12, 1893.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob Oscar Paulsen</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Denmark</cell>
+                        <cell/>
+                        <cell>May 6, 1893.</cell>
+                        <cell>Died May 1894. <lb/> Exequatur canceled by war <lb/> Apr. 21,
+                            1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José Nodar</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Spain</cell>
+                        <cell/>
+                        <cell>June 7, 1894.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed Sept. 16, 1899.</p>
+            </div>
+            <div corresp="#c1600f2">
+                <head>Torrevieja, Spain.</head>
+                <p>Anthony H. Sanchez, Span. subject, Cons. Agent (appt'd by Consul at Alicante)
+                    July 1853? to Feb. 1854?<lb/>nomination not confirmed by Secretary of State,</p>
+                <p>Manuel Ballester, sety in charge (absence of Agent) Mar. 1, 1893 to May 1893.</p>
+                <p>Geronimo Sanchez " " " " " " July 1897 to (for 4 weeks)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

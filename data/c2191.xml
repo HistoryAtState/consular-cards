@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2191" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Djeb River, Bayounich, Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2190" type="prev"/>
+                <relatedItem target="c2192" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2191f1">
+                <graphic height="3634px" url="02921.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Djeb River, Bayounich, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1850</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02921</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2191">
+        <body>
+            <div corresp="#c2191f1">
+                <head>Djeb River, Bayounich, Africa. (see River Djeb.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander J Cotheal</cell>
+                        <cell>Omit. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 27, 1850 by Secy.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

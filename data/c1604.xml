@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1604" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Townsville, Queensland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1603" type="prev"/>
+                <relatedItem target="c1605" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1604f1">
+                <graphic height="3626px" url="02142.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Townsville, Queensland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02142</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1604f2">
+                <graphic height="3626px" url="02143.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Townsville, Queensland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02143</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1604">
+        <body>
+            <div corresp="#c1604f1"/>
+            <div corresp="#c1604f2">
+                <head>Townsville, Queensland</head>
+                <p>D. J. Brownhill, in charge during absence of Rogers (#322 7/1/04) six mos.
+                    previous to Dec. 1, 1905,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

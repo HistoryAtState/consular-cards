@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3676" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belgrade, Yugoslavia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3675" type="prev"/>
+                <relatedItem target="c3677" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3676f1">
+                <graphic height="3628px" url="04808.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belgrade, Yugoslavia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04808</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3676">
+        <body>
+            <div corresp="#c3676f1">
+                <head>Belgrade, Yugoslavia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>v.c.<lb/>Paris<lb/>v.c.<lb/>Fortaleza</cell>
+                        <cell>Miss Jean V. Smith</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 28, 1952</cell>
+                        <cell>To Palermo as V.C. 6-27-55.<lb/>Designated Consul 2d sec.<lb/>Belgrade
+                            8-2-54.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard A. Godfrey</cell>
+                        <cell>Vice Cons. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>Mar. 6, 1953</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Herbert Kaiser</cell>
+                        <cell>V.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Sept. 24, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Loretta Freedman</cell>
+                        <cell>V.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

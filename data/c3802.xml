@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3802" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. John's, Newfoundland, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3801" type="prev"/>
+                <relatedItem target="c3803" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3802f1">
+                <graphic height="3638px" url="04964.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. John's, Newfoundland, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04964</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3802">
+        <body>
+            <div corresp="#c3802f1">
+                <head>ST. JOHN'S, Newfoundland, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Santo Domingo</cell>
+                        <cell>Clarence J. McIntosh</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Monrovia</cell>
+                        <cell>Russell L. Riley</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Aug. 29, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also Con.Gen. for The French Overseas Territory of Saint Pierre &amp;
+                    Miquelon</p>
+            </div>
+        </body>
+    </text>
+</TEI>

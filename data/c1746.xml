@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1746" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wolverhampton, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1745" type="prev"/>
+                <relatedItem target="c1747" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1746f1">
+                <graphic height="3620px" url="02325.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Wolverhampton, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1869</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02325</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1746f2">
+                <graphic height="3620px" url="02326.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Wolverhampton, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02326</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1746">
+        <body>
+            <div corresp="#c1746f1">
+                <head>Wolverhampton, England. (under Birmingham)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Neve</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 16, 1869</cell>
+                        <cell>Resigned June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward T. Creswell</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 10, 1906.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed December 31, 1909.</p>
+            </div>
+            <div corresp="#c1746f2">
+                <head>Wolverhampton, England.</head>
+                <p>C. J. Cresswell authorized to act during absence of Agent Reve.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

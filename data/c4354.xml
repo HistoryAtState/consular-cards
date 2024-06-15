@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4354" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zomba, Malawi</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4353" type="prev"/>
+                <relatedItem target="c4355" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4354f1">
+                <graphic height="3654px" url="05666.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Zomba, Malawi</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05666</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4354">
+        <body>
+            <div corresp="#c4354f1">
+                <head>ZOMBA, Malawi</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Blantyre</cell>
+                        <cell>Gordon A. Cornell</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell>Also 3d Sec. Assigned to the Dept., 12-20-64</cell>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>David Segal</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 21, 1964</cell>
+                        <cell>Also 3d Sec. 780 assigned to the Dept., 3-1-65.</cell>
+                    </row>
+                </table>
+                <head>ZOMBA, Republic of Malawi (as of 7-6-66)</head>
+                <table>
+                    <row role="label">
+                        <cell>Blantyre</cell>
+                        <cell>Robert W. Holliday</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 6, 1966</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Algiers</cell>
+                        <cell>John M. Yates</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 19, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+                <p>Embassy established July 6, 1964.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

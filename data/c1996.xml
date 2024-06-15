@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1996" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bushire, Persia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1995" type="prev"/>
+                <relatedItem target="c1997" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1996f1">
+                <graphic height="3634px" url="02675.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bushire, Persia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1884</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02675</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1996">
+        <body>
+            <div corresp="#c1996f1">
+                <head>Bushire, Persia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Tigranes J. Malcolm</cell>
+                        <cell>Con. Agh Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 5, 1884.</cell>
+                        <cell>Resig. demanded by Dept.<lb/>Aug. 19/96Xly C.S. Oct. 3/96</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Dec. 14, 1896.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

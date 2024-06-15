@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0616" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Moncton, New Brunswick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0615" type="prev"/>
+                <relatedItem target="c0617" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0616f1">
+                <graphic height="3630px" url="00833.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Moncton, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00833</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0616f2">
+                <graphic height="3630px" url="00834.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Moncton, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1936</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00834</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0616">
+        <body>
+            <div corresp="#c0616f1">
+                <head>Moncton, New Brunswick</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Shanghai</cell>
+                        <cell>Hedley V. Cooke, Jr.</cell>
+                        <cell>F.C.O.</cell>
+                        <cell><unclear>Unc.</unclear> 12/19/1929</cell>
+                        <cell>N.J.</cell>
+                        <cell>Aug. 16, 1935</cell>
+                        <cell>Asagd. to Glasgow, Dec. 19, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate closed December 31, 1936</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0616f2">
+                <head>Moncton, N.B.</head>
+                <p>Medley D. Cooke, Jr., detailed to Dept. State, temps., Apr. 8, 1956.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

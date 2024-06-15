@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0546" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manta, Ecuador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0545" type="prev"/>
+                <relatedItem target="c0547" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0546f1">
+                <graphic height="3630px" url="00744.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manta, Ecuador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00744</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0546">
+        <body>
+            <div corresp="#c0546f1">
+                <head>Manta, Ecuador.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Carl W. E. Burghard</cell>
+                        <cell>Com. Agt. Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 27, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pedro Gualberto Cordova</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 20, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pedro A. Moreira</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 7, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>José Moreira</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ecuador</cell>
+                        <cell/>
+                        <cell>Ecuador Nov. 3, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pedro A. Moreira</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 7, 1893.</cell>
+                        <cell>Resigned Feb. 1902.</cell>
+                    </row>
+                    <row>
+                        <cell>Paul Gonzenbach (n)</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 5, 1902.</cell>
+                        <cell>Resigned June 18, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell>Max Voeldker</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 17, 1907.</cell>
+                        <cell>Out of Closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed March 8, 1912</p>
+            </div>
+        </body>
+    </text>
+</TEI>

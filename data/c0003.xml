@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0003" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Abo, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0002" type="prev"/>
+                <relatedItem target="c0004" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0003f1">
+                <graphic height="3626px" url="00004.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Abo, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00004</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0003f2">
+                <graphic height="3626px" url="00005.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Abo, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00005</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0003">
+        <body>
+            <div corresp="#c0003f1">
+                <head>Abo, Russia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Victor Forselius</cell>
+                        <cell>Con. Agt. Persia</cell>
+                        <cell>" "</cell>
+                        <cell>Russia</cell>
+                        <cell>" "</cell>
+                        <cell>May 16, 1890</cell>
+                        <cell>Died April, '05.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Moritz Kramer</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>July 1, 1905.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 31, 1907.</p>
+            </div>
+            <div corresp="#c0003f2">
+                <head>Edwin Möller, in charge as Cons. Sgt. from May 1, 1905 to</head>
+            </div>
+        </body>
+    </text>
+</TEI>

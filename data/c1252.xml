@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1252" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cayenne, French Guiana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1251" type="prev"/>
+                <relatedItem target="c1253" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1252f1">
+                <graphic height="3644px" url="01665.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cayenne, French Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01665</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1252">
+        <body>
+            <div corresp="#c1252f1">
+                <head>Cayenne, French Guiana.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. 3d Boey, Panama</cell>
+                        <cell>Adrian B. Colgiitt</cell>
+                        <cell>7.S.O.</cell>
+                        <cell><unclear>Unc</unclear>.</cell>
+                        <cell>11-16-1939R</cell>
+                        <cell>Ga.</cell>
+                        <cell>Aug. 13, 1940.</cell>
+                        <cell><unclear>App'd</unclear>. Martinique <unclear>allietoneul</unclear>
+                            Jan. 16, 1941. <lb/> To Pointe-a-Pitre as V.C. 6-7-44
+                                <unclear>Cancelled</unclear>
+                            <lb/> To Martinique as V.C. 11-10-44</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Montreal</cell>
+                        <cell>James L. O'Sullivan</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>2-20-1942C</cell>
+                        <cell>Comm.</cell>
+                        <cell>Feb. 5, 1943</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate Closed to the Public 7-10-44</p>
+            </div>
+        </body>
+    </text>
+</TEI>

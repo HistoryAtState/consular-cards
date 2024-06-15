@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2056" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Collo and Phlippeville, Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2055" type="prev"/>
+                <relatedItem target="c2057" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2056f1">
+                <graphic height="3628px" url="02751.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Collo and Phlippeville, Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02751</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2056">
+        <body>
+            <div corresp="#c2056f1">
+                <head>Collo and Philippeville, Algeria. (Office at Collo)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Marius Lyme</cell>
+                        <cell>Con. Agt. Fr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 5, 1881.</cell>
+                        <cell>June 2, 1882 to <lb/> Died Jan. 18, 1897,</cell>
+                    </row>
+                </table>
+                <p>Archives removed to Algiers Jan. 1897.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

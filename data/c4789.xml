@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4789" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cordoba, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4788" type="prev"/>
+                <relatedItem target="c4790" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4789f1">
+                <graphic height="3628px" url="06234.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cordoba, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06234</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4789">
+        <body>
+            <div corresp="#c4789f1">
+                <head>CÓRDOBA, Argentina</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate established eff. Sept. 8, 1962.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward E. Martinez</cell>
+                        <cell>Oct. 15, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter K. Murphy</cell>
+                        <cell>Mar. 29, 1965</cell>
+                        <cell/>
+                        <cell>To Ciudad Juárez as V. C. (FSS)<lb/>7-19-65</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

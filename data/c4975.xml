@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4975" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georgetown, Guyana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4974" type="prev"/>
+                <relatedItem target="c4976" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4975f1">
+                <graphic height="3624px" url="06460.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Georgetown, Guyana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06460</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4975">
+        <body>
+            <div corresp="#c4975f1"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5873" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5872" type="prev"/>
+                <relatedItem target="c5874" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5873f1">
+                <graphic height="3628px" url="07686.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07686</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5873f2">
+                <graphic height="3628px" url="07687.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07687</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5873">
+        <body>
+            <div corresp="#c5873f1">
+                <head>Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Warren Fowle</cell>
+                        <cell>Clerk</cell>
+                        <cell><unclear>Data re, prior alerks not available</unclear></cell>
+                        <cell>Turkey Mass.</cell>
+                        <cell>1906</cell>
+                        <cell>Resigned 10/4, effective 10/14/1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hagop S. Andonian</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Turkerpturkey</cell>
+                        <cell>Nov. 1, 1909</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Wirth, Jr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Aug. 23, 1910</cell>
+                        <cell>Appt'd U.S. Zurich, Dec. 29, 1917.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5873f2">
+                <head>Turkey.</head>
+                <p>Hagop G. Keropian appointed Clerk provisionally by the Ambassador about Oct. 2,
+                    1916; appointment disapproved by the Department Oct. 30, 1916 age of Keropian
+                    not being an American citizen</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2515" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arequipa, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2514" type="prev"/>
+                <relatedItem target="c2516" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2515f1">
+                <graphic height="3604px" url="03340.tif" width="6060px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arequipa, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03340</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2515">
+        <body>
+            <div corresp="#c2515f1">
+                <head>Arequipa, Peru</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Santiago de Cuba 2d Sec. r consul Santiago</cell>
+                        <cell>Franklin Hawley</cell>
+                        <cell>F.S.C.</cell>
+                        <cell>1</cell>
+                        <cell>5-21-45e</cell>
+                        <cell>Consul 6-9-44c</cell>
+                        <cell>Mich.</cell>
+                        <cell>Aug. 31, 1945</cell>
+                        <cell>CANCELLED Affel. Consul Antofagarta, 3-14-46. To CALI, AS CONSUL,
+                            12-23-46. fso assigned to the Dept., 10-28-62.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nicholas V. McCausland</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell>5-45</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Oct. 3, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George C. Mitchell</cell>
+                        <cell>450</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Oct. 1, 1962</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

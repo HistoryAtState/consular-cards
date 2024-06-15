@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0239" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hibara, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0238" type="prev"/>
+                <relatedItem target="c0240" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0239f1">
+                <graphic height="3640px" url="00339.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hibara, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1837</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00339</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0239">
+        <body>
+            <div corresp="#c0239f1">
+                <head>Kibara, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles I. Bullus</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Oct 12,1837 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. (Corr.) Cooke</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Sept. 2,1842 Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

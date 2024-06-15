@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0867" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ritzebuttel, Cuxhaven, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0866" type="prev"/>
+                <relatedItem target="c0868" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0867f1">
+                <graphic height="3640px" url="01166.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ritzebuttel, Cuxhaven, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1869</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01166</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0867">
+        <body>
+            <div corresp="#c0867f1">
+                <head>Ritgebüttel and Cuxhaven, Germany. (see Cuxhaven)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>August Rufe</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Dec. 14, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Heinrich Jonnies</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Mar. 29, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Johann G. F. Starke</cell>
+                        <cell>" "</cell>
+                        <cell>Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>√ June 13, 1890.</cell>
+                        <cell>Died Feb. 6, 1910.</cell>
+                    </row>
+                </table>
+                <p>Closed Feb. 6, 1910 (Cuxhaven)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

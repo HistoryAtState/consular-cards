@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2393" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Faro, Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2392" type="prev"/>
+                <relatedItem target="c2394" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2393f1">
+                <graphic height="3626px" url="03188.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Faro, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1895</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03188</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2393f2">
+                <graphic height="3626px" url="03189.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Faro, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03189</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2393">
+        <body>
+            <div corresp="#c2393f1">
+                <head>Faro, Portugal.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. J. Tavares</cell>
+                        <cell>Con. Sgt.</cell>
+                        <cell>"</cell>
+                        <cell>Portugal</cell>
+                        <cell>"</cell>
+                        <cell>Dec. 21, 1895.</cell>
+                        <cell>Died Feb. 12, 1904.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederico L. Cortes</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Portugal</cell>
+                        <cell>"</cell>
+                        <cell>June 10, 1904</cell>
+                        <cell>Died May 8, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francisco L. Cortes</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 12, 1905.</cell>
+                        <cell>Died Feb. 5, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Antonio C. Ascensão</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 7, 1907.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed April (17) 1908.</p>
+            </div>
+            <div corresp="#c2393f2">
+                <head>Jaro, Portugal</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francisco L. Cortes</cell>
+                        <cell>in charge</cell>
+                        <cell>May 8, 1905 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Federico Tavares Cortes</cell>
+                        <cell/>
+                        <cell>Feb. 6, 1907 to</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

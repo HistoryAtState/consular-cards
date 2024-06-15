@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5691" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pusan, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5690" type="prev"/>
+                <relatedItem target="c5692" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5691f1">
+                <graphic height="3024px" url="07438.tif" width="4808px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pusan, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07438</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5691">
+        <body>
+            <div corresp="#c5691f1">
+                <head>PUSAN, Korea</head>
+                <p>(Temporarily functioning as Embassy since Seoul evacuation)</p>
+                <p>JAS-Since 1/1/49 State and ECA people there. 20 full time State personnel there
+                    since 1/1/49 (Info from FE/Ex-Waddell).</p>
+                <p>PUSAN, Korea - NOT A SEPARATE OFFICE - BRANCH OF SEOUL OFFICE.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

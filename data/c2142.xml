@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2142" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cuba, Island of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2141" type="prev"/>
+                <relatedItem target="c2143" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2142f1">
+                <graphic height="3634px" url="02862.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba, Island of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1805</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02862</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2142">
+        <body>
+            <div corresp="#c2142f1">
+                <head>Cuba, Island of</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Hill, Jr.</cell>
+                        <cell>Con. Sen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N. Y.</cell>
+                        <cell>Mar. 11, 1805 recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Bolling Robertson</cell>
+                        <cell>Political</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 7, 1825 by Seey</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel P. Cook</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 12, 1827 " " </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard K. Call</cell>
+                        <cell>U.S. Special</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 30, 1829 " " </cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

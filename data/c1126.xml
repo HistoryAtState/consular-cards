@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1126" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Petersburg, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1125" type="prev"/>
+                <relatedItem target="c1127" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1126f1">
+                <graphic height="3634px" url="01501.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Petersburg, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01501</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1126">
+        <body>
+            <div corresp="#c1126f1">
+                <head>St. Petersburg, Russia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Liege</cell>
+                        <cell>Paul Bartlett</cell>
+                        <cell>VoD.Con. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Taunton, Mass.</cell>
+                        <cell>Ill. Aug. 22, 1913.</cell>
+                        <cell>Resigned by tel. May 28, 1914.<lb/>Made Vice Consul by<lb/>Act of Feb.
+                            5, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Victor Hugo Duras</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nebr. N.Y.</cell>
+                        <cell>Aug. 7, 1914.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(see Petrograd)</p>
+                <p>By order of the Emperor dated Aug. 31, 191×<lb/>the name St. Petersburg was
+                    changed to Petrograd</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0186" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cape Francois, San Domingo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0185" type="prev"/>
+                <relatedItem target="c0187" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0186f1">
+                <graphic height="3630px" url="00271.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cape Francois, San Domingo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1796</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00271</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0186">
+        <body>
+            <div corresp="#c0186f1">
+                <head>Cape Francois, San Domingo.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob Mayer</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>May 30, 1796 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Hammond</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>May 21, 1800 Conf.</cell>
+                        <cell>Comm" recorded Vol 1 to 81</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

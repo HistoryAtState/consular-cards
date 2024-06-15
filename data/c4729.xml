@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4729" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cayman Islands, the</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4728" type="prev"/>
+                <relatedItem target="c4730" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4729f1">
+                <graphic height="3632px" url="06162.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cayman Islands, the</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06162</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4729">
+        <body>
+            <div corresp="#c4729f1">
+                <head>CAYMAN ISLANDS, The</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>Edward T. Walters</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>July 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>Miss Emily Perreault</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>July 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>S. Morey Bell</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>July 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>Vernon D. McAninch</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Consul</cell>
+                        <cell>July 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David Wilken</cell>
+                        <cell>FSO</cell>
+                        <cell>1 Gen.</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also 1st Sec. &amp; Con. Kingston</p>
+                <p>Also 2d Sec. &amp; Con. Kingston</p>
+                <p>Also 2d Sec. &amp; Con. Kingston</p>
+                <p>also 2d Sec. + Cons. Kingston.</p>
+                <p>Also Consul Gen. Counselor of Embrf deputy chief of Mission, Kingston</p>
+            </div>
+        </body>
+    </text>
+</TEI>

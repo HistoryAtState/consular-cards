@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1511" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tahiti, Society Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1510" type="prev"/>
+                <relatedItem target="c1512" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1511f1">
+                <graphic height="3626px" url="02015.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tahiti, Society Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02015</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1511">
+        <body>
+            <div corresp="#c1511f1">
+                <head>Tahiti, Society Islands</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Medan</cell>
+                        <cell>Edward B. Rand</cell>
+                        <cell>2.2.0.</cell>
+                        <cell>Une.</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>La.</cell>
+                        <cell>Sep. 29, 1932.</cell>
+                        <cell>Apptd. 8. 10. Class 8, also Consul Jan. 22, 1935;<lb/>assigned as
+                            Consul, Jan. 24, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>FSD</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Jawa</cell>
+                        <cell>Nov. 12, 1947</cell>
+                        <cell>To Cantonas V.C. 10-29-48</cell>
+                    </row>
+                </table>
+                <p>Consulate officially closed October 31, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

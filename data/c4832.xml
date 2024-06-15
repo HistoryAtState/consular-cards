@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4832" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dar-es Salaam, United Republic of Tanzania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4831" type="prev"/>
+                <relatedItem target="c4833" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4832f1">
+                <graphic height="3628px" url="06288.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dar-es Salaam, United Republic of Tanzania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06288</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4832">
+        <body>
+            <div corresp="#c4832f1">
+                <head>DAR-ES-SALAAM, United Republic of Tanzania</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>John Y. Millar</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>F.S.O. Graduate Econ. Traince, Medford, Mass</cell>
+                        <cell>James C. Curran</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George B. Roberts, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 19, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also counselor of Embassy &amp; Deputy Chief of Mission.</p>
+                <p>Also 2d Sec.</p>
+                <p>Also 2d Sec.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

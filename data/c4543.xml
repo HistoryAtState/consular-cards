@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4543" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bonn, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4542" type="prev"/>
+                <relatedItem target="c4544" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4543f1">
+                <graphic height="3628px" url="05920.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bonn, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1954</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05920</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4543">
+        <body>
+            <div corresp="#c4543f1">
+                <head>BONN, GERMANY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Mrs. Ruth B. Charles Cancelled</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 5, 1954</cell>
+                        <cell>Designated V.C. of career<lb/>Bonn 7-28-56</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Melville E. Blake, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 17, 1954</cell>
+                        <cell>Designated FSO's, Consul, &amp; Sec. in<lb/>Dipl. Service, 3-13-52,
+                            Bonn</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Hugh N. Whitaker</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell/>
+                        <cell>Jan. 21, 1952</cell>
+                        <cell>Designated V.C. (F.S.O.),<lb/>Bonn, 4-11-55.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Joseph A. Livornese</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 22, 1953</cell>
+                        <cell>To Hamburg as Visa Asst.<lb/>(FSS) 7-29-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Harriet C. Woodworth</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 27, 1955</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

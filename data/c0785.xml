@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0785" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pugwash, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0784" type="prev"/>
+                <relatedItem target="c0786" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0785f1">
+                <graphic height="3624px" url="01063.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pugwash, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1861</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01063</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0785">
+        <body>
+            <div corresp="#c0785f1">
+                <head>Pugwash, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry G. Gines</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Feb. 25, 1861.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. R. Salter</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell><unclear>Pugwash</unclear> &amp; <unclear>Wallace</unclear></cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>✓ July 23, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Conrad W. Morris</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>✓ Sept. 11, 1888,</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 18, 1906,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

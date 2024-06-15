@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3273" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>For the Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3272" type="prev"/>
+                <relatedItem target="c3274" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3273f1">
+                <graphic height="3602px" url="04292.tif" width="6042px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>For the Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04292</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3273">
+        <body>
+            <div corresp="#c3273f1">
+                <head>For the Netherlands</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>George J. Haering</cell>
+                        <cell>7.10.</cell>
+                        <cell>3</cell>
+                        <cell>8-12-44</cell>
+                        <cell>Consul</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 22, 1944</cell>
+                        <cell>Consul 1st Secty near the Govt. of the Netherlands, est. in London.
+                            <lb/> Temp. Detail at Berlin - 2/25/46 <lb/> To the Dept. 5-13-46</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

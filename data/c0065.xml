@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0065" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amoy, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0064" type="prev"/>
+                <relatedItem target="c0066" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0065f1">
+                <graphic height="3626px" url="00095.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amoy, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00095</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0065">
+        <body>
+            <div corresp="#c0065f1">
+                <head>Amoy, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Chefoo</cell>
+                        <cell>Lynn H. Franklin</cell>
+                        <cell>8.80</cell>
+                        <cell>6</cell>
+                        <cell>7/2/1930</cell>
+                        <cell>Consul 6-22-22</cell>
+                        <cell>Md.</cell>
+                        <cell>Aug. 8, 1931</cell>
+                    </row>
+                    <row>
+                        <cell>Port</cell>
+                        <cell>Hasell H. Dick</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>5/9/1930</cell>
+                        <cell>Consul 9-14-17</cell>
+                        <cell>So. Car.</cell>
+                        <cell>Oct. 25, 1933</cell>
+                    </row>
+                    <row>
+                        <cell>Eliz Consul/st</cell>
+                        <cell>Karl de G. Mac Vitty</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>10/1/1935R</cell>
+                        <cell>Consul 9-15-19</cell>
+                        <cell><unclear>Dann</unclear>.</cell>
+                        <cell>May 24, 1938</cell>
+                    </row>
+                    <row>
+                        <cell>Secy of End. Peiping</cell>
+                        <cell>H. Merrell Benninghoff</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>4-22-37</cell>
+                        <cell>Consul 1-22-35</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 21, 1939</cell>
+                    </row>
+                    <row>
+                        <cell>class 7</cell>
+                        <cell>H. Merrell Benninghoff</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>11-16-39R</cell>
+                        <cell>Do</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Do</cell>
+                    </row>
+                    <row>
+                        <cell>Harbin</cell>
+                        <cell>George R. Merrell</cell>
+                        <cell>Do</cell>
+                        <cell>3</cell>
+                        <cell>6-17-38</cell>
+                        <cell>Consul 8-17-37</cell>
+                        <cell>mo.</cell>
+                        <cell>Sept. 26, 1940</cell>
+                    </row>
+                    <row>
+                        <cell>Tientsin</cell>
+                        <cell>James B. Pilcher</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>5-12-38</cell>
+                        <cell>Consul 10-1-35</cell>
+                        <cell>Da.</cell>
+                        <cell>Apr. 17, 1941</cell>
+                    </row>
+                    <row>
+                        <cell>cl. 6</cell>
+                        <cell>H. Merrell Benninghoff</cell>
+                        <cell>Do</cell>
+                        <cell>5</cell>
+                        <cell>9-29-41</cell>
+                        <cell>Consul 1-22-35</cell>
+                        <cell>N.Y.</cell>
+                        <cell><unclear>Under assignment of July 21, 1939.</unclear></cell>
+                    </row>
+                </table>
+                <p>Assigned to Barcelona, Oct. 25, 1933</p>
+                <p>Assgd. to Strasbourg. Oct. 7, 1937.</p>
+                <p>Assgd. Con. Noumea, Feb. 5, 1941. <lb/> to Sept. 30, 1939.</p>
+                <p>Apptd. F.S.O., cl. 6, Nov. 16, 1939</p>
+                <p>Apptd. F.S.O., Cl. 5, Aug. 16, 1941.</p>
+                <p>Assgd. Calcutta, Apr. 21, 1941.</p>
+                <p>Temp. assignment.</p>
+                <p>To report Jan. 2, 1942</p>
+                <p>To Sept. on Nov. 5, 1941.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

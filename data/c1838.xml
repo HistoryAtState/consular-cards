@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1838" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bari, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1837" type="prev"/>
+                <relatedItem target="c1839" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1838f1">
+                <graphic height="3612px" url="02454.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bari, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02454</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1838">
+        <body>
+            <div corresp="#c1838f1">
+                <head>Bari, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Mary Willis Mc Kenzie</cell>
+                        <cell>Vice Cou.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1951</cell>
+                        <cell>To Hong Kong as V.C. 11-13-53 <lb/> To Naples as V.C. (detail) <lb/>
+                            To Naples as Cultural Affairs <lb/> Officer (Fss) 10-9-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rolf Jacoby</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 23, 1952</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed to public Aug. 14, 1953. Officially closed Oct. 18, 1953</p>
+            </div>
+        </body>
+    </text>
+</TEI>

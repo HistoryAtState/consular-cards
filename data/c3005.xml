@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3005" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Medan, Sumatra, Republic of Indonesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3004" type="prev"/>
+                <relatedItem target="c3006" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3005f1">
+                <graphic height="3624px" url="03959.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Medan, Sumatra, Republic of Indonesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03959</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3005">
+        <body>
+            <div corresp="#c3005f1">
+                <head>MEDAN, Sumatra, Republic of Indonesia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Djakarta</cell>
+                        <cell>Robert G. Rich, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell>Francis E. Ward</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <cell>REMARKS</cell>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2058" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cologne, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2057" type="prev"/>
+                <relatedItem target="c2059" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2058f1">
+                <graphic height="3636px" url="02754.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cologne, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02754</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2058">
+        <body>
+            <div corresp="#c2058f1">
+                <head>Cologne, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Albert Forster</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Feb. 1, 1926.</cell>
+                        <cell>Appt'd V.C., Berlin Apr. 15, 1926</cell>
+                    </row>
+                    <row>
+                        <cell>Madras</cell>
+                        <cell>Edward S. Parker</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>S.Car.</cell>
+                        <cell>S.Car.</cell>
+                        <cell>June 30, 1926</cell>
+                        <cell>Asgd. Matamoros, July 17, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Albert Forster</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 17, 1926</cell>
+                        <cell>Appt'd V.C., Berlin May 1, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Copenhagen</cell>
+                        <cell>Julius C. Jensen</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Wis.</cell>
+                        <cell>Wyo.</cell>
+                        <cell>Dec. 7, 1926.</cell>
+                        <cell>Assigned to Oslo Mar. 14, 1928. <lb/> May 2, 1928, to Sept. 1,
+                            1928</cell>
+                    </row>
+                    <row>
+                        <cell>Oslo</cell>
+                        <cell>Helge Krogse<unclear>ng</unclear></cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Norway</cell>
+                        <cell>Minn.</cell>
+                        <cell>Mar. 14, 1928.</cell>
+                        <cell>Resigned effective close Sept. 1, 1928</cell>
+                    </row>
+                    <row>
+                        <cell>Batavia</cell>
+                        <cell>Gerald A. Mokma</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mich.</cell>
+                        <cell>Iowa</cell>
+                        <cell>July 27, 1928.</cell>
+                        <cell>Appt'd V.C., Leipzig Apr. 13, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Stuttgart</cell>
+                        <cell>George C. Minor</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>S. Ba.</cell>
+                        <cell>Mar. 11, 1932.</cell>
+                        <cell>Appt'd V.C., Paris May 21, 1932.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

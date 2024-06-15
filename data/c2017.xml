@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2017" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chuquicamata, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2016" type="prev"/>
+                <relatedItem target="c2018" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2017f1">
+                <graphic height="3632px" url="02707.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chuquicamata, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02707</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2017">
+        <body>
+            <div corresp="#c2017f1">
+                <head>Chuquicamata, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas W. Palmer Jr.</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tuscaloosa, Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>Feb. 6, 1919</cell>
+                        <cell>Resigned effective June 30, 1921 <lb/> Out of account of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1921.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

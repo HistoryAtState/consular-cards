@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5774" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5773" type="prev"/>
+                <relatedItem target="c5775" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5774f1">
+                <graphic height="3628px" url="07547.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07547</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5774">
+        <body>
+            <div corresp="#c5774f1">
+                <head>Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Reyes</cell>
+                        <cell>Clerk</cell>
+                        <cell>Data re clerks prior to 1909 not obtainable)</cell>
+                        <cell>Sept. 25, 1909</cell>
+                        <cell>Appt approved by Dept. Apr. 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Edward Johnson</cell>
+                        <cell>"</cell>
+                        <cell>Treland, La. </cell>
+                        <cell>Apr. 2, 1918.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

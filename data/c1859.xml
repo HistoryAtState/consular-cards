@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1859" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Batavia, Java</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1858" type="prev"/>
+                <relatedItem target="c1860" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1859f1">
+                <graphic height="3622px" url="02483.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Batavia, Java</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02483</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1859">
+        <body>
+            <div corresp="#c1859f1">
+                <head>Batavia, Java (Name changed 12-28-49 See Jakarta)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Secy. Chungking</cell>
+                        <cell>Robert W. Rinden</cell>
+                        <cell>FS0</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Jowa</cell>
+                        <cell/>
+                        <cell>Aug. 26, 1949</cell>
+                        <cell>Also 2d Secy. Jakarta 1-20-50 name transferred to Jakarta "card</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Batavia</cell>
+                        <cell>Jacob D. Beam</cell>
+                        <cell>FS0</cell>
+                        <cell>2</cell>
+                        <cell/>
+                        <cell>Consul 9.9.</cell>
+                        <cell/>
+                        <cell>Oct. 18, 1949</cell>
+                        <cell>Also Coumelor, 1-30-50 name transferred to "Jakarta "card</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward W. Mill</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Ill.</cell>
+                        <cell/>
+                        <cell>Nov. 28, 1949</cell>
+                        <cell>name transfered to "Jakarta" card</cell>
+                    </row>
+                </table>
+                <p>For subsequent entries see Jakarta, Java, Republic of the United States of
+                    Indonesia</p>
+                <p>* spelling changed 2-14-50 to ljakarta</p>
+            </div>
+        </body>
+    </text>
+</TEI>

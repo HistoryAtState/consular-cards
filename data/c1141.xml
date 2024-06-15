@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1141" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salango, Ecuador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1140" type="prev"/>
+                <relatedItem target="c1142" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1141f1">
+                <graphic height="3626px" url="01519.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Salango, Ecuador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1911</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01519</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1141">
+        <body>
+            <div corresp="#c1141f1">
+                <head>Lalango, Ecuador. (under Guayaquil)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Hanley. Jr.</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Rock Island</cell>
+                        <cell>Jee.</cell>
+                        <cell>Jee. Apr. 15, 1911.</cell>
+                        <cell>(Hanley returned to the U.S.)<lb/>Comm - returned by Am Legation in
+                            Quito with note dated 4/8/12 and canceled 3/26/1912.</cell>
+                    </row>
+                </table>
+                <p>Agency onditted from Dip Cons List by direction of Mr. Carr Aug. 13, 1913.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

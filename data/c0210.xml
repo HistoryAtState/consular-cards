@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0210" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harburg, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0209" type="prev"/>
+                <relatedItem target="c0211" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0210f1">
+                <graphic height="3630px" url="00303.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harburg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1877</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00303</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0210">
+        <body>
+            <div corresp="#c0210f1">
+                <head>Harburg, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gordon Grant</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Aug 31, 1877.</cell>
+                        <cell>Canceled Sept.6, 1877<lb/>To Leghorn " " " </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry S. Lasar</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Mo</cell>
+                        <cell>June 3, 1878.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2008" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caimanera, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2007" type="prev"/>
+                <relatedItem target="c2009" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2008f1">
+                <graphic height="3630px" url="02694.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caimanera, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02694</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2008f2">
+                <graphic height="3630px" url="02695.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caimanera, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02695</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2008">
+        <body>
+            <div corresp="#c2008f1">
+                <head>Caimanera, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wallace B. Houston</cell>
+                        <cell>Con. Agt. U. S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ambler, Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 6, 1918</cell>
+                        <cell>Resigned Aprs. 28, 1920</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed Aug. 12, 1920.</p>
+            </div>
+            <div corresp="#c2008f2">
+                <head>Caimanera, Cuba.</head>
+                <p>Henry M. Wolcott, Consul, Class 7, lately on detail at Cienfuegos, temporarily
+                    assigned to duty at Caimanera July 19, 1917 and proceeded to Habana, &amp;
+                    Nuevitas Aug. 1, 1917.</p>
+                <p>Consul Wolcott, reported Aug. 1, 1917 that he closed the Consulate at Caimanera
+                    July 19, 1917 and proceeded to Habana &amp; Nuevitas Aug. 1, 1917.</p>
+                <p>Ralph Conrad, in chg of Agency (absence of Houston) Nov. 6-7, 1919.</p>
+                <p>Ralph Conrad, Acting Consular Agent (resig. " ") Apr. 28, 1920 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

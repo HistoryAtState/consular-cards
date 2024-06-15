@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1961" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brest, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1960" type="prev"/>
+                <relatedItem target="c1962" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1961f1">
+                <graphic height="3636px" url="02628.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brest, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1797</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02628</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1961">
+        <body>
+            <div corresp="#c1961f1">
+                <head>Brest, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Iscaac Cox Barnet</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>NJ.</cell>
+                        <cell>Feb. 20, 1797</cell>
+                        <cell>Conf to Bordeaux July 1799?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sample B. Forbus</cell>
+                        <cell>Con. 8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 30, 1917</cell>
+                        <cell>(Acting from Jan. 19, 1918) Jook formal<lb/>charge Jan 30,
+                            1918,<lb/>Appt'd Consul Class 6 Sept. 5, 1919<lb/>See above to Feb. 22,
+                            1922,<lb/>Details to Paris Dec. 27, 1921.<lb/>Feb. 23, 1922
+                            to<lb/>Detailey to Havre Oct. 6, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>Sample B. Forbus</cell>
+                        <cell>Con. 6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>9/6/1919</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Depart-<lb/>ment</cell>
+                        <cell>Herbert Oldilliams</cell>
+                        <cell>Con. 7</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Calif.</cell>
+                        <cell>Dec. 27, 1921.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate closed November 15, 1922.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

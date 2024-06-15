@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1062" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Mahon, Minorca</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1061" type="prev"/>
+                <relatedItem target="c1063" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1062f1">
+                <graphic height="3632px" url="01417.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Mahon, Minorca</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1845</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01417</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1062">
+        <body>
+            <div corresp="#c1062f1">
+                <head>Port Mahon, Meinorca, (see Minorea)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nicholas B. Boyle</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>May 27, 1845 recess<lb/>Feb. 24, 1846 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Spiridion Ladico</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 11, 1852 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. B. Robinson</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 14, 1862 Conf. Suspended</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James H. Whallon</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>May 8, 1869 recess<lb/>Apr. 28, 1870 Conf. Resigned</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John F. Quarles</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ga.</cell>
+                        <cell>Mar. 3, 1873 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Oct. 18, 1892; Closed Nov. 17, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

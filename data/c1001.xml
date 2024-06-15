@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1001" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1000" type="prev"/>
+                <relatedItem target="c1002" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1001f1">
+                <graphic height="3636px" url="01337.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01337</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1001">
+        <body>
+            <div corresp="#c1001f1">
+                <head>Peiping China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLAS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Con. Jen.<lb/>Tientsive</cell>
+                        <cell>Myrl S. Myers</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>2<lb/>eff<lb/>1-3-38c</cell>
+                        <cell>1-9-30c</cell>
+                        <cell>Con. Gen.<lb/>Pa.</cell>
+                        <cell>Jan. 29, 1946</cell>
+                        <cell/>
+                        <cell>F.S.O. ASSIGNED TO DEPARTMENT,<lb/>FEB. 27, 1947.<lb/>To Canton Cons.
+                            11-47<lb/>F.S.O. assigned to Dept. 2-16-48<lb/>To Nanking as Sec. &amp;
+                            Con.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.<lb/>Peiping</cell>
+                        <cell>Fritton Freeman.</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell>3-16-46c</cell>
+                        <cell>Concil<lb/>Calif</cell>
+                        <cell>April 12, 1946</cell>
+                        <cell/>
+                        <cell>3-10-48 To Mukden as Con. 7-1-48<lb/>F50 assigned to Dept.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert W. Rinden</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell>10-24-46+</cell>
+                        <cell>Consul<lb/>Iowa</cell>
+                        <cell>Oct. 24, 1946</cell>
+                        <cell/>
+                        <cell>7-6-50<lb/>To Seoul as Attache 8-23-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Con. Gen.<lb/>Chungchun</cell>
+                        <cell>Oliver Edmund Cheble</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>2</cell>
+                        <cell/>
+                        <cell>General Minn.</cell>
+                        <cell>Sept. 23, 1947.</cell>
+                        <cell/>
+                        <cell>FSO assigned to the Dept. 13-9-49</cell>
+                    </row>
+                    <row>
+                        <cell>J.S. Reserие<lb/>Office</cell>
+                        <cell>James Dyke van Putten</cell>
+                        <cell>F.S.R.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Mo.</cell>
+                        <cell>Oct. 18, 1947.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Nairobi</cell>
+                        <cell>Jouph I. Jouchette</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Maw.</cell>
+                        <cell>Oct. 20, 1947.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General officially closed April 10, 1950</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2310" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guelph, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2309" type="prev"/>
+                <relatedItem target="c2311" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2310f1">
+                <graphic height="3632px" url="03077.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guelph, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03077</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2310f2">
+                <graphic height="3632px" url="03078.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guelph, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03078</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2310">
+        <body>
+            <div corresp="#c2310f1">
+                <head>Guelph, Ontario, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Martin Ryan</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Dec. 10, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George M. Jessop</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ July 14, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Malcolm Ogilvie MacGregor</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Oct. 27, 1873.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Warren A. Worden</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Nov. 21, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Rand</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Apr. 10, 1882.</cell>
+                        <cell>Com. Agt Borel Mar. 23, 83</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Oxnard</cell>
+                        <cell>U.S. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Apr. 11, 1883.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2310f2">
+                <head>Guelph, Ontario, Canada.</head>
+                <p>George A. Oxnard, V. Con. in charge from Nov. 6, 1905 to Dec. 5, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

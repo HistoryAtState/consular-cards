@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2284" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grenada, West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2283" type="prev"/>
+                <relatedItem target="c2285" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2284f1">
+                <graphic height="3638px" url="03043.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Grenada, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03043</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2284">
+        <body>
+            <div corresp="#c2284f1">
+                <head>Grenada, West Indies, (under Barbados)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.J. Dean</cell>
+                        <cell>Con. Agt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 16, 1891</cell>
+                        <cell>Did not serve? <lb/> Resigned effective June 30, 1920</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Mc Gilchrist</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Grenada June 21, 1920</cell>
+                        <cell>Died May 10, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>de Sousa</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>May 15, 1941.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Consulate opened to the public as of May 25, 1944</p>
+                <p>Vice Consul U.S. Henry L. Taylor</p>
+                <p>American Consulate closed to public on June 25, 1948</p>
+                <p>Consulate officially closed June 30, 1948</p>
+            </div>
+        </body>
+    </text>
+</TEI>

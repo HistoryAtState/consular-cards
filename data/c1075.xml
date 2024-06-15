@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1075" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Stanley, Falkland Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1074" type="prev"/>
+                <relatedItem target="c1076" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1075f1">
+                <graphic height="3634px" url="01431.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Stanley, Falkland Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01431</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1075">
+        <body>
+            <div corresp="#c1075f1">
+                <head>Port Stanley, Ontario. (see St Thomas)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George C. Baker</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 20, 1878</cell>
+                        <cell>July 3, 1875 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Philip Carroll</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 1, 1881.</cell>
+                        <cell>Apr. 19, 1881 to Mar. 8, 1884.<lb/>To Palermo Feb. 15, 1884.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Allen Francis</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1884 Conf</cell>
+                        <cell>Mar. 27, 1884 to<lb/>Died Aug. 4, 1887.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James C. Quiggle</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Aug. 31, 1887<lb/>Jan. 19, 1888 Conf</cell>
+                        <cell>Oct 21, 1887 to Apr. 18, 1890</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ferdinand A. Husher</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>Feb. 21, 1890 Conf</cell>
+                        <cell>Apr. 18, 1890 to Nov. 9, 1893.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George J. Willis</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sa.</cell>
+                        <cell>Sept. 21, 1893 Conf</cell>
+                        <cell>Nov. 9, 1893 to Sept. 30, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael J Burke</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dee.</cell>
+                        <cell>July 28, 1897<lb/>Jan. 6, 1898 Conf</cell>
+                        <cell>Oct. 1, 1897 to<lb/>Died March 15, 1905.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

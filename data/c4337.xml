@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4337" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Winnipeg, Manitowba, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4336" type="prev"/>
+                <relatedItem target="c4338" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4337f1">
+                <graphic height="3602px" url="05646.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Winnipeg, Manitowba, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05646</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4337">
+        <body>
+            <div corresp="#c4337f1">
+                <head>WINNIPEG, MANITOBA, CANADA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. v.consel 2dsec. Helsinki</cell>
+                        <cell>Richard J. Loosbrock</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell>Dec. 3, 1956</cell>
+                        <cell>to Léopoldville as V.C. 6-29-59<lb/>Designated Consul,
+                            Winnipeg,<lb/>2-2-61<lb/>To Brazzaville as 3d Sec. +<lb/>V.C.
+                            2-6-61.<lb/>Retired eff. COB 6-30-63<lb/>730 assigned to the
+                            Dept.,<lb/>2-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>G. Ryder Forbes</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Nov. 4, 1957</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. VIC. Göteborg</cell>
+                        <cell>Bernard J. Rotklein</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 8, 1958</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>vc. + 3d Sec. Stockholm</cell>
+                        <cell>Ernest 0. Pederson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 8, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bucharest</cell>
+                        <cell>Carl John Clement</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 9, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Anderson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2656" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Katmandu Kingdom of Nepal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2655" type="prev"/>
+                <relatedItem target="c2657" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2656f1">
+                <graphic height="3632px" url="03524.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Katmandu Kingdom of Nepal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03524</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2656">
+        <body>
+            <div corresp="#c2656f1"/>
+        </body>
+    </text>
+</TEI>

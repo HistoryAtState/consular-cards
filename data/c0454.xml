@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0454" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Levis, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0453" type="prev"/>
+                <relatedItem target="c0455" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0454f1">
+                <graphic height="3624px" url="00623.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Levis, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1903</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00623</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0454">
+        <body>
+            <div corresp="#c0454f1">
+                <head>Levis, Quebec, Canada, see Point Levi)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles M. Barclay</cell>
+                        <cell>Con. Agt. Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1903.</cell>
+                        <cell>Mar. 4, 1903 to<lb/>Out o closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed January 31, 1910.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

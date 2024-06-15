@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0228" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Helder, Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0227" type="prev"/>
+                <relatedItem target="c0229" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0228f1">
+                <graphic height="3624px" url="00327.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Helder, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00327</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0228f2">
+                <graphic height="3624px" url="00328.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Helder, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1804</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00328</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0228">
+        <body>
+            <div corresp="#c0228f1">
+                <head>Holder, Netherlands, (see Niew Diep)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>(under Amsterdam)</cell>
+                        <cell>Klaas C. Van Vliet</cell>
+                        <cell>Congt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 6, 1868</cell>
+                        <cell>to Sept. 1878.</cell>
+                    </row>
+                </table>
+                <p>Agency abolished Oct, 1878.</p>
+            </div>
+            <div corresp="#c0228f2">
+                <head>Helder, Netherlands</head>
+                <table>
+                    <row role="label">
+                        <cell>A. Korff Sons,</cell>
+                        <cell>assisted by Wm Worssell(?) Agent by Consul at Amsterdam Aug.
+                            1804</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John W. Packer</cell>
+                        <cell/>
+                        <cell>1817 to June, 1817 (Apptd Consul at Amsterdam Apr. 2, 1818)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Peter Korff</cell>
+                        <cell/>
+                        <cell>1822 to May, 1840.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John Arto, Agent for New Diep, Helder &amp; Texel Island</cell>
+                        <cell>May, 1840 to resigned Dec. 1844.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>J. Edward Tayler " " " </cell>
+                        <cell>Dec. 1844 to Removed Oct. 1, 1853.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Thomas Reicher, of Amsterdam, bpt for New Diep</cell>
+                        <cell>Nov 1853 to (Apft not sanctioned by the Dept)</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

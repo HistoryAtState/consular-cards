@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2758" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Las Palmas-Santa Cruz de Tenerife, Canary Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2757" type="prev"/>
+                <relatedItem target="c2759" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2758f1">
+                <graphic height="3628px" url="03645.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Las Palmas-Santa Cruz de Tenerife, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03645</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2758f2">
+                <graphic height="3606px" url="03646.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leopoldville, Democratic Republic of the Congo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03646</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2758">
+        <body>
+            <div corresp="#c2758f1">
+                <head>Las Palmas-Santa Cruz de Tenerife, Canary Islands</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Orlandini</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1956</cell>
+                        <cell>Resigned off. COB 2-1-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Teese Waid, Jr.</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 17, 1961</cell>
+                        <cell>Resigned eff. COB 2-17-62</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Larry G. Piper</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 10, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Harris Wright</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 26, 1964</cell>
+                        <cell>Resigned eff. COB 6-4-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Lester Bergeron</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consular Agency was established effective October 12, 1956.</p>
+            </div>
+            <div corresp="#c2758f2">
+                <head>LEOPOLDVILLE, Democratic Republic of the Congo</head>
+                <p>see KINSHASA</p>
+                <p>(name changed from Léopoldville to Kinshasa</p>
+                <p>July 1, 1966.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

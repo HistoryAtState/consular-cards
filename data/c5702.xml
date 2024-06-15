@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5702" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trust Territories of the Pacific Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5701" type="prev"/>
+                <relatedItem target="c5703" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5702f1">
+                <graphic height="3024px" url="07453.tif" width="4804px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trust Territories of the Pacific Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07453</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5702">
+        <body>
+            <div corresp="#c5702f1">
+                <head>Recommendations for est. of consular office. Now on "No Consul" list.</head>
+                <p>Memo 4/2/48 FSP to OFS re establishment of consular post in Trust Territories of
+                    Pacific</p>
+                <p>Memo 4/21/48 OFS to FSP states no need experienced in past for such an office but
+                    Counselor of Embassy at Manila being requested to make inspection trip those
+                    areas and report to Department.</p>
+                <p>Memo 5/12/48 from DA-Green circularizing Department with attached draft
+                    instruction to Manila requesting Flexer, Counselor of Embassy to stop at Guam on
+                    return to USA and gather data re need for office in Trust Territories.</p>
+                <p>9/7/48</p>
+                <p>Desp. 294/from Wellington re Mr. Scotten's trip to Samoa and report on political
+                    conditions there.</p>
+                <p>CONF. memo re proposed est. office in 1950 Fiscal Year. States Counselor Flexer
+                    of Manila now making trip to survey Trust Territories.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

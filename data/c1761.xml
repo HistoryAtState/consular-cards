@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1761" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yokohama, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1760" type="prev"/>
+                <relatedItem target="c1762" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1761f1">
+                <graphic height="3622px" url="02347.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yokohama, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02347</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1761">
+        <body>
+            <div corresp="#c1761f1">
+                <head>Yokohama Japan. (see Kanagawa)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank R. Mowrer</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Dec. 15, 1897</cell>
+                        <cell>Apptd Marshal at Canton <lb/> July 22, 1899,</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

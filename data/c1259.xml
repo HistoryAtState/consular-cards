@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1259" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cette, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1258" type="prev"/>
+                <relatedItem target="c1260" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1259f1">
+                <graphic height="3640px" url="01675.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cette, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1802</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01675</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1259">
+        <body>
+            <div corresp="#c1259f1">
+                <head>Cette, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Anderson</cell>
+                        <cell><unclear>U.Comil</unclear> Agt. U.S.</cell>
+                        <cell/>
+                        <cell>So. Car.</cell>
+                        <cell>June 16, 1802 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Anderson</cell>
+                        <cell>Comil Agt.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>Jan. 25, 1803 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Anderson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>July 15, 1805 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Walsh</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>Jan. 17, 1806 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander de Tubeuf</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>Mar. 20, 1822 Conf. Died</cell>
+                        <cell>1829</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Privat</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>Sept. 26, 1829 recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Jefferson Smith</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>Mar. 18, 1830 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Bonequet</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell><unclear>Mol</unclear>. 12, 1838 recess</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt. to Class.</cell>
+                        <cell>Date of assignment.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul 8</cell>
+                        <cell>7/19/1918 Conf. Me. Me, Mar. 6, 1918</cell>
+                        <cell/>
+                        <cell>to Nov. 28, 1919.<lb/>Appt'd Consul cl. 6 Sept. 5, 1919.<lb/>assigned
+                            to Nancy Oct. 27, 1919.<lb/>Nov. 29, 1919 to Dec. 31, 1920<lb/>Resigned
+                            Dec. 31, 1920.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Con. 7</cell>
+                        <cell>7/5/1915 N.Y. N.Y. Oct. 23, 1919.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed December 31, 1920</p>
+            </div>
+        </body>
+    </text>
+</TEI>

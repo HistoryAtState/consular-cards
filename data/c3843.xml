@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3843" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salvador, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3842" type="prev"/>
+                <relatedItem target="c3844" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3843f1">
+                <graphic height="3634px" url="05014.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Salvador, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05014</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3843">
+        <body>
+            <div corresp="#c3843f1">
+                <head>Salvador, Brazil (Formerly known as Bahia)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Montreal</cell>
+                        <cell>Robert C. Johnson Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Penn.</cell>
+                        <cell>Sept. 1, 1949.</cell>
+                        <cell>Designated Consul Salvador<lb/>10-18-49.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David H. Barnhart</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Ariz.</cell>
+                        <cell>Nov. 4, 1952.</cell>
+                        <cell><unclear>'55 to Naples as Asst. Pub. Affairs<lb/>Off.
+                                2/23/58</unclear></cell>
+                    </row>
+                    <row>
+                        <cell>P.S.<lb/>Karachi</cell>
+                        <cell>Fred W. Dickens, Jr.</cell>
+                        <cell>V. Cons.</cell>
+                        <cell>(USIA)</cell>
+                        <cell>Minn.</cell>
+                        <cell>May 1, 1958</cell>
+                        <cell>Recommissioned 5-3-61, eff. 3-10-60.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rodolfo O. Rivera</cell>
+                        <cell>V. Cons.</cell>
+                        <cell>(USIA)</cell>
+                        <cell>N.C.</cell>
+                        <cell>Mar. 10, 1960</cell>
+                        <cell>Resigned eff. 5-15-63.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

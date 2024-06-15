@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4876" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Durban, Natal, Union of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4875" type="prev"/>
+                <relatedItem target="c4877" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4876f1">
+                <graphic height="3622px" url="06341.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Durban, Natal, Union of South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06341</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4876">
+        <body>
+            <div corresp="#c4876f1">
+                <head>Durban, Natal, Union of South Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Shehran Virgil &amp; Prichard</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 27, 1948</cell>
+                        <cell>To Pusan as V.C. 4-23-52</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Bombay George W. Small</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 11, 1948</cell>
+                        <cell>To Johannesburg as V.C. 1-10-49</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Edinburgh Arne J. Fliflet</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Oct. 4, 1950</cell>
+                        <cell>To Kuala Lumpur as V.C. 6-16-54 <lb/> FSS officer trans. to <lb/>
+                            Dept. 12-9-57 <lb/> to Asmara as POL. OFF. <lb/> 11-2-58 (FSR)</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Bombay Warren P. Cleary</cell>
+                        <cell>V.C. (made FSR, 11-2-58)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 7, 1955</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate elevated to rank of Consulate General, eff. 8-19-63.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

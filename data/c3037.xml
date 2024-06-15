@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3037" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Meshed, Iran</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3036" type="prev"/>
+                <relatedItem target="c3038" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3037f1">
+                <graphic height="3632px" url="03998.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Meshed, Iran</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03998</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3037f2">
+                <graphic height="3632px" url="03999.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Meshed, Iran</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03999</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3037">
+        <body>
+            <div corresp="#c3037f1">
+                <head>Meshed, Iran</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Bangkok</cell>
+                        <cell>Consulate opened<lb/>James M Rocke<lb/>Robert G. Schuck<lb/>George G.
+                            Jespersen<lb/>David Nalle (USIA)<lb/>John H. Vonier<lb/>Robert W.
+                            Lindvall<lb/>Walter P. White, Jr.<lb/>George B. Kettenhofen</cell>
+                        <cell>July 1, 1949<lb/>Vice Consul<lb/>Vice Consul<lb/>Vice Cons.
+                            US<lb/>Vice Cons.<lb/>V. Consul
+                            USIA<lb/>V.Cons.<lb/>V.Cons.<lb/>V.Cons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb 17, 1949<lb/>May 24, 1952<lb/>N.J. Sept. 8, 1953<lb/>Nov. 30,
+                                1953<lb/><unclear>mich</unclear> March 20, 1956<lb/>USIA Minn. Mar.
+                            4, 1958<lb/>USIA Ala. Mar. 10, 1960<lb/>Apr. 12, 1965</cell>
+                        <cell>To Budapest as V.C. 12-18-51<lb/>To Rotterdam as V. C. 3-4-54<lb/>To
+                            Dept. 6-3-56<lb/>123. assigned to the agency 8-12-56<lb/>F.S.D. assigned
+                            to the agency (USIA)<lb/>7-7-58<lb/>Converted from FSS to
+                            FSROfficer<lb/>(career) USIA, 7-24-60<lb/></cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3037f2">
+                <head>John A. Waller, Mpahed, Iran, V. C. July 12, 1949 (Special Appointment)</head>
+                <p>Terminated off. 11-1-50</p>
+            </div>
+        </body>
+    </text>
+</TEI>

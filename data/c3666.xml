@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3666" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belfast, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3665" type="prev"/>
+                <relatedItem target="c3667" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3666f1">
+                <graphic height="3620px" url="04794.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belfast, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04794</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3666f2">
+                <graphic height="3620px" url="04795.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belfast, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04795</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3666">
+        <body>
+            <div corresp="#c3666f1"/>
+            <div corresp="#c3666f2">
+                <head>Belfast</head>
+                <p>Lucien Memminger detailed to Dept. State, temp., May, 1935.</p>
+                <p>Robert Janz detailed to Dept. State, temp., Aug. 26, 1936.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2262" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goree Dakar, Senegal, West Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2261" type="prev"/>
+                <relatedItem target="c2263" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2262f1">
+                <graphic height="3632px" url="03016.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Goree Dakar, Senegal, West Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03016</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2262">
+        <body>
+            <div corresp="#c2262f1">
+                <head>Gorée Dakar, Senegal, West Africa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Puerto Cabello</cell>
+                        <cell>Peter Strickland</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S. Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Sept. 27, 1888 recess</cell>
+                        <cell>Resigned Oct. 16 to take effect June 30, 1906. Did not qualify.
+                            Remained at Puerto Cabello.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James W. Johnson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Dec. 20, 1883 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 30, 1907 recess</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

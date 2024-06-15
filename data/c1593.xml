@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1593" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Topia, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1592" type="prev"/>
+                <relatedItem target="c1594" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1593f1">
+                <graphic height="3632px" url="02126.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Topia, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02126</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1593">
+        <body>
+            <div corresp="#c1593f1">
+                <head>Topia, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Lawrence</cell>
+                        <cell>On. Agt. U.S. Denver, Colo.</cell>
+                        <cell/>
+                        <cell>New. June 18,</cell>
+                        <cell>June 15, 1910.</cell>
+                        <cell>Oct. 1, 1910 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed June</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>1915.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

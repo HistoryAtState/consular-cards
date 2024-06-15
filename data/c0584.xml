@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0584" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mendoza, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0583" type="prev"/>
+                <relatedItem target="c0585" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0584f1">
+                <graphic height="3636px" url="00793.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mendoza, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00793</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0584">
+        <body>
+            <div corresp="#c0584f1">
+                <head>Mendoza, Argentina</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Montevides</cell>
+                        <cell>Richard H. Post</cell>
+                        <cell>7.8.0. Une</cell>
+                        <cell>77.4</cell>
+                        <cell>12-13-37</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 19, 1943</cell>
+                        <cell>To Buenos Aires are V.C. 9-29-44.</cell>
+                    </row>
+                </table>
+                <p>American Consulate has been closed as of October 14, 1944</p>
+            </div>
+        </body>
+    </text>
+</TEI>

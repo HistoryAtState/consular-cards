@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2447" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French Samoli Coast and Dependencies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2446" type="prev"/>
+                <relatedItem target="c2448" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2447f1">
+                <graphic height="3630px" url="03256.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French Samoli Coast and Dependencies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03256</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2447">
+        <body>
+            <div corresp="#c2447f1">
+                <head>French Samoli Coast and dependencies</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>V. C., Franch</cell>
+                        <cell>Pamali Court Clare H. Trinberlake</cell>
+                        <cell>7.P.O.</cell>
+                        <cell>8</cell>
+                        <cell>8-30-38</cell>
+                        <cell>Consul</cell>
+                        <cell>Mich</cell>
+                        <cell>Oct. 16, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>EFFECTIVE</cell>
+                        <cell>10-5-40</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>8-17-38</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Is also Consul at aden.</p>
+                <p>to Dept. 2-26-43</p>
+            </div>
+        </body>
+    </text>
+</TEI>

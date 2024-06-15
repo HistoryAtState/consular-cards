@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2725" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kuwait, Kuwait</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2724" type="prev"/>
+                <relatedItem target="c2726" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2725f1">
+                <graphic height="3608px" url="03606.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kuwait, Kuwait</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03606</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2725">
+        <body>
+            <div corresp="#c2725f1">
+                <head>Kuwait, Kuwait. consulate officially estabbiled June 27, 1951</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>asst.attache</cell>
+                        <cell>William A. Stoltzfus, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell>Opened to Public Oct. 15, 1951</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 27, 1954</cell>
+                        <cell>Designated Ve. of career,<lb/>Kuwait 7-5-54.</cell>
+                    </row>
+                    <row>
+                        <cell>Baghdad</cell>
+                        <cell>Robert L. Gordon</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1956</cell>
+                        <cell>7ss officer assigned to Dept.<lb/>9-21-58.</cell>
+                    </row>
+                    <row>
+                        <cell>Baghdad</cell>
+                        <cell>John F. X. Devlin</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 5, 1958</cell>
+                        <cell>7ss officer assigned to the<lb/>Dept. 6-14-59.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles E. Waterman</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>( Sept. 22, 1961assy 9-22-61)</cell>
+                        <cell>June 5, 1964</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

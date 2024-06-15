@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2384" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Essequibo and Demerara</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2383" type="prev"/>
+                <relatedItem target="c2385" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2384f1">
+                <graphic height="3634px" url="03178.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Essequibo and Demerara</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1796</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03178</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2384">
+        <body>
+            <div corresp="#c2384f1">
+                <head>Essequibo Demerara. (seeDemerara)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nicholas Housselet</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.H.</cell>
+                        <cell>Dec. 27, 1796</cell>
+                        <cell>Commin loct, duplicate <lb/> issued May 5, 1798.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Gardner</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Mar. 11, 1802</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

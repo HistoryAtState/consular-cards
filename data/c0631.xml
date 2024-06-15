@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0631" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mozambique, East Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0630" type="prev"/>
+                <relatedItem target="c0632" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0631f1">
+                <graphic height="3628px" url="00855.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mozambique, East Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00855</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0631">
+        <body>
+            <div corresp="#c0631f1">
+                <head>Mozambique, East Africa. Lourenco Marques</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustus B. Gorea</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Feb. 16, 1885.</cell>
+                        <cell>to Dec, 1887.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustus B. Gorea</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1887.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>See Lourenco Marques for further entries.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

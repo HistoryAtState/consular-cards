@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0749" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oaxaca, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0748" type="prev"/>
+                <relatedItem target="c0750" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0749f1">
+                <graphic height="3624px" url="01018.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oaxaca, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1899</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01018</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0749f2">
+                <graphic height="3624px" url="01019.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oaxaca, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1879</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01019</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0749">
+        <body>
+            <div corresp="#c0749f1">
+                <head>Caxaca, Mexico. (Formerly Oaxaca)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Arthur</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell>Aug. 15, 1899.</cell>
+                        <cell>Resigned Oct. 13, 1907.<lb/>Apptd Con. Agt. at<lb/>Puebla, Feb. 19,
+                            1908.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Headen (n)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ireland Tex.</cell>
+                        <cell>Nov. 9, 1907.</cell>
+                        <cell>Left Oaxaca about Sept. 19, 1913<lb/>placing C. K. Robinson in
+                            charge<lb/>to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ezra M. Lawton</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Irvington<lb/>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Feb. 19, 1908.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Arthur</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Steelville, Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Oct. 1, 1917</cell>
+                        <cell>Out &amp; closing of Agency</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered, closed, May 10, 1920;</p>
+            </div>
+            <div corresp="#c0749f2">
+                <head>Daxaca, Mexico.</head>
+                <p>Henry Payor, V.C.A. - Min. reports Jany, 1879. Met. Govt refuses exequatur.</p>
+                <p><unclear>Clifford K. Robinson</unclear>, In charge of Agency (departure of
+                    Lawton) about Sept. 8, 1913 to Feb. 24, 1915. Resigned from 601-1168-St. N.Y.
+                    Oct. 28, 1916.</p>
+                <p><unclear>Dr. Charles H. Arthur</unclear>, took over the office from Mr. Robinson
+                    June 1916.</p>
+                <p><unclear>Dr. Charles H. Arthur</unclear> turned over the office to William
+                    Thompson Jan. 31, 1917</p>
+                <p><unclear>William Thompson</unclear>, took over the office from Dr. Arthur Feb. 1,
+                    1917. Died at Oaxaca, May 30, 1939.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

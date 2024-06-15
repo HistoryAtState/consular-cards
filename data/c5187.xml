@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5187" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5186" type="prev"/>
+                <relatedItem target="c5188" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5187f1">
+                <graphic height="3610px" url="06725.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="20.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06725</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5187">
+        <body>
+            <div corresp="#c5187f1">
+                <head>ARGENTINA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Burnett F. Anderson cancelled</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 4, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell>Counselor of Embassy for Public Affairs 2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert E. Winter</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rio</cell>
+                        <cell>Alfred V. Boerner</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Jan. 29, 1967</cell>
+                        <cell>USIA</cell>
+                        <cell>Counselor of Embassy for Public Affairs</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

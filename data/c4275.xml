@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4275" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vienna, Austria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4274" type="prev"/>
+                <relatedItem target="c4276" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4275f1">
+                <graphic height="3610px" url="05563.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vienna, Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05563</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4275">
+        <body>
+            <div corresp="#c4275f1"/>
+        </body>
+    </text>
+</TEI>

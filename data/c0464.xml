@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0464" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lille, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0463" type="prev"/>
+                <relatedItem target="c0465" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0464f1">
+                <graphic height="3648px" url="00635.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lille, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00635</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0464">
+        <body>
+            <div corresp="#c0464f1">
+                <head>Lille, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Moscow</cell>
+                        <cell>Fred E. Taller</cell>
+                        <cell>Vice Con. U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 27, 1938</cell>
+                        <cell>Appt'd V.C., Nantes, Sep. 12/139</cell>
+                    </row>
+                </table>
+                <p>Consulate temporarily closed May 20, 1944.</p>
+                <p>Recognition of the French de facto authority established in Paris under the
+                    leadership of General de Gaulle as the Provisional Government of the French
+                    Republic 10-23-44</p>
+            </div>
+        </body>
+    </text>
+</TEI>

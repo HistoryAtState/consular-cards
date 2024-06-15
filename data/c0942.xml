@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0942" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Lucia, British West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0941" type="prev"/>
+                <relatedItem target="c0943" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0942f1">
+                <graphic height="3630px" url="01259.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Lucia, British West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01259</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0942f2">
+                <graphic height="3632px" url="01260.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Lucia, British West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1845</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01260</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0942">
+        <body>
+            <div corresp="#c0942f1">
+                <head>St. Lucia, West Indies. (under Barbados</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Peters</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell><unclear>Sealand</unclear> St. Lucia</cell>
+                        <cell>St. Lucia</cell>
+                        <cell>June 9, 1870</cell>
+                        <cell>Resg'd Dec, 1870, Held Custom<lb/>office.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L.J. Gilbert</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br. Dominica</cell>
+                        <cell>St. Lucia</cell>
+                        <cell>Feb. 1, 1871.</cell>
+                        <cell>Dec. 1870 to 1873?<lb/>Consul withdrew name.<lb/>Failed to ans.
+                            requests for return</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Peter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>St. Lucia</cell>
+                        <cell>Jan. 8, 1873.</cell>
+                        <cell>Died at St. Lucia Dec. 13, 1933.<lb/>Did not enter upon
+                            his<lb/>duties. Peter retained</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Gabriel</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>St. Lucia N.Y.</cell>
+                        <cell>Aug. 4, 1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alan Peter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>St. Lucia</cell>
+                        <cell>Mar. 14, 1934.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Consulate closed November 20, 1943.</p>
+            </div>
+            <div corresp="#c0942f2"/>
+        </body>
+    </text>
+</TEI>

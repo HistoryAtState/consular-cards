@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1760" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yokohama, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1759" type="prev"/>
+                <relatedItem target="c1761" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1760f1">
+                <graphic height="3632px" url="02346.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yokohama, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02346</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1760">
+        <body>
+            <div corresp="#c1760f1">
+                <head>YOKOHAMA, Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Cons.</cell>
+                        <cell>Palermo Thomas H. Murfin</cell>
+                        <cell>FSO</cell>
+                        <cell>Cons.</cell>
+                        <cell>3 Gen.</cell>
+                        <cell>July 9, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis T. Donovan</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>May 16, 1963</cell>
+                        <cell>USIA</cell>
+                    </row>
+                </table>
+                <p>Consulate General at Yokohama was abolished effective July 22, 1963,<lb/>on which
+                    date all its functions were consolidated with Tokyo.</p>
+                <p>To Tokyo as Consul General<lb/>and 1st Sec., 7-22-63.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

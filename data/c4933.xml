@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4933" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frankfort on the Main, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4932" type="prev"/>
+                <relatedItem target="c4934" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4933f1">
+                <graphic height="3624px" url="06404.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frankfort on the Main, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06404</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4933f2">
+                <graphic height="3624px" url="06405.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frankfort on the Main, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06405</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4933">
+        <body>
+            <div corresp="#c4933f1"/>
+            <div corresp="#c4933f2">
+                <head>Sevrity Charles M., detailed as clerk to Prague, temporarily, Mar 22,
+                    1939.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

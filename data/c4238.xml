@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4238" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valletta, Malta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4237" type="prev"/>
+                <relatedItem target="c4239" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4238f1">
+                <graphic height="3632px" url="05517.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valletta, Malta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05517</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4238">
+        <body>
+            <div corresp="#c4238f1">
+                <head>Valletta, Malta</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul Tunis</cell>
+                        <cell>John F. Fitzgerald</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Pa. Jan. 26, 1950</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Officially opened to the public March 6, 1950. Designated Consul,
+                            Valletta 3. 31-50. To Tunis as V.C. 11-11-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul Tunis</cell>
+                        <cell>Howard W. Potter, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>N.Y. Aug. 26, 1950</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Designated Consul Valletta 2-9-56</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. &amp; 2d Sec. Belgrade</cell>
+                        <cell>Peter C. Walker</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>N.Y. Sept. 25, 1953</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Designated Cons. Valletta 2/5/58</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. &amp; 2d Sec. New Delhi</cell>
+                        <cell>Jame M. E. O'Grady</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>D.C. May 5, 1956</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Usumbura as V.C., 7-8-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Julius W. Walker, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 25, 1958</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec. 9-21-64. Desig. Consul, Valletta, 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. &amp; 2d Sec. Dublin</cell>
+                        <cell>Miss Alta F. Fowler</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>March 4, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Valletta elevated to rank of Embassy Sept. 21, 1964.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

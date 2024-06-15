@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1004" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peiping, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1003" type="prev"/>
+                <relatedItem target="c1005" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1004f1">
+                <graphic height="3640px" url="01341.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01341</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1004">
+        <body>
+            <div corresp="#c1004f1">
+                <head>Peiping, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>Language Officer, Beiping</cell>
+                        <cell>John M. Farrior</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>N. Car.</cell>
+                        <cell>Dec 31, 1949</cell>
+                    </row>
+                    <row>
+                        <cell>Language Officer, Beiping</cell>
+                        <cell>John S. Mac Donald</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>N. Y.</cell>
+                        <cell>Dec 31, 1949</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Richard M. McCarthy</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>Jan 10, 1950</cell>
+                    </row>
+                </table>
+                <p>Consulate General officially closed April 2, 1950</p>
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>REMARKS.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>To Seoul VC 3d Secy. 4-29-50.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>To Saigon Consular Officer, 5-1-50.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>To Seoul ne VC 3d Secy. 6-13-50.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>To Hong Kong as Pub. Affairs Officer, 6-1-50.</cell>
+                </row>
+            </div>
+        </body>
+    </text>
+</TEI>

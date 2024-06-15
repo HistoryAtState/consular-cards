@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5052" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>the Hague, Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5051" type="prev"/>
+                <relatedItem target="c5053" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5052f1">
+                <graphic height="3626px" url="06559.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>the Hague, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06559</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5052">
+        <body>
+            <div corresp="#c5052f1">
+                <head>The Hague, Netherlands</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul Sydney</cell>
+                        <cell>Miss Rachel L. Kent</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>November 10, 1947</cell>
+                        <cell><unclear>Designated Attache, The Hague</unclear>
+                            <lb/> 11-6-49. <unclear>Cancelled</unclear>
+                            <lb/> To Prisan as V.C. 7-9-51 <lb/> To Prisan as V.C. 7-9-51 <lb/>
+                            <unclear>Resigned</unclear> CoB 5-3-54.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert C. Arnold</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 2, 1949</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Strang</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1951</cell>
+                        <cell>To Johannesburg as V.C. 9-16-52.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><unclear>Dering</unclear> &amp; Wilson</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind</cell>
+                        <cell>Aug 10, 1951</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

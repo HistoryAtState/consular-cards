@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1939" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biratislava, Czechoslovakia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1938" type="prev"/>
+                <relatedItem target="c1940" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1939f1">
+                <graphic height="3636px" url="02599.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Biratislava, Czechoslovakia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02599</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1939">
+        <body>
+            <div corresp="#c1939f1">
+                <head>Bratislava, Czechoslovakia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(Cancelled)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>August 14, 1946.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(Consulate General was never officially opened)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. + 3 d. Sery<lb/>Praha</cell>
+                        <cell>Claiborne Pell</cell>
+                        <cell>Cancelled</cell>
+                        <cell>7.8.0.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Oct. 1, 1947</cell>
+                        <cell>To Batavia as Vice Consul 11-5-48. To Genoa as V.C. 11-41-49.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Secy + V.C<lb/>Praha</cell>
+                        <cell>Claiborne Pell</cell>
+                        <cell/>
+                        <cell>7.8.0.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>September 18, 1947</cell>
+                        <cell>Resigned off. July 22, 1948</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. + 3 d Sery<lb/>Praha</cell>
+                        <cell>Harold J. Edelson</cell>
+                        <cell/>
+                        <cell>7.8.0.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>March 8, 1948.</cell>
+                        <cell>To Geneva as V.C. 8-29-49.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Colon</cell>
+                        <cell>Robert S. Bailey</cell>
+                        <cell/>
+                        <cell>7.8.0.</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>July 1, 1948</cell>
+                        <cell>also Political Officer</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Florence</cell>
+                        <cell>Richard G. Johnson</cell>
+                        <cell>Cancelled</cell>
+                        <cell>7.8.0.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1949</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

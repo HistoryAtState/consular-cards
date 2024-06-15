@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0966" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palma de Mallorca, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0965" type="prev"/>
+                <relatedItem target="c0967" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0966f1">
+                <graphic height="3642px" url="01292.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palma de Mallorca, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01292</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0966f2">
+                <graphic height="3646px" url="01293.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palma de Mallorca, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01293</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0966">
+        <body>
+            <div corresp="#c0966f1">
+                <head>Palma de Mallorca, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>La Rochelle</cell>
+                        <cell>James H. Goodier</cell>
+                        <cell>Con. 8</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 23, 1918.</cell>
+                        <cell>Arrived <lb/> Mar. 23, 1918; to Aug. 23, 1920, <lb/> Detailed to
+                            Almeria (see over)</cell>
+                    </row>
+                </table>
+                <p>(over)</p>
+                <p>Consulate closed by Vice Consul September 18, 1920.</p>
+            </div>
+            <div corresp="#c0966f2">
+                <head>Palmas de Mallorca, Spain.</head>
+                <p>Consul James H. Hoodier was detailed to Almeria Sept. 7, 1919; closed office
+                    Sept. 7, 1919; departed Sept. 11, 1919; reopened office Jan. 1, 1920</p>
+                <p>Consul James H. Hoodier was detailed to Almeria July 2, 1920; to proceed about
+                    Sept. 1, 1920; turned over office to V. C. Chamberlin Aug. 23, 1920</p>
+            </div>
+        </body>
+    </text>
+</TEI>

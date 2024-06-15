@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2275" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grand Canary, Canary Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2274" type="prev"/>
+                <relatedItem target="c2276" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2275f1">
+                <graphic height="3628px" url="03032.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Grand Canary, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03032</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2275f2">
+                <graphic height="3628px" url="03033.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Grand Canary, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03033</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2275">
+        <body>
+            <div corresp="#c2275f1">
+                <head>Grand Canary, Canary Islands. (see Las Palmas)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Juan Rodriguesy Gensales</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. York</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 7, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Millar</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 22, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Swanston</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1900.</cell>
+                        <cell>Resigned Aug. 8, 1915. <lb/> went out when the Agency <lb/> was
+                            closed.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel de Lara</cell>
+                        <cell>"</cell>
+                        <cell>Spain</cell>
+                        <cell>Las Palmas, <lb/> Grand Canary <lb/> Grand Canary</cell>
+                        <cell/>
+                        <cell>Dec. 21, 1915.</cell>
+                        <cell>to Oct. 20, 1915. <lb/> effect</cell>
+                    </row>
+                </table>
+                <p>Agency closed January 24, 1918.</p>
+            </div>
+            <div corresp="#c2275f2">
+                <head>Grand Canary Islands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel de Lara</cell>
+                        <cell>Acting Agent</cell>
+                        <cell>Spaniard</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 20, 1915.</cell>
+                        <cell>Appt'd Agent Dec. 21, 1915.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2135" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cowes, Isle of Wight</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2134" type="prev"/>
+                <relatedItem target="c2136" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2135f1">
+                <graphic height="3634px" url="02853.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cowes, Isle of Wight</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1790</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02853</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2135">
+        <body>
+            <div corresp="#c2135f1">
+                <head>Cowes, Isle of Night.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Auldjo</cell>
+                        <cell>Vice Con. Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 17, 179. Conf.</cell>
+                        <cell>Appt'd V.C. at Poole, Eng. <lb/> Feb.24, 1791.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Auldjo</cell>
+                        <cell>Consul Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1816 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert R. Hunter</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 3, 1823 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Whetten</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 18, 1842 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph R. Groskey</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 9, 1844 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Exequeatur refused because no Cons Officer at Cowes.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

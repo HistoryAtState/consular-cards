@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2199" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dominica Island, W.I.</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2198" type="prev"/>
+                <relatedItem target="c2200" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2199f1">
+                <graphic height="3634px" url="02933.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dominica Island, W.I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02933</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2199f2">
+                <graphic height="3634px" url="02934.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dominica Island, W.I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1835</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02934</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2199">
+        <body>
+            <div corresp="#c2199f1">
+                <head>Dominica Island, W.I.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>(ender Antigua)</cell>
+                        <cell>William Stedman</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>Gr. Britain</cell>
+                        <cell>Scotland</cell>
+                        <cell/>
+                        <cell>Feb. 3, 1880</cell>
+                        <cell>May 5, 1880 to<lb/>Resigned Nov. 1896.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2199f2">
+                <head>Dominica. Island, W.I.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Garraway</cell>
+                        <cell>Acting Agent (apted by Comil Agt at St.C. &amp; Antiqua)</cell>
+                        <cell>Dec. 1805 to June 1841 to July 1844 (Resigned)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nathaniel M. Humphrys, atey Agt</cell>
+                        <cell>" "</cell>
+                        <cell>" " ) July 1844 to Feb. 1845</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Phillips</cell>
+                        <cell>" "</cell>
+                        <cell>" " ) Feb. 1845 to Aug. 1853 (Died)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Justin Mc. Siviney</cell>
+                        <cell>" "</cell>
+                        <cell>" " ) Octo. 1853 to 1858?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Humphrys</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Stedman Johnson</cell>
+                        <cell>" " in chg (absence of Agent.)</cell>
+                        <cell>June 1886 to Sept 1886?</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

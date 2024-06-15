@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0944" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Marc, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0943" type="prev"/>
+                <relatedItem target="c0945" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0944f1">
+                <graphic height="3634px" url="01263.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Marc, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1861</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01263</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0944">
+        <body>
+            <div corresp="#c0944f1">
+                <head>St. Marc, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas O. Miller Comillgt</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Sept. 28, 1861</cell>
+                        <cell>Died</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Eldredge</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 12, 1862.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William M. Waterman</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 20, 1863,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Monroe Letts</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 25, 1865.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William F. Lee</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 17, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Orra L. C. Hughes</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 14, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>G. Jaetran</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 5, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Athanasius M. Ricci</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 27, 1882.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed March 14, 1908, Cloned April 5, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

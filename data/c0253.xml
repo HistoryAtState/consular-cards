@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0253" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Honfleur, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0252" type="prev"/>
+                <relatedItem target="c0254" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0253f1">
+                <graphic height="3620px" url="00357.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Honfleur, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00357</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0253">
+        <body>
+            <div corresp="#c0253f1">
+                <head>Honfleur France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Georges Just Durand</cell>
+                        <cell><unclear>An.</unclear> Agt. France</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 26, 1885.</cell>
+                        <cell>Recognition refused.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Mark Hardy</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Br.</cell>
+                        <cell/>
+                        <cell>May 24, 1886.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John M. Bourke</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>June 6, 1906.</cell>
+                        <cell>Out &amp; closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed November 8, 1909.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

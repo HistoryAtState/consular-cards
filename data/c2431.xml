@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2431" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2430" type="prev"/>
+                <relatedItem target="c2432" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2431f1">
+                <graphic height="3638px" url="03236.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1795</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03236</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2431">
+        <body>
+            <div corresp="#c2431f1">
+                <head>France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fulwar Skipwith</cell>
+                        <cell>Con. Gen. U.S.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>June 26,1795</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

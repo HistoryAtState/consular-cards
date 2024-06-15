@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5107" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermosillo, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5106" type="prev"/>
+                <relatedItem target="c5108" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5107f1">
+                <graphic height="3608px" url="06627.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hermosillo, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06627</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5107">
+        <body>
+            <div corresp="#c5107f1">
+                <head>HERMOSILLO, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate General opened at Hermosillo, Mexico on July 18,
+                            1966.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>Charles F. Brown</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>Miss Leona M. Nelles</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell>To Paris/USRO Casurd bel.s 1-29-67. Resigned CoB 2-6-67.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

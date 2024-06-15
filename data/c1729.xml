@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1729" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Weimar, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1728" type="prev"/>
+                <relatedItem target="c1730" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1729f1">
+                <graphic height="3620px" url="02305.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Weimar, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02305</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1729">
+        <body>
+            <div corresp="#c1729f1">
+                <head>Neimar, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Teichmann</cell>
+                        <cell>Com'lgh Ser.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 2, 1893.</cell>
+                        <cell>Appt'd V.C. Oct. 6, 1899. <lb/> July 6, 1906 to <lb/>
+                            superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Teichmann</cell>
+                        <cell>U.S. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 6, 1899.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustav Lauter, Jr.</cell>
+                        <cell>" " " US.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Sept. 30, 1907,</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4234" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valencia, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4233" type="prev"/>
+                <relatedItem target="c4235" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4234f1">
+                <graphic height="3612px" url="05511.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valencia, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05511</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4234f2">
+                <graphic height="3612px" url="05512.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valencia, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1936</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05512</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4234">
+        <body>
+            <div corresp="#c4234f1"/>
+            <div corresp="#c4234f2">
+                <head>Valencia, Spain</head>
+                <p>John D. Johnson, lately Consul at Madrid, evacuated to Valencia, 1936; asgd. for
+                    temp. duty to Marseille to assist in handling American refugees, 1936.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

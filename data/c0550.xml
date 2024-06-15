@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0550" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manzanilla, San Domingo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0549" type="prev"/>
+                <relatedItem target="c0551" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0550f1">
+                <graphic height="3630px" url="00748.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manzanilla, San Domingo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00748</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0550">
+        <body>
+            <div corresp="#c0550f1">
+                <head>Manzanilla, San Domingo.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Homer A. Huntington</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mar. 31, 1887</cell>
+                        <cell>(Void)</cell>
+                    </row>
+                </table>
+                <p>Agency not established.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

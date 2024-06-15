@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3510" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Porto Alegre, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3509" type="prev"/>
+                <relatedItem target="c3511" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3510f1">
+                <graphic height="3600px" url="04593.tif" width="6050px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Porto Alegre, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04593</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3510">
+        <body>
+            <div corresp="#c3510f1">
+                <head>Pôrto Alegre, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edmund A. da Silveira</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Va.</cell>
+                        <cell>July 2, 1956</cell>
+                        <cell>To Belo Horizonte as Cons. 6-27-60</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Saint Jonn</cell>
+                        <cell>Russell B. Jordan</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Wys.</cell>
+                        <cell>June 1, 1957</cell>
+                        <cell>FSO assigned to the Dept. 10-4-59</cell>
+                    </row>
+                    <row>
+                        <cell>Chief Transportation OFF. Buenos Aires</cell>
+                        <cell>Percy de F. Warner</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 27, 1959</cell>
+                        <cell>Retired eff. Close of 12-31-60.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Hyman Bloom</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>May 2, 1960</cell>
+                        <cell>To Belém as Consul, 11-26-62. To Rio de Janeiro as int Sec.,
+                            12-23-62</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Frederick D. Sharp 3d</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>March 5, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas J. Duffield</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Nov. 12, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Pôrto Alegre</cell>
+                        <cell>W. Douglas Mc Lain, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell>To Curitiba as Consul, 6-22-64</cell>
+                    </row>
+                    <row>
+                        <cell>USIA Wash. D.C.</cell>
+                        <cell>David H. Barnhart</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>USIA Consul</cell>
+                        <cell/>
+                        <cell>June 3, 1964</cell>
+                        <cell>FSR officer, assigned to the Agency, 8-22-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>Douglas R. Elleby</cell>
+                        <cell>7SR</cell>
+                        <cell/>
+                        <cell>USIA Consul</cell>
+                        <cell/>
+                        <cell>June 15, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ashley C. Hewitt, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Jan. 30, 1967</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

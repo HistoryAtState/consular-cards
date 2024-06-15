@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3548" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prague, Bohemia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3547" type="prev"/>
+                <relatedItem target="c3549" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3548f1">
+                <graphic height="3632px" url="04640.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Prague, Bohemia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04640</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3548">
+        <body>
+            <div corresp="#c3548f1">
+                <head>Prague, Bohemia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Frankfort on the main</cell>
+                        <cell>Robert C. Strong</cell>
+                        <cell>8.2.0.</cell>
+                        <cell><unclear>Unc.</unclear></cell>
+                        <cell>3/2/19390</cell>
+                        <cell>Hiec.</cell>
+                        <cell>June 40, 1939</cell>
+                        <cell>Ass'd. to Dept. State, Jan. 3, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept State</cell>
+                        <cell>Carl F. Norden</cell>
+                        <cell>7.5.0</cell>
+                        <cell>"</cell>
+                        <cell>7-6-38 R.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb 8, 1940</cell>
+                        <cell>Ass'd. 3d Secy. <unclear>Emb.</unclear> Lisbon, Oct. 7, 1940.
+                                <unclear>Cancelled</unclear></cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 14, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

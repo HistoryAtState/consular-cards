@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4264" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vienna, Austria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4263" type="prev"/>
+                <relatedItem target="c4265" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4264f1">
+                <graphic height="3612px" url="05550.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vienna, Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05550</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4264">
+        <body>
+            <div corresp="#c4264f1">
+                <head>VIENNA, Austria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Wheaton B. Byers</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 21, 1965</cell>
+                        <cell>Also 2d Sec. Designated Cons.,<lb/>Vienna, 10-30-65.<lb/>Also 2d Sec.
+                                <unclear>5-13-64.</unclear><lb/>Also 3d Sec. <unclear>"Designated
+                                Attaché,<lb/>Vienna (USIA) as of 6-19-66.</unclear></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cotonou<lb/>V.C.-2d Secy<lb/>Port-of-spain</cell>
+                        <cell>Frederick Owen Shoup</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 27, 1965</cell>
+                        <cell>Also 2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Merwin Humphrey</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Mar. 14, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Michael J. Habib</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James T. Schollaert</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

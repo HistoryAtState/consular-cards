@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1395" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shimonseki, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1394" type="prev"/>
+                <relatedItem target="c1396" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1395f1">
+                <graphic height="3636px" url="01858.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shimonseki, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01858</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1395">
+        <body>
+            <div corresp="#c1395f1">
+                <head>Shimonoseki, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Nuevo Laredo</cell>
+                        <cell>Walter H. Sholes</cell>
+                        <cell>Con. 6</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Okla.</cell>
+                        <cell>Aug. 31, 1918.</cell>
+                        <cell>Did not go to Shimonoseki <lb/> Assigned to Hoteliorg Mar. 10,
+                            1919</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

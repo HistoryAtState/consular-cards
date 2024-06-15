@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3330" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ouagadougou, Republic of Upper Volta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3329" type="prev"/>
+                <relatedItem target="c3331" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3330f1">
+                <graphic height="3618px" url="04364.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ouagadougou, Republic of Upper Volta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04364</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3330">
+        <body>
+            <div corresp="#c3330f1">
+                <head>OUAGADOUGOU, Republic of Upper Volta</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Robert Bone</cell>
+                        <cell>Oct. 28, 1964</cell>
+                        <cell>Confirmed as a Consular Officer 6-16-66 To Salisbury as Consul
+                            (755)8-1-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

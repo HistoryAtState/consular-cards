@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2203" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dundalk, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2202" type="prev"/>
+                <relatedItem target="c2204" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2203f1">
+                <graphic height="3626px" url="02939.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dundalk, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02939</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2203f2">
+                <graphic height="3626px" url="02940.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dundalk, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1855</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02940</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2203">
+        <body>
+            <div corresp="#c2203f1">
+                <head>(temp. in lieu of Newry)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <head>Dundalk, Ireland. (under Belfast) (or Dublin which?)</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Cover</p>
+            </div>
+            <div corresp="#c2203f2">
+                <head>Dundalk, Ireland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. E. Carraher</cell>
+                        <cell><unclear>Sety</unclear> Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>1855? to 1862?</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

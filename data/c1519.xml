@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1519" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Talcahuano, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1518" type="prev"/>
+                <relatedItem target="c1520" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1519f1">
+                <graphic height="3628px" url="02027.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Talcahuano, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02027</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1519">
+        <body>
+            <div corresp="#c1519f1">
+                <head>Talcahuano, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>S.J. Stanton</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Josiah S. Van Ingen</cell>
+                        <cell>〃 〃</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Jan. 20, 1883</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John O. Young</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell>R.S.</cell>
+                        <cell/>
+                        <cell>July 8, 1895.</cell>
+                        <cell>Performed duties to Sept. 19, 1920 <lb/> Jan. 1, 1896 to Nov. 14,
+                            1920. <lb/> Died at his post Nov. 14, 1920. (age 72)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph C. Smith</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell>R.S.</cell>
+                        <cell/>
+                        <cell>Sept. 27, 1895.</cell>
+                        <cell>Aug. 1, 1921 to <lb/> Res. effec. Dec. 31, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Hyde</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell>W. Bellick, </cell>
+                        <cell>Dr. Br. Dreland, Chile</cell>
+                        <cell>Apr. 26, 1921.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed December 31, 1932.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

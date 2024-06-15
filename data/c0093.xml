@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0093" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antioch, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0092" type="prev"/>
+                <relatedItem target="c0094" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0093f1">
+                <graphic height="3626px" url="00137.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antioch, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00137</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0093">
+        <body>
+            <div corresp="#c0093f1">
+                <head>Antioch, Syria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Walker</cell>
+                        <cell>Con. Agts.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 12, 1887</cell>
+                        <cell>Did not act - not recognized <lb/> to Alexandretta May 27, 1895</cell>
+                    </row>
+                </table>
+                <p>Ordered closed Feb. 8 - Closed March 31, 1889 (<unclear>no
+                    archives</unclear>)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

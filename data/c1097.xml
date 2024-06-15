@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1097" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Progreso, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1096" type="prev"/>
+                <relatedItem target="c1098" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1097f1">
+                <graphic height="3646px" url="01459.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Progreso, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01459</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1097">
+        <body>
+            <div corresp="#c1097f1">
+                <head>Progreso, Mexico! (see merida)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE TO CLASS</cell>
+                        <cell>APPOINTED</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Rufus A. Lane Jr.</cell>
+                        <cell>F.S.O. Une. 17/22/25</cell>
+                        <cell>Va.</cell>
+                        <cell>May 19, 1928.</cell>
+                        <cell/>
+                        <cell>apptd. S.O. Class 5; also Consul, July 24, 1930; assigned as Consul,
+                            July 24, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Ciudad Juarez</cell>
+                        <cell>James T. Penfield</cell>
+                        <cell>Do " </cell>
+                        <cell>4/15/1930</cell>
+                        <cell>Calif.</cell>
+                        <cell>June 13, 1930.</cell>
+                        <cell/>
+                        <cell>Assigned to Dept. of State, Sept. 27, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Veracruz</cell>
+                        <cell>Leo Doch</cell>
+                        <cell>Do " </cell>
+                        <cell>12/16/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 24, 1931.</cell>
+                        <cell/>
+                        <cell>Assigned to Vera Cruz, Mar. 4, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Monterider</cell>
+                        <cell>Haldo E. Bailey</cell>
+                        <cell>Do " </cell>
+                        <cell>3/8/1930</cell>
+                        <cell>Miss</cell>
+                        <cell>Jan. 20, 1932.</cell>
+                        <cell/>
+                        <cell>Assigned to Merida, Nov. 11, 1933</cell>
+                    </row>
+                </table>
+                <p>Office transferred to Merida, Feb. 1, 1934</p>
+            </div>
+        </body>
+    </text>
+</TEI>

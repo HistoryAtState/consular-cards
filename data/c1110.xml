@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1110" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puerto Castilla, Hondoras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1109" type="prev"/>
+                <relatedItem target="c1111" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1110f1">
+                <graphic height="3638px" url="01478.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puerto Castilla, Hondoras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01478</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1110">
+        <body>
+            <div corresp="#c1110f1">
+                <head>Puerto Cortes, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt. to Class</cell>
+                        <cell>WHERE BORN.<lb/>Rank<lb/>and<lb/>Date of Rank</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.<lb/>Date of assignment</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See<lb/>card #1<lb/>Dept. of<lb/>State</cell>
+                        <cell>George P. Shaw</cell>
+                        <cell>F.S.O. 8</cell>
+                        <cell>7/1/1924 R.<lb/>Consul<lb/>12-19-23</cell>
+                        <cell>Calif.</cell>
+                        <cell>Continued under assign<lb/>ment of Dec. 22, 1923,<lb/>Assigned to
+                            Tegucigalpa Oct. 22, 24<lb/>Sept. 11, 1924 to<lb/>Appt'd F.S.O, class 6
+                            Feb. 24, 1925.<lb/>Assigned to Barranquilla 5/28/25.<lb/>Assigned to
+                            Winnipeg Aug. 29, 1928.<lb/>To Tijuana 11/2-46</cell>
+                        <cell>to Sept. 10, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>class 7</cell>
+                        <cell>Alfred T. Burri</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>7/11/1924 R.<lb/>Consul<lb/>EFFECTIVE<lb/>12/20/1924 0. 6-9-21</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 15, 1924.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred J. Burri</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>2/24/1925 C.<lb/>Consul<lb/>6-9-21</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Galusta</cell>
+                        <cell>Glay Fox</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>7/1/1924<lb/>Consul<lb/>12-19-23</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 28, 1925.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Francis C. Jordan</cell>
+                        <cell>F.S.O. 8</cell>
+                        <cell>11-21-42<lb/>eff<lb/>10-20-42 0 7-18-45c</cell>
+                        <cell>N.L.</cell>
+                        <cell>July 30, 1945</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed C.O.R. November 30, 1946.</p>
+                <p>Office moved to San Pedro Sula, Honduras</p>
+                <p>Consular Agency established February 21, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

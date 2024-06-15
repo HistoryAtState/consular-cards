@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2028" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ciudad Porfirio Diaz, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2027" type="prev"/>
+                <relatedItem target="c2029" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2028f1">
+                <graphic height="3632px" url="02721.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ciudad Porfirio Diaz, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02721</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2028">
+        <body>
+            <div corresp="#c2028f1">
+                <head>Ciudad Porfirio Diaz, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles F. Snyder</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>Oct. 15, 1897<lb/>Dec. 18, 1897</cell>
+                        <cell>recess Superseded. Appt'd Cons. at<lb/>Conf. Windsor N.S. 7/18/01.
+                            Declined<lb/>to Nov. 28, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis A. Martin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>July 18, 1901<lb/>Dec. 9, 1901</cell>
+                        <cell>recess<lb/>Conf. Appt'd Cons. Chihuahua 2/1/07</cell>
+                    </row>
+                    <row>
+                        <cell>Chihuahua</cell>
+                        <cell>Luther T. Ellsworth</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 21, 1907<lb/>Dec. 16, 1907</cell>
+                        <cell>recess Jan. 1/1908 to July 29, 1913<lb/>Conf. Resigned by tel. July
+                            17, 1913 once<lb/>void July 2, 1914.</cell>
+                    </row>
+                </table>
+                <p>Name of office changed to Piedras Negras, Feb. 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

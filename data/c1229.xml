@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1229" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carrara, Duchy of Modena-Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1228" type="prev"/>
+                <relatedItem target="c1230" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1229f1">
+                <graphic height="3636px" url="01635.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carrara, Duchy of Modena-Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1852</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01635</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1229">
+        <body>
+            <div corresp="#c1229f1">
+                <head>Carrara, Duchy of Modena (now Italy)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Walton</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 11, 1852</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franklin Torrey</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Jan. 17, 1854 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D.P. Henderson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>My.</cell>
+                        <cell/>
+                        <cell>Jan. 24, 1861 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franklin Torrey</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Feb. 29, 1864 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William L. Long</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.C.</cell>
+                        <cell/>
+                        <cell>Dec. 22, 1870 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard M. Tieknor</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>June 30, 1879 Conf. Declined</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert W. Welch</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.H.</cell>
+                        <cell/>
+                        <cell>Nov. 13, 1879 recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert W. Welch</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.H.</cell>
+                        <cell/>
+                        <cell>Dec. 17, 1879 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed July 2, 1916</p>
+            </div>
+        </body>
+    </text>
+</TEI>

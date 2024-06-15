@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1493" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Swatow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1492" type="prev"/>
+                <relatedItem target="c1494" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1493f1">
+                <graphic height="3630px" url="01993.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Swatow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01993</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1493">
+        <body>
+            <div corresp="#c1493f1">
+                <head>Swatow, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Foochow</cell>
+                        <cell>Horace Perillard</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass. Mass.</cell>
+                        <cell>Sept. 6, 1916.</cell>
+                        <cell>Appt'd Consul, Class 9. Apr. 16, 1917<lb/>and assigned to
+                            Saigon</cell>
+                    </row>
+                    <row>
+                        <cell>Chungking</cell>
+                        <cell>Samuel Sokobin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J. N.J.</cell>
+                        <cell>Aug. 9, 1920</cell>
+                        <cell>Appt'd V.C. and Interpreter at<lb/>Saigon, Nov. 15, 1920.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1540" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tashkent</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1539" type="prev"/>
+                <relatedItem target="c1541" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1540f1">
+                <graphic height="3634px" url="02054.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tashkent</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02054</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1540f2">
+                <graphic height="3634px" url="02055.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tashkent</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02055</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1540">
+        <body>
+            <div corresp="#c1540f1">
+                <head>Tashkent</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1540f2">
+                <head>Zashkent</head>
+                <p>Roger Culver Tredwell, Com, Class 6, lately, on detail at Moscow detailed to
+                    Tashkent. May, 1918; detailed to Am, Comma.</p>
+                <p>to Negotiate Peace, Paris, 1919; Class 4, Sept. 5, 1919; detailed to Sept. of
+                    State, Sept. 12, 1919.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

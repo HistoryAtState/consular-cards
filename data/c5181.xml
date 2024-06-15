@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5181" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Albania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5180" type="prev"/>
+                <relatedItem target="c5182" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5181f1">
+                <graphic height="3626px" url="06716.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Albania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06716</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5181f2">
+                <graphic height="3596px" url="06717.tif" width="5973px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Albania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06717</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5181">
+        <body>
+            <div corresp="#c5181f1">
+                <head>Albania</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>WHENCE APPTD</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                    </row>
+                    <row>
+                        <cell>Is also Vice Con., Tirana</cell>
+                        <cell>Calvin H. Oakes</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une 6/4/1930</cell>
+                        <cell>So. Car.</cell>
+                        <cell>Dec. 13, 1935</cell>
+                        <cell>3d Secy 6-4-30</cell>
+                        <cell>Asgd. to Calcutta, I.C., Apr. 9, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Budapest Is also Consul at Tirana</cell>
+                        <cell>Benjamin Peath Riggs</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>5/9/1930</cell>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 18, 1936</cell>
+                        <cell>1st Secy 11-16-29</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Morris K. Hughes</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>11/22/1935</cell>
+                        <cell>Ill.</cell>
+                        <cell>Apr. 10, 1937</cell>
+                        <cell>2d Secy 4-10-37</cell>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>Morris K. Hughes</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>4-22-37</cell>
+                        <cell>Ill.</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                    </row>
+                </table>
+                <p>Consular Section closed July 20, 1939.</p>
+                <p>Established as a Mission May 8, 1945.</p>
+                <table>
+                    <row role="label">
+                        <cell>commercial attache Cairo</cell>
+                        <cell>Karl L. Rankin</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>3</cell>
+                        <cell>2-20-42</cell>
+                        <cell>Maine</cell>
+                        <cell>Oct 7, 1945</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George D. Henderson</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>5-21-45</cell>
+                        <cell>Calif</cell>
+                        <cell>May 26, 1945</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Mission closed November 15, 1946.</p>
+                <p><unclear>: Requested that name be changed to Calvin Hawley Oakes, Feb.
+                        1936.</unclear></p>
+            </div>
+            <div corresp="#c5181f2"/>
+        </body>
+    </text>
+</TEI>

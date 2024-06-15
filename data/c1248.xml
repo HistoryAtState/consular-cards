@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1248" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catania, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1247" type="prev"/>
+                <relatedItem target="c1249" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1248f1">
+                <graphic height="3626px" url="01659.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Catania, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01659</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1248">
+        <body>
+            <div corresp="#c1248f1">
+                <head>Catania, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHERE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>v.c..</cell>
+                        <cell>Robert F. Fernald</cell>
+                        <cell>V.C.de</cell>
+                        <cell>3</cell>
+                        <cell>9/27/1919</cell>
+                        <cell>Me.</cell>
+                        <cell>Oct.22,1919</cell>
+                        <cell>Appr5V. C. de carrière Clase 2 May 24, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Robert F. Fernald</cell>
+                        <cell>//</cell>
+                        <cell>2</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>Me.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Stockholm Sept. 15, 1921.</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Dec. 21/1927</p>
+            </div>
+        </body>
+    </text>
+</TEI>

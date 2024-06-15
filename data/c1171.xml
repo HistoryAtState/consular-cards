@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1171" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Francisco, Cal. Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1170" type="prev"/>
+                <relatedItem target="c1172" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1171f1">
+                <graphic height="3630px" url="01561.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Francisco, Cal. Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1842</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01561</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1171f2">
+                <graphic height="3636px" url="01562.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Francisco, Cal. Mex.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1848</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01562</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1171">
+        <body>
+            <div corresp="#c1171f1">
+                <head>San Francisco, Cal, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Carlile</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>New York</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 10, 1842 Conf.</cell>
+                        <cell>Did not take charge <lb/> Resigned June 7, 1843, <lb/> Did not take
+                            charge <lb/> Went to Missippi City to the US. <lb/> and resigned Aug. 1,
+                            1844.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert M. Gilliam</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Lymelzburg</cell>
+                        <cell>Va.</cell>
+                        <cell>July 26, 1843 recess</cell>
+                        <cell>Jan. 29, 1844 Conf</cell>
+                    </row>
+                </table>
+                <p>California entered the Union Sept. 9, 1850.</p>
+            </div>
+            <div corresp="#c1171f2">
+                <head>San Francisco, Cal., Mex.</head>
+                <p>Resignation of Carlile filed in "Vespules" Vol.</p>
+                <p>" " William " " </p>
+                <p>Wm A. Liedesdorff, a sea captain, Dane by birth, lately U.S. Vice Cons. at San
+                    Francisco, Calif. died there May 18, 1848 (until Sept. 30, 1848)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

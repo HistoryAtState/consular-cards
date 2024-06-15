@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0582" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Melilla, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0581" type="prev"/>
+                <relatedItem target="c0583" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0582f1">
+                <graphic height="3628px" url="00790.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Melilla, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00790</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0582f2">
+                <graphic height="3628px" url="00791.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Melilla, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00791</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0582">
+        <body>
+            <div corresp="#c0582f1">
+                <head>Melilla, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Tangier</cell>
+                        <cell>Fayette J. lexer</cell>
+                        <cell>7.8.0.3</cell>
+                        <cell>9-29-43c 2-4-31 c</cell>
+                        <cell>Ill.</cell>
+                        <cell>Jun. 17, 1943.</cell>
+                        <cell>To madrid - 3-28-44</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate established August 16, 1943.</p>
+                <p>American Consulate Closed to public on November 30, 1944</p>
+            </div>
+            <div corresp="#c0582f2">
+                <head>ponish</head>
+                <p>See mems # 413 of Oct. 22, 1943 - Desgraphically-Melilla is in North Africa, but
+                    Spain desires that we accept it as metispoliton Spain - which we accepted.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

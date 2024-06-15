@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3350" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oran, the Democratic and Popular Republic of Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3349" type="prev"/>
+                <relatedItem target="c3351" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3350f1">
+                <graphic height="3622px" url="04389.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oran, the Democratic and Popular Republic of Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04389</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3350">
+        <body>
+            <div corresp="#c3350f1">
+                <head>ORAN, the Democratic and Popular Republic of Algeria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate established at Oran eff. June 11, 1962.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Pierre C. Pingitore</cell>
+                        <cell>Apr. 21, 1965</cell>
+                        <cell>To Mogadiscio as Cultural Affrs. Off. (755)<lb/>(USIA) 10-9-66.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

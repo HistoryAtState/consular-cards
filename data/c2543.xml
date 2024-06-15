@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2543" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Athens, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2542" type="prev"/>
+                <relatedItem target="c2544" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2543f1">
+                <graphic height="3632px" url="03375.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Athens, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="9.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03375</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2543">
+        <body>
+            <div corresp="#c2543f1">
+                <head>ATHENS, Greece</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Teodor J. Lopatkiewicz</cell>
+                        <cell>FSS</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ted D. Girdner</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Lois M. Day</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Jel Aviv</cell>
+                        <cell>Miss Margaret M. Herrick</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>June 7, 1965</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. for Consulare Affrs.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>H. Bartlett Wells</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. for Pol. Affairs, assigned to Fletcher School
+                            of Law &amp; Diplomacy, Medford, Mass., 08-14-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Athens</cell>
+                        <cell>Alfred G. Vigderman</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter J. Peterson</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

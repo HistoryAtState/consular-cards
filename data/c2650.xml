@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2650" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Katmandu, Nepal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2649" type="prev"/>
+                <relatedItem target="c2651" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2650f1">
+                <graphic height="3630px" url="03518.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Katmandu, Nepal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03518</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2650">
+        <body>
+            <div corresp="#c2650f1"/>
+        </body>
+    </text>
+</TEI>

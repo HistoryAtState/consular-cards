@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1530" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tansui, Taiwan (formerly Tamsui, Formosa)</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1529" type="prev"/>
+                <relatedItem target="c1531" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1530f1">
+                <graphic height="3620px" url="02041.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tansui, Taiwan (formerly Tamsui, Formosa)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02041</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1530f2">
+                <graphic height="3620px" url="02042.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tansui, Taiwan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02042</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1530">
+        <body>
+            <div corresp="#c1530f1">
+                <head>Tansui, Taiwan. (formally Tamsui, Formosa)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>Hama<lb/>Stut<lb/>Int.</cell>
+                        <cell>Joseph W. Ballantine</cell>
+                        <cell>U.S.D. Con. U.</cell>
+                        <cell>U.S.</cell>
+                        <cell>India Mass.</cell>
+                        <cell>Nov. 6, 1912.</cell>
+                        <cell>Appt'd Cl. Interpreter<lb/>at Yokohama Oct. 7, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max D. Stijiff</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Russia Conn.</cell>
+                        <cell>Aug. 6, 1913.</cell>
+                        <cell>Appt'd Cl. Interpreter<lb/>at Yokohama, Oct. 29, 1913.</cell>
+                    </row>
+                </table>
+                <p>Name of Consulate changed to Taihoku, Taiwan 1915.</p>
+            </div>
+            <div corresp="#c1530f2">
+                <head>Tamsui, Taiwan.</head>
+                <p>Max D. Kirjassoff, UrDC. took over the Consulate from Consul Peat Aug. 24, 1913
+                    and turned it over to Consul Williamson Nov. 9, 1913.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

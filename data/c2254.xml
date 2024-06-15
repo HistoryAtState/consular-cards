@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2254" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goderich, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2253" type="prev"/>
+                <relatedItem target="c2255" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2254f1">
+                <graphic height="3626px" url="03007.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Goderich, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03007</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2254">
+        <body>
+            <div corresp="#c2254f1">
+                <head>Goderich, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob Springsteed</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Oct. 21, 1864 recess<lb/>Feb. 14, 1865 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Fitnam</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>DC.</cell>
+                        <cell/>
+                        <cell>Nov. 29, 1865 recess Rejected May 29, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Allcock</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell/>
+                        <cell>June 30, 1866 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Almon A. Thompson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell/>
+                        <cell>Mar. 17, 1870 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustavus Goward</cell>
+                        <cell>Amiltzt.</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell/>
+                        <cell>July 16, 1877<lb/>To Ottawa Sept. 15/1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George J. Abbot</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Sept. 15, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hibbard</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell/>
+                        <cell>Mar. 8, 1879.<lb/>(Died at the home of his son, 2015 I. St. n. W. aged
+                            89 years.)</cell>
+                        <cell>Resigned in U.S. Sept. 19, 1901,<lb/>to take effect Jan. 1,
+                            1902.<lb/>Feb. 19, 1902 to<lb/>Appt'd Cons Suva Jsme 22, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert S. Chilton</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Oct. 20, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John H. Shirley</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell/>
+                        <cell>Jan. 2, 1902.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

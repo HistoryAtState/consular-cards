@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0496" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lucerne, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0495" type="prev"/>
+                <relatedItem target="c0497" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0496f1">
+                <graphic height="3636px" url="00676.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lucerne, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00676</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0496">
+        <body>
+            <div corresp="#c0496f1">
+                <head>Lucerne, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Milan</cell>
+                        <cell>Ilo C. Funk</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>3</cell>
+                        <cell>9/27/1919</cell>
+                        <cell>Colo.</cell>
+                        <cell>Oct. 20, 1919</cell>
+                        <cell>Nov. 5, 1919 to See below</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Ilo C. Funk</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>Colo.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd V.C. de Carrière, Class 2 May 24, 1920 <lb/> See above to Nov.
+                            14, 1921 <lb/> Assigned to Genoa Sept. 15, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Genoa</cell>
+                        <cell>James J. Murphy, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>Pa.</cell>
+                        <cell>Sept. 15, 1921</cell>
+                        <cell>Appt'd V.C. de Carrière Class 1 Nov. 17, 1921 <lb/> Nov. 15, 1921 to
+                            <lb/> Appt'd a Consul of Class 7 June 22, 1922 <lb/> Remaining at
+                            Lucerne on detail.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 2.</cell>
+                        <cell>James J. Murphy, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>11/17/1921</cell>
+                        <cell>Pa.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Batavia George R. Hukill F.S.O. Une. 7/1/1924 Del. Sept 24, 1925. Appt'd F.S.O.
+                    Class 8 May 17, 1928, also Consul and assigned to Lucerne May 17, 1928.</p>
+                <p>Vienna C. Warwick Perkins, Jr. Do " 10/16/1924R Md. May 23, 1927. Assigned to
+                    Vienna Nov. 15, 1927.</p>
+                <p>Vice Consulate ordered closed (A memo dated Oct. 15, 1929)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

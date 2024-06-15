@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3720" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reykjavik, Iceland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3719" type="prev"/>
+                <relatedItem target="c3721" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3720f1">
+                <graphic height="3630px" url="04860.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Reykjavik, Iceland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04860</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3720">
+        <body>
+            <div corresp="#c3720f1">
+                <head>REYKJAVIK, Iceland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.(FSS)</cell>
+                        <cell>Mrs. Hazel O. Briggs</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 1, 1963</cell>
+                        <cell/>
+                        <cell>To Hong Kong as Consul,<lb/>10-28-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons.</cell>
+                        <cell>Miss Colette Meyer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 2, 1963</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To Tripoli<lb/>as Cone. + 2d Sec. 11-023-64.<lb/>Also
+                            Counselor of Emb. &amp; Deputy<lb/>Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David H. Henry 2d</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

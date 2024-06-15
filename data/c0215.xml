@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0215" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harput, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0214" type="prev"/>
+                <relatedItem target="c0216" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0215f1">
+                <graphic height="3634px" url="00309.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harput, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1900</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00309</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0215f2">
+                <graphic height="3634px" url="00310.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harput, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00310</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0215">
+        <body>
+            <div corresp="#c0215f1"/>
+            <div corresp="#c0215f2">
+                <head>Harput, Turkey.</head>
+                <p>Henry C. A. Damm, Consul, his laChapelle, was directed by telegram dated Feb. 14,
+                    1917 to proceed Harput for duty in that office</p>
+            </div>
+        </body>
+    </text>
+</TEI>

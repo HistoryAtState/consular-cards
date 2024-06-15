@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4779" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Copenhagen, Denmark</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4778" type="prev"/>
+                <relatedItem target="c4780" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4779f1">
+                <graphic height="3626px" url="06221.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Copenhagen, Denmark</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06221</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4779">
+        <body>
+            <div corresp="#c4779f1">
+                <head>Copenhagen, Denmark</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>This office</cell>
+                        <cell>P. Wickersham</cell>
+                        <cell>Min. Res't</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>July 13, 1882 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>H.S. Ryder</cell>
+                        <cell>Wickham Hoffman</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 27, 1883 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rasmus B. Anderson</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wise. Apr. 2, 1885 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Enander</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Mar. 13, 1889 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clark E. Carr</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>May 16, 1889 Recess Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Jan. 9, 1890 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

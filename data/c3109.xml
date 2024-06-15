@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3109" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Monrovia, Liberia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3108" type="prev"/>
+                <relatedItem target="c3110" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3109f1">
+                <graphic height="3632px" url="04086.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monrovia, Liberia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04086</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3109">
+        <body>
+            <div corresp="#c3109f1">
+                <head>Monrovia, Liberia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Las Palmas</cell>
+                        <cell>James E. Brown <unclear/>(Colored)</cell>
+                        <cell>V. Con. U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>A.C.</cell>
+                        <cell>Nov. 16, 1938</cell>
+                        <cell>Resigned Apr. 30, 1939. <lb/>appt'd Vice Consul of Career
+                            5-21-45</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William G. George</cell>
+                        <cell>V. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 7, 1941</cell>
+                        <cell>assigned Vice Con. + 3rd Sec'y, Monrovia 5-28-45</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rupert G. Lloyd</cell>
+                        <cell>V. Con.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>April 17, 1942</cell>
+                        <cell>appt'd F.S.O., Yue, V.C. of career, + Sec'y in <lb/>Dip. Serv.
+                            12-22-45 'Assigned V.C. of career and <lb/>3rd Sec'y, Monrovia
+                            12-29-45</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert A. Witcher</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb 21, 1947.</cell>
+                        <cell>Resigned eff. Oct. 12-3-51.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David B. Bolen</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 6, 1950</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mrs. Helen M. Carr</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1950</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George B. Pettengill</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 19, 1951</cell>
+                        <cell>also V.C. for Sierra Leone Colony <lb/>3-14-52. Designated V.C. of
+                            career <lb/>3d Sec. Monrovia 6-26-52.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles W. Thomas</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 9, 1952</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

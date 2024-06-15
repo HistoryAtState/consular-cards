@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2893" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madrid, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2892" type="prev"/>
+                <relatedItem target="c2894" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2893f1">
+                <graphic height="3630px" url="03813.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madrid, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03813</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2893">
+        <body>
+            <div corresp="#c2893f1"/>
+        </body>
+    </text>
+</TEI>

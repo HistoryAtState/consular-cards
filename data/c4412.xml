@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4412" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexandria, United Arab Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4411" type="prev"/>
+                <relatedItem target="c4413" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4412f1">
+                <graphic height="3628px" url="05742.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Alexandria, United Arab Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05742</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4412">
+        <body>
+            <div corresp="#c4412f1">
+                <head>ALEXANDRIA, United Arab Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul (755)<lb/>usin<lb/>Alexandria</cell>
+                        <cell>Marshall K. Berg</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Oct. 10, 1960</cell>
+                        <cell>USIA</cell>
+                        <cell>To Saigon (USIA) as Assist.<lb/>Info. Officer장-21-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard E. Undeland</cell>
+                        <cell>FSR</cell>
+                        <cell>5 Cons.</cell>
+                        <cell/>
+                        <cell>July 5, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>To Amman as 2d Secy 10-13-66<lb/>FSR officer assigned to Dept.,
+                            1-15-67</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Sekel, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Sept. 28, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Barcelona<lb/>(USIA)<lb/>Khartoum<lb/>V.C.<lb/>Alexandria</cell>
+                        <cell>A. David Fritzlan</cell>
+                        <cell>FSO</cell>
+                        <cell>2 Gen.</cell>
+                        <cell/>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell>To Cairo (USIA) as Assist. Cultural<lb/>Affairs Officer, (FSR)
+                            9-25-66.<lb/>FSO assigned to NASA 9-8-66</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William N. Lyons</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Aug. 7, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Precht</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell/>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>2d Secy<lb/>New Delhi</cell>
+                        <cell>Hugh J. McMillan</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold M. Otwell</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

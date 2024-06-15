@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3432" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3431" type="prev"/>
+                <relatedItem target="c3433" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3432f1">
+                <graphic height="3638px" url="04491.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paris, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04491</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3432">
+        <body>
+            <div corresp="#c3432f1"/>
+        </body>
+    </text>
+</TEI>

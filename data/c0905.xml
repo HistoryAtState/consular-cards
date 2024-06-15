@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0905" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Bartholomew</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0904" type="prev"/>
+                <relatedItem target="c0906" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0905f1">
+                <graphic height="3624px" url="01213.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Bartholomew</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01213</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0905f2">
+                <graphic height="3634px" url="01214.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Bartholomew</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1827</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01214</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0905">
+        <body>
+            <div corresp="#c0905f1">
+                <head>St. Bartholomew (Island)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julian Oscar Florandin</cell>
+                        <cell>U. Com'l Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept 13, 1875.</cell>
+                        <cell>Resigned Sept. 15, 1897</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Octo. 10, 1899.</p>
+                <p>Records ordered stored at St. Christopher.</p>
+            </div>
+            <div corresp="#c0905f2">
+                <head>St. Bartholomew's</head>
+                <p>Robert M. Harrison, Consul, went on trip through Islands by direction of State
+                    Dept. July 22, 1827, from Antigua.</p>
+                <p>A.S. Delisle - Acting Agent (apptd by Consul at St. C. Antigua) Nov. 1832 To</p>
+            </div>
+        </body>
+    </text>
+</TEI>

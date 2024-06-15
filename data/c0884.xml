@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0884" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rossland, British Columbia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0883" type="prev"/>
+                <relatedItem target="c0885" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0884f1">
+                <graphic height="3642px" url="01187.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rossland, British Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01187</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0884">
+        <body>
+            <div corresp="#c0884f1">
+                <head>Rossland, British Columbia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Friedrich Richard Blockberger</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Ore.</cell>
+                        <cell/>
+                        <cell>Sept. 16, 1897</cell>
+                        <cell>Resigned Sept. 24, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George S. Armstrong (n)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Wash.</cell>
+                        <cell>Oct. 7, 1898.</cell>
+                        <cell>Resigned June 20, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Jackson, Jr. (n)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mont.</cell>
+                        <cell>July 3, 1899</cell>
+                        <cell>Resigned in U.S. Apr. 12, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Ohren (n)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Canada D.C.</cell>
+                        <cell>May 12, 1902.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 31, 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

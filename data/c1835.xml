@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1835" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bari, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1834" type="prev"/>
+                <relatedItem target="c1836" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1835f1">
+                <graphic height="3632px" url="02450.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bari, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02450</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1835f2">
+                <graphic height="3632px" url="02451.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bari, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02451</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1835">
+        <body>
+            <div corresp="#c1835f1">
+                <head>Bari, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Giacomo Gattorno</cell>
+                        <cell>Con. Agent</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 1, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Luigi Rivera</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 15, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emil Berner</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 3, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Klein</cell>
+                        <cell>"</cell>
+                        <cell>Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 3, 1888</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>San Remo</cell>
+                        <cell>Nicholas Schuck</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 8, 1892</cell>
+                        <cell>superseded <lb/> Deed of heart failure</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>St Leger A. Toway (C.C.)</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Sept. 26, 1905</cell>
+                        <cell>May 9, 1907. <lb/> Resigned from 317 E. 18th St., <lb/> New York, Mar.
+                            30, 1912 after having <lb/> been on leave 14 months (illness) <lb/>
+                            Recognition refused, finding result of trial <lb/> for killing Lt.
+                            Ettore Rizzo. <lb/> Condemned to 6 mos. imprisonment and to pay <lb/>
+                            1000 lire. Not acceptable to It. Govt.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry M. Haight</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>July 31, 1907.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max Amadeus Miescher</cell>
+                        <cell>"</cell>
+                        <cell>Swiss. Italy</cell>
+                        <cell>Naples <lb/> Italy</cell>
+                        <cell>Bari <lb/> Italy</cell>
+                        <cell>June 1, 1912.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Feb. 26, 1916.</p>
+            </div>
+            <div corresp="#c1835f2">
+                <head>Pari, Italy.</head>
+                <p>Otto Schuck (nephew of Nicholas Schuck, formerly Act'g in chg. of Agency,
+                    temporarily, pending the outcome of the trial of Max A. Mideacher, Consular
+                    Agent, from about Sept. 15, 1912 to about Aug. 1, 1914, left for military
+                    service in Germany.)</p>
+                <p>Francesco Fasciano, in chg. of Agency (departure of Schuck) about Aug. 1,
+                    1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

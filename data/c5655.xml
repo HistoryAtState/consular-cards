@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5655" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peiping, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5654" type="prev"/>
+                <relatedItem target="c5656" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5655f1">
+                <graphic height="3014px" url="07378.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1973</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07378</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5655">
+        <body>
+            <div corresp="#c5655f1">
+                <head>Peking, China</head>
+                <table>
+                    <row role="label">
+                        <cell>5/14/73</cell>
+                        <cell>United States Liaison Office (USLO) officially opened in Peking. Mr.
+                            David K.E. Bruce was designated Chief USLO. Consular District consists
+                            of all areas of China other than the Taipei Consular District.</cell>
+                    </row>
+                    <row>
+                        <cell>3/1/79</cell>
+                        <cell>Designation changed from USLO to Embassy upon assumption of full
+                            diplomatic relations with PRC. Effective same date, post to be
+                            identified as Beijing in lieu of Peking.</cell>
+                    </row>
+                    <row>
+                        <cell>8/18/80</cell>
+                        <cell>Following establishment of ConGens in Guangzhou and Shanghai, the
+                            Beijing Consular District is changed to all areas except the Guangzhou,
+                            Shanghai, and Hong Kong Consular Districts.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

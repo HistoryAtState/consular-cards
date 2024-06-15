@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1230" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carrara, Duchy of Modena-Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1229" type="prev"/>
+                <relatedItem target="c1231" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1230f1">
+                <graphic height="3638px" url="01636.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carrara, Duchy of Modena-Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01636</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1230">
+        <body>
+            <div corresp="#c1230f1">
+                <head>Carrara, Duchy of Modena (now Italy)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Pollina</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 25, 1865.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ulysses Bocacci</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 2, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ulisse Boccacci</cell>
+                        <cell>Con. Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 10, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Shres<lb/>fite</cell>
+                        <cell>St. Leger A. Touhay (@c.)</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>June 3, 1893.</cell>
+                        <cell>to Dec. 22, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ulisse Boccacci</cell>
+                        <cell>" "</cell>
+                        <cell>Italy</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 31, 1894</cell>
+                        <cell>Superseded<lb/>Dec.23, 1903 to Mar. 31, 1904<lb/>Appt'd Con. byt at
+                            baran 30/04<lb/>Apr. 1, 1/984 to Jan. 17, 1910</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred G. Tevie</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Nov. 17, 1903.</cell>
+                        <cell>Died Jan. 17, 1910</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ulisse Boccacci</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Jan. 30, 1904.</cell>
+                        <cell>June 1, 1910 to<lb/>June 2, 1910.</cell>
+                        <cell>Resignation accepted 7/24/16 at once</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix A. Dalmas</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Oak Lane<lb/>Pa.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 2, 1910.<lb/>(20?)</cell>
+                        <cell>Agency ordered closed July 24, 1916, closed July 28, 1916.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

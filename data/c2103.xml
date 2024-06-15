@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2103" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cookshire, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2102" type="prev"/>
+                <relatedItem target="c2104" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2103f1">
+                <graphic height="3628px" url="02809.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cookshire, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1889</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02809</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2103f2">
+                <graphic height="3628px" url="02810.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cookshire, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02810</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2103">
+        <body>
+            <div corresp="#c2103f1">
+                <head>Cookshire, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles C. Bailey</cell>
+                        <cell>Com. Agt. Gr.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 27, 1889.</cell>
+                        <cell>Died suddenly at the Washington (D.C.) Sanitarium Jan. 20,
+                            1913.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William F. Given</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C. Aug. 6, 1898.</cell>
+                        <cell>Feb. 22, 1913 to Mar. 27, 1914</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur L. Wooldridge</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Harrison-ville Mo. Minn. Feb. 20, 1913.</cell>
+                        <cell/>
+                        <cell>Resigned Mar. 27, 1914.</cell>
+                    </row>
+                </table>
+                <p>Agency closed July 31, 1914.</p>
+            </div>
+            <div corresp="#c2103f2">
+                <head>Cookshire, Quebec.</head>
+                <p>Cyrus M. Mac Rae, Acting Consular Agent (death of Sinent)</p>
+                <p>Cyrus M. Mac Rae, Acting Consular Agent (departure of Woodbridge?) - Agency
+                    closed July 31, 1914.</p>
+                <p>to Feb. 22, 1913.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

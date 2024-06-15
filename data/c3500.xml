@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3500" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Elizabeth, Cape Province, Union-Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3499" type="prev"/>
+                <relatedItem target="c3501" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3500f1">
+                <graphic height="3610px" url="04579.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Elizabeth, Cape Province, Union-Republic of South
+                            Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04579</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3500">
+        <body>
+            <div corresp="#c3500f1">
+                <head>PORT ELIZABETH, CAPE PROVINCE, UNION OF SOUTH AFRICA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Visa Assistant Salonika</cell>
+                        <cell>Norman L. Cansler</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 9, 1957</cell>
+                    </row>
+                    <row>
+                        <cell>Aden</cell>
+                        <cell>Gregory Gay</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 26, 1961</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William L. Swing</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 30, 1964</cell>
+                    </row>
+                    <row>
+                        <cell>Durban</cell>
+                        <cell>Keith D. Martin</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 11, 1966</cell>
+                    </row>
+                </table>
+                <p>F.S.O. assigned to the Dept. 12-27-59</p>
+                <p>To Brazzaville as Asst. Attaché (USIA) 2-16-64.</p>
+                <p>FSO assigned to the Dept., 3-27-66.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

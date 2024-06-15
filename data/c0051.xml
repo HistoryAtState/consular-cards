@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0051" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Almeria, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0050" type="prev"/>
+                <relatedItem target="c0052" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0051f1">
+                <graphic height="3638px" url="00075.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Almeria, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00075</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0051f2">
+                <graphic height="3638px" url="00076.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Almeria, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00076</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0051">
+        <body>
+            <div corresp="#c0051f1">
+                <head>Almeria, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Seville</cell>
+                        <cell>(see over) Edward E. Silvera</cell>
+                        <cell>V.C. de carrier</cell>
+                        <cell>3</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>N. J.</cell>
+                        <cell>Aug. 21, 1922</cell>
+                    </row>
+                </table>
+                <p>Closed: November 20, 1922</p>
+                <p>Sept. 1, 1922 to closed consulate Nov. 29, 1922</p>
+                <p>Assigned to Seville Nov. 7, 1922</p>
+            </div>
+            <div corresp="#c0051f2">
+                <head>Almeria, Spain</head>
+                <p>Edward E. Silvers, V. C. de C., Class 3. assigned to Seville, was detailed to
+                    Almeria June 24, 1972 to open a temporary Consulate for the performance of
+                    consular services during the grape shipping season, assigned to Almeria Aug. 21,
+                    1922. Closed Consulate Nov. 20, 1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

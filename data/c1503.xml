@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1503" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Syra, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1502" type="prev"/>
+                <relatedItem target="c1504" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1503f1">
+                <graphic height="3644px" url="02007.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Syra, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1834</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02007</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1503">
+        <body>
+            <div corresp="#c1503f1">
+                <head>Lyra (Island) Greece</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Wilkin</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Syra</cell>
+                        <cell>Syra</cell>
+                        <cell>June 12, 1834</cell>
+                        <cell>No elegeratior <lb/> Conf. Left Syra 1837.</cell>
+                    </row>
+                </table>
+                <p>consular agency card Agency closed Dec. 2, 1897.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5218" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Austria, Hungary</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5217" type="prev"/>
+                <relatedItem target="c5219" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5218f1">
+                <graphic height="3618px" url="06773.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Austria, Hungary</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06773</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5218f2">
+                <graphic height="3618px" url="06774.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Austria, Hungary</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06774</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5218">
+        <body>
+            <div corresp="#c5218f1">
+                <head>Austria Hungary.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell/>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Secretary</cell>
+                        <cell>U. Grant Smith</cell>
+                        <cell>Counselor</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 17, 1916.</cell>
+                        <cell/>
+                        <cell>Relations with Austria Hungary sevend Apr. 9, 1917<lb/>Mr. Grant Smith
+                            in U.S. at the time.</cell>
+                    </row>
+                    <row>
+                        <cell>Class</cell>
+                        <cell>Joseph C. Trew</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass</cell>
+                        <cell>Feb. 19, 1917.</cell>
+                        <cell/>
+                        <cell>Relations with Austria Hungary sevend Apr. 9, 1917<lb/>Mr. Trew
+                            directed to proceed to the U.S.A. Assuming to dept/23/17</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5218f2"/>
+        </body>
+    </text>
+</TEI>

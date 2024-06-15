@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5821" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5820" type="prev"/>
+                <relatedItem target="c5822" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5821f1">
+                <graphic height="3620px" url="07617.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07617</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5821f2">
+                <graphic height="3581px" url="07618.tif" width="5946px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07618</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5821">
+        <body>
+            <div corresp="#c5821f1">
+                <head>(Clerks)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis A. Potter, Jr.</cell>
+                        <cell>Clerk</cell>
+                        <cell>France N.Y. (Data re. former clerko not abo available)</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel K. Martin</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry J. Tennant</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Nov. 10, 1910</cell>
+                        <cell>Resigned Nov., 1911.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles R. Robinson</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John S. Gittings, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>Md. Md.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mary Kirk</cell>
+                        <cell>"</cell>
+                        <cell>Pa. D.C.</cell>
+                        <cell>Dec. 13, 1911.</cell>
+                        <cell>Out more than a year? Illness Apr. 1916</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jose G. Portugal</cell>
+                        <cell>"</cell>
+                        <cell>Portugal Portugal</cell>
+                        <cell>Apr. 1, 1916.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5821f2">
+                <head>Portugal.</head>
+                <p>Ramon D. Janer, formerly V. Con. Lisbon, was employed temporarily @$2000 per
+                    annum - approved by Dept. Dec. 8, 1917. A clerk ceased, when he took up war work
+                    in Lisbon. So says tel. 8/15/15. Leave granted him.</p>
+                <p>Resigned Jan. 15, 1919, effective at expiration of 30 days leave granted him.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3349" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oran, the Democratic and Popular Republic of Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3348" type="prev"/>
+                <relatedItem target="c3350" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3349f1">
+                <graphic height="3616px" url="04388.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oran, the Democratic and Popular Republic of Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04388</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3349">
+        <body>
+            <div corresp="#c3349f1">
+                <head>ORAN, the Democratic and Popular Republic of Algeria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Algiers</cell>
+                        <cell>James D. Montgomery</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Apr. 7, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>Jo Algiers as attache (7SR). 2-28-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard W. Hardy, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 20, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell>To Fort Lamy as Public Affairs Officer (7SR) (USIA), 3-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harrison L. Shaffer, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May 10, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mrs. Dorothy M. Weaver</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C. M. Fry</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate established at Oran eff. June 11, 1962.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

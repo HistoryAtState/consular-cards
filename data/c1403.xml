@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1403" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Simoda, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1402" type="prev"/>
+                <relatedItem target="c1404" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1403f1">
+                <graphic height="3636px" url="01867.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Simoda, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1855</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01867</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1403">
+        <body>
+            <div corresp="#c1403f1">
+                <head>Simoda Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Bro dhead</cell>
+                        <cell>Con. Gen. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 3, 1855 Conf.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Townsend Harris</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 4, 1855 recede</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H.D. Bradford</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 31, 1856 Cong.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 24, 1861 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate abolished by treaty with Japan.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

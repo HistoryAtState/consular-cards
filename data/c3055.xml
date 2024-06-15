@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3055" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mexico, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3054" type="prev"/>
+                <relatedItem target="c3056" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3055f1">
+                <graphic height="3608px" url="04018.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mexico, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1937</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04018</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3055f2">
+                <graphic height="3608px" url="04019.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mexico, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04019</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3055">
+        <body>
+            <div corresp="#c3055f1"/>
+            <div corresp="#c3055f2">
+                <head>Mexico</head>
+                <p>Consul Brandt directed to respond to Dept. for consultation, after which he
+                    proceeded to Europe for duty on Dual Committee of Political Refugees; &amp;
+                    returned to Dept. for further consultation, May 20, 1958.</p>
+                <p>Consul Brandt detailed to Dept. State temp., eff. July 13, 1939, upon conclusion
+                    of period of detail with the Govt. of the Commonwealth of the Philippine
+                    Islands, July 25, 1939.</p>
+                <p>Consul Mc Gregor detailed to Dept. State temp., Aug. 10, 1959.</p>
+                <p>Robert G. Mc Gregor, Jr., detailed to Dept. State, temp., July 1, to July 3,
+                    1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

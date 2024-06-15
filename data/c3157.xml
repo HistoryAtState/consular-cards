@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3157" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montreal, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3156" type="prev"/>
+                <relatedItem target="c3158" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3157f1">
+                <graphic height="3628px" url="04151.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Montreal, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04151</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3157">
+        <body>
+            <div corresp="#c3157f1">
+                <head>MONTREAL, QUEBEC, CANADA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Frankfort<lb/>on the Mair</cell>
+                        <cell>Mrs. Ruth B. Charles</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 26, 1957</cell>
+                        <cell>FSS assigned to the Dept. 5-1-60</cell>
+                    </row>
+                    <row>
+                        <cell>V. Cons.<lb/>Zurich</cell>
+                        <cell>Mrs. Lucy N. Johansen</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 10, 1959</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Gertrude Long</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 1, 1963</cell>
+                        <cell>Designated Consul</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ancel N. Taylor</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug 30, 1965(7ss), Montreal, 12-11-65,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Elizabeth A. Powers</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

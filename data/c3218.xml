@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3218" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Munich, Bavaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3217" type="prev"/>
+                <relatedItem target="c3219" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3218f1">
+                <graphic height="3630px" url="04223.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Munich, Bavaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04223</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3218f2">
+                <graphic height="3630px" url="04224.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Munich, Bavaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04224</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3218">
+        <body>
+            <div corresp="#c3218f1">
+                <head>Munich, Bavaria. (Germany)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abraham Schlesinger</cell>
+                        <cell>Vrd CG</cell>
+                        <cell>US.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Octo. 10, 1904.</cell>
+                        <cell>Recommissioned as V.C. 7/6/15<lb/>Appt'd Def Con. Sen. at<lb/>Dresden
+                            Oct. 1, 1906.<lb/>Employed as Clerk since July '16<lb/>Services
+                            discontinued by order<lb/>of the Dept. dated Dept. 26, 1916<lb/>To
+                            remain at Munich as private citizen<lb/>Commn. canceled. Tel. Mar. 9,
+                            1917<lb/>Relations with Ger. severed 3/3/1917.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mysses J. Bywater</cell>
+                        <cell>Dep. Con. Sen.</cell>
+                        <cell>"</cell>
+                        <cell>Mass</cell>
+                        <cell>Octo. 10, 1904.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur W. Cotter</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Killough<lb/>Dr. Ireland</cell>
+                        <cell>Munich</cell>
+                        <cell>Aug. 29, 1910.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Friederich Schuessel</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Wierz<lb/>burg</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 27, 1914.</cell>
+                        <cell>Appt'd V.rd.C.S. Nov. 9, 1914</cell>
+                    </row>
+                    <row>
+                        <cell>Dep.com</cell>
+                        <cell>Frederick J. Schuessel (Vice Con. Sen.)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Würz<lb/>burg</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 9, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick J. Schuessel</cell>
+                        <cell>Vice Con</cell>
+                        <cell>"</cell>
+                        <cell>Switz.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 6, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Con</cell>
+                        <cell>Abraham Schlesinger</cell>
+                        <cell>Vice Con</cell>
+                        <cell>"</cell>
+                        <cell>Ger.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 6, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Clerk<lb/>Berlin</cell>
+                        <cell>Mare Smith</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Nov. 15, 1921.</cell>
+                        <cell>Appt's V.C. Stuttgart July 12, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell>James M. Bowcock</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>W. Va.</cell>
+                        <cell>Colo.</cell>
+                        <cell>Jan. 7, 1924.</cell>
+                        <cell>Appt's V.C. Turin Oct. 13, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Surin</cell>
+                        <cell>James M. Bowcock</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 16, 1925.</cell>
+                        <cell>Designated U.S. Despatch Agent London<lb/>at $4000. p.a. Oct. 15,
+                            1929. Canceled<lb/>Retained at Munich. To Tenerife 7-7-5-41.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Casimir J. Zawadzki</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 5, 1925.</cell>
+                        <cell>Appt's V.C. Berlin Sept. 29, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Consulate</cell>
+                        <cell>Paul J. Reeley</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1927.</cell>
+                        <cell>Appt's V.C. Kovno Dec. 17, 1927.</cell>
+                    </row>
+                    <row>
+                        <cell>Swansea</cell>
+                        <cell>C. Clarence Frick</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Nebr.</cell>
+                        <cell>Nebr.</cell>
+                        <cell>Dec. 17, 1927.</cell>
+                        <cell>Resigned effective Oct. 23, 1928.</cell>
+                    </row>
+                </table>
+                <p>Consulate General closed to the public July 15, 1941.</p>
+                <p>Consulate General opened to the public March 11, 1946.</p>
+                <table>
+                    <row role="label">
+                        <cell>Clerk<lb/>U.S. Pol. Adv.<lb/>German Affairs<lb/>Berlin</cell>
+                        <cell>Augustus Ostertag</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>Penn.</cell>
+                        <cell>Dec. 4, 1945<lb/>Continuing under<lb/>assignment - Also adm. aset
+                            7-1-46. Also Polit.<lb/>Officer 9-4-49. To Dusseldorf as<lb/>L.E.
+                            11-25-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>J.S. Auf.</cell>
+                        <cell>Robert H. Bethal</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>Dele</cell>
+                        <cell>mane of Jan. 5, 1946.<lb/>14-23-46r<lb/>Apptd Consul, F.S.S,
+                            1-21-47c<lb/>Assigned Consul, 755, Munich, 1-31-47</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3218f2">
+                <head>Munich</head>
+                <p>Frederick J. Schussel, V. C. took over the office from Con.Gen. Laffrey Oct 12,
+                    1915, and turned it over to Con.Gen. Lale Dec 11, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

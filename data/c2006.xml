@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2006" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cagliari, Sardinia, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2005" type="prev"/>
+                <relatedItem target="c2007" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2006f1">
+                <graphic height="3628px" url="02690.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cagliari, Sardinia, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02690</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2006f2">
+                <graphic height="3628px" url="02691.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cagliari, Sardinia, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1802</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02691</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2006">
+        <body>
+            <div corresp="#c2006f1">
+                <head>Cagliari, Sardinia, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene Permia</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 10, 1863</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alphonse Dol</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 7, 1879</cell>
+                        <cell>Resigned Aug. 1, 1907.</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed August 15, 1907.</p>
+            </div>
+            <div corresp="#c2006f2">
+                <head>Cagliari, Italy.</head>
+                <p>✓ Francois de Navoni (or Navoni " " ) signed as Agt in charge Seph 30, 1802 to
+                    Died Feb. 22, 1825.</p>
+                <p>✓ Fortunate Cornelius was V.C. for many years before 1825</p>
+                <p>" " in charge - Feb. 22, 1825 to Apr. 1825.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

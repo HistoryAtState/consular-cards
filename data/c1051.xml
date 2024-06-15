@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1051" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Aux Basques, Newfoundland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1050" type="prev"/>
+                <relatedItem target="c1052" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1051f1">
+                <graphic height="3630px" url="01404.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Aux Basques, Newfoundland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1902</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01404</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1051">
+        <body>
+            <div corresp="#c1051f1">
+                <head>Port-aux-Basques, Newfoundland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James W. Keating</cell>
+                        <cell>Con. Agt. Gr.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 24, 1902.</cell>
+                        <cell>July 1, 1902 to Aug. 31, 1908</cell>
+                    </row>
+                </table>
+                <p>Agency closed August 31, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0056" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Altona, Holstein, Denmark-Prussia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0055" type="prev"/>
+                <relatedItem target="c0057" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0056f1">
+                <graphic height="3626px" url="00081.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Altona, Holstein, Denmark-Prussia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00081</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0056f2">
+                <graphic height="3626px" url="00082.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Altona, Holstein, Denmark-Prussia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1839</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00082</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0056">
+        <body>
+            <div corresp="#c0056f1">
+                <head>Altona, Holstein, Denmark. (Schleswig, Prussia after 1867) (Holstein)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John August Sievers</cell>
+                        <cell>Vice Con U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 4, 1868</cell>
+                        <cell>to Aug. 5, 1869<lb/>Office abolished</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Moller</cell>
+                        <cell>Con. Aqt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 25, 1881</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed Aug. 5, 1869.</p>
+            </div>
+            <div corresp="#c0056f2">
+                <head>Altona, Holstein, Denmark.</head>
+                <p>Mr. Cuthbert, Consul at Hamburg looked after Altona during absence of Consul
+                    Todsen, Sept 1839 to Sept. 1839 until 1853.</p>
+                <p>Christian Classen (nephen of Kohdeant in charge absence of Consul Spring
+                    1855?</p>
+                <p>John Kröger adopted Citizen of U.S. - clerk to Consul Jan. 1866 to Sept.
+                    1866?</p>
+                <p>John A. Bievers Vice Consul in charge (absence of Consul) May 23? 1868 to Sept.
+                    1? 1868.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

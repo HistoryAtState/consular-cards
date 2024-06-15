@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3960" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sierra Leone Colony and Protectorate</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3959" type="prev"/>
+                <relatedItem target="c3961" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3960f1">
+                <graphic height="3638px" url="05163.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sierra Leone Colony and Protectorate</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05163</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3960">
+        <body>
+            <div corresp="#c3960f1">
+                <head>Sierra Leone Colony and Protectorate</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles W. Thomas</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1952</cell>
+                        <cell>also V.C. Monrovia. Designated. <lb/> V.C. of career &amp; 3d Sec.
+                            Monrovia. <lb/> 6-26-52</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

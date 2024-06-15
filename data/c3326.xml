@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3326" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ottawa, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3325" type="prev"/>
+                <relatedItem target="c3327" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3326f1">
+                <graphic height="3624px" url="04358.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ottawa, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04358</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3326">
+        <body>
+            <div corresp="#c3326f1">
+                <head>Ottawa, Ontario, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>ViceConsul<lb/>Newcastle-on<lb/>Tyne</cell>
+                        <cell>Thomas A. Kelly</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>May 8, 1950</cell>
+                        <cell>To Frankfort as V.C. 10-21-52</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Norman C. Lamb</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 15, 1957</cell>
+                        <cell>To Windsor as V.C. 11-4-52.<lb/>Designated Consul,
+                            Ottawa<lb/>11-24-53</cell>
+                    </row>
+                    <row>
+                        <cell>Hamilton</cell>
+                        <cell>George A. Berkley</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 1, 1951</cell>
+                        <cell>Resigned off. co1B7-28-52.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Miss Eva Taylor</cell>
+                        <cell>Vice Con</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 29, 1957</cell>
+                        <cell>to San José as FSS V.C,<lb/>9-21-59</cell>
+                    </row>
+                    <row>
+                        <cell>Venice</cell>
+                        <cell>Harry Kushner</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>Oct. 1, 1952</cell>
+                        <cell>Designated v. c. of career<lb/>7-5-54.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Jean R. Tartter</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Feb. 13, 1953</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

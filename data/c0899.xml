@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0899" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sagua la Grande, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0898" type="prev"/>
+                <relatedItem target="c0900" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0899f1">
+                <graphic height="3632px" url="01206.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sagua la Grande, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1844</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01206</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0899">
+        <body>
+            <div corresp="#c0899f1">
+                <head>Sagua la Grande, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Patrick J. Devine</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>X Oct. 18, 1844 recess</cell>
+                        <cell>Rejected Jan. 27, 1845.<lb/><lb/><lb/>Signature canceled by
+                            Spain<lb/><lb/><lb/>Informed Mar. 17, 1845.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Washington Reed</cell>
+                        <cell>"</cell>
+                        <cell>N.C.</cell>
+                        <cell>X Feb. 14, 1845 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph A. Joel</cell>
+                        <cell>Comil Sgt.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>X May 24, 1878.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph F. Swords</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>X Dec. 4, 1878.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Resigned Feb. 7, 1882.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clarence C. Ford</cell>
+                        <cell>Consul</cell>
+                        <cell>Va.</cell>
+                        <cell>X Mar. 29, 1882 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clarence C. Ford</cell>
+                        <cell>Comil Sgt.</cell>
+                        <cell>"</cell>
+                        <cell>X June 7, 1882</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel M. Mullen</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>X Oct. 29, 1885.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter B. Barker</cell>
+                        <cell>"</cell>
+                        <cell>Miss.</cell>
+                        <cell>X Dec. 15, 1893.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter B. Barker</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>X July 24, 1896 recess</cell>
+                        <cell>Left Cuba Apr. 9, 1898.<lb/><lb/><lb/>(afterwards Capt. U.S.
+                            Army)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>X Dec. 14, 1896 Conf</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>War declared Apr. 26, 1898.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

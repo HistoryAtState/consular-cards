@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0338" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kenora, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0337" type="prev"/>
+                <relatedItem target="c0339" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0338f1">
+                <graphic height="3634px" url="00466.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kenora, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00466</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0338f2">
+                <graphic height="3634px" url="00467.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kenora, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00467</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0338">
+        <body>
+            <div corresp="#c0338f1">
+                <head>Kenora, Ontario, (see Rat Portage)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Rat<lb/>Portage</cell>
+                        <cell>G. Clayton Frisbie</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Aug. 31, 1905.</cell>
+                        <cell>Resigned Jan. 17, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Dean</cell>
+                        <cell>//</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1907.</cell>
+                        <cell>Died Dec. 29, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly<lb/>Agt.<lb/>Aberdeen</cell>
+                        <cell>Rupert H. Moore</cell>
+                        <cell>//</cell>
+                        <cell>"</cell>
+                        <cell>Stratford-on<lb/><unclear>S</unclear><unclear>o</unclear><unclear>m</unclear><unclear>e</unclear><lb/>England</cell>
+                        <cell>Canada</cell>
+                        <cell>March 6, 1909.</cell>
+                        <cell>Superseded by Quann</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William G. Quann</cell>
+                        <cell>//</cell>
+                        <cell>"</cell>
+                        <cell>(n)</cell>
+                        <cell>U.S. Ireland, Minn.</cell>
+                        <cell>Sept. 21, 1916.</cell>
+                        <cell>Appt'd Agt. Nanaimo 3/16/1917</cell>
+                    </row>
+                    <row>
+                        <cell>formerly<lb/>Agent</cell>
+                        <cell>Alexander G. Scott</cell>
+                        <cell>//</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 28, 1917</cell>
+                        <cell>Resigned effective Feb. 1, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rupert H. Moore</cell>
+                        <cell>//</cell>
+                        <cell>U.S.</cell>
+                        <cell>Gr. Br. England Canada</cell>
+                        <cell>Feb. 5, 1918.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consular Agency to be closed effective May 31, 1947.</p>
+                <p>Consular Agency closed effective May 31, 1947.</p>
+            </div>
+            <div corresp="#c0338f2">
+                <head>Menora, Ontario</head>
+                <p>Rupert H. Moore, Acting Con. Apt. in Chy. (death of Dean) Dee. 29, 1908 to</p>
+                <p>E. F: Mac Villivray, Acting Consular Agent (absence Moore on leave) Nov. 12-15,
+                    1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

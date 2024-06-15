@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2887" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madras, India</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2886" type="prev"/>
+                <relatedItem target="c2888" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2887f1">
+                <graphic height="3630px" url="03803.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madras, India</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03803</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2887">
+        <body>
+            <div corresp="#c2887f1">
+                <head>MADRAS, India</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                    </row>
+                    <row>
+                        <cell>Lahore</cell>
+                        <cell>Ronald O. Nordeen</cell>
+                        <cell>Feb. 17, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William T. Keough</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell>designated Cons., Madras 5-10-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2329" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guaymas, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2328" type="prev"/>
+                <relatedItem target="c2330" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2329f1">
+                <graphic height="3602px" url="03100.tif" width="6062px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guaymas, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03100</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2329f2">
+                <graphic height="3602px" url="03101.tif" width="6062px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guaymas, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03101</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2329">
+        <body>
+            <div corresp="#c2329f1">
+                <head>Guaymas, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Classt</cell>
+                        <cell>William A. Smale</cell>
+                        <cell>9.8.0.</cell>
+                        <cell>7</cell>
+                        <cell>7/24/1930r Consul 12/10/1930 5-17-28</cell>
+                        <cell>Calif.</cell>
+                        <cell>Continued under assign-ment of dec. 4, 1929. Assigned to Ensenada Nov.
+                            1930. Died 4/19/49 Sheridan Ave. San Diego, Calif. 1942. 1879</cell>
+                        <cell><unclear/></cell>
+                    </row>
+                    <row>
+                        <cell>Curacao</cell>
+                        <cell>Thomas W. Voetter</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>7/1/1927 R Consul 12/1/1927 8-15-07</cell>
+                        <cell>N. Mex.</cell>
+                        <cell>July 8, 1931</cell>
+                        <cell>Ret. Feb 7/23/31, effe. June 30, 1933</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to public July 16, 1953. Officially closed July 31, 1953</p>
+            </div>
+            <div corresp="#c2329f2">
+                <head>Guaymas, Mexico</head>
+                <p>Consul Thomas A. Voetter directed to proceed to stach. for Consultation, Apr. 15,
+                    1909.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

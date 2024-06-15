@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4518" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bogota, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4517" type="prev"/>
+                <relatedItem target="c4519" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4518f1">
+                <graphic height="3634px" url="05887.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bogota, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1954</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05887</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4518">
+        <body>
+            <div corresp="#c4518f1">
+                <head>BOGOTA, COLOMBIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Genoa<lb/>Visa. Asst.<lb/>Puerto La Cruz</cell>
+                        <cell>Miss Norah Alsterlund<lb/>Howard W. Harrell</cell>
+                        <cell>Vice Cons.<lb/>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 26, 1954<lb/>Sept. 22,1956</cell>
+                        <cell>DESIGNATED Consul, Bogotá,<lb/>2-11-55<lb/>PSS.OFF. assigned to
+                            Santiago,<lb/>3-8-59</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

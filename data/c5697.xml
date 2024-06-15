@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5697" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fusan, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5696" type="prev"/>
+                <relatedItem target="c5698" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5697f1">
+                <graphic height="3018px" url="07447.tif" width="4800px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fusan, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07447</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5697">
+        <body>
+            <div corresp="#c5697f1">
+                <head>FUSAN, KOREA</head>
+                <table>
+                    <row role="label">
+                        <cell>Consulate</cell>
+                        <cell>To be OPENED 1950</cell>
+                    </row>
+                </table>
+                <p>Incl. in 1950 budget for possible opening but politica &amp; economic conditions
+                    not favorable. Postponed.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -9,9 +9,10 @@ declare option output:method "html";
 declare option output:html-version "5";
 declare option output:media-type "text/html";
 
-let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
+let $all-cards := collection("/db/apps/consular-cards/data")
 let $card-id := request:get-parameter("id", ())
-let $card := $cards-doc//tei:surfaceGrp[@xml:id eq $card-id]
+let $card-doc := $all-cards/tei:TEI[@xml:id eq $card-id]
+let $card := $card-doc//tei:surfaceGrp
 return
 
     (: Catch missing or malformed `id` parameter, temporary workaround to avoid XSS :)
@@ -32,10 +33,10 @@ return
 let $faces := $card/tei:surface
 let $primary-label := $faces[1]//tei:f[@name eq "label"]/tei:string/string()
 let $title := "Card " || $card-id || " (“" || $primary-label || "”)"
-let $prev-card := $card/preceding-sibling::tei:surfaceGrp[1]
-let $prev-card-label := $prev-card/tei:surface[1]//tei:f[@name eq "label"]/tei:string/string()
-let $next-card := $card/following-sibling::tei:surfaceGrp[1]
-let $next-card-label := $next-card/tei:surface[1]//tei:f[@name eq "label"]/tei:string/string()
+let $prev-card-id := root($card)//tei:relatedItem[@type eq "prev"]/@target[. ne ""]
+let $prev-card-label := $all-cards/tei:TEI[@xml:id eq $prev-card-id]//tei:title/string()
+let $next-card-id := root($card)//tei:relatedItem[@type eq "next"]/@target[. ne ""]
+let $next-card-label := $all-cards/tei:TEI[@xml:id eq $next-card-id]//tei:title/string()
 let $content := 
     <div>
         <h2>{$title}</h2>
@@ -58,12 +59,12 @@ let $content :=
                             <dd>{count($faces)}</dd>
                             <dt>Navigation</dt>
                             { 
-                                if ($prev-card) then 
-                                    <dd><a href="card.xq?id={$prev-card/@xml:id}">Previous card</a> ({$prev-card-label})</dd> 
+                                if ($prev-card-id) then 
+                                    <dd><a href="card.xq?id={$prev-card-id}">Previous card</a> ({$prev-card-label})</dd> 
                                 else 
                                     (),
-                                if ($next-card) then 
-                                    <dd><a href="card.xq?id={$next-card/@xml:id}">Next card</a> ({$next-card-label})</dd> 
+                                if ($next-card-id) then 
+                                    <dd><a href="card.xq?id={$next-card-id}">Next card</a> ({$next-card-label})</dd> 
                                 else
                                     () 
                             }
@@ -74,6 +75,7 @@ let $content :=
                                     <tr>
                                         <th>Face</th>
                                         <th>Image</th>
+                                        <th>Transcription</th>
                                     </tr>
                                 </thead>
                                 <tbody>{
@@ -85,6 +87,14 @@ let $content :=
                                     let $status := $face//tei:f[@name eq "status"]/tei:symbol/@value/string()
                                     let $order := $face//tei:f[@name eq "order"]/tei:numeric/@value/string()
                                     let $year := $face//tei:f[@name eq "year"]/tei:string/string()
+                                    let $src := 
+                                            "https://static.history.state.gov/consular-cards/color/medium/"
+                                            || $face/tei:graphic/@url 
+                                            => replace("\.tif", ".jpg")
+                                            (: 
+                                            "/exist/apps/consular-cards-new/images/" || replace($face/tei:graphic/@url, "\.tif", ".jpg")
+                                            :)
+                                    let $transcription := cc:tei-to-html(root($card)//tei:div[@corresp eq "#" || $face-id]/node())
                                     return
                                         <tr>
                                             <td>
@@ -103,7 +113,8 @@ let $content :=
                                                 <dt>Start Year</dt>
                                                 <dd>{$year}</dd>
                                             </td>
-                                            <td><img src="https://static.history.state.gov/consular-cards/color/medium/{$face/tei:graphic/@url => replace("\.tif", ".jpg")}"/></td>
+                                            <td><img src="{$src}"/></td>
+                                            <td style="border: 1px solid black">{$transcription}</td>
                                         </tr>
                                     }</tbody>
                                 </table>

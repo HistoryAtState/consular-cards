@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6119" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6118" type="prev"/>
+                <relatedItem target="c6120" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6119f1">
+                <graphic height="3604px" url="08043.tif" width="5976px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="15.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08043</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6119f2">
+                <graphic height="3604px" url="08044.tif" width="5976px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="15.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08044</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6119">
+        <body>
+            <div corresp="#c6119f1"/>
+            <div corresp="#c6119f2"/>
+        </body>
+    </text>
+</TEI>

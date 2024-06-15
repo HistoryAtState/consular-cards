@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2377" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ensenada, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2376" type="prev"/>
+                <relatedItem target="c2378" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2377f1">
+                <graphic height="3638px" url="03169.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ensenada, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03169</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2377">
+        <body>
+            <div corresp="#c2377f1">
+                <head>Ensenada, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Clerk</cell>
+                        <cell>Troy L. Perkins</cell>
+                        <cell>2.8.0.</cell>
+                        <cell>Une.</cell>
+                        <cell>12/1/193/c</cell>
+                        <cell>Ry.</cell>
+                        <cell>Jan. 2, 1932.</cell>
+                        <cell>Assigned to Dept. of State, Aug. 19, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Milton R. Hells</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/193/c</cell>
+                        <cell>Okla.</cell>
+                        <cell>Sep. 16, 1932.</cell>
+                        <cell>Assigned to Dept. of State, Apr. 22, 1933</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Eric C. Hendelen</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/193/c</cell>
+                        <cell>Mass.</cell>
+                        <cell>May 31, 1933.</cell>
+                        <cell>Assigned to Habana, June 20, 1934.</cell>
+                    </row>
+                </table>
+                <p>Consulate transferred to Tijuana, July 4, 1940</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0998" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0997" type="prev"/>
+                <relatedItem target="c0999" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0998f1">
+                <graphic height="3634px" url="01333.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01333</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0998f2">
+                <graphic height="3636px" url="01334.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01334</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0998">
+        <body>
+            <div corresp="#c0998f1">
+                <head>* Peking, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Language Student</cell>
+                        <cell>J. Hall Parton</cell>
+                        <cell>2.2.0. 8</cell>
+                        <cell>Consul</cell>
+                        <cell>10/16/1929 10-16-29</cell>
+                        <cell>Ala.</cell>
+                        <cell>Oct. 16, 1929.</cell>
+                        <cell>Canceled</cell>
+                    </row>
+                </table>
+                <p>* Name changed to Peiping, Aug. 9, 1929.</p>
+            </div>
+            <div corresp="#c0998f2">
+                <head>Peking, China.</head>
+                <p>Frederic E. Lee, Consul Cl. 4 (Economics) lately at Shanghai was directed Apr.
+                    11, 1922, to go to Peking and remain there six months for special work. Resigned
+                    effective about Oct. 22, 1922; accepted effective Oct. 18, 1922; effective date
+                    changed to Nov. 2, 1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1533" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tapachula, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1532" type="prev"/>
+                <relatedItem target="c1534" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1533f1">
+                <graphic height="3630px" url="02045.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tapachula, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02045</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1533">
+        <body>
+            <div corresp="#c1533f1">
+                <head>Tapachula, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Gaspé</cell>
+                        <cell>Almar F. Dickson</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Conn. Mass.</cell>
+                        <cell>June 10, 1908 recess</cell>
+                        <cell>Declined June 27, 1908.<lb/>Aug 3, 1909 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Puerto</cell>
+                        <cell>Albert W. Brickwood Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ill. Ariz.</cell>
+                        <cell>May 31, 1909 Conf.</cell>
+                        <cell>Resigned Mar. 1, 1913, effect at once</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Contest.</cell>
+                        <cell>Arthur A. McLean</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Newburgh N.Y.</cell>
+                        <cell>Mar. 13, 1912 Conf.</cell>
+                        <cell>Declined Apr. 25, 1912.<lb/>Declined. Granted leave as</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Batoum</cell>
+                        <cell>Frederic W. Pauldwell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. D.C.</cell>
+                        <cell>Aug. 22, 1912 Conf.</cell>
+                        <cell>Con. Asst. for one year Jan. 3, 1913<lb/>DIED July 26, 1942,
+                            in<lb/>FITCHBURG, MASS.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate ordered closed Apr. 12, 1916; Closed by W.F. Lescher Apr. 22, 1916.</p>
+                <p>Vice Consulate closed May 31, 1946.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

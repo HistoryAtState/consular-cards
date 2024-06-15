@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0929" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Helena, Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0928" type="prev"/>
+                <relatedItem target="c0930" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0929f1">
+                <graphic height="3640px" url="01244.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Helena, Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1888</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01244</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0929">
+        <body>
+            <div corresp="#c0929f1">
+                <head>St. Helena (Island)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James B. Coffin</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 24, 1888 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Christian Borstel</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 29, 1893 Conf.</cell>
+                        <cell/>
+                        <cell>to Mar. 14, 1898</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James B. Coffin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>June 12, 1895 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert P. Pooley (n)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>St. Helena N.Y.</cell>
+                        <cell>Jan. 9, 1896 Conf.</cell>
+                        <cell>Mar. 16, 1898 to<lb/>Apptt Cons. Mersine 6/10/1908.<lb/>Pooley
+                            declined transfer to<lb/>Mersine, it ill health-wage</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jan. 12, 1898 Conf.</cell>
+                        <cell/>
+                        <cell>Left Jamestown July 26, 1908,</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Set of May 11, 1908,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

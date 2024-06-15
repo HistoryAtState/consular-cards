@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0934" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Hyacinthe, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0933" type="prev"/>
+                <relatedItem target="c0935" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0934f1">
+                <graphic height="3638px" url="01249.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Hyacinthe, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01249</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0934">
+        <body>
+            <div corresp="#c0934f1">
+                <head>St. Hyacinthe, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George F. Burnett</cell>
+                        <cell>Con. Agh. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 31, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Bartels</cell>
+                        <cell>V.Con. Agh. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 10, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Bartels</cell>
+                        <cell>V.D.Con. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 30, 1906.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1905, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

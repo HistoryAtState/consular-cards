@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0295" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iskenderun, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0294" type="prev"/>
+                <relatedItem target="c0296" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0295f1">
+                <graphic height="3634px" url="00411.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Iskenderun, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00411</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0295">
+        <body>
+            <div corresp="#c0295f1">
+                <head>Iskenderun</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Ankara Keld Christensen</cell>
+                        <cell>Vice Con. U. S.</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>Nov. 10, 1943.</cell>
+                        <cell>To Aran-7-5-45</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate opened to the public June 17, 1957</p>
+                <p>Consulate closed effective Close of business Oct. 6, 1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

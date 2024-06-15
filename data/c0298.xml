@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0298" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Italian Islands in the Aegean Sea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0297" type="prev"/>
+                <relatedItem target="c0299" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0298f1">
+                <graphic height="3600px" url="00414.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Italian Islands in the Aegean Sea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00414</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0298">
+        <body>
+            <div corresp="#c0298f1">
+                <head>Italian Islands in the Aegean Sea (see Aegean Sea)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

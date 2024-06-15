@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3225" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nagoya, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3224" type="prev"/>
+                <relatedItem target="c3226" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3225f1">
+                <graphic height="3600px" url="04231.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nagoya, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04231</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3225">
+        <body>
+            <div corresp="#c3225f1">
+                <head>NAGOYA, Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. <lb/> Language <lb/> Trainee <lb/> Tokyo/75/</cell>
+                        <cell>Richard J. Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 21, 1963</cell>
+                        <cell/>
+                        <cell>750 assigned to the Dept. of <lb/> Commerce, 5-23-65. <lb/> Designated
+                            Consul, London, 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. <lb/> Yokohama</cell>
+                        <cell>Alanson G. Burt</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell/>
+                        <cell>750 assigned to the Dept. of <lb/> Commerce, 9-26-65. <lb/> To Tokyo
+                            as V.C. + 3d Sec., 8-29-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David C. Holton</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Paul R. Wisgerhof</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert A. MacCallum</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

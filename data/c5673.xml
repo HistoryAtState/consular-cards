@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5673" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shanghai, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5672" type="prev"/>
+                <relatedItem target="c5674" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5673f1">
+                <graphic height="3006px" url="07405.tif" width="4794px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07405</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5673f2">
+                <graphic height="3006px" url="07406.tif" width="4794px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07406</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5673">
+        <body>
+            <div corresp="#c5673f1">
+                <head>SHANGHAI, China</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>CG</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>CA</cell>
+                        <cell>III</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>SUPERVISION (over or under)</cell>
+                        <cell>Nanking</cell>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Closed 12/7/41 - Est. 9/13/45 - Open to Public 11/1/45</p>
+                <p>Closed to Public 3/15/50.</p>
+                <p>Closed officially 4/25/50.</p>
+                <p>Opened 4/28/80.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>CHRONOLOGICAL RECORD</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>12/7/41</cell>
+                        <cell>U.S.Time - Closed on declaration of War on U.S. by Japan.
+                            Non-conf.records &amp; archives, and Govt. property, ordered stored
+                            locally. Conf.files burned. Accounts brought out by Mr. Berger, fee
+                            stamps, passport &amp; citizenship files to Swiss CG at Shanghai. Money
+                            seized by Japs: See desp.file No. 125.857/66 for further info.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5673f2"/>
+        </body>
+    </text>
+</TEI>

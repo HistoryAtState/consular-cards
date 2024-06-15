@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2608" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bridgetown, Barbados</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2607" type="prev"/>
+                <relatedItem target="c2609" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2608f1">
+                <graphic height="3636px" url="03464.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bridgetown, Barbados</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03464</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2608">
+        <body>
+            <div corresp="#c2608f1">
+                <head>BRIDGETOWN, Barbados</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Barbados Santo Domingo</cell>
+                        <cell>Robert B. Morley</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec., 11-30-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert A. Jackson</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General at Bridgetown was elevated to Embassy status Nov. 30, 1966.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

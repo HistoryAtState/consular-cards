@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0361" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Konigsberg, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0360" type="prev"/>
+                <relatedItem target="c0362" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0361f1">
+                <graphic height="3626px" url="00493.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Konigsberg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00493</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0361f2">
+                <graphic height="3626px" url="00494.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Konigsberg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1876</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00494</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0361">
+        <body>
+            <div corresp="#c0361f1">
+                <head>Honigsberg, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Louis Moll</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 23, 1872.</cell>
+                        <cell>Removed to June 28, 1879</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Edward P. Mac Lean (ac)</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 20, 1879.</cell>
+                        <cell>Aug. 3, 1879 to Aug. 26, 1879</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Conrad H. Gaedeke</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Konigs-<lb/>berg Sept. 3, 1879.</cell>
+                        <cell>U.S.D.C.L. Berlin July 16, 1879.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Conrad H. Gädeke</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 21, 1881.</cell>
+                        <cell>Aug. 26, 1879 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Koepke</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tex Dec. 18, 1897</cell>
+                        <cell>Elegir refused, May 4, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Eckhardt (r)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ny. Mar. 13, 1899.</cell>
+                        <cell>Relations with Ger. severed 2/3/1917.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sigurd E. Roll</cell>
+                        <cell>Vice Con. U.S. Dee. Dee.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 15, 1921.</cell>
+                        <cell>Appt'd V.C. Fiume Jan. 3, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Danzig</cell>
+                        <cell>John A. Bywater</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>h.y. Jan. 26, 1940</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate ordered closed Dec. 31, 1926.</p>
+            </div>
+            <div corresp="#c0361f2">
+                <head>Königsberg, Germany</head>
+                <p>Moll resumed functions (under Berlin) Nov. 28, 1876.</p>
+                <p>Sigurd E. Roll, D.C. took over the office from Consul<lb/>and turned it over to
+                    Consul Clum Sept. 27, 1923.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

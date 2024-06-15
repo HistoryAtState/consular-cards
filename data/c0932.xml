@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0932" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Helen's, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0931" type="prev"/>
+                <relatedItem target="c0933" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0932f1">
+                <graphic height="3638px" url="01247.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Helen's, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01247</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0932">
+        <body>
+            <div corresp="#c0932f1">
+                <head>St. Helen's England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hammill</cell>
+                        <cell>Cont. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 19, 1865</cell>
+                        <cell>Died</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hammill (Son)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 18, 1871</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles B. Kincaid</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 15, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hammill</cell>
+                        <cell/>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 19, 1888.</cell>
+                        <cell>to June 17, 1908. <lb/> superseded by Phillips)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Howe</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Sept. 22, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Chaufd.</cell>
+                        <cell>Ernest L. Phillips</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell><unclear>Tel</unclear>. Apr. 9, 1908.</cell>
+                        <cell>June 18, 1908 to <lb/> Resigned in U.S. Jan. 2, 1909. <lb/>
+                            Resignation withdrawn Mar. 9, 1909, <lb/> and ret'd to St. Helen's under
+                            former com. <lb/> Resigned 3/23 effect Apr. 30, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell>Fonded</cell>
+                        <cell>Ernest L. Phillips</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell><unclear>Tel</unclear>. Apr. 9, 1908.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed March 31, 1916; closed June 10, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

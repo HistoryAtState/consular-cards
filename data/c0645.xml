@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0645" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Murree, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0644" type="prev"/>
+                <relatedItem target="c0646" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0645f1">
+                <graphic height="3636px" url="00876.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Murree, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00876</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0645">
+        <body>
+            <div corresp="#c0645f1"/>
+        </body>
+    </text>
+</TEI>

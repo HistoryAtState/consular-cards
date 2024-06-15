@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3481" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Piedras Negras, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3480" type="prev"/>
+                <relatedItem target="c3482" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3481f1">
+                <graphic height="3618px" url="04553.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Piedras Negras, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04553</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3481f2">
+                <graphic height="3618px" url="04554.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Piedras Negras, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04554</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3481">
+        <body>
+            <div corresp="#c3481f1"/>
+            <div corresp="#c3481f2">
+                <head>back of<lb/>See/yellow Piedras No. 2.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

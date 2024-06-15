@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5656" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peiping, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5655" type="prev"/>
+                <relatedItem target="c5657" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5656f1">
+                <graphic height="3014px" url="07379.tif" width="4802px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1980</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07379</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5656">
+        <body>
+            <div corresp="#c5656f1">
+                <head>Shenyang, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                    </row>
+                </table>
+                <p>9/17/80 - An agreement, in form of exchange of notes signed in Washington by
+                    SecState Edmund Muskie and PRC Ambassador Chai Zemin, provided for establishment
+                    of three additional consulates general in each other's territory over and above
+                    Guangzhou and Shanghai.</p>
+                <p>6/16/81 - A further agreement, effected by exchange of notes in Beijing,
+                    identified the locations of three additional consulates general as New York,
+                    Chicago, and Honolulu for PRC and Shenyang, Chengdu, and Wuhan for the U.S.</p>
+                <p>5/24/82 - Shenyang Principal Officer position 00-1040-001 established from EA
+                    resources. Position to be filled by FSO Frank P. Wardlaw.</p>
+                <p>5/30/82 - Team of FBO, OC, and Embassy reps arrived Shenyang for review and
+                    discussion of building plans for OB, PO residence, and staff apts designed by
+                    Chinese.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

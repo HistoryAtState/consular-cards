@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3031" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Merida, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3030" type="prev"/>
+                <relatedItem target="c3032" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3031f1">
+                <graphic height="3600px" url="03992.tif" width="6042px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Merida, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03992</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3031">
+        <body>
+            <div corresp="#c3031f1">
+                <head>Mérida, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul (755) Mérida</cell>
+                        <cell>Heury S. Krausse</cell>
+                        <cell>F.S.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Sep.</cell>
+                        <cell>March 25, 1949</cell>
+                        <cell>To Veracruz as Consul 10-1-52</cell>
+                    </row>
+                    <row>
+                        <cell>VC (FSS) Mérida</cell>
+                        <cell>Arthur U. Metcalfe</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Calif.</cell>
+                        <cell>July 26, 1954</cell>
+                        <cell>FSS to Guatemala as Cons. on 11-19-55.</cell>
+                    </row>
+                    <row>
+                        <cell>U. Consul sec. Quito. Consul</cell>
+                        <cell>Allan J. McLean, Ja.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul Tepas</cell>
+                        <cell>Feb. 9, 1957</cell>
+                        <cell>To Nuevo Laredo as Cons. 8-1-57</cell>
+                    </row>
+                    <row>
+                        <cell>ed Sec. t Nuevo Laredo</cell>
+                        <cell>Allan J. McLean, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul Sepas</cell>
+                        <cell>Sept. 12, 1957</cell>
+                        <cell>750 assigned to Daje. 8-9-59.</cell>
+                    </row>
+                    <row>
+                        <cell>consul mexico</cell>
+                        <cell>Neil L. Parks</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Feb. 24, 1959</cell>
+                        <cell>To Ciudad Trujillo as Cons. 9-4-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul and 2d Sec. Tegucigalpa</cell>
+                        <cell>Paul S. Dwyer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Sept. 18, 1961</cell>
+                        <cell>7.5.0. assigned to Dept 7-31-66</cell>
+                    </row>
+                    <row>
+                        <cell>Kigali</cell>
+                        <cell>William N. Harben</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

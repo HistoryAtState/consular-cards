@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3356" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Osaka and Hiogo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3355" type="prev"/>
+                <relatedItem target="c3357" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3356f1">
+                <graphic height="3622px" url="04396.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Osaka and Hiogo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1886</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04396</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3356">
+        <body>
+            <div corresp="#c3356f1">
+                <head>Osaka and Hiogo, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hunter Sharp</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>No. Car.</cell>
+                        <cell>May 10, 1886. <lb/> (Pres.) <lb/> alone</cell>
+                        <cell>to July 7, 1879.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

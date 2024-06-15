@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5487" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5486" type="prev"/>
+                <relatedItem target="c5488" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5487f1">
+                <graphic height="3614px" url="07146.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07146</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5487f2">
+                <graphic height="3614px" url="07147.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07147</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5487">
+        <body>
+            <div corresp="#c5487f1">
+                <head>Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Secretary<lb/>Class 1</cell>
+                        <cell>Charles S. Wilson</cell>
+                        <cell>Counselor</cell>
+                        <cell>Me.</cell>
+                        <cell>Me.</cell>
+                        <cell>Oct. 3, 1916.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Lost Wheeler</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Wash.</cell>
+                        <cell>Dec. 23, 1918</cell>
+                        <cell>Assigned to Stockholm Jan. 18, 1919<lb/>Appointment cancelled<lb/>Jan.
+                            11, 1920;</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Jefferson Caffery</cell>
+                        <cell>"</cell>
+                        <cell>Ld.</cell>
+                        <cell>La.</cell>
+                        <cell>Dec. 20, 1919</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Willing Spencer</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Jan. 4, 1922.</cell>
+                        <cell>Assigned to Buenos Aires Sept. 7, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>F.S.O<lb/>Class 1</cell>
+                        <cell>Lost Wheeler</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Wash.</cell>
+                        <cell>Apr. 2, 1925</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5487f2">
+                <head>Note. For authority, see reverse side of "Counselor" card, under
+                    Austria-Hungary</head>
+            </div>
+        </body>
+    </text>
+</TEI>

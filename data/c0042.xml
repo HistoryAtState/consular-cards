@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0042" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alexandretta, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0041" type="prev"/>
+                <relatedItem target="c0043" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0042f1">
+                <graphic height="3626px" url="00061.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Alexandretta, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00061</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0042">
+        <body>
+            <div corresp="#c0042f1">
+                <head>Alexandretta, Syria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Ballantine</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>July 6, 1896</cell>
+                        <cell>Recess</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace L. Washington</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Texas</cell>
+                        <cell>Dec. 14, 1896</cell>
+                        <cell>conf.</cell>
+                        <cell>Jan. 1, 1897 to <lb/> Appt'd Con. at Valencia 4/13/1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Ross Davis</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ohio</cell>
+                        <cell>Dec. 19, 1899</cell>
+                        <cell>conf.</cell>
+                        <cell>Oct. 15, 1899 to <lb/> Res'd 3/12/05 in U.S. effect 7/18/05</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jesse B. Jackson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ohio</cell>
+                        <cell>Mar. 17, 1905</cell>
+                        <cell>conf.</cell>
+                        <cell>May 30, 1905 to <lb/> Appt'd Cons. Aleppo 6/10/1908.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1905, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

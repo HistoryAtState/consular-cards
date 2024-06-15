@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0689" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Navigator's Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0688" type="prev"/>
+                <relatedItem target="c0690" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0689f1">
+                <graphic height="3634px" url="00941.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Navigator's Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1844</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00941</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0689">
+        <body>
+            <div corresp="#c0689f1">
+                <head>Navigator's Islands. (see Apia)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John C. Williams</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell>"</cell>
+                        <cell>Clarksburg Va.</cell>
+                        <cell>Va?</cell>
+                        <cell>Nov. 16, 1844 by Secy</cell>
+                        <cell>Jan. 1843 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Virginine P. Chapin</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1853</cell>
+                        <cell>June 1853 to Apr. 1854.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A Van Camp</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wyoming Valley, Pa.</cell>
+                        <cell>San Frane- Calif.</cell>
+                        <cell>Oct. 25, 1853</cell>
+                        <cell>Oct. 1855 to Dec. 1855 for Friendly Islands also Tonga.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

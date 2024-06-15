@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2945" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manila, Philippines</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2944" type="prev"/>
+                <relatedItem target="c2946" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2945f1">
+                <graphic height="3624px" url="03876.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manila, Philippines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03876</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2945">
+        <body>
+            <div corresp="#c2945f1"/>
+        </body>
+    </text>
+</TEI>

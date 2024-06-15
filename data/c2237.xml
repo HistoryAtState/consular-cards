@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2237" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Embden, Prussia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2236" type="prev"/>
+                <relatedItem target="c2238" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2237f1">
+                <graphic height="3628px" url="02987.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Embden, Prussia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1803</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02987</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2237">
+        <body>
+            <div corresp="#c2237f1">
+                <head>Embden, Prussia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Clarke</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Dec. 21, 1803 Conf.</cell>
+                        <cell>to Apr. 1841</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gerhard W. Abeken</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 29, 1838 recess <lb/> Feb. 5, 1839 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office discontinued.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

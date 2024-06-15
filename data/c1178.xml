@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1178" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Juan, Porto Rico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1177" type="prev"/>
+                <relatedItem target="c1179" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1178f1">
+                <graphic height="3636px" url="01570.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Juan, Porto Rico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01570</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1178">
+        <body>
+            <div corresp="#c1178f1">
+                <head>San Juan, Porto Rico. (see Mayaguez) Porto Rico)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A Jourdan</cell>
+                        <cell>(during temp abs. of Cons)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Dee. 3, 1864,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Jourdan</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Feb. 12, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Hoard</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Aug. 13, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Deillers Hoard</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Feb. 25, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andres Crosas</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Oct. 25, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andres Crosas</cell>
+                        <cell>VxD. " Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓July 31, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raleigh F. Haydon</cell>
+                        <cell>" " " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Sept. 30, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Latimer</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ga. ✓Nov. 15, 1894</cell>
+                        <cell>Died May 31, 1897,<lb/>Declined<lb/>Did not qualify.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel del Valle</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich. June 24, 1897.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Ramon Latimer</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓Nov. 13, 1897,</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed July, 1, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

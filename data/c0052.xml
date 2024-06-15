@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0052" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Almirante, Panama</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0051" type="prev"/>
+                <relatedItem target="c0053" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0052f1">
+                <graphic height="3640px" url="00077.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Almirante, Panama</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00077</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0052">
+        <body>
+            <div corresp="#c0052f1">
+                <head>Almirante, Panama</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry R. Lewis</cell>
+                        <cell>Con. Agent U.S.</cell>
+                        <cell/>
+                        <cell>Fla.</cell>
+                        <cell>May 29, 1943</cell>
+                        <cell>Resigned effective COB 3-24-49.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gilbert F. Esquivel</cell>
+                        <cell>Con. Agent U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 1, 1949</cell>
+                        <cell>Resigned eff. COB 7-24-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert C. Hallberg</cell>
+                        <cell>Con. Agent (comm. dated 10-23-59)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1956</cell>
+                        <cell>Appointment Terminated 03-25-61</cell>
+                    </row>
+                </table>
+                <p>Consular Agency closed March 25, 1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

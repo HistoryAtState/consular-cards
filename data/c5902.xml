@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5902" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5901" type="prev"/>
+                <relatedItem target="c5903" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5902f1">
+                <graphic height="3610px" url="07723.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="16.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07723</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5902">
+        <body>
+            <div corresp="#c5902f1">
+                <head>CHILE</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cara-cas</cell>
+                        <cell>George W. Skora</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Norman D. McLennan</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

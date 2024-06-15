@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0457" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Levuka, Fiji Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0456" type="prev"/>
+                <relatedItem target="c0458" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0457f1">
+                <graphic height="3634px" url="00626.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Levuka, Fiji Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00626</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0457">
+        <body>
+            <div corresp="#c0457f1">
+                <head>Levuka, Fiji Islands, (see Lauhatave)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Aaron Van Camp</cell>
+                        <cell>Coml Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 30, 1881</cell>
+                        <cell>Apr. 25, 1882 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Belford</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 22, 1884.</cell>
+                        <cell>Sept. 10, 1884 to June 30, 1885 <lb/> Resigned by Request May
+                            30/85</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrews A. St. John</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>May 5, 1886.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

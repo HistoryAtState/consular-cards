@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5699" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Foochow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5698" type="prev"/>
+                <relatedItem target="c5700" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5699f1">
+                <graphic height="2422px" url="07449.tif" width="3618px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Foochow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07449</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5699f2">
+                <graphic height="3618px" url="07450.tif" width="2422px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Foochow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07450</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5699">
+        <body>
+            <div corresp="#c5699f1">
+                <head>FOOCHOW, China (C)</head>
+                <table>
+                    <row role="label">
+                        <cell>Proposal received to open</cell>
+                        <cell>close</cell>
+                        <cell>change rank</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Conditions not favorable<lb/>Hot dropped.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Considered for 1949<lb/>Fiscal year.</cell>
+                    </row>
+                </table>
+                <p>Department circularized.</p>
+                <p>Recommendation to FS.</p>
+                <p>Approved by FS.</p>
+                <p>Field informed - awaiting FONOFF approval.</p>
+                <p>FONOFF approval received.</p>
+                <p>Advance notices ☐ Supplies ordered.</p>
+                <p>Instruction drafted.</p>
+                <p>Office established or closed to public.</p>
+                <p>Office opened to public or officially closed.</p>
+                <p>DA-Mailing Notice.</p>
+                <p>PB Notice (change in Foreign Service List).</p>
+            </div>
+            <div corresp="#c5699f2">
+                <head>Enclosure</head>
+                <p>Economic + Commercial</p>
+                <p>Priority # 1</p>
+                <p>Memo to FS 5/9/49 - Fis.Yr. 1950</p>
+            </div>
+        </body>
+    </text>
+</TEI>

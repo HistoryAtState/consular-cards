@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0033" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Alamos, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0032" type="prev"/>
+                <relatedItem target="c0034" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0033f1">
+                <graphic height="3622px" url="00050.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Alamos, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00050</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0033">
+        <body>
+            <div corresp="#c0033f1">
+                <head>Alamos, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A Hardy</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass. Mar. 30, 1905</cell>
+                        <cell>Nov. 21, 1905 to Dec. 1907. <lb/> Resigned Dec. 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Marion S. Mac Carthy</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Iowa</cell>
+                        <cell>Colo. Jan. 8, 1908.</cell>
+                        <cell>Closed the Agency &amp; left Mexico about <lb/> May 1, 1912 for
+                            Denver, Colo, his future home</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed Reported by Consul Hostelter, Hermosillo, May 1, 1912.
+                            &amp; May 28, 1912</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

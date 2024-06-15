@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5924" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5923" type="prev"/>
+                <relatedItem target="c5925" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5924f1">
+                <graphic height="3626px" url="07761.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07761</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5924f2">
+                <graphic height="3626px" url="07762.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07762</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5924">
+        <body>
+            <div corresp="#c5924f1"/>
+            <div corresp="#c5924f2">
+                <head>Peiping, China</head>
+                <p>George Bliss Save, lately, P.C. at Hong Kong, assigned to Legin at Peiping as a
+                    Foreign Serv. Offr, pending Confirmation as a Secy in Dipl. Serv., May 4, 1983.
+                    assigned to Dept. of State, temp., May 16, 1933. Assignment to Peiping canceled.
+                    Assigned to Montreal.</p>
+                <p>Whitney Young, lately Consul at Colombo assigned to Legnat Peiping as a foreign
+                    Serv. Offr. pending President's approval of his recere appt. as a Secy in the
+                    Diplomatic Serv., at which time the will be designated a Secy in the Diplomatic
+                    Service June 16, 1933.</p>
+                <p>Frank P. Lockhart, lately Con. Gen. at Tientsin assigned to Legn. Peiping as a
+                    Foreign Serv. Offr., Mar. 13, 1935; apptd. a Secy in Diplomatic Service, Mar.
+                    23, 1935; assigned to Legn., Peiping, as Counselor, Mar. 27, 1935.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

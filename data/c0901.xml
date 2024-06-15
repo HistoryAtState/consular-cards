@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0901" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Andero, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0900" type="prev"/>
+                <relatedItem target="c0902" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0901f1">
+                <graphic height="3632px" url="01209.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Andero, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1800</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01209</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0901">
+        <body>
+            <div corresp="#c0901f1">
+                <head>St.Andere, Spain. (see Santander)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leurs Meagher Brien</cell>
+                        <cell>Consul</cell>
+                        <cell>affain</cell>
+                        <cell>Spain</cell>
+                        <cell>Spain</cell>
+                        <cell>Jan.8, 1800 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard B. Hackley</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>N.Y. or <lb/> Va?</cell>
+                        <cell>Sept. 16, 1806 recess</cell>
+                        <cell>To San Lucar Oct 1807?</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis O'Brien</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 16, 1807 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

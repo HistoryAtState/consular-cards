@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2465" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Galashiels, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2464" type="prev"/>
+                <relatedItem target="c2466" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2465f1">
+                <graphic height="3632px" url="03279.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Galashiels, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03279</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2465f2">
+                <graphic height="3632px" url="03280.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Galashiels, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03280</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2465">
+        <body>
+            <div corresp="#c2465f1">
+                <head>Galashiels, Scotland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Lees</cell>
+                        <cell>Con. </cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 20, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Stalker</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 4, 1894.</cell>
+                        <cell>Out &amp; closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed, March 31, 1909.</p>
+            </div>
+            <div corresp="#c2465f2"/>
+        </body>
+    </text>
+</TEI>

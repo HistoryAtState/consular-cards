@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3410" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paramaribo, Surinam</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3409" type="prev"/>
+                <relatedItem target="c3411" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3410f1">
+                <graphic height="3622px" url="04462.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paramaribo, Surinam</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04462</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3410">
+        <body>
+            <div corresp="#c3410f1">
+                <head>Paramaribo, Surinam.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Auckland James W. Boyl</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.C.</cell>
+                        <cell>Nov. 15, 1949</cell>
+                        <cell>Designated Consul Paramaribo</cell>
+                    </row>
+                    <row>
+                        <cell>ve..</cell>
+                        <cell>George Leng, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 10, 1953</cell>
+                        <cell>10-16-50 <lb/> Resigned COB 8-28-54. <lb/> To Toronto as u.c.
+                            6-16-56</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Bernard E. Nadeau</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 5, 1953</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate elevated to rank of Consulate General, off. August 1, 1961. per DMN
+                    7-2861.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

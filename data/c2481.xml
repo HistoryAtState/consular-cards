@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2481" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gdansk, Poland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2480" type="prev"/>
+                <relatedItem target="c2482" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2481f1">
+                <graphic height="3630px" url="03299.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gdansk, Poland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03299</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2481">
+        <body>
+            <div corresp="#c2481f1">
+                <head>Gdansk, Poland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>S.S. Aug.</cell>
+                        <cell>Martin R. Wanchaks</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell><unclear>July</unclear>. May 7, 1946.</cell>
+                        <cell>Continuing cender afpaint-Jermination of service 100.4.<lb/>ment of
+                            June 14, 1946. C.O.B. 5-9-47.</cell>
+                        <cell>Jo Moscaco ar D.C. 12-23-46.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Warsaw</cell>
+                        <cell>Joseph J. Kendrick</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 7, 1946</cell>
+                        <cell>To Warsaw as V.C 11-23-48.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Limerick</cell>
+                        <cell>Thaddeus H. Chylineke</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>May 19, 1948</cell>
+                        <cell/>
+                        <cell>To Salzburg as V.C. 4-14-50</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Anthony J. Juraska</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 27, 1949</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

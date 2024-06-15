@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4674" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Calcutta, India</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4673" type="prev"/>
+                <relatedItem target="c4675" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4674f1">
+                <graphic height="3602px" url="06094.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Calcutta, India</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1967</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06094</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4674">
+        <body>
+            <div corresp="#c4674f1">
+                <head>CALCUTTA, India</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James P. Nach</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <cell>REMARKS</cell>
+            </div>
+        </body>
+    </text>
+</TEI>

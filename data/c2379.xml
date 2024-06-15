@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2379" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erfurt, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2378" type="prev"/>
+                <relatedItem target="c2380" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2379f1">
+                <graphic height="3630px" url="03171.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Erfurt, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1892</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03171</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2379f2">
+                <graphic height="3630px" url="03172.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Erfurt, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03172</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2379">
+        <body>
+            <div corresp="#c2379f1">
+                <head>Erfurt, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Teichmann</cell>
+                        <cell><unclear>Moniltzt</unclear> Ser</cell>
+                        <cell/>
+                        <cell>Brooklyn</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 8, 1892.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>formerly of</cell>
+                        <cell>Gustav Lauter, Jr.</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Lübben, Ger.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 30, 1905.</cell>
+                        <cell><unclear>Affliction</unclear> for off. (Fl #13731/58 <lb/><lb/>Cons.
+                            Despatch May 21, 1918 <lb/><lb/>(Called upon for military
+                            service)</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Anneberg</unclear></cell>
+                        <cell>Charles A. Borngraeber</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Prussia</cell>
+                        <cell>Ger.</cell>
+                        <cell>May 7, 1910.</cell>
+                        <cell>Resigned effect Jan 31, 1915</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Hoffmann</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Westphalia, Erfurt,</cell>
+                        <cell>Prussia</cell>
+                        <cell>Nov. 18, 1911.</cell>
+                        <cell>Apptd V.C., Breslau June 1, 1916 <lb/><lb/>Left for Barmen Oct. 1,
+                            1916</cell>
+                    </row>
+                    <row>
+                        <cell>Frankfurt</cell>
+                        <cell>Ernest L. Ives</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>Apr. 5, 1916.</cell>
+                        <cell>Apptd V.C., Barmen Sept. 7, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell>Barmen</cell>
+                        <cell>Frederick J. Dietzman</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>June 1, 1916.</cell>
+                        <cell>Oct. 5, 1916 to <lb/><lb/>Apptd Clerk in Consulate at Cienfuegos
+                            4/23/17 <lb/><lb/>Relations with Ger. severed 7/3/1917</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert F. Nufer</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>New York</cell>
+                        <cell>City N.Y.</cell>
+                        <cell>Sept. 7, 1916</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed February 7, 1917.</p>
+            </div>
+            <div corresp="#c2379f2">
+                <head>Erfurt, Germany</head>
+                <p>Alfred Hoffmann, Vice Con. Busser Oct. 28, 1913 if turned it over to Consul
+                    Kemper Mar. 12, 1914</p>
+                <p>Frederick Dietzman, Vice Consul, took over the office from Consul Kemper and
+                    turned it over to Consul Von Struve Oct. 1, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2471" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Galveston, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2470" type="prev"/>
+                <relatedItem target="c2472" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2471f1">
+                <graphic height="3628px" url="03287.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Galveston, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1830</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03287</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2471">
+        <body>
+            <div corresp="#c2471f1">
+                <head>Galveston, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Washington Elliot Wallace Consul</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 29, 1830 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David G. Burnet</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>July 13, 1832 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Slaughter</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1835 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elisha A. Rhodes</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>New Orleans</cell>
+                        <cell/>
+                        <cell>July 7, 1838 Conf. (Rep. of Texas)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. M. Green</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>Oct. 14, 1842 recess</cell>
+                        <cell>Jan 30, 1843 Conf. Died</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Duff Green</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>wash. D.C.</cell>
+                        <cell/>
+                        <cell>Sept. 12, 1844 Recess Resigned</cell>
+                        <cell>Elequatur withdrawn Jan. 1845.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas N. Herndon</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.C.</cell>
+                        <cell/>
+                        <cell>Feb. 14, 1845 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

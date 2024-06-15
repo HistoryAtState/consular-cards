@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5875" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5874" type="prev"/>
+                <relatedItem target="c5876" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5875f1">
+                <graphic height="3626px" url="07689.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07689</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5875">
+        <body>
+            <div corresp="#c5875f1">
+                <head>Venezuela.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Brewer</cell>
+                        <cell>Clerk</cell>
+                        <cell>Data re, prior clerks not available)</cell>
+                        <cell/>
+                        <cell>Appt'd Confidential clerk to the assistant Secretary of State Jan. 4,
+                            1912.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Arthur Schoenfeld</cell>
+                        <cell>"</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>Sept. 17, 1910</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard J. Bigge Jr.</cell>
+                        <cell>"</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>Jan. 15, 1912.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fernando Martinez</cell>
+                        <cell>"</cell>
+                        <cell>Porto Rico June 24, 1918</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

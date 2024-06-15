@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0223" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Havre, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0222" type="prev"/>
+                <relatedItem target="c0224" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0223f1">
+                <graphic height="3640px" url="00322.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Havre, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00322</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0223">
+        <body>
+            <div corresp="#c0223f1">
+                <head>Harve, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Marseilles</cell>
+                        <cell>Charles Silbert</cell>
+                        <cell>Va Con. U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N. Y.</cell>
+                        <cell/>
+                        <cell>Mar. 13, 1939</cell>
+                        <cell>apptd. Clerk in Eaub, Madid, apr. Ho/3p<lb/>appld.. by bruce, Sep. 5.
+                            1939.<lb/>appld. V.C. Paris, July 31, 1939<lb/>cancelled</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Consulate</cell>
+                        <cell>John P. Aquire</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 10, 1939</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate temporarily closed June 9, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>American Consulate at Havre, France was reestablished February 16,
+                            1945.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>American Consulate at Havre, France was opened to the public on March
+                            1, 1945.</cell>
+                    </row>
+                    <row>
+                        <cell>Circuit</cell>
+                        <cell>Hubert F. Ferrell</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Feb. 2, 1945</cell>
+                        <cell>To Paris - 4-6-45.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Reinhard W. Lamprecht</cell>
+                        <cell>vice con U.S.</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell/>
+                        <cell>Apr. 6, 1945</cell>
+                        <cell>Also Am. Cons. 4-21-46 To Antwerp<lb/>as V.C. 2-3-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Medellin<lb/>colombia</cell>
+                        <cell>Walter W. Wiley</cell>
+                        <cell>V. Con. U.S.</cell>
+                        <cell/>
+                        <cell>N.C.</cell>
+                        <cell/>
+                        <cell>Feb. 21, 1945</cell>
+                        <cell>To Bordeaux - 6-7-45</cell>
+                    </row>
+                </table>
+                <p>For subsequent entries see Le Havre, France (Name changed Mar. 1, 1945)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

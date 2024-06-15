@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0981" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Parrsboro, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0980" type="prev"/>
+                <relatedItem target="c0982" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0981f1">
+                <graphic height="3632px" url="01311.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Parrsboro, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1874</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01311</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0981f2">
+                <graphic height="3638px" url="01312.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Parrsboro, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01312</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0981">
+        <body>
+            <div corresp="#c0981f1">
+                <head>Parrsboro, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin D. King</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jonathan Stickney</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 18, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles W. Young</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 27, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nathaniel W. Upham</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 16, 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David A. Huntley</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 25, 1892.</cell>
+                        <cell>Superseded June 25, 1892. Appt'd V.D.C. St. John, N.B. Sept. 18,
+                            1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lawrence H. Hoke</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va. Va.</cell>
+                        <cell>July 26, 1899.</cell>
+                        <cell>Appt'd V.D.C. Bahia 8/24/1909.</cell>
+                    </row>
+                    <row>
+                        <cell>Va. De<lb/>St. John<lb/>N.B.</cell>
+                        <cell>Omar C. Mueller</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Cleveland<lb/>Ohio Ohio</cell>
+                        <cell>Aug. 24, 1909.</cell>
+                        <cell>Appt. canceled. Remained at St. John, N.B.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugh Gillespie</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell>Parrsboro, N.S.<lb/>Canada Canada</cell>
+                        <cell>Oct. 19, 1909.</cell>
+                        <cell>Out He closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed July 5, 1911.</p>
+            </div>
+            <div corresp="#c0981f2">
+                <head>Parrsboro, Nova Scotia.</head>
+                <p>Hugh Gillespie, Br. subj. Actg. Consular Agent. Aug. 31, 1909 to <unclear/>
+                    Continued as Agent and assumed charge as officially recognized Consular Agent,
+                    1/10/1910.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

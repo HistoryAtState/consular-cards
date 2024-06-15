@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0600" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milo, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0599" type="prev"/>
+                <relatedItem target="c0601" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0600f1">
+                <graphic height="3628px" url="00812.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milo, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00812</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0600f2">
+                <graphic height="3628px" url="00813.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milo, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1836</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00813</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0600">
+        <body>
+            <div corresp="#c0600f1">
+                <head>Milo, Greece.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <p>(over)</p>
+            </div>
+            <div corresp="#c0600f2">
+                <head>Milo, Greece.</head>
+                <p>L. Brest, French V.C. - Aety V.C. (by direction of a U.S. Naval Officer) - 1836?
+                    to still the Naty Aug. 1838,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

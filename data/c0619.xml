@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0619" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Monte Christo, Santo Domingo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0618" type="prev"/>
+                <relatedItem target="c0620" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0619f1">
+                <graphic height="3624px" url="00839.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monte Christo, Santo Domingo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00839</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0619f2">
+                <graphic height="3624px" url="00840.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monte Christo, Santo Domingo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00840</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0619">
+        <body>
+            <div corresp="#c0619f1">
+                <head>Monte Christo, Santo Domingo.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. S. Grullon Isaac Theodore Petit</cell>
+                        <cell>Congt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>S</unclear>an Domingo</cell>
+                        <cell>Aug. 4, 1887.<lb/>May 27, 1895.</cell>
+                        <cell>Resigned Apr. 17, 1918 effective<lb/>upon appt. of successor</cell>
+                    </row>
+                </table>
+                <head>Monte Cristi, Dominican Republic.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Harris</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>St. Louis Mo.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 1, 1918.</cell>
+                        <cell>Resigned June 28, 1919</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed Dec. 12, 1919, closed Feb. 10, 1920.</p>
+            </div>
+            <div corresp="#c0619f2">
+                <head>Monte Christo Dominican Republje.</head>
+                <p>Isaac J. Petit, former Consular Agent, in charge of Agency (resig. June 22, 1919
+                    to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

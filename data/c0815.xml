@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0815" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rennes, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0814" type="prev"/>
+                <relatedItem target="c0816" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0815f1">
+                <graphic height="3630px" url="01101.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rennes, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01101</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0815">
+        <body>
+            <div corresp="#c0815f1">
+                <head>Rennes, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>REV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Desire Huret Comfgh.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1883.</cell>
+                        <cell>Died Mar. 15, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Folliard</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 9, 1897</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed March 10, 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

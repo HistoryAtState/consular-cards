@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2905" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madrid, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2904" type="prev"/>
+                <relatedItem target="c2906" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2905f1">
+                <graphic height="3622px" url="03827.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madrid, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03827</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2905">
+        <body>
+            <div corresp="#c2905f1">
+                <head>Madrid, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Jessell W. Fordren</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell><unclear>Chea</unclear></cell>
+                        <cell><unclear>Continuing under anion</unclear> / Memburgas. 2.10.49.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>J. Paul Smith, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell><unclear>Sepas</unclear></cell>
+                        <cell><unclear>ment of</unclear> July 17, 1945</cell>
+                        <cell><unclear>Contencing code apparat</unclear> I. SS. detail to Dept.
+                            2-20-48</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Morey Bell</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell><unclear>Per</unclear>.</cell>
+                        <cell><unclear>ment of</unclear> Act. 27, 1997</cell>
+                        <cell>Separationveff. COB 9-7-48. <lb/>
+                            <unclear>Permination</unclear> eff. COB 5-25-538.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James K. D. Becker</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>July</unclear> 7, 1957</cell>
+                        <cell>To Praha as <unclear>Attache</unclear> 8-11-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert T. Lester</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell><unclear>md</unclear>.</cell>
+                        <cell><unclear>July</unclear> 27, 1951</cell>
+                        <cell><unclear>Termination</unclear> - Reduction in force off cos
+                            6-4-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard W. Webster</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell><unclear>Va</unclear>.</cell>
+                        <cell><unclear>Oct</unclear>. 26, 1951</cell>
+                        <cell>Resigned CoB10-6-54.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Bombay</cell>
+                        <cell>George W. Small <unclear>cancelled</unclear></cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>July</unclear> 19, 1952</cell>
+                        <cell>Retired eff. Close of business 5-31-62.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS) Mexico.</cell>
+                        <cell>Miss Ruth R. Grabiel</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>comm. dated</unclear>
+                            <lb/>
+                            <unclear>nou</unclear>. 17, 1958</cell>
+                        <cell><unclear>Act</unclear>. 20, 1958</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cons. 722 <lb/> Sec. 750 <lb/> Madrid</cell>
+                        <cell>Miss Maria N. Ramos</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 10, 1965</cell>
+                        <cell><unclear>Do Santo Domingo</unclear> as V.C. (755), 8-30-68.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar H. Guerra</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

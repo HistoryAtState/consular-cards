@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2420" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fortaleza, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2419" type="prev"/>
+                <relatedItem target="c2421" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2420f1">
+                <graphic height="3636px" url="03224.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fortaleza, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03224</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2420">
+        <body>
+            <div corresp="#c2420f1">
+                <head>Fortaleza, Brazil (officially opened on June 9, 1941.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT<lb/>TO CLASS</cell>
+                        <cell>WHENCE<lb/>APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Rio de Janeiro</cell>
+                        <cell>Walter W. Hoffmann</cell>
+                        <cell>F.B.O.</cell>
+                        <cell>7</cell>
+                        <cell>11-21-42<lb/>10-20-42C</cell>
+                        <cell>Calif.</cell>
+                        <cell>Aug. 11, 1943</cell>
+                        <cell>Appt. Consul 8-19-43R.<lb/>assign'd Con. w Fortaleza 9-28-43</cell>
+                    </row>
+                </table>
+                <p>Closed to the public June 30, 1953</p>
+                <p>officially closed August 15, 1953</p>
+            </div>
+        </body>
+    </text>
+</TEI>

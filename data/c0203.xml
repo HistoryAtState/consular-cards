@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0203" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harbin, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0202" type="prev"/>
+                <relatedItem target="c0204" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0203f1">
+                <graphic height="3636px" url="00294.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harbin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1923</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00294</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0203">
+        <body>
+            <div corresp="#c0203f1">
+                <head>Harbin, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>hama</cell>
+                        <cell>Sam J. Wardell</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tenn. Dem.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Nov. 6, 1923.</cell>
+                        <cell>Did not go to Harbin<lb/>Appt. canceled</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>I. Leonard Lilliestrom</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Finland</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 11, 1928.</cell>
+                        <cell>Apptd. V.C., Glasgow, Feb. 23, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Seoul</cell>
+                        <cell>Paul M. Dutko</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Nov. 10, 1930.</cell>
+                        <cell>Apptd. V.C., Riga, June 28/1932</cell>
+                    </row>
+                    <row>
+                        <cell>Singtao</cell>
+                        <cell>Carl Q. Hawthorne</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ark.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Feb. 9, 1933.</cell>
+                        <cell>Canceled.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed Dec. 8, 1941.</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>I.S.Aup. Arthur S. Abbott</cell>
+                        <cell>Cancelled</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Continuing under appt.<lb/>meret of June 10, 1946.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

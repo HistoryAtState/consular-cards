@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4164" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tokyo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4163" type="prev"/>
+                <relatedItem target="c4165" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4164f1">
+                <graphic height="3630px" url="05419.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tokyo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05419</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4164f2">
+                <graphic height="3630px" url="05420.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tokyo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05420</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4164">
+        <body>
+            <div corresp="#c4164f1">
+                <head>Tokyo, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Auckland</cell>
+                        <cell>Austin Preston Jr.</cell>
+                        <cell>V.C. de carrière</cell>
+                        <cell>3</cell>
+                        <cell>9/30/1922</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 13, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Austin Preston, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>2</cell>
+                        <cell>5/10/1924</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Do</cell>
+                    </row>
+                </table>
+                <p>See above</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>Austin Preston Jr. F.S.O. Une.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>7/1/1924. N.Y.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Kennett F. Potter</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>11 2/5/1927</cell>
+                        <cell>Mo.</cell>
+                        <cell>June 1, 1928</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Charles S. Reed, 2<sup>d</sup></cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>11/17/1928</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 10, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>H. Merrell Benninghoff</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>1/29/1929</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 29, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Daikoku</cell>
+                        <cell>Charles S. Reed, 2<sup>d</sup></cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>5/17/1928</cell>
+                        <cell>Ohio</cell>
+                        <cell>Sept. 27, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>Hiram Bingham, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>3/26/1929</cell>
+                        <cell>Conn.</cell>
+                        <cell>Nov. 20, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Charles A. Hutchinson</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>11/12/1929</cell>
+                        <cell>Minn.</cell>
+                        <cell>Nov. 8, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Lang. Student, Dairen</cell>
+                        <cell>Monroe P. Hall</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>5/17/1928</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 29, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>also Lang. Stund. Tokyo</cell>
+                        <cell>John M. Allison</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>12/17/1931</cell>
+                        <cell>Nebr.</cell>
+                        <cell>May 9, 1934</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>Charles A. Cooper</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>12/17/1931</cell>
+                        <cell>Nebr.</cell>
+                        <cell>Sept. 5, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Jokohama</cell>
+                        <cell>Alvin L. Rowe, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>3/26/1939</cell>
+                        <cell>Da.</cell>
+                        <cell>Nov. 20, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>F.C. &amp; 3<sup>d</sup> Secy. Tokyo</cell>
+                        <cell>Stanley G. Slavens</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>5/17/1938</cell>
+                        <cell>Sex.</cell>
+                        <cell>May 22, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>F.S.O., Bagdad</cell>
+                        <cell>Stanley G. Slavens</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>5/17/1938</cell>
+                        <cell>Sex.</cell>
+                        <cell>Jan. 6, 1937</cell>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>E. Paul Denney</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>10/1/1935R</cell>
+                        <cell>Hash.</cell>
+                        <cell>Aug. 26, 1937</cell>
+                    </row>
+                </table>
+                <p>Assigned to Daikoku Mar. 3, 1928.</p>
+                <p>Assigned to Kobe Aug. 13, 1928.</p>
+                <p>Assigned to Daikoku, May 28, 1929.</p>
+                <p>Assigned as Language Offr. Tokyo Feb. 9, 1929.</p>
+                <p>Canceled. Remained at Daikoku</p>
+                <p>apptd. a Secy. in the Dipl. Serv. May 16, 193; assigned to Tokyo as 3<sup>d</sup>
+                    Secy. &amp; Emb. June 29, 193.</p>
+                <p>Appt'd 7.S.O., also Consul. Oct. 1, 1935</p>
+                <p>Canceled. Assigned to Kobe instead.</p>
+                <p>Assigned to Dairen, Sep. 5, 1935</p>
+                <p>Asagd. to Nagoya, June 7, 1937.</p>
+                <p>Asagd. to Taikoku, Dec. 22, 1936.</p>
+                <p>Asagd. to Hogasaki, Dec. 5, 1936. <unclear>Cancelled</unclear></p>
+                <p>Asagd. to Yokohama, Dec. 17, 1936.</p>
+                <p>apptd. 7.S.O., al. 8, also Consul, June 17, 1937; assigned as Consul, June 17,
+                    1937.</p>
+                <p>Asagd. to Kobe Oct. 13, 1937.</p>
+                <p>See Card No. 2.</p>
+            </div>
+            <div corresp="#c4164f2">
+                <head>Tokyo, Japan</head>
+                <p>John M. Allison detailed to Dept. of State, temp., Apr. 16, 1935.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

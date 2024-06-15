@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3154" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montreal, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3153" type="prev"/>
+                <relatedItem target="c3155" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3154f1">
+                <graphic height="3626px" url="04145.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Montreal, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04145</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3154f2">
+                <graphic height="3626px" url="04146.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Montreal, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1934</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04146</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3154">
+        <body>
+            <div corresp="#c3154f1">
+                <head>Montreal, Quebec, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Gordon Minnigerode</cell>
+                        <cell>2.80</cell>
+                        <cell>Une</cell>
+                        <cell>4/10/1930</cell>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 29, 1930.</cell>
+                        <cell>Assigned to Quebec, July 12, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John C. Cool</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>4/15/1930</cell>
+                        <cell>Del.</cell>
+                        <cell>Apr. 29, 1930.</cell>
+                        <cell>Assigned to Dept. of State, Sept. 27, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Quebec</cell>
+                        <cell>H. Gordon Minnigerode</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>4/5/1930</cell>
+                        <cell>D.C.</cell>
+                        <cell>Sept. 9, 1930.</cell>
+                        <cell>Assigned to Dept. of State, Sept. 27, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph F. Newton</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 29, 1930.</cell>
+                        <cell>Assigned to Dept. of State, Dec. 23, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ralph Downsend</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 29, 1930.</cell>
+                        <cell>Assigned to Dept. of State, Dec. 8, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eric C. Hendlin</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931e</cell>
+                        <cell>Mass.</cell>
+                        <cell>Jan. 12, 1932.</cell>
+                        <cell>Assigned to Dept. of State, Nov. 29, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter H. Orebaugh</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931e</cell>
+                        <cell>Kane.</cell>
+                        <cell>Jan. 12, 1932.</cell>
+                        <cell>Assigned to Dept. of State, Nov. 29, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Clerk Montreal</cell>
+                        <cell>Stephen E.C. Bendrick</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931e</cell>
+                        <cell>PaL.</cell>
+                        <cell>Jan. 2, 1932.</cell>
+                        <cell>Appt'd 7.5.30, els, also Consul or rec'd. ad. Com., Montreal, Oct. 1,
+                            1935.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kent Leavitt</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931e</cell>
+                        <cell>Ba.</cell>
+                        <cell/>
+                        <cell>Assigned to Dept. of State, Jan. 30, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Leo Loch</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 2, 1932.</cell>
+                        <cell>Assigned to Dept. of State, Apr. 27, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Peiping</cell>
+                        <cell>J. Laurence Pond</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/16/1929</cell>
+                        <cell>Coun.</cell>
+                        <cell>Mar. 31, 1933.</cell>
+                        <cell>Res. effec. June 30, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Hong Kong</cell>
+                        <cell>George Bliss Lane</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>11/10/1929</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 31, 1933.</cell>
+                        <cell>Assigned to Wellington, N.Z., July 1, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Singapore</cell>
+                        <cell>Edward Anderson, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/19/1929</cell>
+                        <cell>Filla.</cell>
+                        <cell>June 20, 1934.</cell>
+                        <cell>Assigned to Mexico, Dec. 3, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Magellan</cell>
+                        <cell>J. Ridgeway Lineaweaver</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 25, 1935.</cell>
+                        <cell>Asgd. to Habana, June 3, 1939.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew B. Foster</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/1/1935R</cell>
+                        <cell>Pa.</cell>
+                        <cell>Oct. 5, 1935.</cell>
+                        <cell>Assigned to Dept. State, Dec. 7, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Russell W. Benton</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/1/1935R</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 3, 1935.</cell>
+                        <cell>Assigned to Dept. State, Dec. 7, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Lourenco-Marques</cell>
+                        <cell>Leo Loch</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 5, 1935.</cell>
+                        <cell>Resigned Mar. 1, 1937.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3154f2">
+                <head>Montreal</head>
+                <p>Edward Anderson, Jr., detailed to Dept. States tempo, hou. 5, 1934</p>
+            </div>
+        </body>
+    </text>
+</TEI>

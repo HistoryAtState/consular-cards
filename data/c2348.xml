@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2348" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hakodate (formerly Hakodadi), Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2347" type="prev"/>
+                <relatedItem target="c2349" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2348f1">
+                <graphic height="3632px" url="03126.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hakodate (formerly Hakodadi), Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1856</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03126</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2348">
+        <body>
+            <div corresp="#c2348f1">
+                <head>Hakodate formerly Hakodadi Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elisha E. Rice</cell>
+                        <cell>Com'l Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Me</cell>
+                        <cell/>
+                        <cell>June 26, 1856 by Sec'y</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elisha E. Rice</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 18, 1865 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ambrose C. Dunn</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>July 13, 1870 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. E. Rice</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Mar. 15, 1871 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hart Hawes</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell/>
+                        <cell>Dec. 3, 1871 Rec'd</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 15, 1871 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed Nov. 15, 1918</p>
+            </div>
+        </body>
+    </text>
+</TEI>

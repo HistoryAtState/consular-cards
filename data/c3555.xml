@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3555" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prague, Czechoslovakia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3554" type="prev"/>
+                <relatedItem target="c3556" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3555f1">
+                <graphic height="3638px" url="04648.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Prague, Czechoslovakia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04648</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3555">
+        <body>
+            <div corresp="#c3555f1">
+                <head>Prague, Czechoslovakia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>James S. Huffman</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 8, 1961</cell>
+                        <cell>To Santo Domingo as <lb/> V.C. (755) 8 5.63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Mary L. Mitchell</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Helen P. Peary</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 10, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <head>Name changed to Prague<lb/>Dept. Notice of 9-25-53</head>
+            </div>
+        </body>
+    </text>
+</TEI>

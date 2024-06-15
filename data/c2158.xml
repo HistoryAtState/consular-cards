@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2158" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Daiquiri, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2157" type="prev"/>
+                <relatedItem target="c2159" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2158f1">
+                <graphic height="3626px" url="02879.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Daiquiri, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02879</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2158">
+        <body>
+            <div corresp="#c2158f1">
+                <head>Daiquiris Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elisha D. Ely</cell>
+                        <cell>Con. Agt U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>*Dec. 19,1896.</cell>
+                        <cell>Exequatur refused</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

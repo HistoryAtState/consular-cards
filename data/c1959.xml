@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1959" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Breslau, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1958" type="prev"/>
+                <relatedItem target="c1960" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1959f1">
+                <graphic height="3630px" url="02625.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Breslau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02625</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1959">
+        <body>
+            <div corresp="#c1959f1">
+                <head>Breslau, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Phil H. Hubbard</cell>
+                        <cell>F:20.</cell>
+                        <cell>Une.</cell>
+                        <cell>5/17/1928</cell>
+                        <cell>Vt.</cell>
+                        <cell>July 13, 1928</cell>
+                        <cell>July 30, 1928 to Oct. 4, 1928.<lb/>Assigned to Berlin Oct. 4,
+                            1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Augustus S. Chase</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>9/11/1925</cell>
+                        <cell>Conn.</cell>
+                        <cell>July 10, 1929.</cell>
+                        <cell>Returned to Berlin without commn., 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Archer Woodford</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/17/1928</cell>
+                        <cell>Ky.</cell>
+                        <cell>Sept. 15, 1930</cell>
+                        <cell>Assigned to Berlin, Nov. 3, 1930.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed September 3, 1939</p>
+            </div>
+        </body>
+    </text>
+</TEI>

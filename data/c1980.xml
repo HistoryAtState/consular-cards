@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1980" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brunn, Austria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1979" type="prev"/>
+                <relatedItem target="c1981" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1980f1">
+                <graphic height="3630px" url="02652.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunn, Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02652</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1980f2">
+                <graphic height="3630px" url="02653.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunn, Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02653</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1980">
+        <body>
+            <div corresp="#c1980f1">
+                <head>Brünn, Austria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustavus Schoeller</cell>
+                        <cell>Con. Agh.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 18, 1863</cell>
+                        <cell>(No Commission issued)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Edelman (n)</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Russia</cell>
+                        <cell>Ala. Apr. 27, 1904.</cell>
+                        <cell>On leave. Doneg provisionally appointed, May 27, 1905.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred W. Donegan</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ala. May 10, 1905</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1907.</p>
+            </div>
+            <div corresp="#c1980f2">
+                <head>“Brixen, Austria”</head>
+                <p>H.W. Donegan in charge from April, 1905 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

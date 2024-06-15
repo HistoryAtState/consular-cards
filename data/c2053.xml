@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2053" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Coconada, Madras, India</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2052" type="prev"/>
+                <relatedItem target="c2054" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2053f1">
+                <graphic height="3630px" url="02748.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Coconada, Madras, India</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1869</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02748</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2053">
+        <body>
+            <div corresp="#c2053f1">
+                <head>Coconada, Madras, India.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stewart Hall</cell>
+                        <cell>Con. Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Feb. 20, 1869.</cell>
+                        <cell>Mar. 4, 1869 to Apr. 1876.</cell>
+                    </row>
+                </table>
+                <p>Office closed Sept. 16, 1876.</p>
+                <p>A. Neilson?) had archives - Apr to Sept. 1876.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

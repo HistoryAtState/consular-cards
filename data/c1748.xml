@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1748" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Woodstock, New Brunswick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1747" type="prev"/>
+                <relatedItem target="c1749" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1748f1">
+                <graphic height="3632px" url="02328.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Woodstock, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02328</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1748">
+        <body>
+            <div corresp="#c1748f1">
+                <head>Woodstock, New Brunswick.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert B. Sloat</cell>
+                        <cell>Womlgh Gr. Br.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 6, 1883.</cell>
+                        <cell>to Nov, 1888.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles D. Jordan</cell>
+                        <cell>V.C. 〃 〃</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1889.</cell>
+                        <cell>Resigned Aug, 1893.<lb/>superseded.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Graham</cell>
+                        <cell>Vice Con. 〃 〃</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 14, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Lindow</cell>
+                        <cell>V.C. 〃 〃</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 26, 1904.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel W. Kyle</cell>
+                        <cell>Dep. 〃 〃</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 22, 1907.</cell>
+                        <cell>Did not qualify.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

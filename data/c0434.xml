@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0434" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leghorn, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0433" type="prev"/>
+                <relatedItem target="c0435" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0434f1">
+                <graphic height="3628px" url="00593.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leghorn, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00593</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0434f2">
+                <graphic height="3628px" url="00594.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leghorn, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00594</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0434">
+        <body>
+            <div corresp="#c0434f1">
+                <head>Leghorn, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>José de Olivared</cell>
+                        <cell>2.S.O.</cell>
+                        <cell>5</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Consul 6-23-06</cell>
+                        <cell>Calif.</cell>
+                        <cell>Nov. 22, 1929.</cell>
+                        <cell>May 29, 1930 to ret. Act 42/31, Sec. 26(d), after Nov. 30,
+                            1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Zurich</cell>
+                        <cell>John R. Putnam</cell>
+                        <cell>Do</cell>
+                        <cell>3</cell>
+                        <cell>7/25/1928<lb/>EFF.<lb/>12/16/1928</cell>
+                        <cell>Consul 3-2-15</cell>
+                        <cell><unclear>Otr</unclear>.</cell>
+                        <cell>June 15, 1932.</cell>
+                        <cell>Assigned to Genoa, Jan. 5, 1934.</cell>
+                    </row>
+                    <row>
+                        <cell>State</cell>
+                        <cell>James R. Hilkinson</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>12/19/1929<lb/>10/11/1935R</cell>
+                        <cell>Consul 12-19-23</cell>
+                        <cell><unclear>Hsc</unclear></cell>
+                        <cell>Jan. 6, 1934</cell>
+                        <cell>Assigned to Birmingham, Jan. 16, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Sheridan Jalbatt</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>4-22-37<lb/>eff.<lb/>4-1-37</cell>
+                        <cell>Consul V-17-48</cell>
+                        <cell>Ky.</cell>
+                        <cell>Dec. 31, 1935</cell>
+                        <cell>Assigned to Valencia, May 28, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>Ralph A. Brernstein</cell>
+                        <cell>Do</cell>
+                        <cell>5</cell>
+                        <cell>3-23-39<lb/>EFFECTIVE<lb/>3-1-39</cell>
+                        <cell>Consul 5-17-28</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 29, 1939</cell>
+                        <cell>Assigned to Leghorn, March 8, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell><unclear>Hilson</unclear> G. Blake</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>6-8-39<lb/>effective<lb/>4-1-39</cell>
+                        <cell>Consul 8-31-25</cell>
+                        <cell>md.</cell>
+                        <cell>Oct. 17, 1940.</cell>
+                        <cell>Assigned to Rome Nov. 7, 1940.<lb/>Returned to permanent post at
+                            Rome<lb/>on Nov. 29, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>fd Secy</unclear>.</cell>
+                        <cell>Elbridge Durbrow</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>4-1-39</cell>
+                        <cell>Consul 4-22-1939</cell>
+                        <cell>Calif.</cell>
+                        <cell>Nov. 23, 1940.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed March 31, 1941.</p>
+            </div>
+            <div corresp="#c0434f2">
+                <head>Elbridge Durbrow</head>
+                <p>left Leghorn for his permanent post on Nov. 29, 1940. (DA's memo #507, dated Feb.
+                    13, 1941)</p>
+                <p>JCR notice dated April 1, 1941-states consulate closed on March 31, 1941.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

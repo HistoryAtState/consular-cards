@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0680" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nantes, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0679" type="prev"/>
+                <relatedItem target="c0681" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0680f1">
+                <graphic height="3634px" url="00928.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nantes, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00928</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0680f2">
+                <graphic height="3634px" url="00929.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nantes, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00929</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0680">
+        <body>
+            <div corresp="#c0680f1">
+                <head>Nantes, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>St.<lb/>Maguire</cell>
+                        <cell>Paul C. Squire</cell>
+                        <cell>V.C. de<lb/>Cariere</cell>
+                        <cell>3</cell>
+                        <cell>9/27/1919</cell>
+                        <cell>Mass.</cell>
+                        <cell>Dec. 29, 1919</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>J. Lee Murphy</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>5/25/1921</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 23, 1921</cell>
+                    </row>
+                    <row>
+                        <cell>Victoria, Be</cell>
+                        <cell>Marcel E. Malige</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>7/26/1922</cell>
+                        <cell>Idaho</cell>
+                        <cell>Aug. 11, 1922</cell>
+                    </row>
+                    <row>
+                        <cell>class 3.</cell>
+                        <cell>Marcel E. Malige</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>5/10/1924</cell>
+                        <cell>Idaho</cell>
+                        <cell>Do</cell>
+                    </row>
+                </table>
+                <p>Appt'd Consul, Glage 7 Apr. 15, 1920<lb/>assigned to Dunkirk April 17, 1920.</p>
+                <p>Assigned Paris May 16, 1922.</p>
+                <p>Appt'd U.C. de carrière, Class 2, May 10, 1924.</p>
+                <p>Appt'd F.S.O., Unclassified, July 1, 1924.</p>
+                <p>See<lb/>above</p>
+                <p>Marcel E. Malige F.S.O. Une. 1/1/1924 R. Idaho Continued under assignment of Aug.
+                    11, 1922.<lb/>Consulate closed May 17, 1941.<lb/>Recognition of the French de
+                    facto authority established in Paris under the leadership<lb/>of General de
+                    Gaulle as the Provisional Government of the French Republic 10-23-44</p>
+            </div>
+            <div corresp="#c0680f2">
+                <head>Nantes, France.</head>
+                <p>J. Lee Murphy, V. C. dec. took over the office from Consul Moorhead, Jan. 6,
+                    1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

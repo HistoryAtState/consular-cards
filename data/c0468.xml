@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0468" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Limerick, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0467" type="prev"/>
+                <relatedItem target="c0469" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0468f1">
+                <graphic height="3640px" url="00640.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Limerick, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00640</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0468">
+        <body>
+            <div corresp="#c0468f1">
+                <head>Limerick, Ireland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul, lark</cell>
+                        <cell>William D. Moreland, Jr.</cell>
+                        <cell>7.S.O. 4</cell>
+                        <cell/>
+                        <cell>Consul Ore.</cell>
+                        <cell/>
+                        <cell>Feb. 26, 1947</cell>
+                        <cell>To Dublin as Consul 6-30-47</cell>
+                    </row>
+                    <row>
+                        <cell>Consul at Dublin</cell>
+                        <cell>William D. Moreland, Jr.</cell>
+                        <cell>7.I.O. 4</cell>
+                        <cell/>
+                        <cell>Consul Ore.</cell>
+                        <cell/>
+                        <cell>December 22, 1947</cell>
+                        <cell>To Dakar as Consul 9-30-48</cell>
+                    </row>
+                </table>
+                <p>Consulate officially closed January 22, 1949.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

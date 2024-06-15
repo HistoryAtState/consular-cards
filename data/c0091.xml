@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0091" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antilla, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0090" type="prev"/>
+                <relatedItem target="c0092" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0091f1">
+                <graphic height="3628px" url="00134.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antilla, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00134</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0091">
+        <body>
+            <div corresp="#c0091f1">
+                <head>Antilla, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Juan de Zengotita</cell>
+                        <cell>No</cell>
+                        <cell><unclear>Unc.</unclear> 3-20-41</cell>
+                        <cell>Pa.</cell>
+                        <cell>Ach. 4, 1941.</cell>
+                        <cell>Returned to perm. post at Habana Cuba. October 13, 1941.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed February 1, 1946</p>
+            </div>
+        </body>
+    </text>
+</TEI>

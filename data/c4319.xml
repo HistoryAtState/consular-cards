@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4319" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wellington, New Zealand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4318" type="prev"/>
+                <relatedItem target="c4320" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4319f1">
+                <graphic height="3630px" url="05622.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Wellington, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05622</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4319">
+        <body>
+            <div corresp="#c4319f1">
+                <head>Wellington, New Zealand</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul Melbourne</cell>
+                        <cell>Armistead M. Lee</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Sept. 23, 1947.</cell>
+                        <cell>also 2d Secty. 750 assigned to Dept. 3-27-51 also 2d Secy. Also V.C.
+                            Auckland 4/154 To Helsinki as V.C. and 2d Sec. 8-5-54. Also 2d Secy.
+                            Designated Consul Wellington 12-3-54 also Counselor</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal V.C. + 2d Secy.</cell>
+                        <cell>Edward P. Prince</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>June 14, 1951</cell>
+                        <cell>also 2d Sec. also V.C. Auckland. 750 assigned to Dept. 1-13-57</cell>
+                    </row>
+                    <row>
+                        <cell>Ottawa</cell>
+                        <cell>Philip G. Habib</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>Nov. 28, 1951</cell>
+                        <cell>Also 2d Sec. Designated. Cons. Wellington. 1-1-57</cell>
+                    </row>
+                    <row>
+                        <cell>VS.(FSS) auckland &amp; Wellington</cell>
+                        <cell>Norris A. Haselton</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>N. J.</cell>
+                        <cell>Dec. 26, 1951</cell>
+                        <cell>Also 2d Sec. Designated Cons. Wellington 3-9-59</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leslie A. Klieforth</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>July 28, 1957</cell>
+                        <cell>Also 2d Sec. To STUTTGART as V.C. 4-3-61</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Laurence G. Pickering</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Neb.</cell>
+                        <cell>Oct. 22, 1956</cell>
+                        <cell>Also 2d Sec. Designated Consul, Wellington, 2-2-61.</cell>
+                    </row>
+                    <row>
+                        <cell>u.consul 2d sec. TOKYO</cell>
+                        <cell>Mrs. Edith A. Stensby</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell>Dec. 29, 1956</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter W. Lande</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1958</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>2d sec. + VC. Port-au-Prince</cell>
+                        <cell>James C. Nelson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 9, 1961</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

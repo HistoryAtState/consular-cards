@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4838" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>David, Panama</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4837" type="prev"/>
+                <relatedItem target="c4839" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4838f1">
+                <graphic height="3596px" url="06294.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>David, Panama</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06294</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4838">
+        <body>
+            <div corresp="#c4838f1">
+                <head>DAVID, Panama</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Manila</cell>
+                        <cell>Donald Keith Guthrie</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate opened at David 1-22-65.</p>
+                <p>To Rio de Janeiro as V.C. - 2d secy 3-28-66 CANCELLED</p>
+                <p>designated Cons., David 5-10-66</p>
+            </div>
+        </body>
+    </text>
+</TEI>

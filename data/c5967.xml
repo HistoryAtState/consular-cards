@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5967" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5966" type="prev"/>
+                <relatedItem target="c5968" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5967f1">
+                <graphic height="3624px" url="07816.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07816</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5967f2">
+                <graphic height="3624px" url="07817.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07817</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5967">
+        <body>
+            <div corresp="#c5967f1"/>
+            <div corresp="#c5967f2">
+                <head>Habana</head>
+                <table>
+                    <row role="label">
+                        <cell>Clarence Boornstra</cell>
+                        <cell>Agricultural Economist</cell>
+                        <cell>For. Ser. Aux.</cell>
+                        <cell>$4600</cell>
+                        <cell>Habana</cell>
+                        <cell>2/13/43 - Leg.res. La.</cell>
+                    </row>
+                    <row>
+                        <cell>Joseph A. Jones</cell>
+                        <cell>Special Asst. Foreign Service Aux.</cell>
+                        <cell>#2250</cell>
+                        <cell>Habana</cell>
+                        <cell>Feb. 26, 1943</cell>
+                        <cell>Leg.res. Va.</cell>
+                    </row>
+                    <row>
+                        <cell>William E. Skilton</cell>
+                        <cell>Economie Analyst</cell>
+                        <cell>Foreign Ser. Aux.</cell>
+                        <cell>$3000</cell>
+                        <cell>Habana</cell>
+                        <cell>March 19, 1943</cell>
+                    </row>
+                    <row>
+                        <cell>George Howard</cell>
+                        <cell>Commercial attaché, Habana</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jo Caracas as 1st. Secretary of Embassy</cell>
+                        <cell>May 6, 1949. Cancelled - To Cairo, Egypt</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>ac Economic Counceler - Aug. 25, 1947</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

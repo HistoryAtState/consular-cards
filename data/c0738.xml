@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0738" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nueva Gerona, Isle of Pines</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0737" type="prev"/>
+                <relatedItem target="c0739" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0738f1">
+                <graphic height="3636px" url="01003.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nueva Gerona, Isle of Pines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01003</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0738f2">
+                <graphic height="3636px" url="01004.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nueva Gerona, Isle of Pines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01004</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0738">
+        <body>
+            <div corresp="#c0738f1">
+                <head>Nueva Gerona, Isle of Pines</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Sheridan Talbott</cell>
+                        <cell><unclear>980</unclear>.</cell>
+                        <cell>Une</cell>
+                        <cell>7-1-1924</cell>
+                        <cell>My.</cell>
+                        <cell>Apr. 29, 1925.</cell>
+                        <cell>Assigned to Kobe Mar. 22, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>William Clarke Vyse</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>4/15/1926</cell>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 8, 1926</cell>
+                        <cell>Assigned to Habana Dec. 20, 1926. <lb/> Perne. 12-15-42, <lb/> to
+                            Habana 5-15-43</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>La Rue R. Lutkins</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>3-3-42</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 24, 1942</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Vice Consulate at Nueva Gerona was closed to the public eff. July 8, 1944.</p>
+            </div>
+            <div corresp="#c0738f2">
+                <head>Nueva Gerona, Isle of Pines</head>
+                <p>Sheridan Talbott, Vice Consul took over the office from Consul Forman May 17,
+                    1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2282" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Greenock, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2281" type="prev"/>
+                <relatedItem target="c2283" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2282f1">
+                <graphic height="3628px" url="03041.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Greenock, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03041</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2282">
+        <body>
+            <div corresp="#c2282f1">
+                <head>Greenock, Scotland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emanuel Nuel</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 15, 1873,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Craig</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. Love</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 27, 1891</cell>
+                        <cell>Out <lb/> closing Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed Oct. 31, 1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0707" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Newchwang, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0706" type="prev"/>
+                <relatedItem target="c0708" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0707f1">
+                <graphic height="3622px" url="00965.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Newchwang, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1902</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00965</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0707">
+        <body>
+            <div corresp="#c0707f1">
+                <head>Newchwang, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>How Wei-Lun</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 12, 1902</cell>
+                        <cell>Pres. alone. Superseded,<lb/>Apptd V.KD. C. and Int.<lb/>at Hankow
+                            Feb. 21, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert W. Contius</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Minn.</cell>
+                        <cell>May 1, 1907</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Chefoo</cell>
+                        <cell>Charles L. Williams</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>July 6, 1909</cell>
+                        <cell>Apptd Cons. Swatow June 24, 1910.</cell>
+                    </row>
+                    <row>
+                        <cell>Sthg</cell>
+                        <cell>George F. Bickford</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Wash</cell>
+                        <cell>Wash</cell>
+                        <cell>June 17, 1913</cell>
+                        <cell>Apptd U.S.C. Int. Hankow 3/17/14</cell>
+                    </row>
+                    <row>
+                        <cell>Ink.</cell>
+                        <cell><unclear>Gedige</unclear> Hanson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Mar. 17, 1914</cell>
+                        <cell>Apptd Consul Class 8 Mar. 3, 15</cell>
+                    </row>
+                    <row>
+                        <cell>Dalny</cell>
+                        <cell>George C. Hanson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Jan. 5, 1915.</cell>
+                        <cell>Assigned to Swatow 3/2/1915.</cell>
+                    </row>
+                    <row>
+                        <cell>Tientsin</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed March 6, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

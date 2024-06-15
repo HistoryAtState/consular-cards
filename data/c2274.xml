@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2274" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guanoco, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2273" type="prev"/>
+                <relatedItem target="c2275" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2274f1">
+                <graphic height="3624px" url="03031.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guanoco, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03031</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2274">
+        <body>
+            <div corresp="#c2274f1">
+                <head>Guanoco, Venezuela. under La Guaira)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William D. Fowler</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Danville</unclear>, Utah</cell>
+                        <cell>Utah</cell>
+                        <cell>Sept. 20, 1910.</cell>
+                        <cell>Recognition refused 2/4/10</cell>
+                    </row>
+                </table>
+                <p>Agency not established. File #125-52585</p>
+            </div>
+        </body>
+    </text>
+</TEI>

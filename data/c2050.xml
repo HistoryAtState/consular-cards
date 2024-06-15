@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2050" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cockburn Harbor, East Caicos, Turks Island W. I.</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2049" type="prev"/>
+                <relatedItem target="c2051" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2050f1">
+                <graphic height="3628px" url="02745.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cockburn Harbor, East Caicos, Turks Island W. I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02745</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2050">
+        <body>
+            <div corresp="#c2050f1">
+                <head>Cockburn Harbor, East Caicos, Turks Island, W.G.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hiram J. Jones</cell>
+                        <cell>Confgt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1873.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Stubbs</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 29, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Jatem</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 7, 1879.</cell>
+                        <cell>Resigned May 14, 1896.<lb/>to date June 30, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Cleophan Hunt Durham</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1896.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed</p>
+            </div>
+        </body>
+    </text>
+</TEI>

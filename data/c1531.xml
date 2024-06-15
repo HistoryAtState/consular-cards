@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1531" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tansui, Taiwan (formerly Tamsui, Formosa)</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1530" type="prev"/>
+                <relatedItem target="c1532" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1531f1">
+                <graphic height="3626px" url="02043.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tansui, Taiwan (formerly Tamsui, Formosa)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02043</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1531">
+        <body>
+            <div corresp="#c1531f1">
+                <head>Tansui, Taiwan. (formerly Tamsui, Formosa)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yokohama</cell>
+                        <cell>Joseph W. Ballantine</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>India, <lb/> Amer parents</cell>
+                        <cell>Mass</cell>
+                        <cell>Nov. 6, 1912.</cell>
+                        <cell>Appt'd &amp;amp; Interpreter <lb/> at Yokohama Oct. 7, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud. <lb/> Int.</cell>
+                        <cell>Max D. Stirjassoff</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Russia</cell>
+                        <cell>Conn.</cell>
+                        <cell>Aug. 6, 1913.</cell>
+                        <cell>Appt'd &amp;amp; Interpreter <lb/> at Yokohama Oct. 29, 1913.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

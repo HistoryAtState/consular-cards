@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2211" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dunedin, New Zealand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2210" type="prev"/>
+                <relatedItem target="c2212" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2211f1">
+                <graphic height="3630px" url="02950.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dunedin, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02950</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2211f2">
+                <graphic height="3630px" url="02951.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dunedin, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02951</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2211">
+        <body>
+            <div corresp="#c2211f1">
+                <head>Dunedin, New Zealand.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Driver</cell>
+                        <cell>Con. Agt. U.S. Del.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>May 28, 1862.</cell>
+                        <cell>To Bay of Islands Nov, 15, 1872.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George P. Abbott</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 8, 1871</cell>
+                        <cell>Did not act.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Driver</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 12, 1879.</cell>
+                        <cell>June 20,1878 to Jan, 1893<lb/>Died Jan. 1893</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Reyhold Driver (son)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sr. Br.</cell>
+                        <cell>Mar. 2, 1893.</cell>
+                        <cell>Jan. 1893 to Mar. 1895.<lb/>Resigned Mar. 1895<lb/>Mar. 1895 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. G. Neill</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 28, 1895</cell>
+                        <cell>Died Apr. 18, 1900.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Bridgeman</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr. Br.</cell>
+                        <cell>Oct. 30, 1900.</cell>
+                        <cell>Died June 26, 1948</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harman Reeves</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Lr. Br. Dunedin N.Z. Niz.</cell>
+                        <cell>Apr. 6, 1920</cell>
+                        <cell>Separation off 10-2-53</cell>
+                    </row>
+                    <row>
+                        <cell>Acting Consular<lb/>Agent<lb/>Dunedin</cell>
+                        <cell>Richard W. Reeves</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 13, 1948</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consular Agency closed as of Sept. 25, 1953</p>
+            </div>
+            <div corresp="#c2211f2"/>
+        </body>
+    </text>
+</TEI>

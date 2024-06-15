@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4059" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tabriz, Iran</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4058" type="prev"/>
+                <relatedItem target="c4060" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4059f1">
+                <graphic height="3638px" url="05296.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tabriz, Iran</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05296</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4059">
+        <body>
+            <div corresp="#c4059f1">
+                <head>TABRIZ, Iran</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Carleton S. Coon, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>R. Laurence Garufi</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Algiers</cell>
+                        <cell>Walter L. Cutler</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 7, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tabriz</cell>
+                        <cell>William H. Hallman</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>780 assigned to the Dept., 9-12657</p>
+                <p>Assigned To Princeton Univ 8-14-66</p>
+            </div>
+        </body>
+    </text>
+</TEI>

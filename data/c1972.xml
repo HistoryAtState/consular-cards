@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1972" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>British Somaliland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1971" type="prev"/>
+                <relatedItem target="c1973" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1972f1">
+                <graphic height="3610px" url="02644.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>British Somaliland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02644</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1972">
+        <body>
+            <div corresp="#c1972f1">
+                <head>British Somaliland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael Calingaert</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 24, 1960</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Dayton</cell>
+                        <cell>FSR</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 24, 1960</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nez C. Hallett, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 24, 1960</cell>
+                    </row>
+                </table>
+                <p>British Somaliland became independent July 1, 1960 and since that date is known
+                    as Somali Republic. For future entries see Mogadiscio, Somali Republic.</p>
+                <p>Also V.C. Mogadiscio ted COB 6-30-60. V.C. &amp; ad Sec. Mogadiscio 7-1-60 Also
+                    V.C. Mogadiscio To Mogadiscio as Attache 7-1-60 (FSR) Also V.C. Mogadiscio
+                    Designated Consul British Somalia Jul 3-18-60</p>
+            </div>
+        </body>
+    </text>
+</TEI>

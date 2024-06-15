@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5694" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Macau, Port</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5693" type="prev"/>
+                <relatedItem target="c5695" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5694f1">
+                <graphic height="3014px" url="07442.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Macau, Port</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07442</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5694f2">
+                <graphic height="3014px" url="07443.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Macau, Port</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07443</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5694">
+        <body>
+            <div corresp="#c5694f1">
+                <head>MACAU, Port. possession near HK</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Termination of Cons. representation</p>
+                <p>12/24/41 US time.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <p>Cons. officers at HK had been also designated to act in Macau as a CG and
+                            effective on closing of HK this is considered to have terminated, ending
+                            all cons. representation in Macau. No action taken to reallocate cons.
+                            district. Conversations Mr. Robert, Mr. Tenney, FE Stewart, EU Jan. 16,
+                            1942 and Tel. 1347 of 6/18/43 (plain) from Lisbon: Dept. 995, June 5.
+                            The Port. Gov. has today informed us that it has no objection to the
+                            Brit. Cons. at Macau representing Amer. interests there. He may report
+                            directly to this Legation.</p>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5694f2">
+                <head>According to Airgram 143 of April 15, provisional recognition was granted by
+                    Ministry of For. Affairs for Consuls and Vice Consuls at HK to act within the
+                    Port. Colony of Macau, which was included in pre-war Cons. district of HK.
+                    6/10/47.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

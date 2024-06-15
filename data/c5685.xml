@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5685" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tsingtao, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5684" type="prev"/>
+                <relatedItem target="c5686" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5685f1">
+                <graphic height="3000px" url="07426.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsingtao, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07426</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5685f2">
+                <graphic height="3000px" url="07427.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsingtao, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07427</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5685">
+        <body>
+            <div corresp="#c5685f1">
+                <head>TSINGTAO, China</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>C open - C closed 12/7/41 - C est. 11/27/45, open 12/13/45- C to CG 8/31/46</p>
+                <p>Closed to Public 10/15/49. Officially closed 1/23/50.</p>
+                <p>REMARKS:</p>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>CG</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>CA</cell>
+                        <cell>FA-AREA</cell>
+                        <cell>FE</cell>
+                        <cell>SUPERVISION (over or under)</cell>
+                    </row>
+                </table>
+                <p>PB MEMO NOS. 250</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>12/7/41 US</cell>
+                        <cell>Consulate closed upon declaration of war on US by Japan. Non-conf.
+                            records &amp; archives ordered stored locally. Conf. files
+                            burned.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5685f2">
+                <head>Tsingtao, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Tsingtao</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+                <p>11/27/45 Consulate established. Opened to public 12/13/45</p>
+                <p>8/31/46 Raised to CG. Ref. Tgm. 1290 from Nanking and DEPTEL 34 to Tsingtao.</p>
+                <p>Tgm from Tsingtao 8/26/46 states raise will take effect close of bus. 8/31</p>
+                <p>PB-Memo 250 re change from Tsingtao, Kiaochow to Tsingtao, Shantung.</p>
+                <p>9/13/49 Advance Notice issued on closing of office in near future.</p>
+                <p>12/13/49 - DA-Mailing Notice 154. Post closed to Public 10/15/49</p>
+                <p>but not Officially closed until departure of consular staff.</p>
+                <p>1/20/50 - Memo to files. Records in DC/R(archives) show that files of</p>
+                <p>for calendar years 1947, 1948 and 1949 shipped to Department.</p>
+                <p>See telegram 206, May 25, 1949.</p>
+                <p>1/23/50 - Tel. from Hawthorne re Amer. personnel departing Tsingtao 1/23/50.</p>
+                <p>Consulate officially closed as of this date. Tel. sent from</p>
+                <p>SS FLYING ARROW via commercial service.</p>
+                <p>1/24/50 - DA Mailing Notice ll stating closure Officially of post 1/23/50.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

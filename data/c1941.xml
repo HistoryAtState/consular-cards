@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1941" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biratislava, Czechoslovakia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1940" type="prev"/>
+                <relatedItem target="c1942" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1941f1">
+                <graphic height="3624px" url="02601.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Biratislava, Czechoslovakia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02601</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1941">
+        <body>
+            <div corresp="#c1941f1">
+                <head>Bratislava, Czechoslovakia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>(Cancelled)</cell>
+                        <cell>Consulate General was established effective August 14, 1946.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(Consulate General was never officially apened)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Consulate General opened December 1, 1947 - C.P. opened to the public
+                            Mar 1, 1948</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Huhliin</cell>
+                        <cell>Mrs. Clatilda B. Carey White</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ore.</cell>
+                        <cell>July 14, 1948</cell>
+                        <cell>To Frankfortas VC. 6-8-50.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Margaret J. McClellan</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1949</cell>
+                        <cell>To Praha as Vice Consul<lb/>Nov. 1, 1949</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

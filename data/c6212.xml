@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6212" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guatemala</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6211" type="prev"/>
+                <relatedItem target="c6213" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6212f1">
+                <graphic height="3622px" url="08187.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guatemala</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08187</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6212f2">
+                <graphic height="3622px" url="08188.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guatemala</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08188</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6212">
+        <body>
+            <div corresp="#c6212f1"/>
+            <div corresp="#c6212f2">
+                <head>Guatemala, Guatemala.</head>
+                <p>Richard B. Southgate reported Mar. 2, 1922 that" Curtis left this morning and, d
+                    assumed charge"</p>
+            </div>
+        </body>
+    </text>
+</TEI>

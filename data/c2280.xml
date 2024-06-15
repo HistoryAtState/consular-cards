@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2280" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2279" type="prev"/>
+                <relatedItem target="c2281" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2280f1">
+                <graphic height="3628px" url="03039.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03039</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2280">
+        <body>
+            <div corresp="#c2280f1">
+                <head>Greece (Gov. of Greece now established in Egypt)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>+zneg see for Gruce</cell>
+                        <cell>Andrew B. Froster</cell>
+                        <cell>HS.07</cell>
+                        <cell>7-16-437.</cell>
+                        <cell>Consul</cell>
+                        <cell>Pa</cell>
+                        <cell>Nov. 17, 1943.</cell>
+                        <cell>Asagato Dept. 7-14-44.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Yugoslavia</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>9-29-43C</cell>
+                        <cell>11-12-43C</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

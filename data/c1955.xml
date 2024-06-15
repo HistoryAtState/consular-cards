@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1955" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bremerhaven, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1954" type="prev"/>
+                <relatedItem target="c1956" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1955f1">
+                <graphic height="3634px" url="02619.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bremerhaven, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02619</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1955">
+        <body>
+            <div corresp="#c1955f1">
+                <head>Bremerhaven, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Econ Anal<lb/>Berlin</cell>
+                        <cell>Richard W. Smisvald</cell>
+                        <cell>Vice Consad</cell>
+                        <cell>V.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 15, 1946</cell>
+                        <cell>Also Econ. Analyst<lb/>Resigned off Dec. 6, 1947.<lb/>To Dusseldorf as
+                            V.C. 11-25-50</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>at Bremen</cell>
+                        <cell>Robert B. Houston, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 8, 1947</cell>
+                        <cell>Termination off. cos<lb/>6-19-53</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Breman</cell>
+                        <cell>Evernghim Blake</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 4, 1947</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Raised to rank of Consulate effective May 1, 1949.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

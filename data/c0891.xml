@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0891" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Russell, Bay of Islands, New Zealand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0890" type="prev"/>
+                <relatedItem target="c0892" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0891f1">
+                <graphic height="3634px" url="01196.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Russell, Bay of Islands, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01196</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0891f2">
+                <graphic height="3634px" url="01197.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Russell, Bay of Islands, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01197</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0891">
+        <body>
+            <div corresp="#c0891f1">
+                <head>Russell, Bay of Islands, N.Z. (see Bay of Islands)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Russell</cell>
+                        <cell>James McFarlane</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>afft to Russell</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mar. 12, 1875</cell>
+                        <cell>Resigned<lb/>Sept., 1878 to Feb. 1880.</cell>
+                    </row>
+                    <row>
+                        <cell>Auckland</cell>
+                        <cell>John H. Salmon</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>(New Zealand)</cell>
+                        <cell>" "</cell>
+                        <cell>Sept. 5, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Russell</cell>
+                        <cell>Ernest Ford</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Dr. Br.</cell>
+                        <cell>Jan. 12, 1880.</cell>
+                        <cell>Did not act<lb/>Mar. 1880? to Oct. 1894,<lb/>Resigned Oct.
+                            1894.</cell>
+                    </row>
+                    <row>
+                        <cell>Auckland</cell>
+                        <cell>Henry Stephenson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Apr. 8, 1880.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed Feb., 1895.</p>
+            </div>
+            <div corresp="#c0891f2">
+                <head>Russell, Bay of Islands.</head>
+                <p>James Macfarlane acted from 1872 to (continued as Agent)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

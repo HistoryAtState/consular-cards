@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5865" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Student Interpreters in Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5864" type="prev"/>
+                <relatedItem target="c5866" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5865f1">
+                <graphic height="3624px" url="07675.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Student Interpreters in Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07675</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5865">
+        <body>
+            <div corresp="#c5865f1">
+                <head>Student Interpreters in Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Out</cell>
+                        <cell>William Langdon</cell>
+                        <cell>Student. </cell>
+                        <cell>U.S.</cell>
+                        <cell>Smyrna, <lb/> Turkey <lb/> parents</cell>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 4, 1914.</cell>
+                        <cell>Arrived <lb/> July 24, 1914. <lb/> Appt'd Interpreter, Yokohama 4/17
+                            <lb/> assumed duties <lb/> Jan. 3, 1916</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harvey J. Goodder</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Utica, <lb/> N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 15, 1915.</cell>
+                        <cell>Appt'd Interpreter, Yokohama Feb. 9, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Irvin C. Correll</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. <lb/> Japan</cell>
+                        <cell>N.J.</cell>
+                        <cell>Aug. 30, 1916.</cell>
+                        <cell>Appt'd Interpreter, Dairen Mar. 22, 1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harman L. Broomall</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Del. <lb/> Chicago</cell>
+                        <cell>Del.</cell>
+                        <cell>Oct. 7, 1918</cell>
+                        <cell>Appt'd Interpreter, Yokohama 3/8/21</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Laurence Salisbury</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Del.</cell>
+                        <cell>Del.</cell>
+                        <cell>May 20, 1920</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leo D. Sturgeon</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Del.</cell>
+                        <cell>Del.</cell>
+                        <cell>Aug. 27, 1920</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William F. Nason</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Brockton, <lb/> Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 23, 1921</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Egbert Q. Rand</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Shreveport <lb/> La.</cell>
+                        <cell>La.</cell>
+                        <cell>Jan. 23, 1924.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Turner</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Kobé <lb/> Japan</cell>
+                        <cell>Da.</cell>
+                        <cell>Apr. 3, 1924.</cell>
+                        <cell>Appt'd V.C. of career July 23, 1926. <lb/> Assigned to Yokohama Aug.
+                            9, 1926.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

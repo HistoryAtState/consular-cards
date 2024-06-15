@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1806" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Christiania, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1805" type="prev"/>
+                <relatedItem target="c1807" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1806f1">
+                <graphic height="3638px" url="02410.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Christiania, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02410</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1806">
+        <body>
+            <div corresp="#c1806f1">
+                <head>Christiania, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See card#/ </cell>
+                        <cell>Alban G. Snyder</cell>
+                        <cell>F.S.O. 3</cell>
+                        <cell/>
+                        <cell>7/1/1924R. Con. Gen 2-12-1903</cell>
+                        <cell>l. Va.</cell>
+                        <cell>Continued under assignment of Feb. 10, 1921</cell>
+                        <cell>See Oslo card after Jan. 1, 1925.</cell>
+                    </row>
+                </table>
+                <p>Name "Christiania" changed to Oslo Jan. 1, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

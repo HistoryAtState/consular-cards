@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4578" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brisbane, Australia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4577" type="prev"/>
+                <relatedItem target="c4579" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4578f1">
+                <graphic height="3628px" url="05966.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brisbane, Australia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05966</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4578">
+        <body>
+            <div corresp="#c4578f1">
+                <head>BRISBANE, AUSTRALIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Consul &amp; 2d Sle. Tokyo</cell>
+                        <cell>Charles G. Sommer</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell/>
+                        <cell>July 9, 1962</cell>
+                        <cell/>
+                        <cell>To Caracas as Cons., 1-2-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>J. Fred Doyle, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell/>
+                        <cell>Dec. 9, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Melbourne</cell>
+                        <cell>Norman L. Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell/>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0479" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Livingston, Guatemala</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0478" type="prev"/>
+                <relatedItem target="c0480" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0479f1">
+                <graphic height="3628px" url="00652.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Livingston, Guatemala</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00652</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0479">
+        <body>
+            <div corresp="#c0479f1">
+                <head>Livingston, Guatemala.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Fred Sarg</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 18, 1883</cell>
+                        <cell>Nominated by Consul Jan. 21, 1886.<lb/>Nom. withdrawn by Consul Feb.
+                            23, 1886.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C. Tisni, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell>Feb. 12, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.W. Fitch</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 14, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John T. Anderson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank C. Dennis</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 19, 1894</cell>
+                        <cell>Appt'd Consul at St. John's<lb/>N.F. March 8, 1901</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Reed</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Cal.</cell>
+                        <cell>Cal.</cell>
+                        <cell>Apr. 6, 1901.</cell>
+                        <cell>Appt'd U.C. Livingston 1/8/1919</cell>
+                    </row>
+                    <row>
+                        <cell>Con. Agt.</cell>
+                        <cell>Edward Reed</cell>
+                        <cell>Vice Con</cell>
+                        <cell>" "</cell>
+                        <cell>Cal.</cell>
+                        <cell>Cal.</cell>
+                        <cell>Jan. 8, 1919</cell>
+                        <cell>Went out with closing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office ordered closed</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 9, 1920; closed</cell>
+                        <cell>October 7, 1920.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

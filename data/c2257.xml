@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2257" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Godthaab, Greenland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2256" type="prev"/>
+                <relatedItem target="c2258" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2257f1">
+                <graphic height="3634px" url="03010.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Godthaab, Greenland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03010</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2257">
+        <body>
+            <div corresp="#c2257f1">
+                <head>Godthaab, Greenland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Aspt. State</cell>
+                        <cell>George Lybrook Heat. Jr.</cell>
+                        <cell>8.1 Unc.</cell>
+                        <cell>4/6/1938c</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 7, 1940</cell>
+                        <cell/>
+                        <cell>To Stockholm 6-15-42</cell>
+                    </row>
+                    <row>
+                        <cell>Halifax</cell>
+                        <cell>Gray Bream</cell>
+                        <cell>Do Unc.</cell>
+                        <cell>320-41</cell>
+                        <cell>Nyo.</cell>
+                        <cell>Aug. 7 1942.</cell>
+                        <cell/>
+                        <cell>To Stockholm - 7-21-44</cell>
+                    </row>
+                    <row>
+                        <cell>Vide Con</cell>
+                        <cell>Edwin D. Crowley</cell>
+                        <cell>J.So.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Da.</cell>
+                        <cell>Aug. 30, 1948</cell>
+                        <cell>To Lagos as V.C. 7-18-50.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS)</cell>
+                        <cell>Richard G. Doria</cell>
+                        <cell>750</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Nor. 24, 1950</cell>
+                        <cell>To Stockholm as V.C. + 3d Sec. 5-17-51. To Antwerp as V.C.
+                            10-25-51.</cell>
+                    </row>
+                    <row>
+                        <cell>Godthab</cell>
+                        <cell>Closed to the public Aug. 15, 1953. Officially closed Oct. 9,
+                            1953</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>To Stockholm as V.C. + 2d Sec. 9-23-53.</cell>
+                    </row>
+                    <row>
+                        <cell>Frankfurt</cell>
+                        <cell>Wayne W. Fisher</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>June 13, 1952</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1539" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tarragona, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1538" type="prev"/>
+                <relatedItem target="c1540" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1539f1">
+                <graphic height="3638px" url="02052.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tarragona, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02052</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1539f2">
+                <graphic height="3638px" url="02053.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tarragona, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1809</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02053</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1539">
+        <body>
+            <div corresp="#c1539f1"/>
+            <div corresp="#c1539f2">
+                <head>Tarragona, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>William Goodwin, native of Mass, sety Vice Con (absence of Consue ?)
+                            Appth by Consulat Alicante May 1809 to</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>Mr. D. Tyler, of Boston, Mass. (Clerk of Consulat Barcelona) Appt V.
+                            C. by Consulat Barcelona June 8, 1809 to Nov. 7, 1809.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>John Leonard, Consulat Barcelona said he would reside in Farragona
+                            from Nov. 1809 ? but wrote no despofches from there</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>Augustin Opins (Opissa) born Gibraltar Acting Vice Coneul in charge –
+                            Apr. 17, 1815 to Died July, 186x.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>Aloys Miller, of Farragona, beting Agent.</cell>
+                        <cell>Sept. 1864 to applt Agent.)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>George D. Arzmüller, acting in chaye (sickness of Agent)</cell>
+                        <cell>June 23, 1883 to Sept. 1</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>Pelayo Montoya</cell>
+                        <cell>" "</cell>
+                        <cell>May 20, 1887 to Aug. 20, 1887.</cell>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>R. Oreante</cell>
+                        <cell>" "</cell>
+                        <cell>July 9, 1894 to Sept (9?) 1894,</cell>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>J. Gatofre, Acting in charge</cell>
+                        <cell>" "</cell>
+                        <cell>June 1897 to (for 6 weeks)</cell>
+                    </row>
+                    <row>
+                        <cell>√</cell>
+                        <cell>Thomas Robinson, Br. Vice Consul, Acting in charge (no agent</cell>
+                        <cell/>
+                        <cell>July, 189955</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

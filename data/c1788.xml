@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1788" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chinanfu, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1787" type="prev"/>
+                <relatedItem target="c1789" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1788f1">
+                <graphic height="3620px" url="02383.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chinanfu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02383</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1788">
+        <body>
+            <div corresp="#c1788f1">
+                <head>Chinanfu, China. (see Isinanfu)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. B. Hamilton</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>June 7, 1905</cell>
+                        <cell>July 21, to take effect<lb/>Resigned Sept. 10, 1906.</cell>
+                    </row>
+                </table>
+                <p>Mr. Hamilton, at the request of Com. Sen. Fowler, continued to act as Agent,
+                    holding the records and property until<lb/>(File # 622/6-7)<lb/>his final
+                    resignation Oct. 30, 1908 to take effect Jan. 1, 1909. Goes home on furlough
+                    shortly after that date.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

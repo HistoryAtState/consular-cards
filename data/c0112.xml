@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0112" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arica, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0111" type="prev"/>
+                <relatedItem target="c0113" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0112f1">
+                <graphic height="3644px" url="00164.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arica, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00164</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0112">
+        <body>
+            <div corresp="#c0112f1">
+                <head>Arica, Chile</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>William D. Snidow, Jr.</cell>
+                        <cell>Vice Cow.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 30, 1944</cell>
+                        <cell>To Santiago, Chile, as Vice Consul. <lb/> 2-15-46</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Vice Consulate Closed to the public eff. March 9, 1946.
+                                (<unclear>nam</unclear>)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consular Agency opened Dec. 5, 1955.</cell>
+                    </row>
+                    <row>
+                        <cell>Act.Con <lb/> agt. <lb/> Arica</cell>
+                        <cell>C. James Cook</cell>
+                        <cell>Con.Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 19, 1956</cell>
+                        <cell>Resigned for personal reasons <lb/> without prejudice eff.
+                            COB6-17-58</cell>
+                    </row>
+                    <row>
+                        <cell>Acting <lb/> Consular <lb/> to ent <lb/> Arica</cell>
+                        <cell>Vicente O. Corrales</cell>
+                        <cell>Con.Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1958</cell>
+                        <cell>Separation effecti's COB 11:30-60</cell>
+                    </row>
+                </table>
+                <p>Consular Agency was officially closed on Dec. 1, 1960.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

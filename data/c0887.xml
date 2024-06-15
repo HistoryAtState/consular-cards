@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0887" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rostov, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0886" type="prev"/>
+                <relatedItem target="c0888" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0887f1">
+                <graphic height="3638px" url="01190.tif" width="5976px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rostov, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01190</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0887f2">
+                <graphic height="3652px" url="01191.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rostov, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01191</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0887">
+        <body>
+            <div corresp="#c0887f1"/>
+            <div corresp="#c0887f2">
+                <head>Rostov, Russia.</head>
+                <p>De Witt C. Poole, Jr., Consul, Cl. 8, lately at Moscow, was detailed to Rostov <unclear/>
+                    <unclear>July</unclear> 28, 1918.</p>
+                <p>Hernando de Soto, Consul, Class 4, detailed to Rostov-on-Don as Consul in charge
+                    Oct. 29, 1919</p>
+                <p>Theodore B. Nogg, Consul, Class 7, detailed to Rostov-on-Don Oct. 29, 1919; did
+                    not go to Rostov; detailed to Berlin</p>
+            </div>
+        </body>
+    </text>
+</TEI>

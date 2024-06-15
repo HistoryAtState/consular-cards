@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0100" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Apia, Samoa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0099" type="prev"/>
+                <relatedItem target="c0101" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0100f1">
+                <graphic height="3634px" url="00147.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Apia, Samoa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1894</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00147</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0100">
+        <body>
+            <div corresp="#c0100f1">
+                <head>Apia, Samoa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James H. Mulligan</cell>
+                        <cell>Con. Gen'l U.S.</cell>
+                        <cell/>
+                        <cell>Lexington, Ky.</cell>
+                        <cell>Mar. 19, 1894</cell>
+                        <cell>Conf.</cell>
+                        <cell>Aug. 13, 1894 to Dec 31, 1895<lb/>Resigned in U.S. Apr. 29,
+                            1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Churchill</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Brooklyn, N.Y.</cell>
+                        <cell>June 4, 1896</cell>
+                        <cell>Conf.</cell>
+                        <cell>July 13, 1896 to Nov. 3, 1897<lb/>Did not go to Apia<lb/>To Palermo
+                            July 26, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Church Howe (Apia Nu'ualofa)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ithaca, Blair.</cell>
+                        <cell>July 26, 1897</cell>
+                        <cell>Conf.</cell>
+                        <cell>Resigned July 31, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Luther W. Osborn ( " " )</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nebr. June 30, 1897</cell>
+                        <cell>Conf.</cell>
+                        <cell>Nov. 4, 1897 to<lb/>Died at Post Oct. 27, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Heimrod (n)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nebr.</cell>
+                        <cell>Dec. 18, 1897</cell>
+                        <cell>Conf.</cell>
+                        <cell>Feb. 1, 1902 to<lb/>Appt. On. June 22, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Heimrod (n)</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1906</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt. Cons. Berne 5/1/1908.<lb/>Dec. 1/1908 to</cell>
+                    </row>
+                    <row>
+                        <cell>King</cell>
+                        <cell>Mason Mitchell</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y. May 1, 1908</cell>
+                        <cell>Conf.</cell>
+                        <cell>Made Consul, Class 6 2/5/1915</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mason Mitchell</cell>
+                        <cell>Con. 6</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y. May 1, 1908</cell>
+                        <cell/>
+                        <cell>Continued under appt<lb/>of May 1, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell>Shove</cell>
+                        <cell>Mason Mitchell</cell>
+                        <cell>Con. 6</cell>
+                        <cell>By Act of<lb/>2/5/1918</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Assigned to Queenstown Apr. 16, 1920<lb/>See Queenstown Card</cell>
+                    </row>
+                    <row>
+                        <cell>Class 6</cell>
+                        <cell>Mason Mitchell</cell>
+                        <cell>Con. 5</cell>
+                        <cell>9/4/1920</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Queenstown Apr. 16, 1920</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed June 6, 1927; closed Sept. 23, 1927.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

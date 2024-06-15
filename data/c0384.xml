@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0384" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Guaira, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0383" type="prev"/>
+                <relatedItem target="c0385" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0384f1">
+                <graphic height="3620px" url="00526.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Guaira, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00526</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0384">
+        <body>
+            <div corresp="#c0384f1">
+                <head>La Guaira, Venezuela</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>James P. Moffitt</cell>
+                        <cell>2.1.0.</cell>
+                        <cell>4</cell>
+                        <cell>3-1-39c Cow them. eff. 3-23-39</cell>
+                        <cell>6-24-44e</cell>
+                        <cell>71. y. Jan. 31, 1945.</cell>
+                        <cell>To Caracas as Con. Yesu. 6-21-45</cell>
+                    </row>
+                </table>
+                <p>Consular Agency established November 23, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

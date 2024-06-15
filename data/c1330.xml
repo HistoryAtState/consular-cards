@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1330" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago de Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1329" type="prev"/>
+                <relatedItem target="c1331" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1330f1">
+                <graphic height="3630px" url="01768.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santiago de Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01768</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1330">
+        <body>
+            <div corresp="#c1330f1">
+                <head>Santiago de Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>re.<lb/>Sas Paulo</cell>
+                        <cell>Arthur W. Feldman</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 27, 1951</cell>
+                        <cell>To Montevideo as V.C. 10-25-54<lb/>To cozacas as Pol. off.
+                            and<lb/>attache 11-3-57.</cell>
+                    </row>
+                    <row>
+                        <cell>ve.<lb/>Buenos Aires</cell>
+                        <cell>William E. Paterson</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 14, 1954</cell>
+                        <cell>Designated Vice Consul of<lb/>career, Santiago de
+                            Cuba<lb/>4-25-55<lb/>To México as V. C. 5-19-58.</cell>
+                    </row>
+                    <row>
+                        <cell>Comoufar<lb/>Santiago<lb/>rice cons</cell>
+                        <cell>Oscar H. Guerra</cell>
+                        <cell>ViceCons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Apr. 2, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Allen Cooper</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>mar. 9, 1956</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>México</cell>
+                        <cell>Bernard A. Femminella</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 13, 1958</cell>
+                        <cell>To Colón as Principal<lb/>officer (+SP) 3-19-61</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Piers L. Williams</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 27, 1958</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

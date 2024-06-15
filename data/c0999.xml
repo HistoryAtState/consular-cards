@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0999" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0998" type="prev"/>
+                <relatedItem target="c1000" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0999f1">
+                <graphic height="3640px" url="01335.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01335</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0999">
+        <body>
+            <div corresp="#c0999f1">
+                <head>*Peking, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Ernest B. Price</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>1</cell>
+                        <cell>10/18/1919</cell>
+                        <cell><unclear>7.Y.</unclear></cell>
+                        <cell>Was at Peking as V.C. and no assignment issued.</cell>
+                        <cell>Appt'd &amp; Assigned to Foochow <unclear>7/4/1920</unclear>.</cell>
+                    </row>
+                    <row>
+                        <cell>Anting</cell>
+                        <cell>Clarence J. Spiker</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>5/4/1920</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 4, 1920</cell>
+                        <cell>Assigned to Chungking Apr. 16, 1921</cell>
+                    </row>
+                    <row>
+                        <cell>Hankow</cell>
+                        <cell>Flavius J. Chapman, 3d F.S.O.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>Une. 1/1/1924</unclear></cell>
+                        <cell>Va.</cell>
+                        <cell>Apr. 21, 1925.</cell>
+                        <cell><unclear>Canceled</unclear>. <lb/> Assigned to Tientsin Apr. 2, 1925,
+                            instead.</cell>
+                    </row>
+                </table>
+                <p>* name changed to Peeping, Aug. 9, 1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

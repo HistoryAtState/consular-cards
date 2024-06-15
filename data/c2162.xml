@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2162" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dairen, Manchuria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2161" type="prev"/>
+                <relatedItem target="c2163" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2162f1">
+                <graphic height="3630px" url="02884.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dairen, Manchuria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02884</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2162">
+        <body>
+            <div corresp="#c2162f1">
+                <head>Dairen, Manchuria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                    </row>
+                    <row>
+                        <cell>Mukden</cell>
+                        <cell>William F. Nason</cell>
+                        <cell>F.S. Une.</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 12, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>Cabot Coville</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>5/28/1926</cell>
+                        <cell>Calif.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Arnold van Penschoten</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>R.R.</cell>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>Monroe P. Hall</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>5/17/1928</cell>
+                        <cell>N.Y.</cell>
+                    </row>
+                    <row>
+                        <cell>Trentain</cell>
+                        <cell>Troy L. Perkins</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/193/2</cell>
+                        <cell>Ty.</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>John M. Allison</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/193/2</cell>
+                        <cell>Kept.</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>Maurice Pasquet</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>Ty.</cell>
+                    </row>
+                    <row>
+                        <cell>Unc.</cell>
+                        <cell>Maurice Pasquet</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>8-30-38</cell>
+                        <cell>Ty.</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>W. Harland Richardson</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>8-17-38R</cell>
+                        <cell>Va.</cell>
+                    </row>
+                </table>
+                <p>Consulate Closed Dec. 8, 1941</p>
+                <p>Consulate re-established April 7, 1946.</p>
+                <p>Consulate opened to the public May 20, 1946.</p>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. 20. Serv</cell>
+                        <cell>Paul Paddock</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell>Iowa Dec. 30, 1947</cell>
+                        <cell>Designated Consul, Dairen 6-448</cell>
+                    </row>
+                    <row>
+                        <cell>Peiping</cell>
+                        <cell>Howard L. Boorsom</cell>
+                        <cell>750</cell>
+                        <cell>6</cell>
+                        <cell>Calif. May 12, 1949</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed both to public and officially October 21, 1949.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

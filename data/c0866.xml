@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0866" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rio Negro, Argentine Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0865" type="prev"/>
+                <relatedItem target="c0867" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0866f1">
+                <graphic height="3640px" url="01165.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rio Negro, Argentine Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1845</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01165</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0866">
+        <body>
+            <div corresp="#c0866f1">
+                <head>Rio Negro, Argentine Republic.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jefferson Adams</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>Mar. 19, 1845</cell>
+                        <cell>Exequatur refused, became a counterfeiter.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Smiley</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>R.J.</cell>
+                        <cell>Sept. 28, 1850</cell>
+                        <cell>No exequatur to 1859. Died Feb. 13, 1868.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stuart Barnes</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Conn. Conn.</cell>
+                        <cell>Dec. 19, 1871</cell>
+                        <cell>Did not go to Rio Negro, At Buenos Aires Sept. 1872 to Oct. 1, 1872.
+                            Exequatur refused.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

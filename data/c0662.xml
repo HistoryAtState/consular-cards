@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0662" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nanaimo, British Columbia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0661" type="prev"/>
+                <relatedItem target="c0663" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0662f1">
+                <graphic height="3632px" url="00901.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nanaimo, British Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1888</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00901</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0662">
+        <body>
+            <div corresp="#c0662f1">
+                <head>Nanaimo, British Columbia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. Hawthornthwaite</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William B. Dennison</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 1, 1890.</cell>
+                        <cell>Resigned to date Dec. 31, 1897<lb/>to Feb. 1, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William McGirr</cell>
+                        <cell/>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1897.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George L. Schethy</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.J. Jan. 15, 1898.</cell>
+                        <cell>Feb. 1, 1898 to<lb/>Resigned effect Mar. 31, 1906.<lb/>Apr. 11, 1906
+                            to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph H. Pashley</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 26, 1906.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Quinn</cell>
+                        <cell/>
+                        <cell>(Naturalized)<lb/>Trelg. Minn.<lb/>Salt Lake<lb/>City<lb/>Utah</cell>
+                        <cell/>
+                        <cell>Mar. 16, 1917</cell>
+                        <cell>June 13, 1917 to June 17, 1918</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Archibald C. Van Houten</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 31, 1918</cell>
+                        <cell>June 18, 1918 to<lb/>Res. office Jan. 31, 1932.</cell>
+                    </row>
+                </table>
+                <p>Agency closed January 31, 1932.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

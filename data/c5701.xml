@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5701" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zamboanga, Rep. of the Philippines</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5700" type="prev"/>
+                <relatedItem target="c5702" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5701f1">
+                <graphic height="3026px" url="07452.tif" width="4802px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Zamboanga, Rep. of the Philippines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07452</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5701">
+        <body>
+            <div corresp="#c5701f1">
+                <head>ZAMBOANGA, REP. OF THE Consular Agency<lb/>PHILIPPINES</head>
+                <p>To be OPENED<lb/>1950</p>
+                <p>Incl. in 1950 budget for possible opening. More<lb/>urgent need elsewhere.
+                    Postponed. May be considered<lb/>for 1951 opening.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

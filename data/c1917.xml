@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1917" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bolivia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1916" type="prev"/>
+                <relatedItem target="c1918" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1917f1">
+                <graphic height="3628px" url="02569.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bolivia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1854</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02569</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1917">
+        <body>
+            <div corresp="#c1917f1">
+                <head>Bolivia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Rainy</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Jan. 11, 1854 Conf.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

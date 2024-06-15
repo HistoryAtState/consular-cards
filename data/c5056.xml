@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5056" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Haifa, Palestine</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5055" type="prev"/>
+                <relatedItem target="c5057" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5056f1">
+                <graphic height="3632px" url="06563.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Haifa, Palestine</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06563</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5056f2">
+                <graphic height="3632px" url="06564.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Haifa, Palestine</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06564</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5056">
+        <body>
+            <div corresp="#c5056f1">
+                <head>Haifa, Palestine</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Jerusalem</cell>
+                        <cell>Ben J. Brannon.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>bols.</cell>
+                        <cell>March 29, 1948</cell>
+                        <cell>To Hamburgas U.C. 2-16-49</cell>
+                    </row>
+                </table>
+                <head>Haifa, Israel</head>
+                <p>(see back)</p>
+                <table>
+                    <row role="label">
+                        <cell>Vice Consul<lb/>Jerusalem</cell>
+                        <cell>Ben F. Brannon</cell>
+                        <cell>Cancelled (above) Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Colo.</cell>
+                        <cell>Sept. 3, 1948</cell>
+                        <cell>To Capetownas V.C. 9-28-49.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>Vice Consul<lb/>Canton<lb/>V.C.<lb/>Valetta</cell>
+                        <cell>James W. Anderson</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1949</cell>
+                        <cell>To Toronto as V.C. 1-6-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Normand W. Redden</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>H.Y.</cell>
+                        <cell>Sept. 29, 1949</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard B. Andrews</cell>
+                        <cell>Cancelled Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 28, 1952</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob Sassower</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 1, 1964</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5056f2">
+                <head>Haifa, Palestine.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>``</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consular Agency was established at Haifa effective Sept. 1, 1964.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

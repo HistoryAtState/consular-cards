@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3336" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ottawa, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3335" type="prev"/>
+                <relatedItem target="c3337" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3336f1">
+                <graphic height="3632px" url="04371.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ottawa, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04371</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3336">
+        <body>
+            <div corresp="#c3336f1">
+                <head>OTTAWA, ONTARIO, CANADA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul (75R)</cell>
+                        <cell>Willis C. Armstrong</cell>
+                        <cell>750</cell>
+                        <cell>1</cell>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Dec. 22, 1960</cell>
+                        <cell/>
+                        <cell>Also Cons. of Emb. Dep. Chief of mission, with the class rank of
+                            6-7-62. FSO assigned to the Dept., 9-2-62. <lb/> Termination of limited
+                            appt., <lb/> eff. COB 12-13-63. <lb/> Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Antwerp</cell>
+                        <cell>Leland C. Altaffer</cell>
+                        <cell>75R</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 19, 1960</cell>
+                        <cell/>
+                        <cell>FSO assigned to the Dept., 9-17-61. <lb/> Also Deputy Chief of Mission
+                            + Minister <lb/> To Sept. 10-25-64.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C</cell>
+                        <cell>Robert E. White</cell>
+                        <cell>£505</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Feb. 2, 1961</cell>
+                        <cell/>
+                        <cell>Also Deputy Chief of Mission, Minister <lb/> To Sept. 10-25-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Ivan B. White</cell>
+                        <cell>FSO</cell>
+                        <cell>CM</cell>
+                        <cell>Gen.</cell>
+                        <cell>Aug. 6, 1962</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>Wilbur P. Chase</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 24, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

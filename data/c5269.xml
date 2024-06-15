@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5269" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Botswana, Republic of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5268" type="prev"/>
+                <relatedItem target="c5270" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5269f1">
+                <graphic height="3608px" url="06851.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Botswana, Republic of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06851</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5269f2">
+                <graphic height="3573px" url="06852.tif" width="5970px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Botswana, Republic of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06852</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5269">
+        <body>
+            <div corresp="#c5269f1">
+                <head>Botswana Republic of</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Kin-shasa</cell>
+                        <cell>Charles H. Pletcher</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Sept. 30, 1966</cell>
+                        <cell/>
+                        <cell>Counselor of Emb.</cell>
+                        <cell>Also Chargé d'Affaires Ad Interim, Dep. Chief of Mission &amp;
+                            Consul</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ned E. Morris</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5269f2">
+                <head>Gaborone, Bechuanaland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Gaborone</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0135" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Azua, San Domingo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0134" type="prev"/>
+                <relatedItem target="c0136" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0135f1">
+                <graphic height="3628px" url="00196.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Azua, San Domingo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00196</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0135">
+        <body>
+            <div corresp="#c0135f1">
+                <head>Azua, San Domingo.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Molineaux</cell>
+                        <cell>Vice Conslyt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 18, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Chandrue</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 11, 1874</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hardy</cell>
+                        <cell>" " " </cell>
+                        <cell>U.S.</cell>
+                        <cell>London</cell>
+                        <cell>England Mass.</cell>
+                        <cell>Aug. 11, 1885.</cell>
+                        <cell>Left on leave<lb/>May 18, 1914<lb/>Resigned 2/14/14 offeck
+                            5/31/1914<lb/>May 18, 1914 to Feb. 23, 1921.<lb/>Died at the home of his
+                            parents in<lb/>Porto Rico Feb. 23, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugenio Choisne</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>Vieques</cell>
+                        <cell>P.R.</cell>
+                        <cell>Apr. 4, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Tofilo J. Risk</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>Dom.</cell>
+                        <cell>France Dyria Rep.</cell>
+                        <cell>Apr. 22, 1921</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Agency ordered closed Nov. 22, 1921. Closed Dec. 31, 1921.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0134" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Azores, Western Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0133" type="prev"/>
+                <relatedItem target="c0135" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0134f1">
+                <graphic height="3634px" url="00195.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Azores, Western Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1806</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00195</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0134">
+        <body>
+            <div corresp="#c0134f1">
+                <head>Azores or Western Islands. (see Fayal)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Dabney</cell>
+                        <cell>Consul US.</cell>
+                        <cell/>
+                        <cell>Boston,</cell>
+                        <cell>Mass.</cell>
+                        <cell>June 20, 1800, recess</cell>
+                        <cell>Died Seph, 2, 1826, of<lb/>Apoplexy.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles W. Dabney (con)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Jan. 16, 1807, Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Height</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 3, 1826 recess<lb/>Jan. 3, 1827 Conf.</cell>
+                        <cell>Died March 1871 1869.}<lb/>see belove</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles W. Dabney</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Aug. 6, 1846 Conf.</cell>
+                        <cell>Died Mar. 1871 1872<lb/>Bound despatches say that<lb/>Dabney turned on
+                            the Consulate<lb/>to his successor (Consul) on<lb/>Feb 1, 1870</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

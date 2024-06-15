@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5366" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5365" type="prev"/>
+                <relatedItem target="c5367" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5366f1">
+                <graphic height="3628px" url="06986.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06986</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5366f2">
+                <graphic height="3628px" url="06987.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06987</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5366">
+        <body>
+            <div corresp="#c5366f1"/>
+            <div corresp="#c5366f2">
+                <head>Julian C. Greenup</head>
+                <p>Commercial attache, Lima made Counselor of Embassy for Economic affairs, Lima
+                    12-4-42</p>
+                <p>Dr. Geo. C. Vaillant - Sr. Cult. Rel. Off - in Am. For. Ser. Aux. at Lima - legal
+                    res. Dovou, Peun - Jan. 11, 1943</p>
+                <p>Peter Pirouse, Junior Ecoa. Analyst - in Am. For. Ser. Aux. at Lima - " "
+                    "Pasadena, Calif. Jan. 27, 1943 did not proceed Tohind Pirouse (resigned eff.
+                    Feb. 23, 43 C.O.B.)</p>
+                <p>Hugo W. Alberts. Agricultural Advisor Am. For. Ser. Aux. $5600 - duty of Lima -
+                    legal res. (Wis. - 2/16/43</p>
+            </div>
+        </body>
+    </text>
+</TEI>

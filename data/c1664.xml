@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1664" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valparaiso, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1663" type="prev"/>
+                <relatedItem target="c1665" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1664f1">
+                <graphic height="3640px" url="02223.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valparaiso, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02223</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1664f2">
+                <graphic height="3640px" url="02224.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valparaiso, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02224</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1664">
+        <body>
+            <div corresp="#c1664f1"/>
+            <div corresp="#c1664f2">
+                <head>Valparaiso, Chile</head>
+                <p>Dana S. Munro, Consul, Class 4, lately Drafting Officer, Dept. of State, detailed
+                    to Valparaiso June 29, 1920; arrived Oct. 25, 1920; assumed duties Oct. 26,
+                    1920</p>
+                <p>George A. Makinson, Consul, Cl. 7, lately V.C. dec. at Santo Domingo and was
+                    detailed to Valparaiso June 22, 1922; appt'd Consul, Class 6 Aug. 23, 1922;
+                    Consul, Class 5 Dec. 19, 1923, Appt'd S. O., class 6 July 1, 1924. Assigned to
+                    Callao-Lima Aug. 20, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

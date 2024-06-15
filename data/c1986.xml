@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1986" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Buenaventura, Columbia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1985" type="prev"/>
+                <relatedItem target="c1987" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1986f1">
+                <graphic height="3634px" url="02660.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenaventura, Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02660</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1986f2">
+                <graphic height="3634px" url="02661.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenaventura, Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02661</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1986">
+        <body>
+            <div corresp="#c1986f1">
+                <head>Buenaventura, Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James M. Eder</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1866 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar Tompkins</cell>
+                        <cell>Coml Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Oct. 15, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Denning J. Thayer</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 23, 1881</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Dougherty</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 18, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles L. Belden</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 16, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Stuttgart</cell>
+                        <cell>Maurice C. Pierce</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>2.8.0 7 7/1/1924 9-14-17 Prise. Sept. 18, 1930.</cell>
+                        <cell>Canceled. Assigned to St.John, N.B, instead.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 31, 1958.</p>
+                <p>The Consulate opened to the public May 1, 1943</p>
+                <p>Raised to rank of Consulate effective April 25, 1949</p>
+            </div>
+            <div corresp="#c1986f2"/>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2430" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Foynes, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2429" type="prev"/>
+                <relatedItem target="c2431" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2430f1">
+                <graphic height="3638px" url="03235.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Foynes, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03235</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2430">
+        <body>
+            <div corresp="#c2430f1">
+                <head>Loynes, Ireland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Belfast, Ire.</cell>
+                        <cell>F. Willard Calder</cell>
+                        <cell>Clerk and Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y</cell>
+                        <cell>April 16, 1942</cell>
+                        <cell>To Southampton. 3-26-44 <lb/> Assignment <lb/> Terminated
+                            11-8-43.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ellis N. Slack</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Utah</cell>
+                        <cell>Nov. 4, 1942</cell>
+                        <cell>Terminated: March 18-1943.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar G. Wilson, Jr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell>Nov. 4, 1942</cell>
+                        <cell>Transferred to <lb/> Dublin - 1-20-43</cell>
+                    </row>
+                    <row>
+                        <cell>Dublin</cell>
+                        <cell>Charles M. Senty</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Dec. 12, 1942</cell>
+                        <cell>See Foreign Service <lb/> Auxiliary card.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Frankluz C. Shoemaker</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Feb. 27, 1943</cell>
+                        <cell>To Rome 9-25-44</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Linton Crook</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ala.</cell>
+                        <cell>Apr. 6, 1944</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Cleveland B. McKnight</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ga.</cell>
+                        <cell>Jan 29, 1945</cell>
+                        <cell>F.D.O. incl. 7-19-1946; D.C. of cases 7-19-1946. <lb/> 3.1.0. assigned
+                            <lb/> Secy'n the. Dist. Session 7-19-1946. The Dept. 7-19-46. <lb/>
+                            Limerick</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate closed at the end of term</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>April 30, 1946</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

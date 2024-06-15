@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2186" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Deseronto, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2185" type="prev"/>
+                <relatedItem target="c2187" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2186f1">
+                <graphic height="3638px" url="02914.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Deseronto, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02914</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2186f2">
+                <graphic height="3638px" url="02915.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Deseronto, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02915</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2186">
+        <body>
+            <div corresp="#c2186f1">
+                <head>Descronto, Ontario, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward C. French</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.J</cell>
+                        <cell>N.J</cell>
+                        <cell>Aug. 3, 1885.</cell>
+                        <cell>to Apr. 1890.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Millener</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>B.Br.</cell>
+                        <cell>N.Y</cell>
+                        <cell>Apr. 15, 1890.</cell>
+                        <cell>Apr. 1890 to Apr. 13, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Brennan</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jefferson Co.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Canada Mar. 24, 1908.</cell>
+                        <cell>Apr. 14, 1908 to <lb/> Out of closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed February 21, 1911.</p>
+            </div>
+            <div corresp="#c2186f2">
+                <head>Deseronto, Ontario, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>✓</cell>
+                        <cell>R. C. Carter - </cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>George W. Wright - act'g in chg. (absence of Kgt)</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                    </row>
+                </table>
+                <p>to July? 1885.</p>
+                <p>Oct. 28, 1890 to Dec. 2, 1890.</p>
+                <p>( ) Apr. 18, 1893 to today</p>
+                <p>( ) Sept. 22, 1895 to Dec. 28, 1895,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

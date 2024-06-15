@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1265" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chagres, Columbia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1264" type="prev"/>
+                <relatedItem target="c1266" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1265f1">
+                <graphic height="3636px" url="01681.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chagres, Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1843</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01681</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1265f2">
+                <graphic height="3636px" url="01682.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chagres, Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1850</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01682</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1265">
+        <body>
+            <div corresp="#c1265f1">
+                <head>Chagres, Colombia (see Aspinwall &amp; Colon)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bladen Forrest</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 6, 1843 recess</cell>
+                        <cell>Jan. 10, 1844 to Mar. 26, 1844</cell>
+                        <cell>Reigned in U.S. May 6, 1844</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Jones</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Me.</cell>
+                        <cell>Jan. 9, 1844 Conf.</cell>
+                        <cell>Jan. 26, 1849 Conf.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustavus G. Crahman</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Vt.</cell>
+                        <cell>Me.</cell>
+                        <cell>Mar. 1, 1849 Conf.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harvey Gleason</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>La.</cell>
+                        <cell>June 25, 1849 recess</cell>
+                        <cell>Mar. 26, 1850 to July 1852</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Fletcher</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Jan. 24, 1850 Conf.</cell>
+                        <cell>In Chagres from Sept. 21/49, Appt'd Cons. at Aspinwall</cell>
+                        <cell>July 23/53</cell>
+                    </row>
+                </table>
+                <p>Consulate moved to Aspinwall (Colon) July 1852.</p>
+            </div>
+            <div corresp="#c1265f2">
+                <head>Chagres, Colombia.</head>
+                <p>• Wm Nelson (Consul at Panama) in chq of archives (absence of Consul) Mar. 26,
+                    1844 to Mar. 26, 1850.</p>
+                <p>• James M. Palin, appt'd by Consul Gleason as Con. to act in his absence on June
+                    4, 1850.</p>
+                <p>• " " " held V.C in charge - (absence of Consul) Dec. 1, 1850 to Feb. 1, 1851</p>
+                <p>Consulate moved to Aspinwall (Colon) July 1852.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

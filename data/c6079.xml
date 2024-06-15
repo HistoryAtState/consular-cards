@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6079" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6078" type="prev"/>
+                <relatedItem target="c6080" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6079f1">
+                <graphic height="3620px" url="07977.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="16.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07977</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6079f2">
+                <graphic height="3620px" url="07978.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="16.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07978</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6079">
+        <body>
+            <div corresp="#c6079f1"/>
+            <div corresp="#c6079f2">
+                <head>Rolland Welch - 7.10, attached to staff of US Political Adviser on German
+                    Affairs, SHAEF Versailles, France, Cancelled June 6, 1945</head>
+                <head>Barton P. Jenks. Attaché, Paris, France. Dec. 20, 1945.</head>
+                <head>Livingston J. Merchant - Economic Counselor, with the personal rank of
+                    Minister (Miscellaneous) $10,000 per annum, Paris, France. Oct. 4, 1943.
+                    Termination of services eff.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5371" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peru, Bolivian Confederation</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5370" type="prev"/>
+                <relatedItem target="c5372" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5371f1">
+                <graphic height="3630px" url="06993.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peru, Bolivian Confederation</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1838</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06993</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5371f2">
+                <graphic height="3630px" url="06994.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peru, Bolivian Confederation</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1838</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06994</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5371">
+        <body>
+            <div corresp="#c5371f1">
+                <head>Peru Bolivian Confederation.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Pickett</cell>
+                        <cell>Chargé d' Affaires</cell>
+                        <cell>Ky</cell>
+                        <cell>June 9, 1838 Conf.</cell>
+                        <cell>Delivered archives to his successor Apr. 28, 1845.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5371f2">
+                <head>Peru - Bolivian Confederation!</head>
+                <p>J. C. Pickett, of Ky, empowered June 15, 1888 to negotiate a treaty of commerce
+                    and navigation with Cauador.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

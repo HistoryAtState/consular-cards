@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6407" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kuwait, State of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6406" type="prev"/>
+                <relatedItem target="c6408" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6407f1">
+                <graphic height="3600px" url="08476.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kuwait, State of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08476</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6407">
+        <body>
+            <div corresp="#c6407f1">
+                <head>KUWAIT, State of</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                        <cell>RANK.</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut/FSI <lb/>Lebanon</cell>
+                        <cell>James A. Placke</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert H. Carlson</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>July 17, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles 0. Cecil</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel H. Wyman</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec Also V.C.</cell>
+                    </row>
+                </table>
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>REMARKS.</cell>
+                </row>
+            </div>
+        </body>
+    </text>
+</TEI>

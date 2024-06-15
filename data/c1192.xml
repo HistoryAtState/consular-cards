@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1192" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Luis Potosi, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1191" type="prev"/>
+                <relatedItem target="c1193" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1192f1">
+                <graphic height="3644px" url="01587.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Luis Potosi, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01587</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1192">
+        <body>
+            <div corresp="#c1192f1">
+                <head>San Luis Potosi, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>Henry Z. Unverzagt</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Dec. 18, 1931</cell>
+                        <cell>Apptd. V.C. Puerto Cortes, Nov. 30, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Puerto Cortes</cell>
+                        <cell>Myron H. Schrand</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Nov. 24, 1937</cell>
+                        <cell>Apptd. V.C. Manzanillo, May 3, 1941. To Manzanillo, 7-21-42.</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Myron B. Schrand</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Sept. 2, 1941</cell>
+                        <cell>To Monterrey</cell>
+                    </row>
+                    <row>
+                        <cell>Monterey</cell>
+                        <cell>H. Claremont Moses</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell>May 1, 1942.</cell>
+                        <cell>5 - 3 - 42</cell>
+                    </row>
+                    <row>
+                        <cell>Vici Consul</cell>
+                        <cell>Henry J. Dwyer</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>R.I.</cell>
+                        <cell>"</cell>
+                        <cell>Nov. 2, 1943.</cell>
+                        <cell>(To La Supira - 8 - 21 - 44) To Toronto - 3 - 26 - 45</cell>
+                    </row>
+                    <row>
+                        <cell>Saymas</cell>
+                        <cell>Elias J. Garza</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Tex.</cell>
+                        <cell>"</cell>
+                        <cell>July 23, 1943.</cell>
+                        <cell>To Mexico as V.C. 1-21-48</cell>
+                    </row>
+                    <row>
+                        <cell>Veracruz</cell>
+                        <cell>Robert L. Shielde</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Va.</cell>
+                        <cell>Feb. 19, 1948</cell>
+                        <cell>To Tegucigalpa as V.C. 126-51</cell>
+                    </row>
+                    <row>
+                        <cell>Mexico</cell>
+                        <cell>Paul S. Dyer</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Dec. 18, 1950</cell>
+                        <cell>To Guadalajara as V.C. 9-25-53</cell>
+                    </row>
+                    <row>
+                        <cell>Izmir</cell>
+                        <cell>"</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Designated Consul, San Luis Potosi 3-13-52.</cell>
+                    </row>
+                    <row>
+                        <cell>Sao Paulo</cell>
+                        <cell>Henry L. Taylor</cell>
+                        <cell>Vice Consul U.S</cell>
+                        <cell>"</cell>
+                        <cell>Wash.</cell>
+                        <cell>"</cell>
+                        <cell>Dec. 18, 1951</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed to the Public July 15, 1954. Officially closed July 30, 1954.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0262" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Huddersfield, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0261" type="prev"/>
+                <relatedItem target="c0263" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0262f1">
+                <graphic height="3632px" url="00368.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Huddersfield, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00368</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0262">
+        <body>
+            <div corresp="#c0262f1">
+                <head>Houddersfield, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alton Angier</cell>
+                        <cell>Coml Agt.</cell>
+                        <cell/>
+                        <cell>Ga.</cell>
+                        <cell/>
+                        <cell>Mar. 7, 1890</cell>
+                        <cell>Revoked<lb/>Apr. 23, 1890 to July 1893.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Smyth</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell/>
+                        <cell>Mar. 22, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank C. McGhee</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Meridian, Miss.</cell>
+                        <cell/>
+                        <cell>May 18, 1893 recess<lb/>Aug. 25, 1898 Conf.</cell>
+                        <cell>to Nov. 26, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin F. Stone</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Sept. 30, 1897 recess<lb/>Jan. 19, 1898 Conf.</cell>
+                        <cell>Nov. 27, 1897 to May 20, 1906.<lb/>Resigned May 20, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick J. Bright</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Mar. 26, 1906 Conf.</cell>
+                        <cell>May 21, 1906 to about Mar. 5, 1912<lb/>Left on leave<lb/>Resigned from
+                            1510 Summit Ave.,<lb/>St. Paul, Minn. Apr. 20, 1912.<lb/>Sept. 24, 1912
+                            to<lb/>see below.</cell>
+                    </row>
+                    <row>
+                        <cell>Trinidad</cell>
+                        <cell>Franklin D. Hale</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Vt.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Aug. 22, 1912 Conf.</cell>
+                        <cell>Resigned from Huddersfield<lb/>June 24, 1918</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt. to Class</cell>
+                        <cell>Date of assignment.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>By Act of<lb/>2/5/1915</cell>
+                        <cell>Continued under appt<lb/>of Aug. 22, 1912. Resigned to Campbellton
+                            June 8, 1918</cell>
+                    </row>
+                </table>
+                <p>see above Franklin D. Hale Con. 7<lb/>Consulate closed July 13, 1918.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

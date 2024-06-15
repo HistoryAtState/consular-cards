@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1880" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beebe Junction-Stanstead Junction, Quebec-Sherbrooke</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1879" type="prev"/>
+                <relatedItem target="c1881" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1880f1">
+                <graphic height="3632px" url="02513.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Beebe Junction-Stanstead Junction, Quebec-Sherbrooke</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02513</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1880f2">
+                <graphic height="3632px" url="02514.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Beebe Junction-Stanstead Junction, Quebec-Sherbrooke</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02514</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1880">
+        <body>
+            <div corresp="#c1880f1">
+                <head>Beebe Junction, Quebec. (under Sherbrooke)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Stanstead Junction</cell>
+                        <cell>Hoel S. Beebe</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Oct. 15, 1909.</cell>
+                        <cell>Afternoon, Nov. 7, 1931.</cell>
+                    </row>
+                </table>
+                <p>Agency closed FA memo. 11-12-31 (Closed 11-28-31)</p>
+                <p>Archives of records transferred to Sherbrooke.</p>
+            </div>
+            <div corresp="#c1880f2">
+                <head>Beebe Junction, Lerchee.</head>
+                <p>John A. Beebe, Acting Consular Agent (Allegiance of Noel &amp; Beebe on leave)
+                    Quarter Jan 1-Mar. 31, 19205.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

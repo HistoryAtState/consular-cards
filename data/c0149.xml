@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0149" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Camaguey, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0148" type="prev"/>
+                <relatedItem target="c0150" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0149f1">
+                <graphic height="3630px" url="00218.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Camaguey, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00218</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0149">
+        <body>
+            <div corresp="#c0149f1">
+                <head>Camaguey, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                    </row>
+                    <row>
+                        <cell>v. con. Hambour</cell>
+                        <cell>Franklin Hawlly</cell>
+                        <cell>7.S.O.</cell>
+                        <cell>Ung. 1-20-39C</cell>
+                        <cell>October 24, 1942. Opened to Public December 19, 1942.</cell>
+                        <cell>Mich.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 28, 1942.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>closed to the public May 31, 1945</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Reopened Dec. 1, 1947</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Closed to the Public Jan. 1, 1949 (consular district of Camaguey
+                            assigned to Santiago de Cuba)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate officially closed Feb. 7, 1949</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <row role="label">
+                    <cell>REMARKS.</cell>
+                </row>
+                <row>
+                    <cell>made Consul-6-9-44e</cell>
+                </row>
+            </div>
+        </body>
+    </text>
+</TEI>

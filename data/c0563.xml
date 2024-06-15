@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0563" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matagorda, Texas</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0562" type="prev"/>
+                <relatedItem target="c0564" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0563f1">
+                <graphic height="3638px" url="00766.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Matagorda, Texas</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1838</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00766</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0563">
+        <body>
+            <div corresp="#c0563f1">
+                <head>Meatagorda, Texas.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Monges</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Del.</cell>
+                        <cell>June 26, 1835 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles S. Wallach</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Apr. 21, 1840 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.W.J Smith</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Sept. 2, 1842 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Texas admitted to the Union Dec. 29, 1845.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

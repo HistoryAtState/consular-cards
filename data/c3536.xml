@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3536" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Portuguese Timor-Colony of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3535" type="prev"/>
+                <relatedItem target="c3537" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3536f1">
+                <graphic height="3612px" url="04625.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Portuguese Timor-Colony of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04625</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3536">
+        <body>
+            <div corresp="#c3536f1">
+                <head>Portuguese Colony of Timor (as of August 1956)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Brussels</cell>
+                        <cell>Robert W. Moore</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Iowa</cell>
+                        <cell>Oct. 28, 1952</cell>
+                        <cell>also consul, Surabaya.<lb/>To Glasgow as Consul 5-1-54</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Paul O'Neill, jr.</cell>
+                        <cell>F50</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Penn.</cell>
+                        <cell>May 13, 1954</cell>
+                        <cell>Also Consul Surabaya, to the Dept.<lb/>9-23-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Paul O'Neill, Jr. Cancelle</cell>
+                        <cell>750</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Penn.</cell>
+                        <cell>Oct. 21, 1954</cell>
+                        <cell>also cons. Surabaya.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Paul C. Domke</cell>
+                        <cell>F50</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Penn.</cell>
+                        <cell>Nov. 5, 1956</cell>
+                        <cell>also cons. Surabaya<lb/>To Kobe as Cons. 5/18-59</cell>
+                    </row>
+                    <row>
+                        <cell>Bang/Kok</cell>
+                        <cell>Jack W. Lydman</cell>
+                        <cell>F50</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Dec. 29, 1958</cell>
+                        <cell>To Djakarta as Counselor of Emb.<lb/>for Economic Affrs.
+                            8-21-60.<lb/>Also Cons., Surabaya</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Oler A. Bartley, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>June 20, 1966</cell>
+                        <cell>Also Cons., Surabaya</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1335" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sao Vinente, Cape Verde Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1334" type="prev"/>
+                <relatedItem target="c1336" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1335f1">
+                <graphic height="3632px" url="01776.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sao Vinente, Cape Verde Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01776</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1335">
+        <body>
+            <div corresp="#c1335f1">
+                <head>São Vicente, Cape Verde Islands</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Horta</cell>
+                        <cell>Scott Lyon</cell>
+                        <cell>V.C. de Carrieri</cell>
+                        <cell><unclear>Unc.</unclear></cell>
+                        <cell>9-3-1940</cell>
+                        <cell>Ohio</cell>
+                        <cell>Feb. 24, 1943</cell>
+                    </row>
+                </table>
+                <p>American Vice Consulate closed effective December 12, 1943.</p>
+                <p>REMARKS</p>
+                <p>To Lisbon, U.C. &amp; 3rd Sec'y-12-3-43.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

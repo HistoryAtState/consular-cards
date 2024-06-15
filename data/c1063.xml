@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1063" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Mahon, Minorca</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1062" type="prev"/>
+                <relatedItem target="c1064" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1063f1">
+                <graphic height="3632px" url="01418.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Mahon, Minorca</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01418</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1063">
+        <body>
+            <div corresp="#c1063f1">
+                <head>Port Mahon, Minorca. (see Minorca)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Melvin S. Whallon</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 5, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Montanari</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 21, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Closed Sept. 29, 1876, Reopened Dec. (26?) 1876.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Montanari</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 28, 1876.</cell>
+                        <cell>Died Mar. 6, 1880, <lb/> Apr. 1880 to <lb/> Resigned Apr. 15,
+                            1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.S. Valls</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 24, 1880.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Oct. 18, 1899, Closed Nov. 17, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

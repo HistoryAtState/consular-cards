@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2197" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dresden, Saxony</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2196" type="prev"/>
+                <relatedItem target="c2198" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2197f1">
+                <graphic height="3638px" url="02931.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dresden, Saxony</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02931</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2197">
+        <body>
+            <div corresp="#c2197f1">
+                <head>Dresden, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Stanley R. Lawson</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 7, 1924.</cell>
+                        <cell>Apptd V.C. Genoa Sept. 29, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Kovno</cell>
+                        <cell>Charles M. Ferrity</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S. Da.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 17, 1927.</cell>
+                        <cell>Apptd. V.C. Regina, Dec. 15, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Genoa</cell>
+                        <cell>Bernard F. Heiler</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass. Mass.</cell>
+                        <cell>Sept. 29, 1928.</cell>
+                        <cell>Apptd V.C. Winnipeg, June 11, 1938</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in</cell>
+                        <cell>Howard Elting, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ill. Ill.</cell>
+                        <cell>Sept. 1, 1931.</cell>
+                        <cell>apptd 3rd cl. v.c. of Genoa &amp; a dep't<lb/>employ. Sept. 1, 1931,
+                            assigned as<lb/>V.C. Dresden, Jan. 2, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Consulate</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Del. Del.</cell>
+                        <cell>June 15, 1938</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Goteborg</cell>
+                        <cell>William F. Shockley, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

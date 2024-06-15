@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4803" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curacao, West Indies-Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4802" type="prev"/>
+                <relatedItem target="c4804" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4803f1">
+                <graphic height="3632px" url="06253.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curacao, West Indies-Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06253</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4803f2">
+                <graphic height="3632px" url="06254.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curacao, West Indies-Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06254</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4803">
+        <body>
+            <div corresp="#c4803f1">
+                <head>CURAÇAO, NETHERLANDS WEST INDIES</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew Metal, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1955</cell>
+                        <cell>to Dept 4-22-56<lb/>To stuttgart as visa Asst.<lb/>(755)
+                            6-14-59.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James P. Hargrove</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 7, 1956</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <head>CURAÇAO, NETHERLANDS ANTILLES *see back</head>
+                <table>
+                    <row role="label">
+                        <cell>Consul (750)<lb/>Curaçao</cell>
+                        <cell>Eric L. Faley, Jr.</cell>
+                        <cell>V. Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 16, 1964</cell>
+                        <cell>To Tijuana as<lb/>V.C. (755), 2-1-65<lb/>Designated Consul
+                            (755)<lb/>Curaçao, 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D. Ryder Forbes</cell>
+                        <cell>V. Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4803f2">
+                <head>Curaçao, Netherlands Antilles.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Curaçao</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

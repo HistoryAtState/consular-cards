@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4937" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freetown, Sierra Leone, British West Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4936" type="prev"/>
+                <relatedItem target="c4938" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4937f1">
+                <graphic height="3634px" url="06410.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Freetown, Sierra Leone, British West Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06410</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4937">
+        <body>
+            <div corresp="#c4937f1">
+                <head>Freetown, Sierra Leone, British West Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Christian K. Nielsen</cell>
+                        <cell>Cons. Agt. U. p.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 29, 1940.</cell>
+                        <cell>Original: See Memorandum dated 9/19/46</cell>
+                    </row>
+                </table>
+                <p>Consulate officially opened May 4, 1959</p>
+                <p>Consulate at Freetown, Sierra Leone elevated to rank of Consulate General eff.
+                    Dec. 1, 1960</p>
+                <p>Consulate General at Freetown elevated to rank of Embassy eff. April 27,
+                    1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1467" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stavanger, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1466" type="prev"/>
+                <relatedItem target="c1468" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1467f1">
+                <graphic height="3630px" url="01954.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stavanger, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01954</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1467">
+        <body>
+            <div corresp="#c1467f1">
+                <head>Stavanger, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>christiania</cell>
+                        <cell>Harry E. Carlson</cell>
+                        <cell>V.C.de</cell>
+                        <cell>2</cell>
+                        <cell>1/17/1921</cell>
+                        <cell><unclear>del</unclear>. </cell>
+                        <cell>Jan. 7, 1922.</cell>
+                        <cell>Assig'd Christiania Feb. 20, 1922.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed June 30, 1933.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

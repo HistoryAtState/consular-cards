@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1247" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Catania, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1246" type="prev"/>
+                <relatedItem target="c1248" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1247f1">
+                <graphic height="3650px" url="01658.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Catania, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01658</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1247">
+        <body>
+            <div corresp="#c1247f1">
+                <head>Catania, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt, to Class.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>Robertson Honey</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell>7/14/1916</cell>
+                        <cell>Conf.</cell>
+                        <cell>Ala. N.Y.</cell>
+                        <cell>July 14, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell>Havre</cell>
+                        <cell>Robert R. Bradford</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell>9/14/1917</cell>
+                        <cell>Conf.</cell>
+                        <cell>Nebr. Nebr.</cell>
+                        <cell>July 26, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 6</cell>
+                        <cell>Robert R. Bradford</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>Conf.</cell>
+                        <cell>Nebr. Nebr.</cell>
+                        <cell>Do</cell>
+                    </row>
+                    <row>
+                        <cell>Malta</cell>
+                        <cell>Carl R. Loop</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>Con.</cell>
+                        <cell>Ind. Ind.</cell>
+                        <cell>Dec. 27, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 6</cell>
+                        <cell>Carl R. Loop</cell>
+                        <cell>Con.</cell>
+                        <cell>5</cell>
+                        <cell>8/23/1922</cell>
+                        <cell>Con.</cell>
+                        <cell>Ind. Ind.</cell>
+                        <cell>Do</cell>
+                    </row>
+                    <row>
+                        <cell>Florence</cell>
+                        <cell>W. Roderick Dorsey</cell>
+                        <cell>Con.</cell>
+                        <cell>4</cell>
+                        <cell>6/4/1920</cell>
+                        <cell>Con.</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>Mar. 30, 1923.</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Date of assignment.</cell>
+                        <cell>Assigned Bristol 8/31/1918<lb/>Did not go to Hull</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sept. 20, 1916 to Sept. 30, 1918.<lb/>Assigned to Hull July 26,
+                            1918A<lb/>Oct. 1, 1918 to See below</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Appt'd Consul Class 6 Sept. 5, 1919<lb/>See above to Mar. 5,
+                            1922</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Assigned to Casablanca Dec. 27, 1921<lb/>Mar. 6, 1922 to<lb/>Appt'd
+                            Consul, Class 5 Aug. 23, 1922.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Died at Catania July 29, 1923.<lb/>Assigned to Malaga Mar. 30,
+                            1923.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>See<lb/>above</cell>
+                        <cell>W. Roderick Dorsey</cell>
+                        <cell>F.B.O.</cell>
+                        <cell>5</cell>
+                        <cell>7/1/1924 R. Consul<lb/>12/20/1924 8-22-12</cell>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>Continued under assign<lb/>ment of Mar. 30, 1923. Appt'd F.B.O, class
+                            4 Feb. 24, 1925<lb/>to July 27, 1925</cell>
+                    </row>
+                    <row>
+                        <cell>class 5</cell>
+                        <cell>W. Roderick Dorsey</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>2/24/1925 C. Consul<lb/>8-22-12</cell>
+                        <cell>Md.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Tsingtao Apr. 10, 1925.<lb/>July 28, 1925 to</cell>
+                    </row>
+                    <row>
+                        <cell>Genoa</cell>
+                        <cell>Ilo C. Funk</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Colo.</cell>
+                        <cell>Apr. 10, 1925.</cell>
+                        <cell>Assigned to Florence Feb. 18, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office ordered closed</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 21, 1927.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

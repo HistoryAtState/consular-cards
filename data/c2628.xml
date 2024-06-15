@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2628" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannesburg, Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2627" type="prev"/>
+                <relatedItem target="c2629" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2628f1">
+                <graphic height="3636px" url="03493.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Johannesburg, Republic of South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03493</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2628">
+        <body>
+            <div corresp="#c2628f1">
+                <head>JOHANNESBURG, Republic of South Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Commerce Dept.</cell>
+                        <cell>Robert B. Parke</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dewey W. Conner</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Feb. 13, 1967</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

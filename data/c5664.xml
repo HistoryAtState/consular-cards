@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5664" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canton, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5663" type="prev"/>
+                <relatedItem target="c5665" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5664f1">
+                <graphic height="3018px" url="07391.tif" width="4810px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canton, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07391</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5664">
+        <body>
+            <div corresp="#c5664f1">
+                <head>CANTON - page 2</head>
+                <p>Canton representative that contents above twobldgs. being stored their godown
+                    against charge approximately H.K. $1,000 per month.</p>
+                <p>4/5/50 - OM to Hong Kong 4/5/50 - Auth. granted to transfer to Dept. files of
+                    CONGEN at Canton. Send allfiles if possible by military transportation. If no
+                    military transportation, ship unclassified files via steamer and hold classified
+                    material untilarrangements can be made to ship via courier pouch,</p>
+                <p>3/30/50- London despatch #1560, 3/30/50 - Arrangments by <unclear/>British
+                    <unclear/> godown.</p>
+                <p>7/17/50- OM from Taipei - Finance &amp; personnel records from Canton forwarded
+                    to Dept.</p>
+                <p>8/31/79 - ConGen at Guangzhou (formerly Canton) officially opened (State 255794
+                    of 9/28/79). Principal Officer: FSO-3 Richard L. Williams. Consular District
+                    consists of Guangdong Province and the Guangxi Autonomous Region.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

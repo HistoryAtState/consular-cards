@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3084" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milan, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3083" type="prev"/>
+                <relatedItem target="c3085" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3084f1">
+                <graphic height="3622px" url="04057.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milan, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04057</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3084">
+        <body>
+            <div corresp="#c3084f1">
+                <head>Milan, Italy.</head>
+                <p>Dlo C. Funk, V. C., took over the office from Consul Grout Aug. 11, 1917</p>
+            </div>
+        </body>
+    </text>
+</TEI>

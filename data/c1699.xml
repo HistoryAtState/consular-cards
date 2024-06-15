@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1699" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Victoria, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1698" type="prev"/>
+                <relatedItem target="c1700" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1699f1">
+                <graphic height="3634px" url="02268.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Victoria, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1888</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02268</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1699f2">
+                <graphic height="3634px" url="02269.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Victoria, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02269</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1699">
+        <body>
+            <div corresp="#c1699f1">
+                <head>Victoria, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. A. T. King</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Apr. 18, 1888.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Murdock C. Dameron</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Sept. 30, 1891.</cell>
+                        <cell>Resigned Oct. 7, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Storme</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 12, 1898.</cell>
+                        <cell>Resigned June 1908.</cell>
+                    </row>
+                </table>
+                <p>Mr. Storme continued as Spent by request of the Consul at Tampies until closing
+                    of Agency.</p>
+                <p>Agency closed March 1, 1910.</p>
+            </div>
+            <div corresp="#c1699f2">
+                <head>Victoria, Mexico.</head>
+                <p>C. E. Cloud, Act. Cons. Agt. — to Oct. 1891, Resigned.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

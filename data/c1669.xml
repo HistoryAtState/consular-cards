@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1669" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valparaiso, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1668" type="prev"/>
+                <relatedItem target="c1670" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1669f1">
+                <graphic height="3628px" url="02231.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valparaiso, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02231</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1669">
+        <body>
+            <div corresp="#c1669f1">
+                <head>Valparaiso, Chile</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V. Cou.</cell>
+                        <cell>Jocopilla Richard B. Mudge</cell>
+                        <cell>7.5.0</cell>
+                        <cell><unclear>Unc</unclear>.</cell>
+                        <cell>3-20-41C</cell>
+                        <cell><unclear>Mass</unclear>.</cell>
+                        <cell>Mar. 6, 1943</cell>
+                        <cell>Resigned: C.o.b. eff. July 5, 1943.</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>Howard Brandon</cell>
+                        <cell>2.5.0</cell>
+                        <cell><unclear>Unc</unclear>.</cell>
+                        <cell>8-25-42</cell>
+                        <cell>Georgia</cell>
+                        <cell>Sept. 2, 1943</cell>
+                        <cell>Cancelled.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Puertiborter Julian L. Nugent. Jr.</cell>
+                        <cell>7.5.0</cell>
+                        <cell><unclear>Unc</unclear>.</cell>
+                        <cell>11-16-39</cell>
+                        <cell/>
+                        <cell>Jan. 14, 1944</cell>
+                        <cell>To Santiago - 2-10-46</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>1-73-400.</cell>
+                        <cell>Mex.</cell>
+                        <cell>Jan. 14, 1944</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate officially closed Aug. 31, 1957</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1601" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tortola, West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1600" type="prev"/>
+                <relatedItem target="c1602" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1601f1">
+                <graphic height="3620px" url="02137.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tortola, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02137</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1601f2">
+                <graphic height="3620px" url="02138.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tortola, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1831</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02138</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1601">
+        <body>
+            <div corresp="#c1601f1">
+                <head>Portola, West Indies. under Antigua)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <p>(over)</p>
+            </div>
+            <div corresp="#c1601f2">
+                <head>Tortola, West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Gordon</cell>
+                        <cell>Rety Agt.</cell>
+                        <cell>(appt'd by Comblyt. at Antigua)</cell>
+                        <cell>Apr. 183, to Dec. 1835.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D. H. O. Gordon</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Dec. 1835</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2959" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maracaibo, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2958" type="prev"/>
+                <relatedItem target="c2960" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2959f1">
+                <graphic height="3600px" url="03896.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maracaibo, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03896</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2959">
+        <body>
+            <div corresp="#c2959f1">
+                <head>MARACAIBO, VENEZUELA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Keith B. Schofield</cell>
+                        <cell>FSR</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 12, 1960</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Resigned CFF.CO 3.29-62.<lb/>To Tokyo os V. C., 7-22-63</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Rolfe B. Daniels</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 8, 1961</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald E. McNertney</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 22, 1961</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>FSO assigned to the Dept, 2-14-65</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>V.C.<lb/>Perth</cell>
+                        <cell>Arthur M. Odum</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct.15,1962</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Caracas as U.C. &amp;2d Sec.,<lb/>8-17-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Geryld B. Christianson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 12, 1962</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>FSR assigned to the Dept., 2-28-65,<lb/>VC</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Walker, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 13,1962</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Montevideo as 3d Sec., 9-13-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>Puerto<lb/>La Cruz</cell>
+                        <cell>Charles M. Cole</cell>
+                        <cell>fso</cell>
+                        <cell>8</cell>
+                        <cell>May 13, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Allen R. Phillips, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Feb.15,1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Santo Domingo asfittaché 8-14-66</cell>
+                    </row>
+                    <row>
+                        <cell>Bogotá</cell>
+                        <cell>Gordon J. DuGan</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug.15,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

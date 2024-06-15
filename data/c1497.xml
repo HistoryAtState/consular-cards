@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1497" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Swinemunde, Prussia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1496" type="prev"/>
+                <relatedItem target="c1498" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1497f1">
+                <graphic height="3626px" url="01998.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Swinemunde, Prussia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01998</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1497">
+        <body>
+            <div corresp="#c1497f1">
+                <head>Swinemunde, Prussia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>August Radmann</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 11, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.F. Heyse</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 14, 1872.</cell>
+                        <cell>Died at Naples May 10, 1875.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustav Ludwig</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>Ser.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1899.</cell>
+                        <cell>Died June 26, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilhelm Potenburg</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 16, 1907</cell>
+                        <cell>Went out upon closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed March 1, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

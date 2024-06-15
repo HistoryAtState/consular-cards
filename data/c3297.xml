@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3297" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicosia, Cyprus</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3296" type="prev"/>
+                <relatedItem target="c3298" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3297f1">
+                <graphic height="3628px" url="04320.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nicosia, Cyprus</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04320</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3297">
+        <body>
+            <div corresp="#c3297f1">
+                <head>NICOSIA, Cyprus</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Barrington King, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert R. Schott</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Nat'l</cell>
+                        <cell>War.Coll. Charles T. Cross</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Consul</cell>
+                        <cell>July 20, 1964</cell>
+                        <cell/>
+                        <cell>Also Dep Ch.of Mission &amp; Coun. of Embassy.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Nicosia George A. McFarland, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>To London as 1st Sec. 7-3-66 <lb/> Also 2d Sec. Istanbul <lb/> Los
+                            Cons., 9-13-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Robert C. Texido</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Glenn Lee Smith</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell>Also Counselor of Embassy.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

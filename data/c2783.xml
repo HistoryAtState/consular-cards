@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2783" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lisbon, Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2782" type="prev"/>
+                <relatedItem target="c2784" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2783f1">
+                <graphic height="3628px" url="03674.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lisbon, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03674</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2783">
+        <body>
+            <div corresp="#c2783f1">
+                <head>Lisbon, Portugal.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>re.<lb/>Milan</cell>
+                        <cell>John W. Anderson</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June, 1951</cell>
+                        <cell>To Vienna as Stock<lb/>Control Officer 5-14-53<lb/>To Rotterdam as
+                            VC(F.F.S.S)<lb/>6-6-55</cell>
+                    </row>
+                    <row>
+                        <cell>re.<lb/>Valencia</cell>
+                        <cell>George D. Laurell</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1952</cell>
+                        <cell><unclear>L.V.C.</unclear> of C. 2 &amp; Sea</cell>
+                    </row>
+                    <row>
+                        <cell>re<lb/><unclear>suncion</unclear></cell>
+                        <cell>Denman F. Stanfield</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 18, 1955</cell>
+                        <cell><unclear>Transferred</unclear> from FSS to FSR officer 5-10-<lb/>Italy
+                            as visa off. 8-10-58.</cell>
+                    </row>
+                    <row>
+                        <cell>FSS OFP.<lb/>GEN. FIELDS<lb/>DEPT/FSI</cell>
+                        <cell>Frances M. Dabell (Mrs.)</cell>
+                        <cell>Vice Con</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 26, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>v.e.r2d<lb/>SEC. 750<lb/>Lisbon</cell>
+                        <cell>Mrs. Violet E. L. Lewallen</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Miss Lorraine C. Herron</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1965</cell>
+                        <cell>FSS assigned to<lb/>The Dept., 10-23-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Lisson</cell>
+                        <cell>Raymond J. Swanson</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 21, 1965</cell>
+                        <cell>Designated Consul,<lb/>Lisbon, 10-30-65,</cell>
+                    </row>
+                    <row>
+                        <cell>Tijuana</cell>
+                        <cell>James W. Reardon</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 28, 1966</cell>
+                        <cell>Designated Consul, Lisbon 6-16-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

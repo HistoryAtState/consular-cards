@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1654" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Utilla, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1653" type="prev"/>
+                <relatedItem target="c1655" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1654f1">
+                <graphic height="3638px" url="02211.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Utilla, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02211</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1654">
+        <body>
+            <div corresp="#c1654f1">
+                <head>Utilla, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin Johnston</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Iowa</cell>
+                        <cell>Feb. 4, 1898</cell>
+                        <cell>Conf. May 15, 1902 to date July 1, 1902</cell>
+                        <cell>Apptd Consul at Aiba</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Richardson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Kans.</cell>
+                        <cell>Aug. 2, 1902</cell>
+                        <cell>recis'd Oct. 7, 1902 to</cell>
+                        <cell>Conf. Apptd Cons. Jalapa Mar. 23, 1905</cell>
+                    </row>
+                    <row>
+                        <cell>Puerto Plata</cell>
+                        <cell>Herbert T. Wright</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Iowa</cell>
+                        <cell>June 15, 1905</cell>
+                        <cell>receded July 12, 1905 to</cell>
+                        <cell>Conf. Apptd Cons. Puerto Cabello 6/10/1908</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1906</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

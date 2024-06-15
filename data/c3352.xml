@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3352" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Osaka, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3351" type="prev"/>
+                <relatedItem target="c3353" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3352f1">
+                <graphic height="3606px" url="04391.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Osaka, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04391</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3352f2">
+                <graphic height="3606px" url="04392.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Osaka, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04392</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3352">
+        <body>
+            <div corresp="#c3352f1"/>
+            <div corresp="#c3352f2">
+                <head>Osaka</head>
+                <p>Walter P. me Conaughey, asend. to wept, state, temporarily, Dec. 23, 1940, eff.
+                    Jan. 2, 1941.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

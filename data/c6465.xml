@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6465" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Malta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6464" type="prev"/>
+                <relatedItem target="c6466" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6465f1">
+                <graphic height="3626px" url="08554.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Malta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08554</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6465">
+        <body>
+            <div corresp="#c6465f1">
+                <head>MALTA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dublin</cell>
+                        <cell>Miss Alta F. Fowler</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 21, 1964</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V. Con. Also Cons. 5-13-66. <lb/> To Brussels as Cons. + 2d Secy
+                            10-10-66</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Gen. <lb/> Valletta</cell>
+                        <cell>David J. Carpenter</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Sept. 21, 1964</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons. <lb/> To Paris (USRO) as 2d Sec 6-20-65. <lb/> Also Charge
+                            d'affaires a.i. <lb/> Consul General 7-18-65. <lb/> Also Consul and
+                            Deputy Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harrison Lewis</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Sept. 21, 1964</cell>
+                        <cell/>
+                        <cell>Couns. of <lb/> Emb.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. <lb/> Con. <lb/> Glasgow</cell>
+                        <cell>John J. Conroy</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell>Couns.</cell>
+                        <cell>Also Consul.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John O. Grimes</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John D. Walker</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

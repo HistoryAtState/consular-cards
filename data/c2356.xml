@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2356" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hangchow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2355" type="prev"/>
+                <relatedItem target="c2357" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2356f1">
+                <graphic height="3630px" url="03137.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hangchow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03137</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2356">
+        <body>
+            <div corresp="#c2356f1">
+                <head>Heangchow, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George E. Anderson</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill. Apr. 6, 1904 Conf.</cell>
+                        <cell>Sept. 3, 1904 to Feb. 17, 1905</cell>
+                        <cell>Appt'd Cons. at Amoy 24/4/1905</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George L. Dobson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Iowa Mar. 15, 1905 Conf.</cell>
+                        <cell>July 11, 1905 to Sept. 30, 1905</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

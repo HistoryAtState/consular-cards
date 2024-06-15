@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2303" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guaymas, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2302" type="prev"/>
+                <relatedItem target="c2304" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2303f1">
+                <graphic height="3640px" url="03068.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guaymas, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03068</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2303">
+        <body>
+            <div corresp="#c2303f1">
+                <head>Guaymas, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Myles Standish, 3d.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 23, 1948</cell>
+                        <cell>Designated V.C. (Fso)<lb/>Guaymas 6-12-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>James A. Shinnors</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 25, 1950</cell>
+                        <cell>FSO officer, assigned to<lb/>alyt 8-8-51.<lb/>To Tijuana as V.C.
+                            7-16-53</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Mexico</cell>
+                        <cell>Robert L. Flanegin</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 20, 1951</cell>
+                        <cell>To Mexico as V.C. 1-29-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Willard D. Corkern</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1953</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed to public July 15, 1952. Officially closed July 31, 1953</p>
+            </div>
+        </body>
+    </text>
+</TEI>

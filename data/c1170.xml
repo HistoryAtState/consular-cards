@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1170" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Felin de Guxols, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1169" type="prev"/>
+                <relatedItem target="c1171" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1170f1">
+                <graphic height="3632px" url="01560.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Felin de Guxols, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01560</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1170">
+        <body>
+            <div corresp="#c1170f1">
+                <head>San Feliu de Guixols, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José Sibils</cell>
+                        <cell>Con. Agt. Spain</cell>
+                        <cell>Spain</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1890.</cell>
+                        <cell>Mar. 1890 to <lb/> Elegir canceled by war Apr. 21, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Esteya (n)</cell>
+                        <cell>" " U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell>Oct. 19, 1899.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed July 15, 1909.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

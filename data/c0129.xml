@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0129" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aux Cayes, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0128" type="prev"/>
+                <relatedItem target="c0130" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0129f1">
+                <graphic height="3630px" url="00187.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aux Cayes, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1861</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00187</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0129">
+        <body>
+            <div corresp="#c0129f1">
+                <head>Aux Cayes, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Stuart Appleton</cell>
+                        <cell>Com'l'gt. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Balto, <lb/> Md.</cell>
+                        <cell>Aug. 12, 1861</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin F. Sanford</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>(Cincinnati, Ohio)</cell>
+                        <cell>Sept. 11, 1861.</cell>
+                        <cell>Dec. 18, 1861 to June 18, 1862.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James De Long</cell>
+                        <cell>Consul</cell>
+                        <cell>" "</cell>
+                        <cell>Ohio</cell>
+                        <cell>Captidegpe, <lb/> Ohio</cell>
+                        <cell>Feb. 6, 1862 recess <lb/> Conf.</cell>
+                        <cell>Oct. 9, 1862 to Nov. 1869</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A. Gould</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Columbia Co. Hudson, <lb/> N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 22, 1869 recess <lb/> Conf.</cell>
+                        <cell>No despatches after 1869 <lb/> &amp; none from Gould</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Clark</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>Apr. 11, 1873 recess</cell>
+                        <cell>Declined</cell>
+                    </row>
+                </table>
+                <p>Closed June 15, 1923.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

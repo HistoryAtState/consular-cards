@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1515" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taihoku, Taiwan (formerly Tansui)</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1514" type="prev"/>
+                <relatedItem target="c1516" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1515f1">
+                <graphic height="3640px" url="02021.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taihoku, Taiwan (formerly Tansui)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02021</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1515f2">
+                <graphic height="3640px" url="02022.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taihoku, Taiwan (formerly Tansui)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02022</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1515">
+        <body>
+            <div corresp="#c1515f1">
+                <head>Taihoku, Taiwan (formerly Tansui)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>Okama</cell>
+                        <cell>Harold C. Huggins</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Ore.</cell>
+                        <cell>Ore.</cell>
+                        <cell>Ore.</cell>
+                        <cell>Jan. 3, 1916.</cell>
+                        <cell>Appt'd U.C. Int., Yokohama, 7/15/16.</cell>
+                    </row>
+                </table>
+                <p>Consulate Closed Dec. 8, 1941, Japanese time-</p>
+                <p>Name changed to Taipei, Taiwan, China, April 11, 1946.</p>
+            </div>
+            <div corresp="#c1515f2">
+                <head>Huggins took chg for com. Neville Jan. 4, 1916</head>
+            </div>
+        </body>
+    </text>
+</TEI>

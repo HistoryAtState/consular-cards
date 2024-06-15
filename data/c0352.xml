@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0352" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kirkuk, Iraq</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0351" type="prev"/>
+                <relatedItem target="c0353" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0352f1">
+                <graphic height="3610px" url="00484.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kirkuk, Iraq</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00484</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0352">
+        <body>
+            <div corresp="#c0352f1">
+                <head>Kirkuk, Iraq</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dept. Robert S. McLellan</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Consulate established 6-18-57<lb/>June 3, 1957</cell>
+                        <cell>Recommissioned as v.c. 5-2-58<lb/>as v.c. 12-15-58<lb/>to
+                            Al-cppd</cell>
+                    </row>
+                </table>
+                <p>Consulate officially closed November 27, 1958</p>
+            </div>
+        </body>
+    </text>
+</TEI>

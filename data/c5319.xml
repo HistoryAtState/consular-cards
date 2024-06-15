@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5319" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5318" type="prev"/>
+                <relatedItem target="c5320" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5319f1">
+                <graphic height="3620px" url="06919.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06919</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5319f2">
+                <graphic height="3620px" url="06920.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06920</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5319">
+        <body>
+            <div corresp="#c5319f1">
+                <head>Norway (Separates from Sweden October 26, 1905)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James J. Bailey</cell>
+                        <cell>(see over)</cell>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>June 7, 1921</cell>
+                        <cell><unclear>Arriving</unclear> July 12, 1921; <unclear>Resignation
+                                accepted effective Jan. 1, 1926.</unclear></cell>
+                    </row>
+                </table>
+                <p>Counselor</p>
+            </div>
+            <div corresp="#c5319f2">
+                <head>Note. For authority, see reverse side of Counselor "card, under Austria
+                    Hungary.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

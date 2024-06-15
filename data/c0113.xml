@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0113" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arica, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0112" type="prev"/>
+                <relatedItem target="c0114" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0113f1">
+                <graphic height="3636px" url="00165.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arica, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00165</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0113">
+        <body>
+            <div corresp="#c0113f1">
+                <head>Arica, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT<lb/>TO CLASS</cell>
+                        <cell>WHENCE<lb/>APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>See V.C.<lb/>La Paz</cell>
+                        <cell>Edwin Schoenrich</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Unec.</cell>
+                        <cell>1/16/1924</cell>
+                        <cell>Md. Nov. 26, 1927.</cell>
+                        <cell>Dec. 2, 1927 to<lb/>Apptd. F.S.O. class, also Consul, May 23,
+                            1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Valparaiso</cell>
+                        <cell>Edward B. Rand</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>La. June 11, 1930</cell>
+                        <cell>Assigned to Antofagasta, Mar. 30, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Valdivia</cell>
+                        <cell>James P. Speer 2"</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une.</cell>
+                        <cell>3-20-41e</cell>
+                        <cell>Okla. Sept. 19, 1942</cell>
+                        <cell>to Dept. 5-29-43</cell>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>Douglas Henderson</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une.</cell>
+                        <cell>2-20-42c</cell>
+                        <cell>Mass. June 2, 1943</cell>
+                        <cell>To Cochabamba, V.C. 11-20-43</cell>
+                    </row>
+                    <row>
+                        <cell>La Paz</cell>
+                        <cell>Oliver M. Massey</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une.</cell>
+                        <cell>2-20-42c</cell>
+                        <cell>Mass. Jan 18, 1944.</cell>
+                        <cell>To Athens as V.C. &amp; 3rd Secty 11-25-44.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Vice Consulate closed to the public eff. March 9, 1946 (noon)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

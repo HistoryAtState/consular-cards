@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0321" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kalgan, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0320" type="prev"/>
+                <relatedItem target="c0322" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0321f1">
+                <graphic height="3638px" url="00446.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kalgan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00446</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0321">
+        <body>
+            <div corresp="#c0321f1">
+                <head>Kalgan, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Swatow</cell>
+                        <cell>Samuel Sokolin</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.J.</cell>
+                        <cell>Nov. 15, 1920</cell>
+                        <cell>Appt'd Consul Class 6 Nov. 23, 1921 <lb/> appt'd 3.80. and July 1,
+                            1924. <lb/> Remained at Kalgan on detail.</cell>
+                    </row>
+                    <row>
+                        <cell>Mukden</cell>
+                        <cell>Edwin J. Stanton</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 15, 1924.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

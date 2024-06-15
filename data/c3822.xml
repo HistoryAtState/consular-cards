@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3822" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Pierre, Miguelon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3821" type="prev"/>
+                <relatedItem target="c3823" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3822f1">
+                <graphic height="3636px" url="04987.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Saint Pierre, Miguelon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04987</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3822">
+        <body>
+            <div corresp="#c3822f1">
+                <head>Saint Pierre - Miquelon</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hairen Maurice Pasquet</cell>
+                        <cell>7.$.0.</cell>
+                        <cell>8</cell>
+                        <cell>8-30-38<lb/>EFFECTIVE<lb/>8-17-38R<lb/>1-20-39c</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 5, 1940</cell>
+                    </row>
+                    <row>
+                        <cell>Class 8 Maurice Pasquet</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>5-9-41<lb/>Iffee.<lb/>5-1-41</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Contd. under assignment of Aug. 5, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate closed as of December 15, 1943.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Saint Pierre and Miquelon, (French Overseas Territory of)</p>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jay H. Blowers</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 15, 1961</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>Samuel J. Hamrick, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 16, 1965</cell>
+                    </row>
+                </table>
+                <p>Also V.C. St. John's<lb/>FSO assigned to the Dept., 8-19-62.</p>
+                <p>Also V.C., St. John's.<lb/>To Montreal as V.C. 1-2-67.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

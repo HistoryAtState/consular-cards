@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0020" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agua Prieta, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0019" type="prev"/>
+                <relatedItem target="c0021" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0020f1">
+                <graphic height="3642px" url="00029.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Agua Prieta, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00029</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0020f2">
+                <graphic height="3642px" url="00030.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Agua Prieta, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00030</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0020">
+        <body>
+            <div corresp="#c0020f1">
+                <head>Aqua Prieta, Mexico,</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>Maurice W. Altaffer</cell>
+                        <cell>J.S.O.</cell>
+                        <cell><unclear>Unc.</unclear></cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 8, 1926.</cell>
+                        <cell>Assigned to Nogales Jan. 15, 1927.</cell>
+                    </row>
+                    <row>
+                        <cell>Tampico</cell>
+                        <cell>Edward S. Maney</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                        <cell>10/24/1928</cell>
+                        <cell><unclear>Jex.</unclear></cell>
+                        <cell>May 8, 1929.</cell>
+                        <cell>Assigned to Nogales, Feb. 15, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>New</unclear></cell>
+                        <cell>Livingston D. Matrous</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>9/3/400 1-Y.</cell>
+                        <cell>Sept. 9. 1940</cell>
+                        <cell/>
+                        <cell><unclear>Asg'd.</unclear> Ciudad Juarez, March 19, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell>2.S.O.</cell>
+                        <cell>Walter L. Smith</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>3.20-41c</cell>
+                        <cell>Penn.</cell>
+                        <cell>July 16, 1941.</cell>
+                        <cell>2. Maracaibo, Ven. 3-13-42</cell>
+                    </row>
+                </table>
+                <p>Consulate officially closed Nov. 3d, 1952</p>
+            </div>
+            <div corresp="#c0020f2">
+                <head>Aqua Prieta</head>
+                <p>V.C. Edward S. Maney took charge from Consul William I. Jackson, may 20, 1989,
+                    P.M.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

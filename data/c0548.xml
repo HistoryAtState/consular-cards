@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0548" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manta, Ecuador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0547" type="prev"/>
+                <relatedItem target="c0549" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0548f1">
+                <graphic height="3630px" url="00746.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manta, Ecuador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00746</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0548">
+        <body>
+            <div corresp="#c0548f1">
+                <head>Manta, Ecuador</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Baranquilla</cell>
+                        <cell>Henry Dearborn</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 11, 1942.</cell>
+                        <cell>To Guayaquil 4-8-44 <lb/> Sub. for Sero. Aux. card.</cell>
+                    </row>
+                </table>
+                <p>American Vice Consulate closed effective April 29, 1944.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

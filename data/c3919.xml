@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3919" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sao Paulo, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3918" type="prev"/>
+                <relatedItem target="c3920" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3919f1">
+                <graphic height="3628px" url="05109.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sao Paulo, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05109</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3919">
+        <body>
+            <div corresp="#c3919f1">
+                <head>SÃO PAULO, BRAZIL</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>John S. Morgan</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>David B. McGrath</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Belém Louis P. Goelz III (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

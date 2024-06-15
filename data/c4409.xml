@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4409" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aleppo, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4408" type="prev"/>
+                <relatedItem target="c4410" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4409f1">
+                <graphic height="3626px" url="05739.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aleppo, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05739</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4409">
+        <body>
+            <div corresp="#c4409f1">
+                <head>Aleppo, Syria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate General at Aleppo was established</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>December 12, 1956</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>ALEPPO, UNITED ARAB REPUBLIC name changed 2-22-58 - U.S. recognized 2-25-58</p>
+                <p>ALEPPO, SYRIAN ARAB REPUBLIC 10-10-61</p>
+                <p>Marino S. Endrizzi V. Cons. Jan. 31, 1966</p>
+            </div>
+        </body>
+    </text>
+</TEI>

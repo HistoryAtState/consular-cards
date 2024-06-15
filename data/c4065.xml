@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4065" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taipei, Taiwan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4064" type="prev"/>
+                <relatedItem target="c4066" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4065f1">
+                <graphic height="3622px" url="05303.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taipei, Taiwan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05303</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4065">
+        <body>
+            <div corresp="#c4065f1">
+                <head>ΤΑΙΡΕΙ, ΤAIWAN</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. + 3d Sec.</cell>
+                        <cell>Robert S. Littell, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 25,1963</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. 750 assigned to<lb/>the Dept., 2-27-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Taichung/FS/</cell>
+                        <cell>Daniel W. Alexander</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 17,1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Jo Hong Kong as V.C.,<lb/>11-23-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David G. Brown</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To saigon as V.C. + 3d Secy 9-26-66</cell>
+                    </row>
+                    <row>
+                        <cell>Taipei</cell>
+                        <cell>James R. Newcomer</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To the Dept., 2-26-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Lima</cell>
+                        <cell>Donald E. Mudd</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 6, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Alford W. Cooley</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 28,1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Zürich</cell>
+                        <cell>Joel Evan Marsh</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 24,1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Marilyn Ann Train</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 30,1967</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

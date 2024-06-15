@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1074" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Stanley, Falkland Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1073" type="prev"/>
+                <relatedItem target="c1075" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1074f1">
+                <graphic height="3636px" url="01430.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Stanley, Falkland Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01430</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1074">
+        <body>
+            <div corresp="#c1074f1">
+                <head>Port Stanley, Falkland Islands. (see Falkland Islands)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George M. Dean</cell>
+                        <cell>V. Comillat</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 29, 1868.</cell>
+                        <cell>Appt'd V.C. Aug. 29, 1874. <lb/> to July 1886.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George M. Dean</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 29, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C. Montague Dean</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell>Sept. 28, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Langdon</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>July 9, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Rowell</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Nov. 12, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Smith</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Dec. 6, 1893.</cell>
+                        <cell>Superseded.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Williams</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Nov. 12, 1900.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

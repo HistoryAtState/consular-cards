@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0607" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mogador, Morocco</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0606" type="prev"/>
+                <relatedItem target="c0608" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0607f1">
+                <graphic height="3628px" url="00822.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mogador, Morocco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00822</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0607f2">
+                <graphic height="3628px" url="00823.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mogador, Morocco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00823</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0607">
+        <body>
+            <div corresp="#c0607f1">
+                <head>Mogador, Morocco</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abraham Corcos</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Meyer Corcos</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 9, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Solomon Amselem</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 23, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Broome</cell>
+                        <cell/>
+                        <cell>Sr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 17, 1891.</cell>
+                        <cell>Died Mar. 14, 1914.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Cabgesa</cell>
+                        <cell/>
+                        <cell>Moroccan Morocco</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 17, 1916.</cell>
+                        <cell>Went out when Germany closed</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 15, 1920.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed</p>
+            </div>
+            <div corresp="#c0607f2">
+                <head>Mogador, Morocco.</head>
+                <p>David Cabessa, in chz. of Age designated by Con. Gen) death of Broome Mar.
+                    14/1914 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0319" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kalgan, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0318" type="prev"/>
+                <relatedItem target="c0320" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0319f1">
+                <graphic height="3628px" url="00442.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kalgan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00442</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0319f2">
+                <graphic height="3628px" url="00443.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kalgan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00443</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0319">
+        <body>
+            <div corresp="#c0319f1">
+                <head>Kalgan, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Swatow</cell>
+                        <cell>Samuel Sokobin</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.J.</cell>
+                        <cell>Nov. 15, 1920</cell>
+                        <cell>Appt'd Consul, class 6 1/20/21.</cell>
+                    </row>
+                    <row>
+                        <cell>Mukden</cell>
+                        <cell>Edwin J. Stanton</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 15, 1924.</cell>
+                        <cell>Appt'd F.S.O. uencl. July, 1924. <lb/> Remained at Kalgan on
+                            detail</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0319f2">
+                <head>Kalgan, China,</head>
+                <p>Samuel Sokobin, Vice Consul, reported on Apr. 1, 1921 that he had on that day
+                    officially opened the Consulate.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0500" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lugano, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0499" type="prev"/>
+                <relatedItem target="c0501" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0500f1">
+                <graphic height="3634px" url="00682.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lugano, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00682</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0500">
+        <body>
+            <div corresp="#c0500f1">
+                <head>Lugano, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clk in Leg,<lb/>Berne<lb/>formuly at<lb/>Zurich</cell>
+                        <cell>Shirley T. Wing</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 8, 1918.</cell>
+                        <cell>Did not enter on duty.<lb/>Appointment canceled</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Merde Cochran</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ind. Ariz.</cell>
+                        <cell>Oct. 7, 1918.</cell>
+                        <cell>Appt'd V.C. Kingston Janu'y/8/19<lb/>Assigned by tel. Feb. 4,
+                            1919<lb/>to Jan. 15, 1920</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Lombard</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Fr. N.Y.</cell>
+                        <cell>Jan. 14, 1919</cell>
+                        <cell>Resigned effective Dec. 31, 1919</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Dec. 1, 1919, closed Jan. 15, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

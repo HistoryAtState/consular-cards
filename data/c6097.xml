@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6097" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gambia, the</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6096" type="prev"/>
+                <relatedItem target="c6098" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6097f1">
+                <graphic height="3628px" url="08004.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gambia, the</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08004</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6097">
+        <body>
+            <div corresp="#c6097f1">
+                <head>GAMBIA, THE</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                    </row>
+                    <row>
+                        <cell>Army War College, Carlisle Barracks, Pa.</cell>
+                        <cell>John G. Gossett</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell>Couns. of Emb.</cell>
+                    </row>
+                </table>
+                <p>also Deputy Chief of mission and Console.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

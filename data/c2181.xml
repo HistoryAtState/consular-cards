@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2181" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Demerara, Guiana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2180" type="prev"/>
+                <relatedItem target="c2182" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2181f1">
+                <graphic height="3632px" url="02909.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Demerara, Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02909</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2181">
+        <body>
+            <div corresp="#c2181f1">
+                <head>Demerara, Guiana (see Georgetown)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. Moulton</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Colo.</cell>
+                        <cell>Jan. 6, 1898.</cell>
+                        <cell>Conf</cell>
+                        <cell>Recommissioned to agree <lb/> with appropriation best 7/1/04.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

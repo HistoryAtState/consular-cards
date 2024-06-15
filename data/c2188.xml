@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2188" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dieppe, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2187" type="prev"/>
+                <relatedItem target="c2189" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2188f1">
+                <graphic height="3630px" url="02917.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dieppe, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02917</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2188f2">
+                <graphic height="3630px" url="02918.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dieppe, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02918</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2188">
+        <body>
+            <div corresp="#c2188f1">
+                <head>Dieppe, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raoul le Bourgeois</cell>
+                        <cell>Com. Agt. Fr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 20, 1883</cell>
+                        <cell>Resigned Jan. 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Matthew H. Morgan</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 26, 1907.</cell>
+                        <cell>Resigned Oct. 1907</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter P. S. Palmer Samborne</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 13, 1907.</cell>
+                        <cell>Resigned Feb. 20, 1916 "illness" <lb/> Sick since Dec. 4, 1915; leave
+                            expiring 3/17/16. <lb/> Succeeded by Fairbanks.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Fairbanks</cell>
+                        <cell>" "</cell>
+                        <cell>U.S. France</cell>
+                        <cell>Paris,</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mar. 11, 1916.</cell>
+                        <cell>Services terminated Oct. 21, 1940. <lb/> Agency closed on that
+                            date.</cell>
+                    </row>
+                </table>
+                <p>Recognition of the facts authority established in Paris under the leadership of <lb/>
+                    <unclear>Hubert de Haulle</unclear> as the Provisional Government of the French
+                    Republic 10-23-44.</p>
+            </div>
+            <div corresp="#c2188f2">
+                <head>Dieppe, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>N. C. Wallis</cell>
+                        <cell>Consul</cell>
+                        <cell>Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 1907 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Reginald D. Wade</cell>
+                        <cell>in chg of Agency</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>About May 20, 1915</cell>
+                        <cell>(absence of Samborne on leave)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edmond Abraham</cell>
+                        <cell>in chg of Agency</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 15 to 26, 1915.</cell>
+                        <cell>(during temporary absence of Wade)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick C. Fairbanks</cell>
+                        <cell>of U.S.A., in chg of Agency</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec 4, 1915, to appt'd Agent Mar. 11, 1916.</cell>
+                        <cell>(illness of Palmer Samborne)</cell>
+                    </row>
+                </table>
+                <p>Agency closed on October 21, 1940. Services of Frederick C. Fairbanks were
+                    terminated (FA's memo #462, dated Jan. 17, 1941)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

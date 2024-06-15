@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1542" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Teheran, Persia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1541" type="prev"/>
+                <relatedItem target="c1543" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1542f1">
+                <graphic height="3632px" url="02058.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Teheran, Persia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02058</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1542">
+        <body>
+            <div corresp="#c1542f1">
+                <head>Teheran, Persia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Int. to<lb/>Legation</cell>
+                        <cell>Ralph H. Bader</cell>
+                        <cell>Int. to Leg<lb/>Con. Gen. U. S.</cell>
+                        <cell>U. S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>July 1, 1912.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Int. to<lb/>Legation</cell>
+                        <cell>Ralph H. Bader</cell>
+                        <cell>Interpreter<lb/>to Consulate</cell>
+                        <cell>U. S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>Nov. 28, 1916.</cell>
+                        <cell>Appt'd Consul Class 8 Feb. 19, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>Bernard Gotlieb</cell>
+                        <cell>Interpreter " </cell>
+                        <cell>" </cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 10, 1921.</cell>
+                        <cell>Appt'd Consul, Class 6 Nov. 23, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Tabriz</unclear></cell>
+                        <cell>Rudolph W. Hoft</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 29, 1917.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate ordered closed May 9, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

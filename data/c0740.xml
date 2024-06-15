@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0740" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nueva Gerona, Isle of Pines, W.I.</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0739" type="prev"/>
+                <relatedItem target="c0741" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0740f1">
+                <graphic height="3636px" url="01006.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nueva Gerona, Isle of Pines, W.I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01006</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0740">
+        <body>
+            <div corresp="#c0740f1">
+                <head>Nueva Gerona, Isle of Pines, W.I. (under Havana)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Santa Fe</cell>
+                        <cell><unclear>Vervice</unclear> P. Sutherland</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Flink</cell>
+                        <cell>Minn.</cell>
+                        <cell>July 6, 1910.</cell>
+                        <cell>Dropped from list Oct. 6, 1916 <lb/> to July 7, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell>Isle of Pines</cell>
+                        <cell>George A. Makinson (et)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 28, 1918.</cell>
+                        <cell>Appt'd Con. Agt. Cardenas 6/14/1918</cell>
+                    </row>
+                    <row>
+                        <cell>Nuevitas</cell>
+                        <cell><unclear>Jrdin</unclear> D. Arter</cell>
+                        <cell>Vice Con</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>July 15, 1920</cell>
+                        <cell>Appt'd V.C. Antilla Aug. 4, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>George Bentley Tracy</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Norwood</cell>
+                        <cell>Mass.</cell>
+                        <cell>Aug. 25, 1920</cell>
+                        <cell>Resigned effective Nov. 1, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell>Antilla</cell>
+                        <cell>Charles F. Payne</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Jan. 27, 1926.</cell>
+                        <cell>Appt'd V.C. Habana Feb. 5, 1926 <lb/> to May 6, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>George Reed Emerson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Vt.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Feb. 5, 1926.</cell>
+                        <cell>Appt'd V.C. Antilla May 7, 1926</cell>
+                    </row>
+                    <row>
+                        <cell>Las Palmas</cell>
+                        <cell>Charles H. Payne</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Aug. 25, 1927</cell>
+                        <cell>Appt'd V.C. Habana Oct. 21, 1927</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Coyle</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 23, 1928</cell>
+                        <cell>Appt'd V.C. Guadeloupe June 19, 1928 <lb/> Apr. 19, 1928 to</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Gerald George Jones</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>S.D.</cell>
+                        <cell>May 31, 1943</cell>
+                        <cell>To Nuevitas as V.C. 6-23-44</cell>
+                    </row>
+                </table>
+                <p>Vice Consulate at Nueva Gerona was closed to the public effective July 8,
+                    1944.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

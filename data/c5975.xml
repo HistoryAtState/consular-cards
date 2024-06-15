@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5975" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5974" type="prev"/>
+                <relatedItem target="c5976" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5975f1">
+                <graphic height="3622px" url="07829.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07829</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5975f2">
+                <graphic height="3622px" url="07830.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07830</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5975">
+        <body>
+            <div corresp="#c5975f1">
+                <head>Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Secretary</cell>
+                        <cell>Sheldon L. Crosby</cell>
+                        <cell>Counselor</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>May 26, 1921</cell>
+                        <cell>Assignment revoked &amp; assigned to Dept. 10/13/1921.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jefferson Caffery</cell>
+                        <cell>Do</cell>
+                        <cell>La. La.</cell>
+                        <cell>Aug. 30, 1923</cell>
+                        <cell>Assignment revoked. Assigned to Tokyo 9/5/23.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Julius G. Lay</cell>
+                        <cell>Do</cell>
+                        <cell>D.C. D.C.</cell>
+                        <cell>June 18, 1927.</cell>
+                        <cell>Assignment revoked</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5975f2">
+                <head>Note. For authority, see reverse side of "Counselor" card under
+                    Austria-Hungary</head>
+            </div>
+        </body>
+    </text>
+</TEI>

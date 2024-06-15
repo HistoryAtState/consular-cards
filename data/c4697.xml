@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4697" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cape Town, Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4696" type="prev"/>
+                <relatedItem target="c4698" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4697f1">
+                <graphic height="3630px" url="06122.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cape Town, Republic of South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06122</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4697">
+        <body>
+            <div corresp="#c4697f1">
+                <head>CAPE TOWN, Republic of South Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Cape Town</cell>
+                        <cell>Paul J. Gartenmann</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 19, 1963</cell>
+                        <cell/>
+                        <cell>FSR Officer assigned to the US. Info. agency, Washington, D.C.,
+                            5-16-60. Designated Cons. Sen., Cape Town, 12-9-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clarke W. Thornton, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 20, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Livingston D. Watrous</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 23, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cape Town</cell>
+                        <cell>Cons.</cell>
+                        <cell>Livingston D. Watrous</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Gen.</cell>
+                        <cell>Dec. 9, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Allen P. McNeill, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 15, 1965</cell>
+                        <cell/>
+                        <cell>FSO assigned to the Dept., 2-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Alfred Schelp</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1844" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Barrie, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1843" type="prev"/>
+                <relatedItem target="c1845" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1844f1">
+                <graphic height="3622px" url="02463.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Barrie, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02463</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1844">
+        <body>
+            <div corresp="#c1844f1">
+                <head>Barrie, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George D. Ellis</cell>
+                        <cell>Con. Agt Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 6, 1890</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred C. H. Crerwicke</cell>
+                        <cell>〃 〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1895.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 31, 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

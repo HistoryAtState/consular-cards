@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5678" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mukden, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5677" type="prev"/>
+                <relatedItem target="c5679" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5678f1">
+                <graphic height="3004px" url="07414.tif" width="4784px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mukden, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07414</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5678f2">
+                <graphic height="3004px" url="07415.tif" width="4784px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mukden, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07415</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5678">
+        <body>
+            <div corresp="#c5678f1">
+                <head>MUKDEN, China</head>
+                <p>HISTORY (established, opened, closed, etc.) Est. Closed 12/7/41 - Est. 3/20/46 -
+                    Opened to Public 3/27/46</p>
+                <p>Closed Officially 12/6/49. Staff of CONGEN placed under arrest as of Nov. 20,
+                    1948 and remained under those conditions until Dec. 6, 1949 (Per Rehberg) Public
+                    not allowed in CONGEN after Nov. 20, 1948.</p>
+                <p>REMARKS:</p>
+                <p>1946 auth. perform all consular incl. passports &amp; visas. '49-Con. Dist. to
+                    Peiping.</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>12/7/41</cell>
+                        <cell>U.S.Time was closed on declaration of war by Japan. Non-confidential
+                            records and archives ordered stored locally. Confidential files
+                            burned.</cell>
+                    </row>
+                    <row>
+                        <cell>3/8/46</cell>
+                        <cell>Instr.drafted to officer assigned to open American Consulate General.
+                            To perform all consular functions, citizenship services, passports,
+                            visas,etc.</cell>
+                    </row>
+                    <row>
+                        <cell>3/22/46</cell>
+                        <cell>Tel.from Mukden reporting arrival &amp; est.of office March 20 US
+                            time.</cell>
+                    </row>
+                    <row>
+                        <cell>3/27/46</cell>
+                        <cell>Tel. from Mukden reporting opening to public that day (3/26 US
+                            time)</cell>
+                    </row>
+                    <row>
+                        <cell>5/17/49</cell>
+                        <cell>Deptel 299 to Peiping instructing Commies be informed US Govt
+                            withdrawing its Mukden staff &amp; closing CG. Instr.re disposal
+                            property, evacuate personnel, destroy all files, archives passports
+                            crypt.equip &amp; evacuate accounts fiscal</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5678f2">
+                <head>Mukden, Manchuria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Mukden</cell>
+                        <cell><unclear>John Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

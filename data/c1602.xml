@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1602" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Toulon, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1601" type="prev"/>
+                <relatedItem target="c1603" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1602f1">
+                <graphic height="3630px" url="02139.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Toulon, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02139</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1602f2">
+                <graphic height="3630px" url="02140.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Toulon, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02140</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1602">
+        <body>
+            <div corresp="#c1602f1">
+                <head>Toulon, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. Indiffrent</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 15, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. George Plattner</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 28, 1868.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Simeon Marin</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 17, 1873</cell>
+                        <cell>Exequatur refused</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Reynaud</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan 30, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thaddeus P. Mott</cell>
+                        <cell>〃 〃</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 1, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis J.B. V. Jouve</cell>
+                        <cell>〃 〃</cell>
+                        <cell>France</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1890.</cell>
+                        <cell>Apr. 1, 1894 to July 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles M. Walter</cell>
+                        <cell>〃 〃</cell>
+                        <cell>U.S. Calif.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1894.</cell>
+                        <cell>Left Toulon July 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis J.B. Jouve</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept 21, 1895.</cell>
+                        <cell>Resigned Oct. 15, 1899. <lb/> to July 15, 1909.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin A Jouve</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 6, 1899.</cell>
+                        <cell>superseded by Mansfield <lb/> July 16, 1909 to Dec. 31, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis M. Mangfield</cell>
+                        <cell>〃 〃</cell>
+                        <cell>U.S. Mass. N.Y.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 2, 1909.</cell>
+                        <cell>Appt'd Con. Gen. Barcelona 7/19/13</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed Feb. 12, 1914.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1602f2">
+                <head>Toulon, France.</head>
+                <p>Gabriel Drageon, took over the office from Sgt. Mansfield Dec. 31, 1913 and
+                    remained in chg until closed.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

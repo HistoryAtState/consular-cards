@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2765" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liechtenstein, Principality of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2764" type="prev"/>
+                <relatedItem target="c2766" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2765f1">
+                <graphic height="3630px" url="03653.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Liechtenstein, Principality of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03653</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2765">
+        <body>
+            <div corresp="#c2765f1">
+                <head>LIECHTENSTEIN, PRINCIPALITY OF</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Howard Elting, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Oct. 1, 1962</cell>
+                        <cell/>
+                        <cell>Also Consul General, Zurich. <lb/> Retired COB 1-31-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul <lb/> Frankfurt</cell>
+                        <cell>Mrs. Elvira P. Martin</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell>Also Cons., Zurich.</cell>
+                    </row>
+                    <row>
+                        <cell>Zurich</cell>
+                        <cell>Raymond W. T. Pracht</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 26, 1964</cell>
+                        <cell/>
+                        <cell>Also Consul, Zurich.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Howard Trivers</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Consul <lb/> Gen.</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                        <cell>Also Consul General, <lb/> Zürich</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5672" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nanking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5671" type="prev"/>
+                <relatedItem target="c5673" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5672f1">
+                <graphic height="3020px" url="07404.tif" width="4812px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nanking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07404</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5672">
+        <body>
+            <div corresp="#c5672f1">
+                <head>NANKING #3</head>
+                <p>supervisory Silvey and with caretaker 5 Ninghai Rd. Corrected Nanking
+                    distribution and library borrowers lists being turned over to British for
+                    pouching Hong Kong when possible. All USIS files destroyed together with films
+                    subject copyright exhibits, etc.</p>
+                <table>
+                    <row role="label">
+                        <cell>3/5/50</cell>
+                        <cell>Tel #3356, 3/5/50 Emb. officially closed noon local time March
+                            5.</cell>
+                    </row>
+                    <row>
+                        <cell>3/3/50</cell>
+                        <cell>Send only unclassified messages Nanking after 1600Z March 3. Nanking
+                            Tel. 352, March 3. DA-Mailing Notice #34 stating above and fact that
+                            classified messages to be sent to Shanghai for Bacon.</cell>
+                    </row>
+                    <row>
+                        <cell>3/5/50</cell>
+                        <cell>Tel. 355, 3/5/50 from Nanking - All x remaining cryptographic material
+                            destroyed this date. Destructions lists being pouched via British to be
+                            forwarded when feasible.</cell>
+                    </row>
+                    <row>
+                        <cell>4/4/50</cell>
+                        <cell>DEPTEL 1515 4/4/50 to London auth. Brit. representative at Nanking to
+                            turn over to Communists the remainder (debris) of the radio
+                            transmitter-receiver of the Embassy at Nanking.</cell>
+                    </row>
+                    <row>
+                        <cell>4/29/50</cell>
+                        <cell>Unnumbered tel. 4/29 - SS General Gordon - all US personnel Nanking
+                            &amp; Shanghai embarked Taku Bar ETD 2000 4/29/50.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

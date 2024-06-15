@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4540" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bonn, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4539" type="prev"/>
+                <relatedItem target="c4541" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4540f1">
+                <graphic height="3618px" url="05917.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bonn, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05917</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4540">
+        <body>
+            <div corresp="#c4540f1">
+                <head>BONN, GERMANY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE<lb/>OF ASSIGNMENT</cell>
+                        <cell>OTHER<lb/>AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edward G. Murphy</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell>Also 3d Sec. Also 2d Sec., 10-30-65.<lb/>To Melbourne as V.C.
+                            10-10-66</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gary S. Posz</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Archelaus R. Turrentine</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec. Also 2d Sec., 10-30-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Lorraine L. Forbes</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Scott S. Hallford</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 6,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Howard S. Witmer II</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2,1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James P. Dodd</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

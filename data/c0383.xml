@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0383" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Guayra, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0382" type="prev"/>
+                <relatedItem target="c0384" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0383f1">
+                <graphic height="3632px" url="00524.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Guayra, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00524</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0383f2">
+                <graphic height="3632px" url="00525.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Guayra, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00525</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0383">
+        <body>
+            <div corresp="#c0383f1">
+                <head>La Guaiva, Venezuela.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Teneriffe</cell>
+                        <cell>Homer Brett</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Miss.</cell>
+                        <cell>Miss.</cell>
+                        <cell>Mar. 2, 1915</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Teneriffe</cell>
+                        <cell>Homer Brett</cell>
+                        <cell>Con. 7</cell>
+                        <cell/>
+                        <cell>Conf. Miss.</cell>
+                        <cell>Miss.</cell>
+                        <cell>Mar. 2, 1915.</cell>
+                        <cell>Appt'd Con. Agt., Caracas 10/21/1919 <lb/> to Nov. 16, 1919 <lb/>
+                            Resigned June 3, 1919, effective <lb/> upon arrival of successor. <lb/>
+                            Nov. 17, 1919 to <lb/> Appt'd Consul, Class 6 June 4, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>On detail</cell>
+                        <cell>Henry C. von Struve</cell>
+                        <cell>Con. 7</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Sept. 5, 1919.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Henry C. von Struve</cell>
+                        <cell>Con. 6</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>On detail</cell>
+                        <cell>James Armstrong</cell>
+                        <cell>Con. 7</cell>
+                        <cell/>
+                        <cell>Kans.</cell>
+                        <cell>Calif.</cell>
+                        <cell>July 13, 1921</cell>
+                        <cell>Assigned to Antilla Oct. 9, 1920 <lb/> Did not go to La Guaira <lb/>
+                            Resigned Oct. 3, 1921. <lb/> Office reduced to a Vice Consulate and
+                            placed under Caracas Feb. 4, 1924.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0383f2">
+                <head>La Guaira, Venezuela.</head>
+                <p>Harry J. Anslinger, lately F.S.O., Unclassified, also V.C., was appt'd F.S.O.,
+                    Class 8, also Consul, Aug. 8, 1924. Assigned to Nassau June 6, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

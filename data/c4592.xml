@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4592" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brussels, Belgium</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4591" type="prev"/>
+                <relatedItem target="c4593" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4592f1">
+                <graphic height="3616px" url="05986.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brussels, Belgium</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05986</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4592">
+        <body>
+            <div corresp="#c4592f1">
+                <head>BRUSSELS, Belgium</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David P. N. Christensen</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Dec. 9, 1963</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To Libreville as V.C.<lb/>* 3d Sec., 3-14-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Evan R. Berlack</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 31, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Theresa A. Tull</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. Assigned to the<lb/>Dept., 1-15-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William G. Barraclough</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell>To Copenhagen<lb/>Also 3d Sec. also 2d Sec.,
+                            10-30-65.<lb/>Assigned<lb/>Dept., 2-12-67.<lb/>also 2d sec.,
+                            5-13-66.<lb/>1-17-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Bangui</cell>
+                        <cell>John T. McCarthy</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 15, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To London as V.C. + 3d Sec. 10-24-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Patricia L. Guyer</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 7, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard R. Peterson</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Feb. 28, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Harry C. Blaney III</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Murrow B. Morris</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Saigon</cell>
+                        <cell>James Dew. Perry</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Bukavu</cell>
+                        <cell>Jerrold M. North</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0818" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reval, Russia-Esthonia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0817" type="prev"/>
+                <relatedItem target="c0819" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0818f1">
+                <graphic height="3628px" url="01105.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Reval, Russia-Esthonia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01105</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0818">
+        <body>
+            <div corresp="#c0818f1">
+                <head>Reval, Russia. Esthonia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Riga</cell>
+                        <cell>Earl L. Lacker</cell>
+                        <cell>V.C. de Carriere</cell>
+                        <cell>3</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>Utah</cell>
+                        <cell>Sept. 19, 1922.</cell>
+                        <cell>Assigned to Riga Oct, 14,1922.</cell>
+                    </row>
+                    <row>
+                        <cell>Stockholm</cell>
+                        <cell>William L. Leck</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>1/16/1922</cell>
+                        <cell>Conn.</cell>
+                        <cell>May 19, 1923.</cell>
+                        <cell>Apt'd to SO. Unclassified July 1, 1924.</cell>
+                    </row>
+                </table>
+                <p>See above</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>William L. Peck</cell>
+                        <cell>F.S.O. Une</cell>
+                        <cell>1/1/1924</cell>
+                        <cell>Conn</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Continued under assignment of May 19, 1923. See "Tallinn" card after
+                            Dec 3, 1924.</cell>
+                    </row>
+                </table>
+                <p>Name "Reval" changed to "Tallinn" Geographic Board decision of Dec 3, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

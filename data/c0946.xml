@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0946" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Martin, West Indies-Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0945" type="prev"/>
+                <relatedItem target="c0947" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0946f1">
+                <graphic height="3640px" url="01265.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Martin, West Indies-Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1848</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01265</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0946">
+        <body>
+            <div corresp="#c0946f1">
+                <head>St. Martin, W.I. (Island)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Key</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 7, 1848 by Seey</cell>
+                        <cell>To Dutch part <lb/> Removed</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hierome A. Laughton</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Aug. 19, 1852 " "</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Christian A. Seltzer.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>May 31, 1853 " "</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Key</cell>
+                        <cell>To French part <lb/> Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 26, 1855 " "</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Key</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 22, 1858 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Key</cell>
+                        <cell>To Dutch part <lb/> Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 7, 1876 Conf.</cell>
+                        <cell>Died at pooh July 5, 19.04.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Diederic C. Van Romondt</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed July 1, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

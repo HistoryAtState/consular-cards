@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5906" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5905" type="prev"/>
+                <relatedItem target="c5907" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5906f1">
+                <graphic height="3626px" url="07727.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07727</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5906f2">
+                <graphic height="3595px" url="07728.tif" width="5974px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07728</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5906">
+        <body>
+            <div corresp="#c5906f1">
+                <head>Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell/>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Secretary.</cell>
+                        <cell>Class 1 Marshall Langhorne</cell>
+                        <cell>(see over) Counselor</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>June 28, 1918.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5906f2">
+                <head>Note. For authority, see reverse side of "Counselor" card, under Austria
+                    Hungary.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

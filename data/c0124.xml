@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0124" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Assouan, Egypt</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0123" type="prev"/>
+                <relatedItem target="c0125" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0124f1">
+                <graphic height="3628px" url="00182.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Assouan, Egypt</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00182</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0124">
+        <body>
+            <div corresp="#c0124f1">
+                <head>Assouan, Egypt.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abdel K. M. El Ammari</cell>
+                        <cell>Con. Agt. Egypt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 7, 1890</cell>
+                        <cell>Apptd Con. Agt. at <lb/> Kench, July 2, 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daoud Takla</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Octo 14, 1901</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed August 8, 1904.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

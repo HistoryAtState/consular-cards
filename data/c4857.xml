@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4857" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Douala, Federal Republic of Cameroon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4856" type="prev"/>
+                <relatedItem target="c4858" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4857f1">
+                <graphic height="3628px" url="06316.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Douala, Federal Republic of Cameroon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06316</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4857">
+        <body>
+            <div corresp="#c4857f1">
+                <head>DOUALA, Federal Republic of Cameroon</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate established at Douala, eff. June 1, 1962.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Marseille</cell>
+                        <cell>Wingate Lloyd</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Apr. 30, 1962</cell>
+                        <cell>To Rabatas V.C.+2d Sec., 1-20-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael T. F. Pistor</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 28,1962</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Andrew F. Antippas</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 19, 1963</cell>
+                        <cell>To Banguiar V.C. + 3d Sec., 10-12-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry P. Daymont</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Sept.1,1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1188" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Lucar de Barrameda, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1187" type="prev"/>
+                <relatedItem target="c1189" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1188f1">
+                <graphic height="3632px" url="01581.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Lucar de Barrameda, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01581</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1188f2">
+                <graphic height="3638px" url="01582.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Lucar de Barrameda, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1800</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01582</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1188">
+        <body>
+            <div corresp="#c1188f1">
+                <head>San Lucar de Barrameda, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ramon de Larray</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept 24, 1873.</cell>
+                        <cell>Oct 1873 to Mar. 1884</cell>
+                    </row>
+                </table>
+                <p>Office abolished.</p>
+            </div>
+            <div corresp="#c1188f2">
+                <head>San Lucar de Barrameda, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Stonor</cell>
+                        <cell>Agh by Cons. at Cadiz</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dee 1500 to Died Mar 1003.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thochas Croker</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 1803 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard S. Hackley</cell>
+                        <cell>Consul at San Lucar</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>from Oct. 1807 to June 1813?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>He was also Vice Consul at Cadiz &amp; in chg of the details there
+                            from Jan. 1809 to Nov. 105, 1815.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>He reported himself absent from San Lucar, on trip to Seville, July
+                            20, 1808 to Sept. 20, 1808.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Martin E. Hill</cell>
+                        <cell>Apptt Agh by Cons. at Cadiz</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1826 to Feb 1854. Office abolished.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

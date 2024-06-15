@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1408" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Skien, Norway-Bergen</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1407" type="prev"/>
+                <relatedItem target="c1409" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1408f1">
+                <graphic height="3618px" url="01873.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Skien, Norway-Bergen</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01873</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1408f2">
+                <graphic height="3636px" url="01874.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Skien, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1843</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01874</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1408">
+        <body>
+            <div corresp="#c1408f1"/>
+            <div corresp="#c1408f2">
+                <head>Skien, Norway.</head>
+                <p>Soren Munk - Appt V. C. by Consul at Bergen July 20, 1843 to died Apr. 14,
+                    1847</p>
+            </div>
+        </body>
+    </text>
+</TEI>

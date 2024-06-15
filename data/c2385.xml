@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2385" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eten, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2384" type="prev"/>
+                <relatedItem target="c2386" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2385f1">
+                <graphic height="3626px" url="03179.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Eten, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1874</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03179</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2385">
+        <body>
+            <div corresp="#c2385f1">
+                <head>Eten, Peru.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Otto Barca</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 11, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis G. Marquina</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec 27, 1904.</cell>
+                        <cell>Resigned effect Jan. 1, 1907, <lb/> Jan. 1, 1907 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Juan A. Loredg</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1907</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Sept. 1, 1908.</p>
+                <p>See desp. Aug 29/04 from Callas. The office has for years been located at Elen
+                    imstead of Chiclayo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

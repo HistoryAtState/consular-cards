@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2780" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lisbon, Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2779" type="prev"/>
+                <relatedItem target="c2781" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2780f1">
+                <graphic height="3624px" url="03670.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lisbon, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03670</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2780f2">
+                <graphic height="3624px" url="03671.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lisbon, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03671</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2780">
+        <body>
+            <div corresp="#c2780f1">
+                <head>Lisbon, Portugal.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Hutchens</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 25, 1863.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Antonio Carlos Vieira de Souza</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 2, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert J. De Zeyk</cell>
+                        <cell>"</cell>
+                        <cell>U.S.D. Gen. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 7, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Wilbor</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 18, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Wilbor</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell>New Hartford, Ct.</cell>
+                        <cell/>
+                        <cell>Aug. 5, 1873.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rowe F. &amp; Merritt</cell>
+                        <cell>U.S.D.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Sept. 3, 1901.</cell>
+                        <cell>(?) Appt'd U.S.D.C. Gen. &amp;<lb/>June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Kinchant</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1902.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Kinchant</cell>
+                        <cell>"</cell>
+                        <cell>Gen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 30, 1906.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell>Santo. but<lb/>did not<lb/>qualify</cell>
+                        <cell>Charles F. La Serre</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Coshocton<lb/>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>May 20, 1908.</cell>
+                        <cell>Resigned from N.Y. Nov. 11, 1909,<lb/>while in U.S. on leave</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Earle Bradford</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Chicago,<lb/>Ill.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 31, 1909.</cell>
+                        <cell>Resigned June 21, 1910,<lb/>Left for Dresden Aug. 21, 1912<lb/>Appt'd
+                            U.S.D.C., Dresden July 31, 1912</cell>
+                    </row>
+                    <row>
+                        <cell>Magde-<lb/>burg</cell>
+                        <cell>James L. A. Burrell</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Md.</cell>
+                        <cell>Nov. 17, 1910.</cell>
+                        <cell>Appt'd Consul Cognac 1/24/1913</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kenneth B. Patton (C.A.)</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>July 27, 1912.</cell>
+                        <cell>Recommissioned as V.C. 6/15</cell>
+                    </row>
+                    <row>
+                        <cell>Santo<lb/>Domings</cell>
+                        <cell>Ramón J. Janer (x)</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>P.R.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Jan. 23, 1914.</cell>
+                        <cell>Appt'd V.C., Paris Feb. 25, 1916</cell>
+                    </row>
+                    <row>
+                        <cell>W.D.C.<lb/>formerly<lb/>week in leg.<lb/>Chile</cell>
+                        <cell>Ramón J. Janer (x)</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell>P.R.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Feb. 6, 1915</cell>
+                        <cell>Appt'd V.C., Oporto Sept. 28, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilber J. Ofler</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>May 1, 1916.</cell>
+                        <cell>Appt'd V.C., Oporto Sept. 28, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles F. La Serre</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Coshocton<lb/>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 7, 1918.</cell>
+                        <cell>Resigned effective about 10/1/1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julian L. Pinkerton</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Versailles,<lb/>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>Jan. 8, 1920</cell>
+                        <cell>Appt'd V.C. Did not go to Paris<lb/>Resigned from Chicago, Del. July
+                            23,<lb/>effective July 30, 1921</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2780f2">
+                <head>Lisbon, Portugal.</head>
+                <p>James L.A. Burrell, V.S.C. in chg. Consulate General (death of C.G. Ayme May 16,
+                    1912) to Aug. 20, 1912.</p>
+                <p>Kenneth S. Patton, V.S.C. took over the office from V.S.C. Burrell Aug. 21, 1912,
+                    and turned it over to Consul Lowrie Oct 27, 1912.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

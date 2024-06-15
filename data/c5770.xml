@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5770" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5769" type="prev"/>
+                <relatedItem target="c5771" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5770f1">
+                <graphic height="3614px" url="07543.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07543</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5770">
+        <body>
+            <div corresp="#c5770f1">
+                <head>Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred A. Norseworthy</cell>
+                        <cell>Clerk</cell>
+                        <cell>Dee. Ill.</cell>
+                        <cell>Ill.</cell>
+                        <cell>June 18, 1909</cell>
+                        <cell>Discharged</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Blake Modlea</cell>
+                        <cell>"</cell>
+                        <cell>N.A. N.A.</cell>
+                        <cell>Oct. 1909</cell>
+                        <cell>Appt'd Clerk in leg, Managua Jan. 5, 1911.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick L. Rockwood</cell>
+                        <cell>"</cell>
+                        <cell>Me. Calif.</cell>
+                        <cell>Sept. 15, 1910.</cell>
+                        <cell>Resigned 3/22/16 effect July 1, 1916.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bruce J. Lugh</cell>
+                        <cell>"</cell>
+                        <cell>Ky. Ky.</cell>
+                        <cell>Apr. 22, 1916.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0303" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jaffna, Ceylon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0302" type="prev"/>
+                <relatedItem target="c0304" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0303f1">
+                <graphic height="3626px" url="00421.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jaffna, Ceylon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00421</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0303">
+        <body>
+            <div corresp="#c0303f1">
+                <head>Jaffna, Ceylon.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Todd</cell>
+                        <cell>Con. Agt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 12, 1880</cell>
+                        <cell>Died Nov. 1880.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Mortimer</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nov. 30, 1880.</cell>
+                        <cell>Died 1888.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Merr Summerfield Levynam</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Sept 4, 1888.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed April 30, 1897.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

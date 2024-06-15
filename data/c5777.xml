@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5777" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ecuador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5776" type="prev"/>
+                <relatedItem target="c5778" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5777f1">
+                <graphic height="3628px" url="07552.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ecuador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1901</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07552</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5777">
+        <body>
+            <div corresp="#c5777f1">
+                <head>(Clerks)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD. DATE OF APPOINTMENT, REMARKS</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Isidoro Valencia</cell>
+                        <cell>Clerk Couador Couador</cell>
+                        <cell>Data re clerks prior to 1901 not obtainable)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 4, 1901</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rusabia Fox</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Yer. N.J. July 1907</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

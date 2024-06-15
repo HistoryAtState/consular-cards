@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0640" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mukden, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0639" type="prev"/>
+                <relatedItem target="c0641" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0640f1">
+                <graphic height="3626px" url="00869.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mukden, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00869</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0640">
+        <body>
+            <div corresp="#c0640f1">
+                <head>Mukden, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>St. Louis</cell>
+                        <cell>Charles Jonathan Smell</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Wash.</cell>
+                        <cell>Mar. 20, 1907.</cell>
+                        <cell>Appt'd Last Japanese Die-<lb/>retary June 26, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell>Smth.</cell>
+                        <cell>Nelson E. Johnson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>Okla. Nov. 1, 1909.</cell>
+                        <cell>Appt'd V.D. Cons. Harbin 4/8/10</cell>
+                    </row>
+                    <row>
+                        <cell>Hankow</cell>
+                        <cell>Hubert G. Daugh (2)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>India</cell>
+                        <cell>Calif. Dec. 16, 1910.</cell>
+                        <cell>Appt'd Interpreter Tientain 2/24/1911.</cell>
+                    </row>
+                    <row>
+                        <cell>Tient-<lb/>sin</cell>
+                        <cell>Myre S. Myers (appt'd also<lb/>V.C.D.C.S.)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa. July 25, 1911.</cell>
+                        <cell>Appt'd Consul Swatow 12/4/1913.</cell>
+                    </row>
+                    <row>
+                        <cell>Chefoo</cell>
+                        <cell>Crawford M. Bishop</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Md.</cell>
+                        <cell>Md. Mar. 17, 1914.</cell>
+                        <cell>Appt'd V.D. Cons. Harbin 7/7/1914.</cell>
+                    </row>
+                    <row>
+                        <cell>U.S. Leg.<lb/>Shanghai</cell>
+                        <cell>Charles P. M. Kiernan</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn. N.Y.</cell>
+                        <cell>Dec. 1, 1914.</cell>
+                        <cell>Appt'd V.D.C.S. Int. Tientain 1/5/1915</cell>
+                    </row>
+                    <row>
+                        <cell>Canton</cell>
+                        <cell>Paul R. Josselyn</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa June 26, 1917.</cell>
+                        <cell>Appt. canceled</cell>
+                    </row>
+                    <row>
+                        <cell>Tientain</cell>
+                        <cell>Albert E. Chapin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mass. Nov. 14, 1918.</cell>
+                        <cell>Appt'd V.C.S. Int. Tientain 7/5/1917</cell>
+                    </row>
+                    <row>
+                        <cell>Student</cell>
+                        <cell>Edwin F. Stanton</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Calif. Sept. 28, 1923.</cell>
+                        <cell>Resigned Feb. 18, 1919.<lb/>Left<lb/>May 19, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Yobe-<lb/>Kama</cell>
+                        <cell>William F. Nason</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass. Mar. 15, 1924.</cell>
+                        <cell>Appt'd U.C.S. Int. Kalgan 3/18/1924.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

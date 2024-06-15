@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5652" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peiping, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5651" type="prev"/>
+                <relatedItem target="c5653" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5652f1">
+                <graphic height="3012px" url="07372.tif" width="4818px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07372</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5652f2">
+                <graphic height="3012px" url="07373.tif" width="4818px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07373</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5652">
+        <body>
+            <div corresp="#c5652f1">
+                <head>PEIPING, China</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                        <cell>SUPERVISION (over or inder)</cell>
+                    </row>
+                    <row>
+                        <cell>CG</cell>
+                        <cell/>
+                        <cell>CA</cell>
+                        <cell>FE</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>- C closed 8/8/21</p>
+                <p>E closed 12/31/45 - C est. 1/1/46 - C to CG 1/10/48. Closed to public
+                    3/25/50.</p>
+                <p>L to E app. 9/17/35 - E closed 12/7/41 - E (c) open 12/1/45</p>
+                <p>Closed officially 4/10/50. Opened 5/14/73.</p>
+                <p>REMARKS: See Nanking &amp; Chungking cards also for offices of Embassy.</p>
+                <p>PB MEMO NOS. 288</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>8/8/21</cell>
+                        <cell>Desp. from CG Tientsin reports consular functions at Peiping ceased
+                            8/2/21</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Property &amp; fee stamps turned over to CG Tientsin. Archives
+                            (1916-1921?)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>sent by Tientsin to Nat. Archives per Tientsin desp. 4/30/40</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5652f2">
+                <head>CONT'D E remained in Peking (Peiping).</head>
+                <table>
+                    <row role="label">
+                        <cell>12/7/41</cell>
+                        <cell>E moved entirely to Chungking and office at Peiping closed 12/7/41.
+                            Desp.227 of Feb. 7, 1942 (Chungking ?) states conf.files burned.
+                            Non-conf. records and archives stored locally.</cell>
+                    </row>
+                    <row>
+                        <cell>11/30/45</cell>
+                        <cell>Unnumbered &amp; undated tgm from Peiping rec'd states Stevens assumed
+                            charge of Embassy properties and all representative functions from Swiss
+                            Consular Rep. and that office will be opened to public 12/1/45 to
+                            perform limited dilplomatic and consular services.</cell>
+                    </row>
+                    <row>
+                        <cell>12/31/45</cell>
+                        <cell>Tgm 20 rec. from Peiping re Embassy closing end of business this date
+                            and Consu-late will be est. 1/1/46 - Ref. Deptel drafted 12/6/45. Tgm.
+                            17 12/26/45 from Peiping reports expects to issue immigration visas soon
+                            as equip.arrives.</cell>
+                    </row>
+                    <row>
+                        <cell>1/10/48</cell>
+                        <cell>Raised to CG ref. desp. 66 3/24/47 from Peiping. PB-Memo 288 re this
+                            &amp; Con.District</cell>
+                    </row>
+                    <row>
+                        <cell>5/17/49</cell>
+                        <cell>Deptel 299 to Peiping instructing Commies be informed US Govt.
+                            withdrawing its Mukden staff &amp; closing CG. District to Peiping - see
+                            Mukden file card.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0278" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ilo, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0277" type="prev"/>
+                <relatedItem target="c0279" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0278f1">
+                <graphic height="3638px" url="00389.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ilo, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1958</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00389</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0278">
+        <body>
+            <div corresp="#c0278f1">
+                <head>ILO, PERU</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Consular<lb/>Agent<lb/>Mollendo<lb/>Acting
+                            Consular<lb/>Agent<lb/>ILO</cell>
+                        <cell>Francis W. Commiskey</cell>
+                        <cell>Consular<lb/>Agent<lb/>Consular<lb/>Agent</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 21, 1958</cell>
+                        <cell>Resigned CFF.COB 2-21-59</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Wormcke</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 28, 1959</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consular Agency closing to public November 25, 1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

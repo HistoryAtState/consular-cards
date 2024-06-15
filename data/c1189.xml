@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1189" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Luis Potosi, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1188" type="prev"/>
+                <relatedItem target="c1190" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1189f1">
+                <graphic height="3638px" url="01583.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Luis Potosi, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01583</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1189">
+        <body>
+            <div corresp="#c1189f1">
+                <head>San Luis Potosi, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Knox Alexander</cell>
+                        <cell>V.C.de carrière</cell>
+                        <cell>3</cell>
+                        <cell>9/27/1919</cell>
+                        <cell>Mo.</cell>
+                        <cell>Oct. 1, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Knox Alexander</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>11/17/1921</cell>
+                        <cell>Mo.</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>William Karnes</cell>
+                        <cell>F80. Unc.</cell>
+                        <cell>3/26/1929</cell>
+                        <cell>Dec. July 10,1929.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>Edward S. Maney</cell>
+                        <cell>Do</cell>
+                        <cell>10/24/1928</cell>
+                        <cell>Lex. July 10, 1930.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.d.see Mexico</cell>
+                        <cell>Bayard King</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell>July 15, 1954.</cell>
+                        <cell>R.2 June 5, 1954</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed to the Public July 15, 1954. Officially closed July 30, 1954</p>
+                <p>Assigned to Vera Cruz, Nov. 24, 1930.</p>
+                <p>Assigned to Nogales, Oct. 3, 1930.</p>
+                <p>Apptz V.C.de carrière, Class 2, Nov. 17,1921... Assigned &amp; Puerto Cortes
+                    2/7/1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

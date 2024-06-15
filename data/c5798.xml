@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5798" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5797" type="prev"/>
+                <relatedItem target="c5799" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5798f1">
+                <graphic height="3626px" url="07584.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07584</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5798">
+        <body>
+            <div corresp="#c5798f1">
+                <head>Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Osaka Dept. State</cell>
+                        <cell>Ralph J. Blake</cell>
+                        <cell>3.1.0.</cell>
+                        <cell>8</cell>
+                        <cell>5-12-38 effers</cell>
+                        <cell>Ore.</cell>
+                        <cell>May 20, 1938</cell>
+                        <cell>Consul 5-12-38</cell>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>Jay Dixon Edwards</cell>
+                        <cell>Do</cell>
+                        <cell>Une. 7/2/1937e</cell>
+                        <cell>Ore.</cell>
+                        <cell>June 29, 1938</cell>
+                        <cell>Vice Con. 7-2-37</cell>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>David T. Ray</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/6/1938R 1/20/1939C</cell>
+                        <cell>Calif.</cell>
+                        <cell>Jan. 8, 1940</cell>
+                        <cell>Vice Con. 7-6-38</cell>
+                    </row>
+                </table>
+                <p>Assgd. Con., Tokyo, Sept. 13, 1940.</p>
+                <p>Assgd. V.C., Keijo, Nov. 7, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

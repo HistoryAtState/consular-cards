@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0685" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Napoleon Vendee-Bourbon Vendee, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0684" type="prev"/>
+                <relatedItem target="c0686" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0685f1">
+                <graphic height="3630px" url="00937.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Napoleon Vendee-Bourbon Vendee, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1850</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00937</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0685">
+        <body>
+            <div corresp="#c0685f1">
+                <head>Napoleon Vendee (or Bourbon Vendees France!</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Aydony</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Ala.</cell>
+                        <cell>mafile</cell>
+                        <cell>Sept 24/1850 Conf.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Gen</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 9, 1861 recess</cell>
+                        <cell>Nom, withdrawn May 24, 1862</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas P. Smith</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>June 9, 1862 Conf</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emanuel Marquis</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell/>
+                        <cell>Mar, 21, 1865 recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Mc Olure</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 27, 1866 Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

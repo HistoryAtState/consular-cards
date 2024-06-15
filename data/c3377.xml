@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3377" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palermo, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3376" type="prev"/>
+                <relatedItem target="c3378" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3377f1">
+                <graphic height="3626px" url="04422.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palermo, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04422</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3377">
+        <body>
+            <div corresp="#c3377f1">
+                <head>PALERMO, ITALY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>U.Cons.</cell>
+                        <cell>F. Raymond Senden</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell/>
+                        <cell>Oct. 20, 1956</cell>
+                        <cell>To Bremen as FSS U.C 8-24-57</cell>
+                    </row>
+                    <row>
+                        <cell>General<lb/>services<lb/>officer</cell>
+                        <cell>Eddie B. Pohl</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 26, 1957</cell>
+                        <cell>Designated V.C. care,<lb/>Palermo 9-8-57</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (755)</cell>
+                        <cell>Mrs. Heather A. Ridewood</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 16, 1957</cell>
+                        <cell>Resigned eFF.COB 1-24-59</cell>
+                    </row>
+                    <row>
+                        <cell>Belfast</cell>
+                        <cell>Miss Nancy S. Koch</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 9, 1963</cell>
+                        <cell>Designated Cons. (755)<lb/>Palermo, 10-30-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Guatemala</cell>
+                        <cell>Francis A. Arenz</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1964</cell>
+                        <cell>To milan as V.C. (755),<lb/>7-5-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>Miss Charlotte Allen</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1965</cell>
+                        <cell>Designated Consul (755),<lb/>Palermo, 12-11-65</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Gilmore</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov 8, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

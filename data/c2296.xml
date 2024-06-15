@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2296" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guam, in the Ladrone or Marianna Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2295" type="prev"/>
+                <relatedItem target="c2297" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2296f1">
+                <graphic height="3636px" url="03058.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guam, in the Ladrone or Marianna Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1854</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03058</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2296f2">
+                <graphic height="3636px" url="03059.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guam, Ladrone or Marianna Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03059</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2296">
+        <body>
+            <div corresp="#c2296f1">
+                <head>Guam, in the Ladrone or Marianna Islands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel J. Masters</cell>
+                        <cell>Consul US.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 8, 1854</cell>
+                        <cell>Nov. 26, 1854 to Apr. 23, 1856, <lb/> Conf. &amp;lt; refused by Span.
+                            Govt.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2296f2"/>
+        </body>
+    </text>
+</TEI>

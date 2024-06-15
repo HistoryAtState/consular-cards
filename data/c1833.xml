@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1833" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Barbuda, West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1832" type="prev"/>
+                <relatedItem target="c1834" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1833f1">
+                <graphic height="3630px" url="02447.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Barbuda, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02447</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1833">
+        <body>
+            <div corresp="#c1833f1">
+                <head>Barbuda, West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Antigua</cell>
+                        <cell>William Dougall</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell>Scotland</cell>
+                        <cell/>
+                        <cell>Apr. 11, 1896.</cell>
+                        <cell>May 26, 1896, to <lb/> Office ordered closed Jan. 11, 1896.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

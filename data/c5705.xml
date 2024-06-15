@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5705" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palembang, Sumatra, N.I.</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5704" type="prev"/>
+                <relatedItem target="c5706" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5705f1">
+                <graphic height="3026px" url="07456.tif" width="4808px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palembang, Sumatra, N.I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07456</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5705">
+        <body>
+            <div corresp="#c5705f1">
+                <head>Palembang, Sumatra, N.I.</head>
+                <p>Tele. 37, 1/30/48 to Batavia, drafted SEA, requests comments on desirability
+                    opening consular offices at Surabaya, Medan, Makassar and Palembang</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2868" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lyon, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2867" type="prev"/>
+                <relatedItem target="c2869" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2868f1">
+                <graphic height="3612px" url="03780.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lyon, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03780</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2868">
+        <body>
+            <div corresp="#c2868f1">
+                <head>Lyon, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>consult <lb/> 1st Sec. <lb/> Madrid</cell>
+                        <cell>Walter B. Bates</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul sepas Sept. 7, 1957</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>FSO assigned to the <lb/> Dept., 12-23-62. <lb/> To Paris as Asst.
+                            Press + <lb/> Publications officer (FSS) 9-4-60 <lb/> Retired (Vol.)
+                            COB, 9-30-64</cell>
+                    </row>
+                    <row>
+                        <cell>750 assigned <lb/> to NATO Defense <lb/> College, Paris</cell>
+                        <cell>Ralph S. Smith</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Aug. 12, 1959</cell>
+                        <cell>USIA Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rupert A. Lloyd</cell>
+                        <cell>PSO</cell>
+                        <cell>2</cell>
+                        <cell>Oct. 1, 1962</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Byron B. Snyder</cell>
+                        <cell>750</cell>
+                        <cell>2</cell>
+                        <cell>Oct. 26, 1964</cell>
+                        <cell>Consul <lb/> Consul <lb/> General</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate at Lyon elevated to Consulate General status on
+                            July 18, 1966.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lyon</cell>
+                        <cell>Lester P. Slezak</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Paris as Assistant <lb/> Labor Attaché, 1-1-67</cell>
+                    </row>
+                    <row>
+                        <cell>Strasbourg</cell>
+                        <cell>Miss Marion M. Montague cancelled</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 29, 1966</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

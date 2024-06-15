@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4165" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tokyo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4164" type="prev"/>
+                <relatedItem target="c4166" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4165f1">
+                <graphic height="3628px" url="05421.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tokyo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05421</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4165">
+        <body>
+            <div corresp="#c4165f1">
+                <head>TOKYO, JAPAN</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yokohama</cell>
+                        <cell>Mrs. Marcia J. Marter</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 16, 1955</cell>
+                        <cell>To Naples as V.C. 10-24-55</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Miss Virginia Ellis</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1955</cell>
+                        <cell>To Tokyo as Consul &amp; 2d Sec. 12/19/55</cell>
+                    </row>
+                    <row>
+                        <cell>VC</cell>
+                        <cell>William R. Jochimsen</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>Oct. 22, 1955</cell>
+                        <cell>Designated V.C. of career Tokyo 42 Sec. 12-30-55. F.S. Staff Officer
+                            assigned to the Dept. 9-18-60.</cell>
+                    </row>
+                    <row>
+                        <cell>Tijuana</cell>
+                        <cell>Julio J. Arias</cell>
+                        <cell>V. Cons.</cell>
+                        <cell>Comm. dated 5-4-59</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 7, 1957</cell>
+                        <cell>Designated V.C. of career 3<sup>rd</sup> Sec. Tokyo 6-15-59</cell>
+                    </row>
+                    <row>
+                        <cell>VISA</cell>
+                        <cell>Mrs. Ann Pomroy</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 6, 1959</cell>
+                        <cell>Detailed to Korea as V.C. (755)</cell>
+                    </row>
+                    <row>
+                        <cell>ASST.</cell>
+                        <cell>Miss Raecarol Morgan</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 12, 1962</cell>
+                        <cell>2-15-65. 65. To Seoul as V.C. 52465. Detail terminated 3-27-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Miss Eleanor G. Kubicina</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 1, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Phnom Penh</cell>
+                        <cell>Miss M. Patricia Wazer</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harris Woods</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

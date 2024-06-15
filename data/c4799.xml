@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4799" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curacao, Netherlands Antilles</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4798" type="prev"/>
+                <relatedItem target="c4800" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4799f1">
+                <graphic height="3622px" url="06247.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curacao, Netherlands Antilles</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06247</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4799">
+        <body>
+            <div corresp="#c4799f1">
+                <head>CURAÇAO, Netherlands Antilles</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William A. Bell, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Dec. 23, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>FSO</unclear> assigned to the Dept., 2-27-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Bonn</cell>
+                        <cell>John H. Christensen</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 141964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Assigned to the Dept. 2-26-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter T. Hansen</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 31,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Milan</cell>
+                        <cell>Harvey Fergusson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Jan. 31,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Munich</cell>
+                        <cell>Charles E. Lahiguera</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 19,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

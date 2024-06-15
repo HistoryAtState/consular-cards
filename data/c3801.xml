@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3801" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. John's, Newfoundland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3800" type="prev"/>
+                <relatedItem target="c3802" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3801f1">
+                <graphic height="3646px" url="04963.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. John's, Newfoundland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04963</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3801">
+        <body>
+            <div corresp="#c3801f1">
+                <head>St. John's, Newfoundland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Coneul<lb/>Toronto</cell>
+                        <cell>George. Colmarn</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1948</cell>
+                        <cell>Died Feb. 10, 1950.<lb/>To <unclear/>Cancelled<unclear/> as VC<lb/>To
+                            Port-of-Spain Pedro Sula<lb/>10-24-51 as V.C. 12-10-51<lb/>To Glasgow as
+                            V.C. 2-11-53</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Medellin</cell>
+                        <cell>John I Copeland</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N. C. Nor. 22, 1948</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Hamburg</cell>
+                        <cell>A. Hugh Douglas J.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 14, 1950</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Coneul<lb/>Cours</cell>
+                        <cell>John Howard Morrancelled</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa Sept. 11,1950</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>VC<lb/>Munich</cell>
+                        <cell>William J. Kasson</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 29, 1952</cell>
+                        <cell>Terminationeff. cob 5-3-53</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

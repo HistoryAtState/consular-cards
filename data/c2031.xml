@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2031" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Clifton-Niagara Falls, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2030" type="prev"/>
+                <relatedItem target="c2032" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2031f1">
+                <graphic height="3626px" url="02724.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Clifton-Niagara Falls, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1861</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02724</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2031">
+        <body>
+            <div corresp="#c2031f1">
+                <head>Clifton, Ontario. (now Niagara Falls after July 1, 1899)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joel Harris</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Seph 18, 1861.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Jones</cell>
+                        <cell>Vice-Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Jan. 23, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry R. Curtis</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Nov. 20, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George D Forbes</cell>
+                        <cell>Jump " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Apr. 3, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ird B. Jones</cell>
+                        <cell>Dep. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Sept. 5, 1870</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph B. Whitman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Dec. 23, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Hancock</cell>
+                        <cell>U.S. " "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>+ Mar. 11, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Bampfield</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Feb. 4, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Tuthill</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Nov. 6, 1891</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Butters</cell>
+                        <cell>" "</cell>
+                        <cell>Sr. Dr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>+ July 31, 1894.</cell>
+                        <cell>Resigned Dec. 31, 1898. <lb/> No Comm'n to Niagara <lb/> Falls July 1,
+                            1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Stanley Fraser</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>+ Jan. 5, 1899.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

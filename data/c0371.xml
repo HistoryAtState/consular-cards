@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0371" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kumming, China-Yunnanfu</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0370" type="prev"/>
+                <relatedItem target="c0372" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0371f1">
+                <graphic height="3590px" url="00507.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kumming, China-Yunnanfu</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00507</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0371">
+        <body>
+            <div corresp="#c0371f1">
+                <head>Kunming, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Chungking</cell>
+                        <cell>Philip D. Sprouse</cell>
+                        <cell>J.S.O. 8</cell>
+                        <cell>11-21-42</cell>
+                        <cell>Consul</cell>
+                        <cell>10-2042 4-25-44</cell>
+                        <cell>Tenn.</cell>
+                        <cell>June 5, 1944</cell>
+                        <cell>also sud to 5 144 <lb/> - To Chungking as bx +2 Secy. 8-24-44 <lb/>
+                            changed grade to 5-1-44.</cell>
+                    </row>
+                    <row>
+                        <cell>Chungking</cell>
+                        <cell>Philip D. Sprouse</cell>
+                        <cell>11</cell>
+                        <cell>5</cell>
+                        <cell>5-21-45</cell>
+                        <cell>Consul</cell>
+                        <cell>Tenn.</cell>
+                        <cell>June 5, 1944</cell>
+                        <cell>Cancelled.</cell>
+                    </row>
+                </table>
+                <p>Consulate General changed to a Consulate effective August 26, 1946.</p>
+                <p>Consulate closed to the Public Nov. 19, 1949 and officially Dec. 19, 1949</p>
+            </div>
+        </body>
+    </text>
+</TEI>

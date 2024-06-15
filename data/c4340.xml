@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4340" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yaounde, French Cameroons</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4339" type="prev"/>
+                <relatedItem target="c4341" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4340f1">
+                <graphic height="3624px" url="05649.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yaounde, French Cameroons</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05649</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4340">
+        <body>
+            <div corresp="#c4340f1">
+                <head>Yaounde, French Cameroons</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate Raised to the Rank of Consulate General, April 10, 1959</p>
+                <p>Yaounde, Cameroun</p>
+                <p>Yaounde, State of Cameroun</p>
+                <p>Yaounde, Republic of Cameroun</p>
+                <p>- Consulate General raised</p>
+                <p>- to rank of Emb. Jan. 1, 1960</p>
+                <p>- April 1900</p>
+            </div>
+        </body>
+    </text>
+</TEI>

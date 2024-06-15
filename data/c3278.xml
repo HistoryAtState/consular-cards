@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3278" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>New Caledonia and Dependencies- French Polynesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3277" type="prev"/>
+                <relatedItem target="c3279" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3278f1">
+                <graphic height="3628px" url="04298.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>New Caledonia and Dependencies- French Polynesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04298</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3278">
+        <body>
+            <div corresp="#c3278f1">
+                <head>NEW CALEDONIA, Territory of, AND DEPENDENCIES, AND THE TERRITORY OF FRENCH
+                    POLYNESIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert F. Stafford</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell>Also V.C. at Suva, Fiji Islands.<lb/>Recommissioned because of change
+                            in consular<lb/><unclear>district</unclear></cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Suwar New<lb/>Caledonia, etc</cell>
+                        <cell>Robert F. Stafford</cell>
+                        <cell>(Commn. dated 1-18-65)<lb/>Feb. 1, 1965</cell>
+                        <cell>Also V.C. at Leva, Fiji Islands.<lb/>To Nicosia as General Services
+                            Specialist,<lb/>also V.C., Suva, Fiji Islands.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard S. Mann</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

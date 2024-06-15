@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0437" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leghorn, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0436" type="prev"/>
+                <relatedItem target="c0438" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0437f1">
+                <graphic height="3638px" url="00598.tif" width="6022px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leghorn, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1937</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00598</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0437">
+        <body>
+            <div corresp="#c0437f1">
+                <head>Leghorn, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Malta</cell>
+                        <cell>William F. Shockley, Jr.</cell>
+                        <cell>Vicecon, Ud.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Del. Del.</cell>
+                        <cell>Del. Del.</cell>
+                        <cell>Jan. 4, 1937</cell>
+                        <cell>Appt'd V.C. Gotenburg Apr. 7, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Trieste</cell>
+                        <cell>Z. Monroe Fisher</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ba. Va.</cell>
+                        <cell>Va. Va.</cell>
+                        <cell>Apr. 7, 1937</cell>
+                        <cell>Appt'd V.C. Florence Aug. 1, 1940.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

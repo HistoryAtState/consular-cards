@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0967" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palma de Mallorca, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0966" type="prev"/>
+                <relatedItem target="c0968" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0967f1">
+                <graphic height="3626px" url="01294.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palma de Mallorca, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1906</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01294</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0967f2">
+                <graphic height="3634px" url="01295.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palma de Mallorca, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01295</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0967">
+        <body>
+            <div corresp="#c0967f1">
+                <head>Palma de Mallorca, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lorenzo R. Siraguad</cell>
+                        <cell>Cons. Gen</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 7, 1906.</cell>
+                        <cell>May 1, 1907 to <lb/>Reappointed May 11, 1907. <lb/>to Apr. 26,
+                            1909.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lorenzo Roselly Siraguasa</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 11, 1907.</cell>
+                        <cell>Resigned Dec. 1908. <lb/>Apr. 27, 1909 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Juan Morey y Cabanellas</cell>
+                        <cell>" "</cell>
+                        <cell>Spain</cell>
+                        <cell>Palma de <lb/>Mallorca Spain</cell>
+                        <cell>Jan. 20, 1909.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Seville</cell>
+                        <cell>Malcolm E. Graham</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Iowa</cell>
+                        <cell>July 23, 1917</cell>
+                        <cell/>
+                        <cell>Left Seville July 27, 1917 to take chg at <lb/>Palma de Mallorca, took
+                            chg, Aug. 1, 1917. <lb/>Appt'd V.C., Gibraltar Feb. 23, 1918. <lb/>Aug.
+                            24, 1920 to Sept. 18, 1920 <lb/>In chg during absence of Consul</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Chamberlin</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mass.</cell>
+                        <cell>Aug. 24, 1920</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed September 18, 1920.</p>
+            </div>
+            <div corresp="#c0967f2">
+                <head>Palma de Mallorca, Spain.</head>
+                <p>Frederick Chamberlin, U.C., took over the office from Consul Goodier Aug. 24,
+                    1920</p>
+            </div>
+        </body>
+    </text>
+</TEI>

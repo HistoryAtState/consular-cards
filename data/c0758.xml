@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0758" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oldenburg, Grand Duchy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0757" type="prev"/>
+                <relatedItem target="c0759" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0758f1">
+                <graphic height="3632px" url="01030.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oldenburg, Grand Duchy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1856</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01030</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0758">
+        <body>
+            <div corresp="#c0758f1">
+                <head>Oldenburg, Grand Ducky. (see Brake)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J.P.M. Epping</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>So. Car.</cell>
+                        <cell>Jan. 2, 1856 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maximilian Gritener</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>June 14, 1862 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry W. Carstine</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1867 Conf. Died</cell>
+                        <cell/>
+                        <cell>1869.</cell>
+                    </row>
+                </table>
+                <p>Archives at Bremen from Oct. 31, 1869.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

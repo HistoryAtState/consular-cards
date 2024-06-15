@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1926" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Boguillas, Mexico-Ciudad Porfirio Diaz</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1925" type="prev"/>
+                <relatedItem target="c1927" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1926f1">
+                <graphic height="3630px" url="02581.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Boguillas, Mexico-Ciudad Porfirio Diaz</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02581</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1926">
+        <body>
+            <div corresp="#c1926f1">
+                <head>Boquillas, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin L. Byrd</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>R</unclear>usk, Tex</cell>
+                        <cell>Tex</cell>
+                        <cell>Feb. 1, 1910.</cell>
+                        <cell>(under Ciudad Porfirio Diaz)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency Closed</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>August 31, 1910.</cell>
+                        <cell>Records and Archives<lb/>stored at Ciudad Porfirio Diaz.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

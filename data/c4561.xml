@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4561" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brazzaville, French Equatorial Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4560" type="prev"/>
+                <relatedItem target="c4562" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4561f1">
+                <graphic height="3624px" url="05945.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brazzaville, French Equatorial Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05945</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4561">
+        <body>
+            <div corresp="#c4561f1">
+                <head>Brazzaville, French Equatorial Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Glenn C. Hayes</cell>
+                        <cell>V.C.</cell>
+                        <cell>N.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Nov. 2, 1948</cell>
+                        <cell>To Dublin 1-30-46. <lb/> See Auxiliary card</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jack Marvin Perlman</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 1, 1944.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General closed to the public June 16, 1946.</p>
+                <p>Consulate General opened July 13, 1946</p>
+                <p>Consulate opened Jan. 1, 1959</p>
+                <p>Brazzaville, Republic of the Congo</p>
+                <p>Department has announced the withdrawal of all Embassy personnel from
+                    Brazzaville, Republic of the Congo, effective August 13, 1965. Dept'l notice
+                    9-1-65</p>
+            </div>
+        </body>
+    </text>
+</TEI>

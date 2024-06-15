@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0075" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Andakabe, Madagascar</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0074" type="prev"/>
+                <relatedItem target="c0076" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0075f1">
+                <graphic height="3634px" url="00112.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Andakabe, Madagascar</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00112</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0075">
+        <body>
+            <div corresp="#c0075f1">
+                <head>Andakabe, Madagascar.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Victor F. W. Stanwood</cell>
+                        <cell>Con. Agt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 12, 1881</cell>
+                        <cell>Shot and killed <lb/> Nov. 5, 1888,</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

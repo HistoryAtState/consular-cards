@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0308" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jalapa, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0307" type="prev"/>
+                <relatedItem target="c0309" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0308f1">
+                <graphic height="3624px" url="00426.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jalapa, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1906</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00426</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0308">
+        <body>
+            <div corresp="#c0308f1">
+                <head>Jalapa, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William K. Boone</cell>
+                        <cell>V. Con. U.S.</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Jan. 30, 1906.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

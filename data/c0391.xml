@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0391" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Oroya, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0390" type="prev"/>
+                <relatedItem target="c0392" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0391f1">
+                <graphic height="3634px" url="00536.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Oroya, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00536</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0391f2">
+                <graphic height="3634px" url="00537.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Oroya, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00537</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0391">
+        <body>
+            <div corresp="#c0391f1">
+                <head>La Oroya, Peru. (Agency formerly at Cerro de Pasco)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Cerro de Pasco</cell>
+                        <cell>Clyde A. Warne</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 3, 1922.</cell>
+                        <cell>Resigned, effective about Sept. 1, 1926. <lb/> Succeeded by
+                            Drineari.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold L. Crane</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>S. Dak.</cell>
+                        <cell>S. Dak.</cell>
+                        <cell>Sept. 9, 1926.</cell>
+                        <cell>May 1, 1931 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Norman Duncan</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>April 6, 1931.</cell>
+                        <cell>Resigned eff. c.o.b. 3-12-48 <lb/> Resigned eff. CPB 12-31-48.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Wayland</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nov. 20, 1948</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(Office temporarily closed on December 3, 1948 and has not function since that
+                    date.)</p>
+                <p>Consular Agency officially closed effective September 20, 1949.</p>
+            </div>
+            <div corresp="#c0391f2">
+                <head>La Oroya, Peru</head>
+                <p>Harold L. Crane in chq. of agency June (10?) 1924 to Mar. 8, 1936.</p>
+                <p>Robert M. Randolph, Acting Consular Agent (absence of Duncan), Nov. 1, 1935,
+                    to</p>
+                <p>Norman Duncan, Am. Cons. agt, leave of absence from Aug. 1 to Nov. 30, 1940.</p>
+                <p>Worrel E. Wilkie, desig. Acty. Cons.agt (absence of Duncan) Aug 1 to Nov. 30,
+                    1940. Extended to Dec. 31, 1940. (FA's memo 469 dated 1-25-41)</p>
+                <p>Norman Duncan resumed charge of duties at coß Dec. 31, 1940. (125.26386/25).</p>
+            </div>
+        </body>
+    </text>
+</TEI>

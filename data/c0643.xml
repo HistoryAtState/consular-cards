@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0643" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Murree, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0642" type="prev"/>
+                <relatedItem target="c0644" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0643f1">
+                <graphic height="3622px" url="00873.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Murree, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00873</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0643f2">
+                <graphic height="3622px" url="00874.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Murree, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00874</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0643">
+        <body>
+            <div corresp="#c0643f1">
+                <head>Murree, Pakistan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. + VC,<lb/>Karachi</cell>
+                        <cell>Roy H. Johnson</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 25, 1960</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. + VC<lb/>Karachi</cell>
+                        <cell>Matthew H. Van Order</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 20, 1961</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. R. Allen Irvine</cell>
+                        <cell/>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 15, 1962</cell>
+                    </row>
+                </table>
+                <p>Opened as a Branch Embassy Office, Murree, eff. Feb. 22, 1960.</p>
+                <p>Murree Branch Office moved to Rawalpindi, eff. May 1, 1963.</p>
+                <p>Also 3d Sec. To Karachi as 3d Sec. + VC, 2-20-61</p>
+                <p>Also 3d Sec. Also 3d Sec., 3-1-63.<lb/>To Mexico as VC. + 2d
+                    Sec.,<lb/>5-13-63<lb/>Also 3d Sec.<lb/>To Rawalpindi as VC. + 3d
+                    See.,<lb/>5-1-63.</p>
+            </div>
+            <div corresp="#c0643f2">
+                <head>Rawalpindi, India.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>``</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>``</cell>
+                        <cell><unclear>Henry</unclear>
+                            <unclear>C.</unclear>
+                            <unclear>A.</unclear>
+                            <unclear>Damm</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wis.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 4, 1920.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>These officers were assigned in a consular capacity in error since Rawalpindi and
+                    Murree are diplomatic posts only.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

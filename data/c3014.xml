@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3014" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Medellin, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3013" type="prev"/>
+                <relatedItem target="c3015" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3014f1">
+                <graphic height="3632px" url="03971.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Medellin, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03971</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3014">
+        <body>
+            <div corresp="#c3014f1">
+                <head>Medellin, Colombia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. Langdon Harris</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 28, 1941</cell>
+                        <cell>To Managua as Clerk <lb/> Resigned 12-31-1942. <lb/> To Tijuana,
+                            Mexico 5-27-44, <lb/> 10-26 <lb/> To Havre, France</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John P. Fitzgerald</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nov. 24, 1942.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter W. Willey</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.C.</cell>
+                        <cell>July 21, 1944</cell>
+                        <cell>To Nassau, Bahamas as Vice Consul <lb/> 2-21-45</cell>
+                    </row>
+                    <row>
+                        <cell>clerk</cell>
+                        <cell>Joseph Anthony Armenta</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Calif.</cell>
+                        <cell>Feb. 5, 1944</cell>
+                        <cell>Continuing under action Glio Adm. Asst. 7-1-46. <lb/> ment of May 29,
+                            1974. To Georgetown as V.C. 2-27-47 <lb/> apptd. 750 el. 6, V.C. of
+                            career, &amp; Secy in Dip'l. <lb/> service 4-10-470 Assgnd V.C. of
+                            career, Medellin 4-21-47 <lb/> To St. John's as V.C. 11-22-48.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul <lb/> I.S. Cut.</cell>
+                        <cell>George W. Shora</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>S.C.</cell>
+                        <cell>Feb. 28, 1947</cell>
+                        <cell>To Mexico as V.C. 2-26-52</cell>
+                    </row>
+                    <row>
+                        <cell>VICE CONSOL <lb/> TENERIFE</cell>
+                        <cell>John J. Fishburne</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.C.</cell>
+                        <cell>June 15, 1947.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Capeland</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1950</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Philip D. Spiner</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward M. Milburn</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

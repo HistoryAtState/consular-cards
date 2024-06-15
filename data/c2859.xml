@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2859" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lusaka, Northern Rhodesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2858" type="prev"/>
+                <relatedItem target="c2860" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2859f1">
+                <graphic height="3624px" url="03769.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lusaka, Northern Rhodesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03769</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2859">
+        <body>
+            <div corresp="#c2859f1">
+                <head>LUSAKA, Northern Rhodesia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James R. Todd</cell>
+                        <cell>Mar. 30, 1964</cell>
+                        <cell/>
+                        <cell>Assigned under Rep. of Zambia. See below<lb/>Elevated to rank<lb/>of
+                            Emb. 10-24-64.</cell>
+                    </row>
+                    <row>
+                        <cell>U.C. (7SS)<lb/>Lusaka</cell>
+                        <cell>James R. Todd</cell>
+                        <cell>Oct. 24, 1964</cell>
+                        <cell/>
+                        <cell>Do Lagos as Consular Assistant (755)<lb/>4-25-66.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

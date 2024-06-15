@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5569" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5568" type="prev"/>
+                <relatedItem target="c5570" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5569f1">
+                <graphic height="3622px" url="07261.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07261</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5569f2">
+                <graphic height="3622px" url="07262.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1932</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07262</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5569">
+        <body>
+            <div corresp="#c5569f1"/>
+            <div corresp="#c5569f2">
+                <head>Istanbul, Turkey</head>
+                <p>David Williamson detailed to Dept. of State Aug. 29, 1932, to Sep. 12, 1932.</p>
+                <p>D. Salter Hashington detailed to Dept. of State temporarily, June 1, 1935.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

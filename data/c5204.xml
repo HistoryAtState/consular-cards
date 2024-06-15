@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5204" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5203" type="prev"/>
+                <relatedItem target="c5205" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5204f1">
+                <graphic height="3620px" url="06751.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06751</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5204f2">
+                <graphic height="3599px" url="06752.tif" width="5955px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06752</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5204">
+        <body>
+            <div corresp="#c5204f1">
+                <head>Argentina.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell/>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Secretary Class 1</cell>
+                        <cell>Willing Spencer</cell>
+                        <cell>(see over) Counselor</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Sept. 7, 1922.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5204f2"/>
+        </body>
+    </text>
+</TEI>

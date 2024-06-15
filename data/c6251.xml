@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6251" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>India</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6250" type="prev"/>
+                <relatedItem target="c6252" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6251f1">
+                <graphic height="3610px" url="08242.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>India</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="16.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08242</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6251">
+        <body>
+            <div corresp="#c6251f1">
+                <head>INDIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Robert F. Rayle</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>William C. Ide</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Mar. 14, 1966</cell>
+                        <cell>AID</cell>
+                        <cell/>
+                        <cell>Counselor of<lb/>Emb. for<lb/>International<lb/>Development<lb/>3d
+                            Sec. Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Katherine A. Horberg</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Morris Dembo</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Feb. 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Roger Kirk</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Joseph E. O'Mahony</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas R. Blackshear</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>July 3, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Theo E. Hall</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>July 17, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Counselor of<lb/>Emb. for<lb/>Admin. Affairs<lb/>2d Sec. Also
+                            V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Santo Domingo</cell>
+                        <cell>James S. Landberg</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter L. Campbell</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 7, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rawalpindi</cell>
+                        <cell>Anthony C. E. Quainton</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Dec. 18, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

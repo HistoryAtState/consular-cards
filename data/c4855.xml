@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4855" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Djakarta, Java, Republic of Indonesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4854" type="prev"/>
+                <relatedItem target="c4856" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4855f1">
+                <graphic height="3628px" url="06314.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Djakarta, Java, Republic of Indonesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06314</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4855">
+        <body>
+            <div corresp="#c4855f1">
+                <head>DJAKARTA, JAVA, REPUBLIC OF INDONESIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David J. Bleecker</cell>
+                        <cell>V. Cons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 2, 1956</cell>
+                        <cell>To Amman as V.C. <lb/> 7-11-60</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Florence Adamson</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 10, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Florence C. Adamson</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 10, 1963</cell>
+                        <cell>To Nassau, Bahamas, as <lb/> VC (FSS) 8-2-65</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert C. Stebbins</cell>
+                        <cell>V Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 12, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

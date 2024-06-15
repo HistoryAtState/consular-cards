@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1404" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Simonstown, Simons Bay, South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1403" type="prev"/>
+                <relatedItem target="c1405" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1404f1">
+                <graphic height="3632px" url="01868.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Simonstown, Simons Bay, South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01868</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1404">
+        <body>
+            <div corresp="#c1404f1">
+                <head>Limonstown or Simon's Bay, Lo Africa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John M. Hoeta</cell>
+                        <cell>Con Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>* Nov. 7, 1863.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D. P. Martin</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>* Sept. 15, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>I. I. Hiltz</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>* Aug. 8, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Patrick D. Martin</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>* May 23, 1868.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Black, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>"Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>* Mar. 24, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Black, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>* Mar. 17, 1891</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed Sept. 25, 1877.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5725" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bulgaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5724" type="prev"/>
+                <relatedItem target="c5726" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5725f1">
+                <graphic height="3622px" url="07484.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bulgaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07484</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5725">
+        <body>
+            <div corresp="#c5725f1">
+                <head>BULGARIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Burton L. Gerber</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Belgrade</cell>
+                        <cell>John R. Lampe</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 14, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sofia</cell>
+                        <cell>Hans N. Tuch</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Nov. 28, 1966</cell>
+                        <cell/>
+                        <cell>Couns. of Emb.</cell>
+                        <cell>also Deputy Chief of mission.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2601" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangkok, Siam</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2600" type="prev"/>
+                <relatedItem target="c2602" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2601f1">
+                <graphic height="3622px" url="03452.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bangkok, Siam</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1860</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03452</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2601f2">
+                <graphic height="3622px" url="03453.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bangkok, Siam</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03453</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2601">
+        <body>
+            <div corresp="#c2601f1">
+                <head>Bangkok, Siam.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin V. Chandler</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>* Sept. 6, 1860 Pres. alone. Jan. 2, 1861 to Oct. 17, 1862</cell>
+                        <cell>*Dec, 20, 1860 Conf.</cell>
+                        <cell>Resigned Oct. 18, 1862</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George B. Bosworth</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov, 11, 1865 recess</cell>
+                        <cell>*Feb. 16, 1866 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Simon V. Cordeiro</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Oct. 25, 1866 Recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. W. Bolenius</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ga.</cell>
+                        <cell>Mar. 11, 1867 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Austin J. Mattingly</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ay.</cell>
+                        <cell>My, July 20, 1867 Conf.</cell>
+                        <cell>Dec, 15, 1866 to June 30, 1869</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2601f2">
+                <head>Bangor, Siam.</head>
+                <table>
+                    <row role="label">
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>George W. Virgin</cell>
+                        <cell>acted as Marshal</cell>
+                        <cell>Oct. 18, 1862 to Oct. 1, 1863.</cell>
+                    </row>
+                    <row>
+                        <cell>W. H. Hamilton, of N.Y.</cell>
+                        <cell>acted as " " (no Marshal)</cell>
+                        <cell>Oct. 1, 1863 to Sept. 12, 1865</cell>
+                    </row>
+                    <row>
+                        <cell>James Mc Cormick, from Ohio</cell>
+                        <cell>" " " " (no Marshal)</cell>
+                        <cell>Sept. 13, 1865 to July 23, 1866.- resiqued</cell>
+                    </row>
+                    <row>
+                        <cell>Simon V. Cordeiro</cell>
+                        <cell>" " " " ( " " )</cell>
+                        <cell>July 23, 1866 to Sept. 30, 1866.</cell>
+                    </row>
+                    <row>
+                        <cell>A. I. Mattingly, of Ky.</cell>
+                        <cell>" " " " ( " " )</cell>
+                        <cell>Dec. 15, 1866 to continued as Marshal.</cell>
+                    </row>
+                    <row>
+                        <cell>James Mc Cormick, of Ohio</cell>
+                        <cell>" " " " ( " " )</cell>
+                        <cell>Jan. 1, 1870 to Dee. 1871</cell>
+                    </row>
+                    <row>
+                        <cell>Frederick P. Cartridges of all.</cell>
+                        <cell>" " " " ( " " )</cell>
+                        <cell>Dec. 31, 187, to 18732</cell>
+                    </row>
+                    <row>
+                        <cell>R. A. Robbins</cell>
+                        <cell>Interpreter Prison Keeper</cell>
+                        <cell>Sept. 1885 to Died Dec. 27, 1887.</cell>
+                    </row>
+                    <row>
+                        <cell>C. J. Child, V.C.s.</cell>
+                        <cell>Prison Keeper</cell>
+                        <cell>Jan. 1, 1888 to</cell>
+                    </row>
+                    <row>
+                        <cell>Robert M. Boyd</cell>
+                        <cell>Acting Marshal</cell>
+                        <cell>June 1, 1891 to July 11, 1892?</cell>
+                    </row>
+                    <row>
+                        <cell>Edward J. Dellett, born Mans. city: U.S.</cell>
+                        <cell>Appt'd Prison Keeper</cell>
+                        <cell>Apr. 1, 1894 to</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

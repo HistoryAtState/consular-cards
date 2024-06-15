@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2355" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hammerfest, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2354" type="prev"/>
+                <relatedItem target="c2356" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2355f1">
+                <graphic height="3638px" url="03135.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hammerfest, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03135</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2355f2">
+                <graphic height="3638px" url="03136.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hammerfest, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03136</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2355">
+        <body>
+            <div corresp="#c2355f1">
+                <head>Hammerfest, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl Reese</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 2, 1866</cell>
+                        <cell>May, 1865 to</cell>
+                    </row>
+                </table>
+                <p>Office discontinued 1870</p>
+            </div>
+            <div corresp="#c2355f2">
+                <head>Hammerfest, Norway</head>
+                <p>Carl Reede (or Pein) Appt'd Agt. by Cons. at Bergen May 16, 1865 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

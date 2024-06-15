@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1541" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taunton, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1540" type="prev"/>
+                <relatedItem target="c1542" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1541f1">
+                <graphic height="3628px" url="02056.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taunton, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02056</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1541f2">
+                <graphic height="3628px" url="02057.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taunton, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1835</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02057</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1541">
+        <body>
+            <div corresp="#c1541f1"/>
+            <div corresp="#c1541f2">
+                <head>Taunton, England</head>
+                <p>J. F. Reeves reported as Agent by Consul at Bristot Nov. 1835 (not
+                    afterwards)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1718" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vladivostok, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1717" type="prev"/>
+                <relatedItem target="c1719" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1718f1">
+                <graphic height="3632px" url="02294.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vladivostok, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02294</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1718">
+        <body>
+            <div corresp="#c1718f1">
+                <head>Vladivostok, Russia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>also<lb/>V.C.</cell>
+                        <cell>Joseph Lugebil (n) Interpreter U.S.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Allentown<lb/>Pa.</cell>
+                        <cell>Calif.<lb/>Pa.</cell>
+                        <cell>Mar. 5, 1904<lb/>Jan. 26, 1910</cell>
+                        <cell>Died Sept. 9, 1906.<lb/>Retired as Int. July 1, 1913.<lb/>Subsequent
+                            Interpreters not commissioned (Memo. from Cons. Rus. 8/18/1913)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold F. Newhard</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.,<lb/>moscow</cell>
+                        <cell>Donald H. Nichols</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>N. mex.<lb/>N. mex.</cell>
+                        <cell>Dec. 23, 1940.</cell>
+                        <cell>To Cairo 1-16-43 <unclear/> clerk</cell>
+                        <cell>Named V.C. of Career<lb/>Cancelled 5-25-42</cell>
+                    </row>
+                    <row>
+                        <cell>new<lb/>opprintee</cell>
+                        <cell>James G. M<sup>c</sup> Cargar</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>Calif</cell>
+                        <cell>Calif.</cell>
+                        <cell>April 2, 1942</cell>
+                        <cell>as Vladivostok</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Edward Lowry Waggoner</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Sept. 4, 1942</cell>
+                        <cell>To Moscow as Clerk 3-24-44.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William E. Wallace</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 23, 1942.</cell>
+                        <cell>To Moscow as V.C. &amp; Attache 10-11-43</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Moscow</cell>
+                        <cell>James C. Risk</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 28, 1948</cell>
+                        <cell>To Moscow as V.C. 6-26-48</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Moscow</cell>
+                        <cell>Thomas R. Senter</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 18, 1947</cell>
+                        <cell>To Moscow as V.C. 6-26-48</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General was instructed on Aug. 25, 1948 to close at once</p>
+                <p>Officially closed September 30, 1948</p>
+            </div>
+        </body>
+    </text>
+</TEI>

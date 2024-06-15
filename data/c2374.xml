@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2374" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ensenada, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2373" type="prev"/>
+                <relatedItem target="c2375" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2374f1">
+                <graphic height="3604px" url="03164.tif" width="6062px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ensenada, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03164</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2374">
+        <body>
+            <div corresp="#c2374f1">
+                <head>Ensenada, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Guaymas</cell>
+                        <cell>William A. Smale</cell>
+                        <cell>3.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>7/24/1930</cell>
+                        <cell>Consul<lb/>5-14-28</cell>
+                        <cell>Calif.</cell>
+                        <cell>Nov. 7, 1930.</cell>
+                        <cell>Apptd. 8.S.O., cl. 6, Oct. 1, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 7</cell>
+                        <cell>William C. Smale</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>10/1/1935</cell>
+                        <cell>Do</cell>
+                        <cell>Calif.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned Cork, Apr. 17, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Cantererp</cell>
+                        <cell>Gerald A. Mokma</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>8-30-1938</cell>
+                        <cell>Consul<lb/>10-1-35</cell>
+                        <cell>Iowa Aug. 26, 1938</cell>
+                        <cell>assgd. Con., Tijuana, June 12, 1940</cell>
+                    </row>
+                </table>
+                <p>Consulate transferred to Tijuana, July 4, 1940</p>
+            </div>
+        </body>
+    </text>
+</TEI>

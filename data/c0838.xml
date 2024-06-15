@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0838" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reynosa, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0837" type="prev"/>
+                <relatedItem target="c0839" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0838f1">
+                <graphic height="3602px" url="01130.tif" width="6056px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Reynosa, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01130</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0838">
+        <body>
+            <div corresp="#c0838f1">
+                <head>Reynosa, Mexico (Established Dec. 6, 1942.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE<lb/>OF RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>(<unclear>nou career</unclear>)</cell>
+                        <cell>Henry G. Krausse</cell>
+                        <cell>7.5.5.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Texas</cell>
+                        <cell>Jan 31, 1947</cell>
+                        <cell>To Merida as Con. 3.25-49</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Henry G. Krausse</cell>
+                        <cell>7.5.5.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Sep. March 28, 1949</cell>
+                        <cell>To Chihuahua as Consul<lb/>6-29-51</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Aruba</cell>
+                        <cell>Edward S. Benet</cell>
+                        <cell>F.S.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Cold.</cell>
+                        <cell>Apr. 19, 1950</cell>
+                        <cell>To Agua Prieta as Consul<lb/>9-15-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Agua Prieta</cell>
+                        <cell>Arthur R. Williams</cell>
+                        <cell>FS0</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Cols.</cell>
+                        <cell>Sept. 15, 1950</cell>
+                        <cell>To Agua Prieta as Consul<lb/>10-14-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Agua Prieta</cell>
+                        <cell>Arthur R. Williams</cell>
+                        <cell>FS0</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul J.F.</cell>
+                        <cell>June 29, 1951</cell>
+                        <cell>To Mexico as Consul 12-3-52</cell>
+                    </row>
+                    <row>
+                        <cell>VN2d Secy.<lb/>Consul<lb/>Jakarta</cell>
+                        <cell>Richard A. Posle Cancelled</cell>
+                        <cell>FS0</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul Texas</cell>
+                        <cell>Aug. 25, 1951</cell>
+                        <cell>To Panama as Attache (FSS)<lb/>6-26-54.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Mexico</cell>
+                        <cell>Walter E. Kneeland</cell>
+                        <cell>755</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Ark.</cell>
+                        <cell>Oct. 24, 1951</cell>
+                        <cell>To Mexico as Consul<lb/>10-17-52.</cell>
+                    </row>
+                    <row>
+                        <cell>V.E. (FSS)<lb/>Reynosa</cell>
+                        <cell>William E. Price</cell>
+                        <cell>755</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Texas</cell>
+                        <cell>Oct. 3, 1952</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Mexico</cell>
+                        <cell>Walter E. Kneeland</cell>
+                        <cell>755</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed to the public July 15, 1954. Officially closed July 30, 1954.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

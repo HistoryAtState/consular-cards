@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5696" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hanoi, Vietnam</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5695" type="prev"/>
+                <relatedItem target="c5697" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5696f1">
+                <graphic height="3008px" url="07445.tif" width="4804px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hanoi, Vietnam</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07445</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5696f2">
+                <graphic height="3020px" url="07446.tif" width="4784px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hanoi, Vietnam</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07446</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5696">
+        <body>
+            <div corresp="#c5696f1">
+                <head>HANOI, Vietnam</head>
+                <p>Pol.Desk-PSA</p>
+                <p>Consulate</p>
+                <p>(SP Post under supervisory jurisdiction</p>
+                <p>( of Legation at Saigon, Vietnam</p>
+                <p>1/9/47 - Consulate established, at 19 Blvd Rollandes.</p>
+                <p>8/18/47 - Consulate Opened to Public.</p>
+                <p>7/1/50 - Designated as Special Purpose Post.</p>
+                <p>Chronological Record</p>
+                <p>7/20/39 - Deptel to Peiping assigning Charles S. Reed, Consul at Saigon to Hanoi
+                    as requested</p>
+                <p>Ambassador Johnson at Chungking-Tel. #395 of 6/1/47. No actual offices to be</p>
+                <p>opened. To be addressed through Saigon. Reporting and assistance to travelers</p>
+                <p>only.</p>
+                <p>12/21/? - Tele. from Bern No. 6025 of Dec. 21 "American Interests" states "Swiss
+                    Cons.</p>
+                <p>Agent Haiphong has taken archives former Amer. Consulate, Hanoi, into
+                    possession".</p>
+                <p>Harrison (Note from old post record cards).</p>
+                <p>12/11/1955- Post closed</p>
+                <p>HANOI, Vietnam CLOSED</p>
+                <p>Consulate (SP)</p>
+                <p>SEA</p>
+            </div>
+            <div corresp="#c5696f2"/>
+        </body>
+    </text>
+</TEI>

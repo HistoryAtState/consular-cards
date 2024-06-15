@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2720" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kuching, Malaysia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2719" type="prev"/>
+                <relatedItem target="c2721" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2720f1">
+                <graphic height="3626px" url="03600.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kuching, Malaysia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03600</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2720">
+        <body>
+            <div corresp="#c2720f1">
+                <head>Kuching, Malaysia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Brunei &amp; Singapore</cell>
+                        <cell>William A. Brown</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Feb. 17, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul Brunei &amp; Singapore</cell>
+                        <cell>Gordon H. Browne</cell>
+                        <cell>PSR</cell>
+                        <cell>Consul</cell>
+                        <cell>April 13, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kuala Lumpur</cell>
+                        <cell>Edward F. Conyngham</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 3, 1964</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell>Kuala Lumpur</cell>
+                        <cell>Robert W. Duemling</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 7, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kuala Lumpur</cell>
+                        <cell>John P. Heimann</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate was officially opened on March 31, 1964.</p>
+                <p><unclear>FSO</unclear> assigned to the Dept., 8-15-65.</p>
+                <p>Assigned to the Dept., 9-12-65.</p>
+                <p><unclear>PSR</unclear> assigned to the US Info. Agency, Washington, D.C.,
+                    5-2-66.</p>
+                <p>Also Consul Brunei. 7-65.</p>
+                <p>Assigned to Dept 8-28-66</p>
+                <p>Also Consul for Brunei</p>
+            </div>
+        </body>
+    </text>
+</TEI>

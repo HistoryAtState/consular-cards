@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0787" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Punta Arenas, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0786" type="prev"/>
+                <relatedItem target="c0788" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0787f1">
+                <graphic height="3636px" url="01065.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Punta Arenas, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01065</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0787f2">
+                <graphic height="3636px" url="01066.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Punta Arenas, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01066</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0787">
+        <body>
+            <div corresp="#c0787f1">
+                <head>Punta Arenas, Chile. See Santiago</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT<lb/>TO CLASS</cell>
+                        <cell>WHENCE<lb/>APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Montevideo</cell>
+                        <cell>Raymond H. Geist</cell>
+                        <cell>V.C.de<lb/>carrière</cell>
+                        <cell>3</cell>
+                        <cell>19/2/6/1921</cell>
+                        <cell>Ohio</cell>
+                        <cell>Aug. 1, 1923.</cell>
+                        <cell>Did not go Punta Arenas<lb/>Common Canceled.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ronald D. Stevenson</cell>
+                        <cell>See below</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>Buenos<lb/>Aires</cell>
+                        <cell>Ronald D. Stevenson</cell>
+                        <cell>F.S.O. Une. 7/1/1924</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 10, 1925.</cell>
+                        <cell/>
+                        <cell>Aug. 11, 1925 to<lb/>Resigned effective July 30, 1927.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>Buenos<lb/>Aires</cell>
+                        <cell>Leslie W. Johnson</cell>
+                        <cell>F.S.O 8 5/26/42</cell>
+                        <cell/>
+                        <cell>Mind. Feb. 18, 1943</cell>
+                        <cell/>
+                        <cell>Consulate Reestablished/ 1-2-41<lb/>Vice Consulate opened to Public
+                            June 23, 1941<lb/>to Buenos Aires May 4-1943</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Vice Consulate will close to the Public October 31, 1946.</p>
+                <p>Vice Consulate closed to the public as of November 30, 1946.</p>
+            </div>
+            <div corresp="#c0787f2">
+                <head>Junta Arenas, Chile</head>
+                <p>Ronald D. Stevenson, V. C. assumed charge of Consulate Aug. 10, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

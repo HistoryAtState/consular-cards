@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5683" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tihwa, China-Sinkiang Prov</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5682" type="prev"/>
+                <relatedItem target="c5684" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5683f1">
+                <graphic height="3010px" url="07422.tif" width="4798px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tihwa, China-Sinkiang Prov</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07422</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5683f2">
+                <graphic height="3010px" url="07423.tif" width="4798px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tihwa, China-Sinkiang Prov</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07423</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5683">
+        <body>
+            <div corresp="#c5683f1">
+                <head>TIHWA, China (Sinkiang Prov)</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>e</cell>
+                        <cell/>
+                        <cell>CA</cell>
+                        <cell>FE</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>C est. 4/19/43, Open 4/20/43 - Closed to Public 8/16/49 - Officially 9/27/49</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS. 376</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>1/4/43</cell>
+                        <cell>DEPTEL drafted - est. on a temporary basis functioning under Embassy,
+                            no separate consular district. DEPTEL 11/28/42 to Embassy re functioning
+                            under supervision of CG at Kunming where practicable in purely consular
+                            functions. Tihwa in old Hankow District. (F.S.List shows Sinkiang Prov.
+                            in Hankow Dist., after opening Tihwa - 9/30/43 edition)</cell>
+                    </row>
+                    <row>
+                        <cell>7/2/43</cell>
+                        <cell>Desp. 1316 from Chungking--enclosure states "I considered that I has
+                            assumed my functions as Consul at Tihwa as of the opening of business
+                            the same day (Apr/20/43" Since Tihwa's permanent office and living
+                            quarters had been</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5683f2">
+                <head>Tihwa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mackiernam, V.C.</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate opened 4/20/43.</p>
+                <p>Office closed to public 8/16/49.</p>
+                <p>Officially closed 9/27/49.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

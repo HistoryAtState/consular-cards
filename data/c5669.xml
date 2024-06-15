@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5669" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lanchow, Kansu, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5668" type="prev"/>
+                <relatedItem target="c5670" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5669f1">
+                <graphic height="3010px" url="07399.tif" width="4800px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lanchow, Kansu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07399</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5669">
+        <body>
+            <div corresp="#c5669f1">
+                <head>LANCHOW, KANSU, CHINA</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Temporary not an office</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>11/6/42</cell>
+                        <cell>O.E. Clubb arrived Lanchow 2/9/43. Rice arrived Lanchow 9/7/43. Tel.
+                            says regular office will not be established. An officer of the Emb. will
+                            be detailed to Lanchow and will be addressed "Sec. of Emb. on detail at
+                            Lanchow, China". All tel. to and from Dept. will be through Emb. Officer
+                            will be commissioned at Kunming in order that he may perform some
+                            consular functions for Amer. citizens. Under supervision of Emb. except
+                            re cons. functions which will be under supervision of CG at
+                            Kunming.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

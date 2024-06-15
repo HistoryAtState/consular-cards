@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4646" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cairo, United Arab Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4645" type="prev"/>
+                <relatedItem target="c4647" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4646f1">
+                <graphic height="3642px" url="06057.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cairo, United Arab Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06057</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4646">
+        <body>
+            <div corresp="#c4646f1">
+                <head>CAIRO, United Arab Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David G. Nes</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bogotá</cell>
+                        <cell>Frederick E. Myers</cell>
+                        <cell>755</cell>
+                        <cell>2</cell>
+                        <cell>Gen.</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>Clifford J. Quinlan</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>Richard B. Parker</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Consul</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also Counselor of Emb. &amp; Deputy Chief of Mission, with pers renk of min.,
+                    5-10-65L.</p>
+                <p>Also 2d Sec. Resigned as 750 only COB 6-18-66. Continues to serve as
+                    Consul(755).</p>
+                <p>Also 1st Sec.</p>
+                <p>Also Counselor of Embassy for Political Affairs.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

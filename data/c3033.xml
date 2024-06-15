@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3033" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Merida, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3032" type="prev"/>
+                <relatedItem target="c3034" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3033f1">
+                <graphic height="3626px" url="03994.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Merida, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03994</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3033">
+        <body>
+            <div corresp="#c3033f1">
+                <head>Mérida, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. <unclear>Jaguala</unclear></cell>
+                        <cell>H. Claremont Bases</cell>
+                        <cell>Vice Con. <unclear>U.S.</unclear></cell>
+                        <cell><unclear>U.S.</unclear></cell>
+                        <cell/>
+                        <cell>S.C.</cell>
+                        <cell>May 10, 1946</cell>
+                        <cell>also admin. Asst. <lb/>
+                            <unclear>So Veracruz</unclear> 6-14-46</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Manila</unclear></cell>
+                        <cell>Arthur V. Metcalfe</cell>
+                        <cell>Vice Consul <unclear>U.S.</unclear></cell>
+                        <cell><unclear>U.S.</unclear></cell>
+                        <cell>Calif.</cell>
+                        <cell>Jan. 30, 1953</cell>
+                        <cell>7-26-54. <lb/> Designated Consul at Mérida <lb/> To Trieste as U.C.
+                            7-28-56</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Shelby M. Currie, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 25, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>George R. Bingham</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 18, 1955</cell>
+                        <cell>Designated V.C. of <lb/> carer Mérida 6-456.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

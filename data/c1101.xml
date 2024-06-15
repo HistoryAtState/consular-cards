@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1101" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puerto Bello, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1100" type="prev"/>
+                <relatedItem target="c1102" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1101f1">
+                <graphic height="3624px" url="01466.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puerto Bello, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1877</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01466</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1101f2">
+                <graphic height="3628px" url="01467.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puerto Bello, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01467</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1101">
+        <body>
+            <div corresp="#c1101f1">
+                <head>Puerto Bello, Colombia. (under Depinwall)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Abrahams</cell>
+                        <cell>Con. Sgh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Apr. 19, 1879</cell>
+                        <cell>Died Feb. 1880.<lb/>Feb. 1880 to Aug. 1883.?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Silverio Ami</cell>
+                        <cell>" " Colom</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Mar. 11, 1880.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1101f2">
+                <head>Puerto Bello, Colombia.</head>
+                <p>√ M. B. Ami – in charge archives Feb. 1880 to (continued as Agent)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

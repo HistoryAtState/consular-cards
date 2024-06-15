@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0212" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harlingen and Friesland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0211" type="prev"/>
+                <relatedItem target="c0213" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0212f1">
+                <graphic height="3636px" url="00305.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harlingen and Friesland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00305</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0212f2">
+                <graphic height="3636px" url="00306.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harlingen and Friesland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1841</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00306</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0212">
+        <body>
+            <div corresp="#c0212f1">
+                <head>(under Amsterdam)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <p>and the Islands of Nieland and)<lb/>Te Shelling</p>
+                <p>(over)</p>
+            </div>
+            <div corresp="#c0212f2">
+                <head>Harlingen and Freeland</head>
+                <table>
+                    <row role="label">
+                        <cell>Mr. Rodenhuys</cell>
+                        <cell>Agt.</cell>
+                        <cell>to June 1841 (Died)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>(son) Arius Johannes Rodenhuys</cell>
+                        <cell>Agt.</cell>
+                        <cell>June 1841 to</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

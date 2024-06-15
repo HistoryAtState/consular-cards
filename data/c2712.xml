@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2712" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kobe, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2711" type="prev"/>
+                <relatedItem target="c2713" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2712f1">
+                <graphic height="3620px" url="03588.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kobe, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1902</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03588</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2712">
+        <body>
+            <div corresp="#c2712f1">
+                <head>Kobe, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Nagasaki</cell>
+                        <cell>Hunter Sharp</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.C.</cell>
+                        <cell>N.C.</cell>
+                        <cell>Aug. 1, 1902.</cell>
+                        <cell>Appt'd Consul Mar. 10, 1905 <lb/> Appt'd C.A. Vladivostok <lb/> Oct.
+                            24, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell>Nagasaki</cell>
+                        <cell>Roger S. Greene</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>June 10, 1905.</cell>
+                        <cell>Died in Yokohama Naval <lb/> Hospital July 18, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud. Int.</cell>
+                        <cell>Walter Gassett</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Hawaii</cell>
+                        <cell>Nov. 29, 1905.</cell>
+                        <cell>Appt'd Del. &amp; Int. at <lb/> Yokohama June 11, 1912.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud. Int.</cell>
+                        <cell>Joseph W. Ballantine</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>of Amer. <lb/> Parents - <lb/> India</cell>
+                        <cell>Mass. Aug. 31, 1911.</cell>
+                        <cell>Appt'd Consul Class 8 Sept. 14, 1917.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud. Int.</cell>
+                        <cell>Eugene H. Dogman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Japan N.Y.</cell>
+                        <cell>May 7, 1915.</cell>
+                        <cell>Appt'd Consul Class 6 Nov. 23, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud. Int.</cell>
+                        <cell>Eile R. Dickover</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Calif. Calif.</cell>
+                        <cell>Oct. 27, 1916.</cell>
+                        <cell>Appt'd F.S.O. Unclassified July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>Laurence E. Salisbury</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Del. Del.</cell>
+                        <cell>July 1, 1922.</cell>
+                        <cell>Resigned effective Feb. 20, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko- <lb/> hama</cell>
+                        <cell>Harman L. Broomall</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Del. Del.</cell>
+                        <cell>Sept. 18, 1922.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nagasaki</cell>
+                        <cell>Irvin C. Correll</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Japan N.J.</cell>
+                        <cell>Sept. 11, 1923.</cell>
+                        <cell>Appt'd V.C.S.D. Int., Nagasaki 1/1/1923.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

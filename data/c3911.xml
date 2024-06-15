@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3911" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sao Luiz, Maranhao, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3910" type="prev"/>
+                <relatedItem target="c3912" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3911f1">
+                <graphic height="3636px" url="05098.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sao Luiz, Maranhao, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05098</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3911f2">
+                <graphic height="3636px" url="05099.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sao Luiz, Maranhao, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05099</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3911">
+        <body>
+            <div corresp="#c3911f1">
+                <head>São Luis, Maranhão, Brasil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk<lb/>Para</cell>
+                        <cell>•Hiley T. Clay<lb/>Thomas Mases</cell>
+                        <cell>Cons. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1940</cell>
+                        <cell>Resigned off. Ceb 5-25-48</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1948</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3911f2">
+                <head>Wiley T. Clay - leave of absence from August 18 to October 31, 1940.</head>
+                <p>Notice from DCR dated December 23, 1940 that this consular agency was opened on
+                    December 14, 1940. No previous note received.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3704" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Berlin, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3703" type="prev"/>
+                <relatedItem target="c3705" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3704f1">
+                <graphic height="3608px" url="04841.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Berlin, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04841</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3704">
+        <body>
+            <div corresp="#c3704f1">
+                <head>BERLIN, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William E. Ryerson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Mar. 4, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Barbados as V.C., 3-28-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gordon L. Streeb</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 1, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Guadalajara as V.C.,<lb/>9-13-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Warren W. Williams</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Mar. 1, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Sofia as V.C. (FSR), 7-20-64.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Charles M. Willett</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 1, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Vienna as Economic officer 9-13-64.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSR)</cell>
+                        <cell>Hamburg James J. Martin</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May 9, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Frankfurt am Main</cell>
+                        <cell>Michael J. Walsh</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>J. Brayton Redecker</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell>To Vientiane and add 3d Secy 7-11-66<lb/>Assigned to Sept
+                            11-6-66</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Allan W. Otto</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 31, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William H. Gussman</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                        <cell>To Montevideo as 2d Sec.,<lb/>2-26-67.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Alan R. Thompson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                        <cell>Designated Consul, Berlin,<lb/>5-13-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Bruce W. Clark</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

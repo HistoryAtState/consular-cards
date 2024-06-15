@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1478" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sudburg, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1477" type="prev"/>
+                <relatedItem target="c1479" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1478f1">
+                <graphic height="3630px" url="01972.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sudburg, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01972</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1478">
+        <body>
+            <div corresp="#c1478f1">
+                <head>Sudbury, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Martin</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 4, 1898.</cell>
+                        <cell>Designed June 8, 1900.<lb/>June 11, 1900 to Jan, 20,1901.<lb/>Died
+                            Jan. 20, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph E. Lockwood</cell>
+                        <cell/>
+                        <cell>Gr. Dr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 17, 1900.</cell>
+                        <cell>Feb. 20, 1902t<lb/>Resigned<lb/>1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Norman .M. Hillary</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct 19, 1901.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David M. Brodje</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb.1, 1907.</cell>
+                        <cell>Apr. 29, 1907 to Nov. 10,1914<lb/>Resigned</cell>
+                    </row>
+                </table>
+                <p>Agency closed Nov 10,1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

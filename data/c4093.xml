@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4093" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tangier, Morocco</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4092" type="prev"/>
+                <relatedItem target="c4094" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4093f1">
+                <graphic height="3644px" url="05340.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tangier, Morocco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05340</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4093">
+        <body>
+            <div corresp="#c4093f1">
+                <head>Tangier, Morocco</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David M. Zimmerman, Jr.</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 30, 1956</cell>
+                        <cell>755 assigned to Dept 11-30-58 <lb/> Designated Cons. <lb/> (159)
+                            Tangier, 6-16-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Leon J. Bajek</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 6, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>The Embassy Branch Office, Tangier, Morocco was elevated to Consulate General
+                    status effective May 23, 1966.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4800" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curacao, Netherlands Antilles</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4799" type="prev"/>
+                <relatedItem target="c4801" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4800f1">
+                <graphic height="3630px" url="06248.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curacao, Netherlands Antilles</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06248</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4800">
+        <body>
+            <div corresp="#c4800f1">
+                <head>CURAÇAO, Netherlands Antilles</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harris H. Huston</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 5, 1962</cell>
+                        <cell/>
+                        <cell>So assigned to the Dept. 3-3-63.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Curaçao Cons.</cell>
+                        <cell>Miss Sharon E. Erdkamp</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>April 7, 1962</cell>
+                        <cell/>
+                        <cell>Resigned as 750 COB 2-13-65. Appt'd 755 BOB 2-14-65. Designated V.C.
+                            (755), Curaçao, 2-15-65. <lb/> To Boumas 2d Sec. 11-22-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Winnipeg V.C. Curaçao</cell>
+                        <cell>G. Ryder Forbes</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 12, 1962</cell>
+                        <cell/>
+                        <cell>780 assigned to the Dept.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph G. Simanis</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 1, 1963</cell>
+                        <cell/>
+                        <cell>Assigned to Dept. 1-2-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Curaçao</cell>
+                        <cell>G. Ryder Forbes</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

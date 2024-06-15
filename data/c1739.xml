@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1739" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Wiesbaden, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1738" type="prev"/>
+                <relatedItem target="c1740" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1739f1">
+                <graphic height="3632px" url="02317.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Wiesbaden, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1901</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02317</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1739f2">
+                <graphic height="3632px" url="02318.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Wiesbaden, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02318</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1739">
+        <body>
+            <div corresp="#c1739f1">
+                <head>Wiesbaden, Germany. (under Frankfort)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Hollmann</cell>
+                        <cell>Com. Agt. Ser.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 19, 1901.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. B. Breuer (n)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ser. N.Y.</cell>
+                        <cell>Aug 26, 1903.</cell>
+                        <cell>superseded<lb/>Appt'd C. at Magdeburg temp.<lb/>Apr. 12, 1904 &amp;
+                            retained at Wiesbaden<lb/>Relations with Der. severed 2/3/1917</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1739f2">
+                <head>Wiesbaden, Germany.</head>
+                <p>Charles Wollman, in charge during absence of Breuer at Magdeburg Apr. 13, 1904
+                    th</p>
+            </div>
+        </body>
+    </text>
+</TEI>

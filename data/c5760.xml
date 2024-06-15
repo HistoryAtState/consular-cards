@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5760" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5759" type="prev"/>
+                <relatedItem target="c5761" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5760f1">
+                <graphic height="3618px" url="07530.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1903</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07530</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5760f2">
+                <graphic height="3575px" url="07531.tif" width="5947px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07531</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5760">
+        <body>
+            <div corresp="#c5760f1">
+                <head>Argentina.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George S. Mella</cell>
+                        <cell>Clerk Argentina</cell>
+                        <cell>Data ry. Clerk</cell>
+                        <cell>Argentina Argentina</cell>
+                        <cell>prior to 1903 (obtainable)</cell>
+                        <cell>June 1, 1903.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5760f2">
+                <head>Argentina</head>
+                <p>Nathan P. Stedman, of Indy, an eligible for a Diplomatic Secretaryship in the
+                    Embassy at $2000 Dec. 21, 1917; arrived Feb. 14, 1918, was appointed a clerk</p>
+            </div>
+        </body>
+    </text>
+</TEI>

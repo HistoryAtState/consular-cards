@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1895" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bermuda</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1894" type="prev"/>
+                <relatedItem target="c1896" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1895f1">
+                <graphic height="3626px" url="02535.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bermuda</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02535</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1895f2">
+                <graphic height="3626px" url="02536.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bermuda</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1824</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02536</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1895">
+        <body>
+            <div corresp="#c1895f1">
+                <head>Bermuda (see Hamilton)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles F. Allen (St. Georges)</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 7, 1868</cell>
+                        <cell>to Apr. 1870?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. C. Hyland</cell>
+                        <cell>(11) Temp. " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 28, 1870</cell>
+                        <cell>Resigned Sept. 16, 1872,<lb/>June 1, 1870 to May 1872</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Whitney (Hamilton)</cell>
+                        <cell>Dep. " " </cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Derby<lb/>Corn.</cell>
+                        <cell>Dec. 10, 1872</cell>
+                        <cell>Resigned June 1878.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James B. Heyl</cell>
+                        <cell>(11) Vice Dep. " " </cell>
+                        <cell/>
+                        <cell>Phila., Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 19, 1878</cell>
+                        <cell>Resigned March 1902.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1895f2">
+                <head>Bermuda</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Francis Forbes Hinson,</cell>
+                        <cell>acty. in chge. (absence of Commil Agt.)</cell>
+                        <cell>Oct 5, 1824 to Dec. 1824.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>W. J. Tucker, commil Agt, absent in M. 3.</cell>
+                        <cell/>
+                        <cell>July 21, 1833 to Sept 2, 1833.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>David Ross Lee, acty, in chge.</cell>
+                        <cell/>
+                        <cell>June 1838 to Aug. 3, 1838.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Consul Tucker absent in Ús.</cell>
+                        <cell/>
+                        <cell>May 12, 1839 to July 30, 1839.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>James W. Musson, acty. in chge.</cell>
+                        <cell>(absence of Consul)</cell>
+                        <cell>June 28, 1843 to Dec. 2,1843.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Consul Tucker absent in W.L.</cell>
+                        <cell/>
+                        <cell>July 1845 to Oct. 1845.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>William A. Outerbridge, actg. in chge.</cell>
+                        <cell/>
+                        <cell>June 20, 1846 to Oct. 13, 184.6.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Consul Wells absent in U. B.</cell>
+                        <cell/>
+                        <cell>July 1847 to fan. 1848.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>William C. Hyland, actg, in chge.</cell>
+                        <cell/>
+                        <cell>May 20, 1848 to Oct 10, 1848.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>June 20, 1850 to July 10, 1850.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>George F. Lough, acting in charge</cell>
+                        <cell/>
+                        <cell>May 24, 1853 to June 25, 1853.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>William Judor Tucker acty. in chge.</cell>
+                        <cell>(death)</cell>
+                        <cell>Sept. 11. 1853 to May 20, 1854.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Samuel P. Watson</cell>
+                        <cell>(no con, absence of Packer)</cell>
+                        <cell>May 20, 1854 to sept. 1854.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>William Juder Tucker</cell>
+                        <cell>(absence of Consul)</cell>
+                        <cell>1854 to Dec. 5, 18524.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>William 6. Hyland</cell>
+                        <cell/>
+                        <cell>April 23, 1855 to Oct 10, 1855.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Henry B. Brown, bom in Mass. acty in chge</cell>
+                        <cell/>
+                        <cell>July 12, 1860 to Nor. 9, 1860.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Consul Wells – absent in U.S.</cell>
+                        <cell/>
+                        <cell>July 12, 1861 to fept. 20, 1861.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Charles F. Allen, a cit. of U.S.</cell>
+                        <cell/>
+                        <cell>July 9, 1863 to Sept. 1863.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>June 1866 to Sept. 1866</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>W. 6. Styland temps v.6.</cell>
+                        <cell>v.6. in chge</cell>
+                        <cell>June 6 1868 to Sept, 4,1868</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>June 1, 1870 to 1870</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>May 21, 1871 to July 5 1871</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

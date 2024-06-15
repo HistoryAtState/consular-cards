@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2346" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Haifa, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2345" type="prev"/>
+                <relatedItem target="c2347" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2346f1">
+                <graphic height="3632px" url="03123.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Haifa, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03123</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2346f2">
+                <graphic height="3632px" url="03124.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Haifa, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1833</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03124</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2346">
+        <body>
+            <div corresp="#c2346f1">
+                <head>Haifa, Syria. (see Acca)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gottlieb Schumacher</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 9, 1891</cell>
+                        <cell>gave up. American citizenship <lb/> Sept. 7, 1891 to Oct. 1904. <lb/>
+                            Resigned Oct. 27/04 upon request</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore J. Struve</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 21, 1906.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2346f2">
+                <head>Haifa, Syria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Gabriel Nasrallah</cell>
+                        <cell>tety Cona. Agt.</cell>
+                        <cell>Sept. 1833 to Apr. 1872?</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Jacob Schumacher</cell>
+                        <cell>"</cell>
+                        <cell>Apr. 1872 to Died Sept. 7, 1891.</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>George Scheerer</cell>
+                        <cell>"</cell>
+                        <cell>in Chq. (Haifa) Cabsence of Agt) July 8, 1897 to (3 mos.)</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>John G. Scheerer</cell>
+                        <cell>"</cell>
+                        <cell>(recip. of Agt Dec 15, 1904. to</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

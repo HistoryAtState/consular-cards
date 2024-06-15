@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0305" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jakarta, Java, Republic of the United States of Indonesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0304" type="prev"/>
+                <relatedItem target="c0306" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0305f1">
+                <graphic height="3642px" url="00423.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jakarta, Java, Republic of the United States of Indonesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00423</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0305">
+        <body>
+            <div corresp="#c0305f1">
+                <head>Jakarta, Java, Republic of the United States of Indonesia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See "Batavia" Card</cell>
+                        <cell>Gilbert L. Newbold</cell>
+                        <cell>F80</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>K.J.</cell>
+                        <cell>April 29, 1949</cell>
+                        <cell>also 3d Secy 1-20-50<lb/>entry Transferred to "Wjakarta" card</cell>
+                    </row>
+                    <row>
+                        <cell>See "Batavia" Card</cell>
+                        <cell>Emory C. Swank</cell>
+                        <cell>F80</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Sept. 15, 1949</cell>
+                        <cell>also 2d Secy 1-30-50<lb/>entry Transferred to "Wjakarta" card</cell>
+                    </row>
+                </table>
+                <p>* Change in spelling of name of capital of Indonesia adopted by the Department
+                    Feb. 14, 1950</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2084" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constantinople, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2083" type="prev"/>
+                <relatedItem target="c2085" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2084f1">
+                <graphic height="3626px" url="02788.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Constantinople, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1861</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02788</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2084">
+        <body>
+            <div corresp="#c2084f1">
+                <head>Constantinople, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Thompson</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>July 12, 1862</cell>
+                        <cell>Aug. 16, 1861/recess Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Garguile</cell>
+                        <cell>Dep. " (temp.)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 18, 1864</cell>
+                        <cell><unclear>by</unclear> Sec'y</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Maynard</cell>
+                        <cell>Marshal (<unclear>Dieg</unclear>)</cell>
+                        <cell>"Cons. Courts in Turkey" U.S. 73 yrs. old.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Jan. 19, 1876</cell>
+                        <cell>Pres. alone</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John G. Longstreet</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Feb. 3, 1881</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Heap</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Sept. 28, 1881</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Bigelow</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 9, 1882</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Pedro D. Allamby (<unclear>a</unclear>)</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 4, 1896</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank L. Dully</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass. Oct. 19, 1899</cell>
+                        <cell>Resigned June 22, 1901</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Smith-Lyte</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Feb. 11, 1902</cell>
+                        <cell>Pres. alone Resigned effect June 30, 1911. <lb/> Appt'd Consul, Class
+                            8, 2/22/15 <lb/> Assigned to Trebizond 2/22/15</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar S. Heizer</cell>
+                        <cell>"</cell>
+                        <cell>U.S. <unclear>Dowa</unclear>
+                            <unclear>Dowa</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 3, 1911.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1394" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shidzuoka, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1393" type="prev"/>
+                <relatedItem target="c1395" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1394f1">
+                <graphic height="3632px" url="01856.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shidzuoka, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01856</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1394f2">
+                <graphic height="3638px" url="01857.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shidzuoka, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01857</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1394">
+        <body>
+            <div corresp="#c1394f1">
+                <head>Phidzuoka, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME. (See over)</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1394f2">
+                <head>Shizuoka, Japan.</head>
+                <p>Consular Bureau says in a memo. dated Feb. 14,1922 that it has been decided to
+                    detail an American consular officer from Yokohama to visit Shidzuoka once each
+                    week for the performance of consular services.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

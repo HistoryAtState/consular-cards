@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4938" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freiburg, Baden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4937" type="prev"/>
+                <relatedItem target="c4939" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4938f1">
+                <graphic height="3624px" url="06411.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Freiburg, Baden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1892</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06411</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4938">
+        <body>
+            <div corresp="#c4938f1">
+                <head>Freiburg, Baden.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. H. Lowrie</cell>
+                        <cell>Coml. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Sept. 29, 1892</cell>
+                        <cell>to Nov. 30, 1893.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elwood Osborne Gesale</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 11, 1893.</cell>
+                        <cell>Dec. 1, 1893 to Oct. 15, 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob H. Thierist</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 27, 1895.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. Theophilus Liefeld</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>Nov. 3, 1897</cell>
+                        <cell>to June 30, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 10, 1898. Cons.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

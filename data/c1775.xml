@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1775" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yunnanfu, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1774" type="prev"/>
+                <relatedItem target="c1776" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1775f1">
+                <graphic height="3632px" url="02364.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yunnanfu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1923</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02364</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1775">
+        <body>
+            <div corresp="#c1775f1">
+                <head>Yunnanfu, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Harbin</cell>
+                        <cell>Flavius J. Chapman</cell>
+                        <cell>3d Vice Con</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>May 18, 1923.</cell>
+                        <cell>Did not go to Yunnanfu<lb/>After U.C. Int, Hankow 9/11/1923</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Leg.<lb/>Pekin</cell>
+                        <cell>William I. Hagen</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Hillsboro<lb/>N.Dak</cell>
+                        <cell>N.Dak</cell>
+                        <cell>Aug. 11, 1927</cell>
+                        <cell>Sept 22, 1927<lb/>Resigned effective about Feb 25, 1928</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk int<lb/>Consulate</cell>
+                        <cell>John D. Dervice</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>July 7, 1934</cell>
+                        <cell>Students Oct.<lb/>Ass'd to Embassy, Peiping as Chargé</cell>
+                    </row>
+                    <row>
+                        <cell>Shanghai</cell>
+                        <cell>James A. Collins, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Sept. 9, 1938</cell>
+                        <cell>Appt'd V.C., Shanghai. May 24/39</cell>
+                    </row>
+                </table>
+                <p>Name changed to Kunming, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

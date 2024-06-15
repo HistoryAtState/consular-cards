@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3991" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sofia, Bulgaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3990" type="prev"/>
+                <relatedItem target="c3992" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3991f1">
+                <graphic height="3638px" url="05208.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sofia, Bulgaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05208</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3991">
+        <body>
+            <div corresp="#c3991f1">
+                <head>Sofia, Bulgaria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul <lb/> Triste</cell>
+                        <cell>Harlan Southerland Canalle Dice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 3, 1950</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>United States severed diplomatic relations with Bulgaria Feb. 21, 1950</p>
+                <p>Diplomatic Relations Resumed March 1959</p>
+                <p>Raised from Legation to Embassy eff. Nov. 28, 1966.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

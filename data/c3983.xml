@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3983" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Soerabaya, Java</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3982" type="prev"/>
+                <relatedItem target="c3984" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3983f1">
+                <graphic height="3642px" url="05196.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Soerabaya, Java</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05196</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3983f2">
+                <graphic height="3642px" url="05197.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Soerabaya, Java</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05197</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3983">
+        <body>
+            <div corresp="#c3983f1"/>
+            <div corresp="#c3983f2">
+                <head>Soerabaya, Java.</head>
+                <p>Rollin R. Winslow, lately F.S.O., Unclassified, was apptz S.S. C. class 8 Feb.
+                    24.1925. Also Consul Mar 3, 1925, Assigned to Soerabaya Mar. 18, 1925,</p>
+                <p>assigned to Winnipeg July 23, 1926.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

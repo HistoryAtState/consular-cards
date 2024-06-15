@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0207" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harbin, Manchuria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0206" type="prev"/>
+                <relatedItem target="c0208" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0207f1">
+                <graphic height="3632px" url="00300.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harbin, Manchuria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00300</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0207">
+        <body>
+            <div corresp="#c0207f1">
+                <head>Harbin, Manchuria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Mukden</cell>
+                        <cell>Nelson T. Johnson</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Okla.</cell>
+                        <cell>Apr. 18, 1910</cell>
+                        <cell>Appt'd V.V.D. CG&amp;Int., Hankow 7/30/10</cell>
+                    </row>
+                    <row>
+                        <cell>Mukden</cell>
+                        <cell>Crawford M. Bishop</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>May 9, 1914.</cell>
+                        <cell>Appt'd C.G.&amp;Int. Shanghai 1/1/1914</cell>
+                    </row>
+                    <row>
+                        <cell>Stug. Int</cell>
+                        <cell>Flavius J. Chapman, 3d</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>Oct. 9, 1922.</cell>
+                        <cell>Appt'd C.G.&amp;Int. Yunnanfu 7/18/1922</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

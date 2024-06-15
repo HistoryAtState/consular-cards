@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2007" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caibarien, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2006" type="prev"/>
+                <relatedItem target="c2008" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2007f1">
+                <graphic height="3626px" url="02692.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caibarien, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1903</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02692</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2007f2">
+                <graphic height="3626px" url="02693.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caibarien, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02693</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2007">
+        <body>
+            <div corresp="#c2007f1">
+                <head>Caibarien, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>R.B. Anderson</cell>
+                        <cell>Con. Ast. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 9, 1903</cell>
+                        <cell>July 2, 1903 to Nov. 18, 1921<lb/>Resigned about Oct. 17, 1921
+                            effective<lb/>as soon as possible.<lb/>Nov. 18, 1921 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Milton S. Lankford</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Princess<lb/>amne,<lb/>Md.</cell>
+                        <cell>Nov. 14, 1921</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Acting<lb/>Agent</cell>
+                        <cell>Andrew C.M.Namara</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 7, 1928.</cell>
+                        <cell>Res. effec. June 30, 1933.<lb/>Services terminated<lb/>effective,
+                            C.O.P. June 30, 1933</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Federico Causo</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Cuba</cell>
+                        <cell>Sep. 14, 1933.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consular Agent closed at Cuba. June 30, 1943</p>
+            </div>
+            <div corresp="#c2007f2"/>
+        </body>
+    </text>
+</TEI>

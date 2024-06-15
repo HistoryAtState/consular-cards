@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0705" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Newchwang, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0704" type="prev"/>
+                <relatedItem target="c0706" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0705f1">
+                <graphic height="3632px" url="00963.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Newchwang, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1902</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00963</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0705">
+        <body>
+            <div corresp="#c0705f1">
+                <head>Newchwang, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter J. Lister</cell>
+                        <cell>Marshal Gr. Br.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 11, 1902</cell>
+                        <cell>Resigned May 10, effect July 1, 1904. <lb/> Office closed by set of
+                            <lb/> June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles McCaslin</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 7, 1904</cell>
+                        <cell>Resigned, effect upon departure of <lb/> Menen for Warsaw - H.Left
+                            2/20/09</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Miles (n)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mini Dec. 14, 1907</cell>
+                        <cell>"</cell>
+                    </row>
+                    <row>
+                        <cell>also<lb/>10/1/10</cell>
+                        <cell>Clarence E. Sargent</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Yokohama <lb/> Japan</cell>
+                        <cell>Cal. Apr. 29, 1909</cell>
+                        <cell>"</cell>
+                        <cell>Resigned effect Dec 31, 1912</cell>
+                    </row>
+                    <row>
+                        <cell>also<lb/>1/1/10</cell>
+                        <cell>Milton B. McIntosh</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind. Md.</cell>
+                        <cell>July 19, 1913</cell>
+                        <cell>"</cell>
+                        <cell>Resigned Oct. 7, 1913, effect upon <lb/> arrival in Wash about Nov.
+                            12, 13 <lb/> Appt'd Marshal, Changsha <lb/> Mar. 15, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>Mingator</cell>
+                        <cell>Robert Grauer (father naturalized) <lb/> while Robt was <lb/> a
+                            minor</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Hamburg <lb/> Germany</cell>
+                        <cell>Ohio Sept. 18, 1914.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed March 6, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

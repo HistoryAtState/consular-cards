@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4640" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bujumbura, Kingdom of Burundi-Usumbura</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4639" type="prev"/>
+                <relatedItem target="c4641" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4640f1">
+                <graphic height="3628px" url="06050.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bujumbura, Kingdom of Burundi-Usumbura</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06050</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4640">
+        <body>
+            <div corresp="#c4640f1">
+                <head>BUJUMBURA, Kingdom of Burundi (Formerly USUMBURA)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Moscow</cell>
+                        <cell>Thompson R. Buchanan</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>Dec. 21, 1964</cell>
+                        <cell/>
+                        <cell>alas Counselor of Embassy and Deputy Chief of Mission. To Libreville
+                            as Cons. Couns. of Emb. Deputy Chief of Mission, 131-66. Detail
+                            terminated 8-10-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Martin S. Bowe, Jr. (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry C. Barringer</cell>
+                        <cell>FSR</cell>
+                        <cell>Consul</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Yascende</cell>
+                        <cell>Lloyd Livingston Lee</cell>
+                        <cell>cancelled FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>Dec. 20, 1965</cell>
+                        <cell/>
+                        <cell>Also counselor of Embassy + Deputy Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Philip A. Heller (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>Feb. 1, 1966</cell>
+                        <cell/>
+                        <cell>Detail terminated 3-19-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Brazzaville</cell>
+                        <cell>Lloyd M. Rives</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>Mar. 14, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>BUJUMBURA, Republic of Burundi - eff. Nov. 28, 1966</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4893" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Enugu, Federation of Nigeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4892" type="prev"/>
+                <relatedItem target="c4894" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4893f1">
+                <graphic height="3632px" url="06359.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Enugu, Federation of Nigeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06359</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4893">
+        <body>
+            <div corresp="#c4893f1">
+                <head>ENUGU, FEDERATION OF NIGERIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>FSD.N.W.<lb/>Universit<lb/>Evanston In</cell>
+                        <cell>Robert P. Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons. July 2, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gilbert Cruter</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Dec. 13, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C<lb/>Enugu<lb/>As<lb/>of 10-1-63<lb/>---- ...</cell>
+                        <cell>Nelson C. Ledsky</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons. Mar. 1, 1963</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Herman Stein</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. June 3, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert J. Barnard</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons. June 21, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Enugu</cell>
+                        <cell>Robert R. Strand</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons. May 13, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Asmara</cell>
+                        <cell>Thomas J. Mulvehill</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Feb. 3, 1967</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate established at Enugu, effective July 2, 1962.</p>
+                <p>750 assigned to the<lb/>Dept., 8-29-65.</p>
+                <p>To Bonn as 2d Sec., 10-11-64.</p>
+                <p>To Addis Ababa as Riforma-<lb/>tion officer (75R) (USIA), 4-24-66.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

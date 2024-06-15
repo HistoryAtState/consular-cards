@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2416" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Foochow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2415" type="prev"/>
+                <relatedItem target="c2417" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2416f1">
+                <graphic height="3634px" url="03219.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Foochow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03219</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2416f2">
+                <graphic height="3634px" url="03220.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Foochow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03220</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2416">
+        <body>
+            <div corresp="#c2416f1">
+                <head>Foochow, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Peking</cell>
+                        <cell>Ernest Price</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>/</cell>
+                        <cell>10-18-1919</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 4, 1920</cell>
+                        <cell>Detailed to Canton Oct. 18, 1920. <lb/>Assigned to Canton Nov. 15,
+                            1920.</cell>
+                    </row>
+                    <row>
+                        <cell>Tang. Steuben, Peking</cell>
+                        <cell>Gordon L. Burke</cell>
+                        <cell>2.8.0. Unc.</cell>
+                        <cell>8/24/1927</cell>
+                        <cell>Ga.</cell>
+                        <cell>Feb. 6, 1931.</cell>
+                        <cell>Appt'd 7.S.O., cl. 8, also Consul, Foochow, Oct. 1, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Ralph Downsend</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 9, 1932.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Foochow</cell>
+                        <cell>Ralph Downsend</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 26, 1932.</cell>
+                        <cell>Res. office Feb. 12, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Manila</cell>
+                        <cell>Alvin D. Rowe, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>3/14/1938</cell>
+                        <cell>Tar.</cell>
+                        <cell>Oct. 29, 1938.</cell>
+                        <cell>Ass'd to Shanghai, Apr. 11, 1939. <lb/>Ass'd to Taikohsu, Nov. 8,
+                            1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Canton</cell>
+                        <cell>Edward E. Tice</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/1/1936</cell>
+                        <cell>Nic.</cell>
+                        <cell>Aug. 23, 1940.</cell>
+                        <cell>Appt'd 7.S.O., cl. 8, Sep. 3, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell>Unc.</cell>
+                        <cell>Edward E. Rice</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>9-3-40</cell>
+                        <cell>Nic.</cell>
+                        <cell>Do</cell>
+                        <cell>apptd. Consul, Oct. 5, 1940. <lb/>assgd. Consul, Foochow, Oct. 16,
+                            1940.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed January 31, 1942.</p>
+            </div>
+            <div corresp="#c2416f2">
+                <head>Foochow, China.</head>
+                <p>Ernest B. Price, V.C. de carrière reported that he took charge of the Consulate
+                    May 15, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

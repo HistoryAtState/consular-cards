@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2383" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Essen, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2382" type="prev"/>
+                <relatedItem target="c2384" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2383f1">
+                <graphic height="3632px" url="03177.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Essen, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03177</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2383">
+        <body>
+            <div corresp="#c2383f1">
+                <head>Essen, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Eichhoff</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 5, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fritz Asthover Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 17, 1891</cell>
+                        <cell>Superseded (by Mefford)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Herman Wiecking</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Inda Sept. 22, 1893.</cell>
+                        <cell>July 15, 1904 to Mar. 11, 1905<lb/>Resigned Mar. 6, 1905</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry L. Mefford</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sel. Mar. 23, 1904</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Mar. 29, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0926" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. George, Bermuda</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0925" type="prev"/>
+                <relatedItem target="c0927" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0926f1">
+                <graphic height="3632px" url="01239.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. George, Bermuda</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01239</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0926f2">
+                <graphic height="3630px" url="01240.tif" width="5974px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. George, Bermuda</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01240</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0926">
+        <body>
+            <div corresp="#c0926f1">
+                <head>St George Bermuda. (see St Georges)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William D. Lent (n)</cell>
+                        <cell>Con. Azt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Freeport</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 9, 1907.</cell>
+                        <cell>Commission canceled 3/5/09.<lb/>(Charges) per file #3766/32-39</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry A. Smith</cell>
+                        <cell>" "</cell>
+                        <cell>Gn. Br.</cell>
+                        <cell>Bermuda</cell>
+                        <cell>Bermuda</cell>
+                        <cell>Mar. 15, 1909.</cell>
+                        <cell>Mar. 18, 1909 to June 30, 190<lb/>Resigned effective July 1 to 23 ine)
+                            July 24, 1909 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin I. Outerbridge</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>June 22, 1909.</cell>
+                        <cell>Resigned Dec. 2, 1909.</cell>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>William H. Potter</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Phila., Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 21, 1909.</cell>
+                        <cell>Jan. 13, 1910 to Left Oct. 1, 1912</cell>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>Territt H. Higinbothom</cell>
+                        <cell>" "</cell>
+                        <cell>Dr. Bermuda</cell>
+                        <cell>Bermuda</cell>
+                        <cell>June 25, 1914.</cell>
+                        <cell>Died in New York City Feb. 15, 1917.</cell>
+                    </row>
+                </table>
+                <p>Continued on "St. George's," Bermuda card</p>
+                <p># Mr. Potter resided at Baylis Bay at time of taking charge of the St. George
+                    Agency to</p>
+            </div>
+            <div corresp="#c0926f2">
+                <head>St. George, Bermuda.</head>
+                <p>T. T. Higginbotham, of St. George, In chg. of agency October 1911 to December
+                    1911</p>
+                <p>Edgar Lumley Meyer, in chg. of agency (departure Potter) Oct. 1, 1912 to Feb. 28,
+                    1914.</p>
+                <p>Edgar Lumley Meyer, Acting Consular Agent (apptd by Consul) Mar. 2, 1914 to -
+                    apptd Agent June 25, 1914.</p>
+                <p>Territt T. Higginbotham, Br. subject, Acting Consular Agent (absence and
+                    subsequent death of Higginbotham) Jan. 6, 1917 to</p>
+                <p>F. J. Robertson, Acting Consular Agent (absence and subsequent death of
+                    Higginbotham) Jan. 6, 1917 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

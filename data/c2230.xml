@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2230" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eibenstock, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2229" type="prev"/>
+                <relatedItem target="c2231" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2230f1">
+                <graphic height="3626px" url="02978.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Eibenstock, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1902</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02978</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2230">
+        <body>
+            <div corresp="#c2230f1">
+                <head>Eibenstock, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest L. Harris</cell>
+                        <cell>Onltgt US.</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>No. 11, 1902.</cell>
+                        <cell>Dec. 11, 1902 to June 29, 1905<lb/>Apptd Cons, Chemnitz 3/28/05</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles C. Barnes</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jel.</cell>
+                        <cell>Mar. 23, 1905.</cell>
+                        <cell>Died in Chicago Dec. 20, 1905</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William &amp; Deichmann</cell>
+                        <cell>Consul</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell>June 25, 1906</cell>
+                        <cell>Aug. 12, 1906 to<lb/>Conf. Apptd Cons. Colombo 6/10/1908.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+                <p>Archives, Records and Supplies sent to the Consulate at Plauen (see File
+                    7469/19-20</p>
+            </div>
+        </body>
+    </text>
+</TEI>

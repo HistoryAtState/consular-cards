@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0222" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harve, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0221" type="prev"/>
+                <relatedItem target="c0223" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0222f1">
+                <graphic height="3630px" url="00320.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harve, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1937</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00320</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0222f2">
+                <graphic height="3630px" url="00321.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Havre, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00321</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0222">
+        <body>
+            <div corresp="#c0222f1">
+                <head>Havre, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Cherbourg</cell>
+                        <cell>W. Stratton Anderson, Jr.</cell>
+                        <cell>8.A.C.</cell>
+                        <cell>Uue.</cell>
+                        <cell>7/2/1937c</cell>
+                        <cell>Ill.</cell>
+                        <cell>July 8, 1937</cell>
+                        <cell>Detailed to Dept. Jan. 17, 1939</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry M. Donaldson</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>1/18/1936</cell>
+                        <cell>Fa.</cell>
+                        <cell>Oct. 27, 1937</cell>
+                        <cell>Assgd. to Bilbao, July 3, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David M. Smythe</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>7/6/1938R</cell>
+                        <cell>Tenn.</cell>
+                        <cell>July 20, 1938</cell>
+                        <cell>Assgd. as V.C. Havre, Dep. 26, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William O. Boswell</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>3/4/1939c</cell>
+                        <cell>Fa.</cell>
+                        <cell>Mar. 7, 1939</cell>
+                        <cell>Assgd. to Dept. State, Jan. 2, 1940.</cell>
+                    </row>
+                </table>
+                <p>Consulate temporarily closed June 9, 1940.</p>
+                <p>American Consulate at Havre, France was reestablished February 16, 1945.</p>
+                <p>American Consulate of Havre, France was opened to the public on March 1,
+                    1945.</p>
+                <p>For subsequent entries see Le Havre, France (name changed Mar. 1, 1945)</p>
+            </div>
+            <div corresp="#c0222f2">
+                <head>Haure, France</head>
+                <p>Harry M. Donaldson left Haure en route for Sami, June 7, 1940, detailed to
+                    Bordeant, June 11, 1940; detailed to Lisbon, June 28, 1940; intercepted at
+                    Bilbao July 5, 1940, detailed there temporarily.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

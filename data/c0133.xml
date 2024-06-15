@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0133" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ayamonte and Huelva, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0132" type="prev"/>
+                <relatedItem target="c0134" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0133f1">
+                <graphic height="3622px" url="00193.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ayamonte and Huelva, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00193</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0133f2">
+                <graphic height="3622px" url="00194.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ayamonte and Huelva, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1795</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00194</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0133">
+        <body>
+            <div corresp="#c0133f1">
+                <head>Ayamonte &amp; Huelva, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <p>(over)</p>
+            </div>
+            <div corresp="#c0133f2"/>
+        </body>
+    </text>
+</TEI>

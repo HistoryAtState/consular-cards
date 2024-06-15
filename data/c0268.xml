@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0268" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Huelva, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0267" type="prev"/>
+                <relatedItem target="c0269" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0268f1">
+                <graphic height="3640px" url="00376.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Huelva, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00376</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0268">
+        <body>
+            <div corresp="#c0268f1">
+                <head>Huelva, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Saigon</cell>
+                        <cell>Horace Remillard</cell>
+                        <cell>Con. 6</cell>
+                        <cell>7/5/1919</cell>
+                        <cell>Mass. Mass</cell>
+                        <cell>July 1, 1920</cell>
+                        <cell>Apr. 24, 1921 to<lb/>Detailed to Rome Mar. 12, 1924.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate ordered closed, March 12, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

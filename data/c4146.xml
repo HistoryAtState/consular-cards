@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4146" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tokyo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4145" type="prev"/>
+                <relatedItem target="c4147" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4146f1">
+                <graphic height="3618px" url="05400.tif" width="6046px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tokyo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05400</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4146">
+        <body>
+            <div corresp="#c4146f1">
+                <head>TOKYO, JAPAN</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Nagoya V.C.</cell>
+                        <cell>Carleton C. Brower</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell>Assigned to Dept 7-31-66</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>Miss Hazel E. Gordon</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1955</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To Dept <unclear>cancled</unclear></cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo/FSI</cell>
+                        <cell>Charles T. Prindeville, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.To Guaya-quil as Cons. 5-23-66</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>James E. Baker</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dublin</cell>
+                        <cell>Kiyonao Okami</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sunao Sakamoto</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

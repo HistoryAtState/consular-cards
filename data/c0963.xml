@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0963" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Palamos, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0962" type="prev"/>
+                <relatedItem target="c0964" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0963f1">
+                <graphic height="3632px" url="01288.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palamos, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01288</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0963f2">
+                <graphic height="3628px" url="01289.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Palamos, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1844</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01289</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0963">
+        <body>
+            <div corresp="#c0963f1">
+                <head>Palamos, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Junius H. Stone</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Comm.</cell>
+                        <cell>Sept. 26, 1913.</cell>
+                        <cell>Nov. 29, 1913 to <lb/> Resigned Apr. 15, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gilbert Benyon Tinker</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Dr. London, Eng.</cell>
+                        <cell>Spain</cell>
+                        <cell>May 31, 1916.</cell>
+                        <cell>Oct. 31, 1916 to <lb/> Appt'd Con. Agt. Vice Con. 10/30/18</cell>
+                    </row>
+                    <row>
+                        <cell>Con. Agt.</cell>
+                        <cell>Gilbert Benyon Tinker Vice Con.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Oct. 30, 1918</cell>
+                        <cell>Retired % closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Nov. 30, 1919</p>
+            </div>
+            <div corresp="#c0963f2">
+                <head>Palamos, Spain.</head>
+                <p>"D. Jose Duran, a Spanish subject, appt'd by Consul at Barcelona Sept. 1844 to ?
+                    1853</p>
+                <p>James McKerlie, Acting Consular Agent (resig of Stone) May 1, 1916 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

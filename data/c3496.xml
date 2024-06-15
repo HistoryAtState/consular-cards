@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3496" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port-au-Prince, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3495" type="prev"/>
+                <relatedItem target="c3497" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3496f1">
+                <graphic height="3610px" url="04574.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port-au-Prince, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04574</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3496">
+        <body>
+            <div corresp="#c3496f1">
+                <head>PORT_AU-PRINCE, HAITI</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Joseph E. Gross</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 15, 1955</cell>
+                        <cell>F.S.S. off. assigned to the Dept. 5-4-58 <lb/> To Guadalajara, Mex.
+                            2-23-57</cell>
+                    </row>
+                    <row>
+                        <cell>UCons.</cell>
+                        <cell>Stephen S. Johnson</cell>
+                        <cell>Vice Consl</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct 24, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Miss Sue E. Harlow</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 29, 1956</cell>
+                        <cell>Resigned from F.S. Corps 4-4-59 <lb/> apptd. FSR officer 4-5-59 <lb/>
+                            FSR assigned to Port-au-Prince</cell>
+                    </row>
+                    <row>
+                        <cell>Ohahran</cell>
+                        <cell>James R. Connelly</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 26, 1959</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Manila</cell>
+                        <cell>Walter T. Hansen</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

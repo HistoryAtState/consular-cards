@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0175" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canton, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0174" type="prev"/>
+                <relatedItem target="c0176" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0175f1">
+                <graphic height="3632px" url="00254.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canton, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00254</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0175f2">
+                <graphic height="3632px" url="00255.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canton, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00255</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0175">
+        <body>
+            <div corresp="#c0175f1">
+                <head>Canton, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James T. Rousseau</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1948</cell>
+                        <cell>To Hong Kong as V.C. 9-5-49</cell>
+                    </row>
+                    <row>
+                        <cell>Perth</cell>
+                        <cell>Rudolf W. Hefti</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Oct. 12, 1948</cell>
+                        <cell>To Free Territory of Trieste as V.C. 1027-49</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Archibald A. M. Sadger, Jr. <unclear/>Cancelled</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.C.</cell>
+                        <cell>Apr. 2, 1948</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Miss Helen W. Rosa <unclear/>Cancelled</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>May 28, 1949</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>asst</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Canton</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General closed to Public Aug. 12, 1949</p>
+                <p>Officially closed Aug. 27, 1949</p>
+            </div>
+            <div corresp="#c0175f2">
+                <head>John Sherry, Vice Consul, Canton, China, Aug. 5, 1948 (Special Appointment) to
+                    Hong Kong as V.C. Spec. Appt. 10-26-49</head>
+            </div>
+        </body>
+    </text>
+</TEI>

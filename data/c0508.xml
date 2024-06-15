@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0508" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madeira, Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0507" type="prev"/>
+                <relatedItem target="c0509" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0508f1">
+                <graphic height="3638px" url="00694.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madeira, Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1790</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00694</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0508">
+        <body>
+            <div corresp="#c0508f1">
+                <head>Madeira, Island. (see Finchal)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Marsden Pintard</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 7, 1790 Conf.</cell>
+                        <cell>salary such as allowed by law. Fees</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Marien Lemar</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Feb. 8, 1803 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Leander Gatheart</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 29, 1806 Conf.</cell>
+                        <cell>Appt'd Consul Cadiz Aug. 8, 1815 Fees</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. McPherson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Oct. 25, 1815 Recess</cell>
+                        <cell>Fees</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Howard March</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.H.</cell>
+                        <cell>Dec. 17, 1816 Conf.</cell>
+                        <cell>Fees &amp; salary 1500 for year 1856</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 21, 1816 Recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March served, apparently, until 1861.</cell>
+                    </row>
+                </table>
+                <p>Sue Funchal, Madeira for further entries.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

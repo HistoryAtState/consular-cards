@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1443" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stanstead, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1442" type="prev"/>
+                <relatedItem target="c1444" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1443f1">
+                <graphic height="3628px" url="01918.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stanstead, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01918</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1443">
+        <body>
+            <div corresp="#c1443f1">
+                <head>Stanstead, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Cheney</cell>
+                        <cell>Com.Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 8, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Austin J. Foster</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 14, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace S. Haskell</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 26, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin F. Butterfield</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Vt.</cell>
+                        <cell/>
+                        <cell>Feb. 8, 1889.</cell>
+                        <cell>Resigned to date Oct. 10, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace S. Haskell</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Vt.</cell>
+                        <cell/>
+                        <cell>Nov. 17, 1893</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin F. Butterfield</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Vt.</cell>
+                        <cell/>
+                        <cell>Oct. 15, 1897.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed April 13, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

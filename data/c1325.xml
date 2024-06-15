@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1325" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago de Cuba, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1324" type="prev"/>
+                <relatedItem target="c1326" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1325f1">
+                <graphic height="3590px" url="01762.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santiago de Cuba, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01762</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1325">
+        <body>
+            <div corresp="#c1325f1">
+                <head>Santiago de Cuba, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>U. Cons.</cell>
+                        <cell>Harry W. Story</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Consul N. Cas. Sept. 20, 1951</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Santos, Brazil as consul 3-23-55</cell>
+                    </row>
+                    <row>
+                        <cell>Santiago de Cuba</cell>
+                        <cell>Oscar H. Guerra</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Consul Lepas Nov. 24, 1956</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>750 assigned to Dept. 6-1-58</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Park J. Wollam</cell>
+                        <cell>F50</cell>
+                        <cell>4</cell>
+                        <cell>Consul Calif. Feb. 24, 1958</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>750 assigned to Naval War Coll. Newport, R.I. 8-7-60</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Santiago de Edward L. Eberhardt</cell>
+                        <cell>F-SO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Mar. 9, 1959</cell>
+                        <cell>To Matamoros, Mexico as Cons. 3-29-61.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>2d sec.</unclear></cell>
+                        <cell>Quito Godfrey Harvey Summ</cell>
+                        <cell>F50</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 11, 1960</cell>
+                        <cell><unclear>ASO assigned to the Dept. 3-5-61.</unclear></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

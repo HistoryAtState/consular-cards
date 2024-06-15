@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5811" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nicaragua</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5810" type="prev"/>
+                <relatedItem target="c5812" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5811f1">
+                <graphic height="3618px" url="07604.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nicaragua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07604</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5811">
+        <body>
+            <div corresp="#c5811f1">
+                <head>(Clerks) Nicaragua.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Caldera</cell>
+                        <cell>Clerk Me. La. Aug.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>1908</cell>
+                        <cell>(see his card)</cell>
+                        <cell>Resigned July 18, 1910.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Blake Modica</cell>
+                        <cell>"</cell>
+                        <cell>N.J. N.J.</cell>
+                        <cell>Jan. 5, 1911.</cell>
+                        <cell>Resigned and left Managua end of July 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert B. Weitzel</cell>
+                        <cell>"</cell>
+                        <cell>Ky. Ky.</cell>
+                        <cell>Mar. 7, 1912.</cell>
+                        <cell>Reigned. Resignation accepted 6/11/1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Blake Modica</cell>
+                        <cell>"</cell>
+                        <cell>N.J. N.J.</cell>
+                        <cell>Dec. 26, 1912</cell>
+                        <cell>Resigned July, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theron S. Brown</cell>
+                        <cell>"</cell>
+                        <cell>S. Dak. S. Dak.</cell>
+                        <cell>Apr. 22, 1915.</cell>
+                        <cell>Resigned Feb. 15, 1916.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Grace Whiting Wicker</cell>
+                        <cell>"</cell>
+                        <cell>Vt. Nica.</cell>
+                        <cell>Feb. 16, 1916</cell>
+                        <cell>Served to Mar. 16, 1916.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lindsley Dodd</cell>
+                        <cell>"</cell>
+                        <cell>N.J. N.J.</cell>
+                        <cell>Mar. 8, 1916.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3345" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oporto, Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3344" type="prev"/>
+                <relatedItem target="c3346" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3345f1">
+                <graphic height="3610px" url="04383.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oporto, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04383</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3345">
+        <body>
+            <div corresp="#c3345f1">
+                <head>OPORTO, PORTUGAL</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Conoulo<lb/>Jono sec.<lb/>Lisbon</cell>
+                        <cell>John Q. Blodgett</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul D.C.</cell>
+                        <cell>Aug. 4, 1955</cell>
+                        <cell>to Lislom as cona &amp; 2d Sec.<lb/>8-20-55.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Lisbon<lb/>Cons.d Istsec.</cell>
+                        <cell>Ernest V. Palutnik</cell>
+                        <cell>Fss</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Consul Mont.</cell>
+                        <cell>Aug. 24, 1955</cell>
+                        <cell>To Oslo as Conso.2-11-56.</cell>
+                    </row>
+                    <row>
+                        <cell>Madrid<lb/>2d Sec.<lb/>Consul</cell>
+                        <cell>Thomas J. Duffield</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul mass.</cell>
+                        <cell>Oct. 20, 1956</cell>
+                        <cell>750 assigned to Dayit. 10-19-58</cell>
+                    </row>
+                    <row>
+                        <cell>Dublin</cell>
+                        <cell>J. Alfred Lafirenière</cell>
+                        <cell>FSO</cell>
+                        <cell>Y</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>July 14, 1958</cell>
+                        <cell>To Lourenço Marques<lb/>as cons., 0-6-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Juan L. Horrell</cell>
+                        <cell>fso</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Sept. 30, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Raymond J. Swanson</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul Detail</cell>
+                        <cell>July 22, 1966</cell>
+                        <cell>Detail terminated 9-16-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

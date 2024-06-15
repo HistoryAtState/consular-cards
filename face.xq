@@ -9,9 +9,9 @@ declare option output:method "html";
 declare option output:html-version "5";
 declare option output:media-type "text/html";
 
-let $cards-doc := doc("/db/apps/consular-cards/data/consular-cards.xml")
+let $all-cards := collection("/db/apps/consular-cards/data")
 let $face-id := request:get-parameter("id", ())
-let $face := $cards-doc//tei:surface[@xml:id eq $face-id]
+let $face := $all-cards//tei:surface[@xml:id eq $face-id]
 return
 
     (: Catch missing or malformed `id` parameter, temporary workaround to avoid XSS :)
@@ -32,6 +32,7 @@ return
 let $primary-label := $face//tei:f[@name eq "label"]/tei:string/string()
 let $title := "Face " || $face-id || " (“" || $primary-label || "”)"
 let $card := $face/parent::tei:surfaceGrp
+let $card-id := root($card)/tei:TEI/@xml:id/string()
 let $content := 
     <div>
         <h2>{$title}</h2>
@@ -44,7 +45,6 @@ let $content :=
             </thead>
             <tbody>
                 {
-                    let $card-id := $card/@xml:id/string()
                     let $faces := $card/tei:surface
                     return
                         <tr>
@@ -60,6 +60,7 @@ let $content :=
                                         <tr>
                                             <th>Face</th>
                                             <th>Image</th>
+                                            <th>Transcription</th>
                                         </tr>
                                     </thead>
                                     <tbody>{
@@ -70,6 +71,7 @@ let $content :=
                                         let $status := $face//tei:f[@name eq "status"]/tei:symbol/@value/string()
                                         let $order := $face//tei:f[@name eq "order"]/tei:numeric/@value/string()
                                         let $year := $face//tei:f[@name eq "year"]/tei:string/string()
+                                        let $transcription := cc:tei-to-html(root($face)//tei:div[@corresp eq "#" || $face-id]/node())
                                         return
                                             <tr>
                                                 <td>
@@ -91,6 +93,7 @@ let $content :=
                                                 <td>
                                                     <div id="openseadragon1" style="width: 800px; height: 600px;"></div>
                                                 </td>
+                                                <td style="border: 1px black solid">{$transcription}</td>
                                                 <!-- 
                                                 <img src="https://static.history.state.gov/consular-cards/color/medium/{$face/tei:graphic/@url => replace("\.tif", ".jpg")}"/>
                                                 -->

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1068" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Rowan, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1067" type="prev"/>
+                <relatedItem target="c1069" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1068f1">
+                <graphic height="3634px" url="01423.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Rowan, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01423</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1068">
+        <body>
+            <div corresp="#c1068f1">
+                <head>Port Rowan, Ontario,</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John F. Jenne</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>June 12, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry M. Janes</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 21, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard H. Schooley</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 26, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Norton M. Giffin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>July 28, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><unclear>George B. Killmaster</unclear></cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Mich</cell>
+                        <cell>Apr. 2, 1894.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George B. Killmaster</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>June 22, 1906</cell>
+                        <cell>Conf. Apptd Cons. Nevasta, N.S.W. 1/9/08, to Mar. 6, 1908,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office abolished June 30, 1908, Act of May 11, 1908.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

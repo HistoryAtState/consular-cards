@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0612" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mombasa, East Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0611" type="prev"/>
+                <relatedItem target="c0613" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0612f1">
+                <graphic height="3626px" url="00829.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mombasa, East Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00829</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0612">
+        <body>
+            <div corresp="#c0612f1">
+                <head>Mombasa, East Africa. (under Zanzibar)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harris R. Childs</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Biti</unclear> N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 1, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur James Doyle</cell>
+                        <cell>Vice Con. Dr. Br.</cell>
+                        <cell>Br.</cell>
+                        <cell>London, E. Africa</cell>
+                        <cell>E. Africa</cell>
+                        <cell>Jan. 3, 1917</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert C. Gilfillan</cell>
+                        <cell>" " U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Northampton</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 30, 1917</cell>
+                        <cell>Appt'd U.C., Nairobi Mar. 12, 1919</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Rollie H. White</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Jan. 4, 1942</cell>
+                        <cell>To Kabulas U.C. 6-6-44.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>John C. Brown</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec 15, 1947</cell>
+                        <cell>FSS, Officer, assigned to Dept. 8-26-49.</cell>
+                    </row>
+                    <row>
+                        <cell>Sept.</cell>
+                        <cell>Frederick C. Myers</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 2, 1949</cell>
+                        <cell>To London as V.C. 8-28-52</cell>
+                    </row>
+                    <row>
+                        <cell>Shanghai</cell>
+                        <cell/>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 18, 1951</cell>
+                        <cell>To Leopoldville as V.C. 9-18-53.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>David J. Bleecker</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Turin</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Respened September 16, 1942</p>
+                <p>Closed to the public Aug. 7, 1953.</p>
+                <p>Officially closed Oct. 4, 1953.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

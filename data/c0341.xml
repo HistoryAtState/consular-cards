@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0341" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kiel, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0340" type="prev"/>
+                <relatedItem target="c0342" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0341f1">
+                <graphic height="3626px" url="00471.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kiel, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00471</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0341">
+        <body>
+            <div corresp="#c0341f1">
+                <head>Kiel, Germany. (Denmark prior to 1867)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>August Sartori</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1866.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul H. J. Sartori</cell>
+                        <cell>" "</cell>
+                        <cell>Ger. Ger.</cell>
+                        <cell/>
+                        <cell>Ger.</cell>
+                        <cell>Jan. 3, 1899.</cell>
+                        <cell>Went out upon closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed March 1, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

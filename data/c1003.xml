@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1003" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peiping, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1002" type="prev"/>
+                <relatedItem target="c1004" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1003f1">
+                <graphic height="3628px" url="01339.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01339</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1003f2">
+                <graphic height="3636px" url="01340.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peiping, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01340</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1003">
+        <body>
+            <div corresp="#c1003f1">
+                <head>Peiping, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Admin. Assist.<lb/>Staff of W.2. Pol. Adv.<lb/>Japan</cell>
+                        <cell>Consulate established Jan. 1, 1946<lb/>Edward M. Ingle</cell>
+                        <cell>Vice Consul W.2.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dep.</cell>
+                        <cell>Mar. 12, 1946</cell>
+                        <cell>To Mukden as V.C. and Adm. Asst.<lb/>To Karachi as V.C.
+                            5-19-48<lb/>6-11-46</cell>
+                    </row>
+                </table>
+                <p>Consulate General officially closed April 13, 1950.</p>
+            </div>
+            <div corresp="#c1003f2">
+                <head>Peiping, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lawrence H. Bartlett</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 7, 1947</cell>
+                        <cell>(Special Appointment)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Sayle Anderton</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>April 28, 1947</cell>
+                        <cell>(Special Appointment)</cell>
+                    </row>
+                </table>
+                <p>Cancelled</p>
+                <p>Terminated off 7-13-50.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

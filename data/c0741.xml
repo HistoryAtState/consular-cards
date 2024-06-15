@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0741" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nuevitas, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0740" type="prev"/>
+                <relatedItem target="c0742" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0741f1">
+                <graphic height="3646px" url="01007.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nuevitas, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01007</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0741">
+        <body>
+            <div corresp="#c0741f1">
+                <head>Nuevitas, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul &amp; 2d. <lb/>Habana</cell>
+                        <cell><unclear>Yandout</unclear> L. <unclear>Burke</unclear></cell>
+                        <cell>J.8.0.</cell>
+                        <cell>6</cell>
+                        <cell>5-21-45 Consul <lb/> 5-16-45 1-18-36e</cell>
+                        <cell>10-1-35</cell>
+                        <cell>Ja.</cell>
+                        <cell>April 3, 1946</cell>
+                        <cell>To Hakana</cell>
+                    </row>
+                </table>
+                <p>The Consulate at Nuevitas will be moved to Camaguey, Cuba. A Telegram from
+                    Nuevitas states that the office at Nuevitas will close November 30, 1947 and
+                    will open at Camaguey December 1, 1947.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

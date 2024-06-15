@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1957" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Breslau, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1956" type="prev"/>
+                <relatedItem target="c1958" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1957f1">
+                <graphic height="3622px" url="02622.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Breslau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02622</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1957f2">
+                <graphic height="3622px" url="02623.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Breslau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02623</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1957">
+        <body>
+            <div corresp="#c1957f1"/>
+            <div corresp="#c1957f2">
+                <head>Breslau, Germany</head>
+                <p>Robert R. Bradford assigned to Dept. for Consultation, May 2, 1933.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

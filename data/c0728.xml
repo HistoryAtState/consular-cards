@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0728" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>North Bay, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0727" type="prev"/>
+                <relatedItem target="c0729" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0728f1">
+                <graphic height="3630px" url="00990.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>North Bay, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1894</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00990</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0728">
+        <body>
+            <div corresp="#c0728f1">
+                <head>North Bay, Ontario. (under Toronto)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>Daniel J. Me Keown</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 27, 1894.</cell>
+                        <cell>to Nov. 17, 1906. <lb/> Superseded <lb/> Nov. 18, 1906 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edgar Wakefield</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Me.</cell>
+                        <cell>Oct. 1, 1906.</cell>
+                        <cell>Resigned to health May 4, 1920. <lb/> to Mar. 16, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>John H. Wetmore</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>Mich. Ohio</cell>
+                        <cell/>
+                        <cell>May 27, 1920</cell>
+                        <cell>Appt'd V.C., Breslau Feb. 21, 1922. <lb/> Appt. canceled</cell>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>Girvan Teall</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Nov. 9, 1925.</cell>
+                        <cell>Remained at Toronto.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Basel Charles W. Allen</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Colo. Wyo.</cell>
+                        <cell>Apr. 13, 1927.</cell>
+                        <cell>July 25, 1927 to <lb/> Appt'd V.C., Calgary Sept. 29, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>Edwin Mc Ree</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ga. Ga.</cell>
+                        <cell>Oct. 17, 1929.</cell>
+                        <cell>Appt'd V.C., Toronto, Nov. 16, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Vancouver</cell>
+                        <cell>James R. Riddle</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ala. Ala.</cell>
+                        <cell>Nov. 26, 1930.</cell>
+                        <cell>Appt'd V.C., Winnipeg May 13, 1933</cell>
+                    </row>
+                </table>
+                <p>Office Closed June 30, 1933</p>
+            </div>
+        </body>
+    </text>
+</TEI>

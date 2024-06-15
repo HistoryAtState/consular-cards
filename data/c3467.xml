@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3467" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Perth, Western Australia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3466" type="prev"/>
+                <relatedItem target="c3468" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3467f1">
+                <graphic height="3632px" url="04536.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Perth, Western Australia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04536</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3467">
+        <body>
+            <div corresp="#c3467f1">
+                <head>Perth, Western Australia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Sydney</cell>
+                        <cell>Lyle C. Himmel</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Dowa S. Dak</cell>
+                        <cell>D.C.</cell>
+                        <cell>December 30, 1940</cell>
+                        <cell>Sydney, Sept. 22, 1941.<lb/>To Adelaide - 4-1-44</cell>
+                    </row>
+                    <row>
+                        <cell>Adelaide</cell>
+                        <cell>Courtland Christiani</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 18, 1943</cell>
+                        <cell>To Melbourne 26. 7-6-44.</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Courtland Christiani</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>June 29, 1944</cell>
+                        <cell>Cancelled</cell>
+                    </row>
+                    <row>
+                        <cell>Tehran</cell>
+                        <cell>Rudolph W. Hefti</cell>
+                        <cell>Vice Con. M.S.</cell>
+                        <cell>M.S.</cell>
+                        <cell/>
+                        <cell>Po.</cell>
+                        <cell>Nov. 29, 1944.</cell>
+                        <cell>To Part of Spain as Vice Consul</cell>
+                    </row>
+                    <row>
+                        <cell>Melbourne</cell>
+                        <cell>Courtland Christiani</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell><unclear>Grech</unclear> 27, 1944</cell>
+                        <cell>To Cantoners V.C 10-12-48.</cell>
+                    </row>
+                    <row>
+                        <cell>Melbourne</cell>
+                        <cell>Rudolph W. Hefti</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>April 17, 1946</cell>
+                        <cell>To Turin as V.C. 1-10-52</cell>
+                    </row>
+                    <row>
+                        <cell>Le Havre</cell>
+                        <cell>Hubert H. Bugbee, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S</cell>
+                        <cell/>
+                        <cell>Ala</cell>
+                        <cell>Oct. 12, 1948</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>ve.</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>Edward J. Lawler Cancelled</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 19, 1952</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

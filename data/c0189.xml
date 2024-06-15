@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0189" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cape Gracias a Dios, Nicaragua-Port Deitrick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0188" type="prev"/>
+                <relatedItem target="c0190" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0189f1">
+                <graphic height="3636px" url="00275.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cape Gracias a Dios, Nicaragua-Port Deitrick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1903</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00275</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0189">
+        <body>
+            <div corresp="#c0189f1">
+                <head>Cape Gracias a Dios, Nicaragua, <unclear/> Office changed to Port
+                    Deitrick</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Penn Stanley</cell>
+                        <cell>Coml Agt U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind. Mar. 17, 1903,</cell>
+                        <cell>to Jan. 31, 05. Apptd Coml. <lb/> Agt at Port Deitrick Jan.
+                            13/05</cell>
+                    </row>
+                </table>
+                <p>Cape Gracias a Dios ceased to be a part of entry Jan. 1, 1905 and <unclear/> the
+                    office was transfered to Port Deitrick on Feb. 1, 1905 - see Cape Gracias a Dios
+                    (Port Deitrick)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0733" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nottingham, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0732" type="prev"/>
+                <relatedItem target="c0734" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0733f1">
+                <graphic height="3612px" url="00996.tif" width="6066px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nottingham, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00996</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0733">
+        <body>
+            <div corresp="#c0733f1">
+                <head>Nottingham, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Callao-Lima</cell>
+                        <cell>Claude E. Guyant</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>5</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Consul 3-8-1912</cell>
+                        <cell>Ill. July 1, 1925</cell>
+                        <cell>Resigned effective Jan. 30, 1926. Mar. 24, 1926 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bahia</cell>
+                        <cell>Homer Brett</cell>
+                        <cell>Do</cell>
+                        <cell>5</cell>
+                        <cell>2/24/1925</cell>
+                        <cell>Consul 8-19-11</cell>
+                        <cell>Miss. Feb. 20, 1926.</cell>
+                        <cell>Assigned to Bristol July 7, 1928.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Feb. 24, 1928.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

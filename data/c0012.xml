@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0012" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adrianople, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0011" type="prev"/>
+                <relatedItem target="c0013" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0012f1">
+                <graphic height="3636px" url="00018.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Adrianople, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00018</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0012f2">
+                <graphic height="3636px" url="00019.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Adrianople, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00019</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0012">
+        <body>
+            <div corresp="#c0012f1">
+                <head>Adrianople, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>dea<lb/>Sint Jant</cell>
+                        <cell>Charles E. Allen</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>Sept. 3, 1915.</cell>
+                        <cell>Seph 27, 1915 to<lb/>apr. 28, 1916<lb/>Appt'd C. Interpreter,
+                            Constantinople</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0012f2">
+                <head>Adrianople, Turkey</head>
+                <p>J. C. Blunt appears in the Dept. Register as Agt. 1866-1876.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

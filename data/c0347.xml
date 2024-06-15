@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0347" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kingston, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0346" type="prev"/>
+                <relatedItem target="c0348" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0347f1">
+                <graphic height="3598px" url="00479.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kingston, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00479</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0347">
+        <body>
+            <div corresp="#c0347f1">
+                <head>Kingston, Ontario</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>Norris B. Chipman</cell>
+                        <cell>7.1.0.</cell>
+                        <cell>1</cell>
+                        <cell>3-23-39 Consul<lb/>EFFECTIVE<lb/>3-1-39</cell>
+                        <cell>1-22-35</cell>
+                        <cell>D.C.</cell>
+                        <cell>June 21, 1940</cell>
+                        <cell>assgd. Con. to 2d sec. Cairo.<lb/>Oct. 1, 1940.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed September 30, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

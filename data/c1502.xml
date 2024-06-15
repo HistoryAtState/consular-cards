@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1502" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Syra, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1501" type="prev"/>
+                <relatedItem target="c1503" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1502f1">
+                <graphic height="3628px" url="02005.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Syra, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02005</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1502f2">
+                <graphic height="3630px" url="02006.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Syra, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1850</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02006</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1502">
+        <body>
+            <div corresp="#c1502f1">
+                <head>Syra Island Greece</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>N.P. Salvargo</cell>
+                        <cell>Congt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Aug. 13, 1863.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emanuel Sapangachi</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Jan. 13, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.P. Binne</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Apr. 18, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Basil Padova</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ May 6, 1875.</cell>
+                        <cell>1874 to Dec. 2, 1897</cell>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 2, 1897.</p>
+            </div>
+            <div corresp="#c1502f2">
+                <head>Syra (Island) Greece</head>
+                <p>• Christopher Evangelides (a Greek educated in N.Y.?) city of the U.S.? appt'd by
+                    Consul</p>
+                <p>at Athens Oct. 12, 1850 to April 1854? - Appt. annulled by State Dep't May 17,
+                    1854.</p>
+                <p>• Gregorios Paico, a Greek merchant, acted (absence of Evangelides) Apr. 1854 to
+                    June 1854.</p>
+                <p>• Michel F. Salvago, a Greek " " " " July, 1854 to 1863?</p>
+                <p>• S. Tripoussi - Consul of Denmark " " (absence of Agent) May 18, 1889 to July
+                    22, 1889?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

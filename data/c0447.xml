@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0447" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leipzig, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0446" type="prev"/>
+                <relatedItem target="c0448" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0447f1">
+                <graphic height="3636px" url="00612.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leipzig, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00612</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0447">
+        <body>
+            <div corresp="#c0447f1">
+                <head>Leipzig, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Belgrade</cell>
+                        <cell>Don S. Haven</cell>
+                        <cell>V.C. de Carriere</cell>
+                        <cell>1</cell>
+                        <cell>5/2/6/1922</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 23, 1922.</cell>
+                        <cell>Appt'd Consul, Class 7, Mar. 1, 1923. Remained at Leipzig on
+                            detail.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederik van den Arend</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>1/6/1923</cell>
+                        <cell>No. Car.</cell>
+                        <cell>Nov. 19, 1923.</cell>
+                        <cell>Appt'd F.S.O. Unclassified July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>See above</cell>
+                        <cell>Frederik van den Arend F.S.O. Une.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>7/1/1924</cell>
+                        <cell>R.</cell>
+                        <cell/>
+                        <cell>Continued under assignment of Nov. 19, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Tallinn</cell>
+                        <cell>William L. Peck</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Conn.</cell>
+                        <cell>Mar. 9, 1925.</cell>
+                        <cell>Assigned to Cobh May 19, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Clerk</cell>
+                        <cell>Paul J. Revdey</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/20/1925</cell>
+                        <cell>Conn.</cell>
+                        <cell>Jan. 2, 1932.</cell>
+                        <cell>Assigned to Palermo, Nov. 20, 1934.</cell>
+                    </row>
+                    <row>
+                        <cell>Leipzig</cell>
+                        <cell>Patrick Mallon</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931e</cell>
+                        <cell>Ohio</cell>
+                        <cell>June 13, 1933.</cell>
+                        <cell>Assigned to Singapore, Feb. 17, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept'g State</cell>
+                        <cell>David H. Buffum</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>8/16/1930r</cell>
+                        <cell>Me.</cell>
+                        <cell>Nov. 27, 1934</cell>
+                        <cell>Appt'd F.S.O. Class 8, also Consul-assgd. Con. Oct. 1, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Palermo</cell>
+                        <cell>Harrison Lewis</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>4/15/1930</cell>
+                        <cell>Calif.</cell>
+                        <cell>Feb. 19, 1935</cell>
+                        <cell>Assgd. to Calcutta, Aug. 26, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Singapore</cell>
+                        <cell>Ogden H. Hammond, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>3/2/1939e</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 16, 1939</cell>
+                        <cell>Discharged eff. co. 6-12-43. Assgd. to Dept. State, Jan. 3,
+                            1940.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3935" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Seoul, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3934" type="prev"/>
+                <relatedItem target="c3936" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3935f1">
+                <graphic height="3628px" url="05131.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Seoul, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05131</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3935">
+        <body>
+            <div corresp="#c3935f1">
+                <head>Seoul, Korea.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud. Int.,<lb/>Japan</cell>
+                        <cell>Edwin L. Neville</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Mar. 29, 1910.</cell>
+                        <cell>Appt'd V.D.C. Dalny 11/10/1911.<lb/>Left Oct. 5, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>Dalny</cell>
+                        <cell>Edwin L. Neville</cell>
+                        <cell>Do,</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 17, 1912.</cell>
+                        <cell>Appt'd Con. Antung 9/18/1913.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>hama</cell>
+                        <cell>Raymond S. Urtice</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>Conn. Pa.</cell>
+                        <cell>Oct. 7, 1913.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>hama</cell>
+                        <cell>Max D. Kirjassoff (m)</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>Russia Conn.</cell>
+                        <cell>Feb. 12, 1914</cell>
+                        <cell>Appt'd Cons. Interpreter<lb/>at Yokohama Apr. 18, 1914.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

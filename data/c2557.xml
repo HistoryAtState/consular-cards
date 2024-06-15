@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2557" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Auckland, New Zealand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2556" type="prev"/>
+                <relatedItem target="c2558" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2557f1">
+                <graphic height="3602px" url="03395.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Auckland, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03395</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2557">
+        <body>
+            <div corresp="#c2557f1">
+                <head>AUCKLAND, NEW ZEALAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>VC</cell>
+                        <cell>Auckland Howard C. Goldsmith</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Caley.</cell>
+                        <cell>Feb. 9, 1956</cell>
+                        <cell>250 assigned to Dept. 1-13-57</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George M. Fennemore</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 6, 1956</cell>
+                        <cell>to Wellington as 1st Sec. + Cons. 5-31-60 <lb/> 750 assigned to Dept.
+                            9-15-63</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James P. Parker</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Feb. 23, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Calgary</cell>
+                        <cell>Edwin J. Madill</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 22, 1963</cell>
+                        <cell>Retired eff. COB 4-30-64. <lb/> Died 2-6-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David S. Wilson, gr.</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons. General</cell>
+                        <cell/>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

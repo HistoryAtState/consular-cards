@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5650" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amoy, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5649" type="prev"/>
+                <relatedItem target="c5651" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5650f1">
+                <graphic height="3006px" url="07369.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amoy, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1844</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07369</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5650f2">
+                <graphic height="3006px" url="07370.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amoy, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07370</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5650">
+        <body>
+            <div corresp="#c5650f1">
+                <head>Amoy, China</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>C</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>SUPERVISION (over or under)</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Opened May 17, 1844. Temporarily evacuated in 1937 - actual effective date not
+                    had.</p>
+                <p>Consulate closed 12/7/41.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>9/4/37</cell>
+                        <cell>Temporarily evacuated - actual effective date not yet reported. See
+                            tgm. from Ambassador, Nanking, Sept. 4, 1937.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>12/7/41</cell>
+                        <cell>Consulate closed 12/7/41 U.S. time upon declaration of war on US by
+                            Japan. Non-confidential records, archives and Govt. property ordered
+                            stored locally. Also see extracts from despatch of 4/9/43 from Mr.
+                            Altaffer, Antigua (125.135/18) filed under "Archives" in room ill.
+                            Airgram 436 of 11/1/43 from Bern says Amoy archives appear
+                            intact.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5650f2">
+                <head>Amoy, China</head>
+                <p>Desp. from Manila. PI Govt. consid. opening CG at Amoy to investigate and issue
+                    re-entry permits to Chinese at Amoy to return to PI. Will request use of US
+                    Consulate at Amoy pending re-opening of American office there.</p>
+                <p>Included in 1950 budget figures for possible opening but emergency in area
+                    precludes cons. this time.</p>
+                <p>3/30/50 - <unclear>Darpatik</unclear> 1560, London, 3/30/50-Phil. property to
+                    remain stored,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5578" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>United Arab Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5577" type="prev"/>
+                <relatedItem target="c5579" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5578f1">
+                <graphic height="3606px" url="07274.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>United Arab Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07274</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5578">
+        <body>
+            <div corresp="#c5578f1">
+                <head>UNITED ARAB REPUBLIC</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>Robert A. Bauer</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 14, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell>Counselor of Emb.tor Public Affairs</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rawal-pindi</cell>
+                        <cell>George T. Walsh</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 28, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Naples</cell>
+                        <cell>Michael J. Mercurio</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 20, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Owen T. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Oct. 23, 1966</cell>
+                        <cell>AID</cell>
+                        <cell>Counselor of alss Chief, Econ. Section <lb/> Embassy <lb/> for Mission
+                            Director AID/UAR <lb/> Economic affrs.</cell>
+                        <cell>2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Arthur C. Bauman</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Dec. 18, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James L. Robb</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4884" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dusseldorf, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4883" type="prev"/>
+                <relatedItem target="c4885" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4884f1">
+                <graphic height="3626px" url="06349.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dusseldorf, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06349</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4884">
+        <body>
+            <div corresp="#c4884f1">
+                <head>Dusseldorf, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry W. Derby</cell>
+                        <cell>Con. Agt. U.S</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Apr. 7, 1863</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Lewis (an Artist)</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Lewis</cell>
+                        <cell>V.rD. (Com. Agt.)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 9, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustus A. Scheidt</cell>
+                        <cell>V.rD. (Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 27, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><unclear>Jelice</unclear> C. Eversmann</cell>
+                        <cell>Vice " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 15, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolph Schniewind</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 5, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Lewis</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 25, 1892.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emil Hoette</cell>
+                        <cell>" " Ser.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 20, 1893</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Essenwein</cell>
+                        <cell>V.rD. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 31, 1900.</cell>
+                        <cell>Resigned Sept. 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Bloem</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 18, 1908.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1905, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

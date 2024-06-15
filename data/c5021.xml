@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5021" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guayaquil, Ecuador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5020" type="prev"/>
+                <relatedItem target="c5022" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5021f1">
+                <graphic height="3626px" url="06520.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guayaquil, Ecuador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06520</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5021">
+        <body>
+            <div corresp="#c5021f1">
+                <head>GUAYAQUIL, Ecuador</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE<lb/>OF ASSIGNMENT</cell>
+                        <cell>OTHER<lb/>AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>J. Keith Powell</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 27, 1963</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>Resigned as F.S.O. only eff.<lb/>Close of June 18, 1966. <unclear/>To
+                            Tijuana<lb/><unclear/>as Cons. 7-2-67.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Anthony Chapell</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 10, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>FSR Officer, assigned to the Dept.<lb/>12-19-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugh R. Ennis</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 1, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Designated Consi, Guayaquil,<lb/>5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. + V.C.<lb/>Santiago</cell>
+                        <cell>George W. F. Clift</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Dec. 23, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>5-23-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William S. Diedrich</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 17, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>To Manila as V.C. and 2d Sec.,/</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Joan Edmonds</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 8, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Cali as V.C., 12-19-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John H. Penfold</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert K. Geis</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>Designated Consul, Guayaquil 9-1-66</cell>
+                    </row>
+                    <row>
+                        <cell>Cali</cell>
+                        <cell>Neil Hinckley</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 6, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stanley Sikora</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>Edwin Ho</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Jan. 30, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

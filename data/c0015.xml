@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0015" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agean Sea, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0014" type="prev"/>
+                <relatedItem target="c0016" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0015f1">
+                <graphic height="3622px" url="00023.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Agean Sea, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00023</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0015">
+        <body>
+            <div corresp="#c0015f1">
+                <head>Aegean Sea (for the Islands in the Aegean Sea under the Sovereignty of the
+                    Kingdom of Italy)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>alao r.C.,</cell>
+                        <cell>Burton Y. Berry</cell>
+                        <cell>2.SQ</cell>
+                        <cell>Une.</cell>
+                        <cell>5/17/1928</cell>
+                        <cell>Ind.</cell>
+                        <cell>(temp.) Sep. 29, 1933</cell>
+                        <cell>Ret'd to Chancel without further commer., 1933</cell>
+                    </row>
+                    <row>
+                        <cell>also r.C.,</cell>
+                        <cell>Howard Elting, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1938</cell>
+                        <cell>All.</cell>
+                        <cell>May 17, 1936</cell>
+                        <cell>Ass'd to Istanbul, July 1, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Athens</cell>
+                        <cell>Andrew B. Foster</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/1/1935</cell>
+                        <cell>Fa.</cell>
+                        <cell>Och. 28, 1938</cell>
+                        <cell>Is also V.C. at Athens,<lb/>Ass'd to Sept. State, Sept. 29,
+                            1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Athens</cell>
+                        <cell>Foy K. Kohler</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/7/1931</cell>
+                        <cell>Phis</cell>
+                        <cell>Dec. 5, 1938</cell>
+                        <cell>Also at Athens for do. in Aegean Sea,<lb/>Appt'd F.S.O. Dec. 8, Mar.
+                            23, 1939.</cell>
+                    </row>
+                    <row>
+                        <cell>Une,</cell>
+                        <cell>Roy D. Kohler</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>3-23-39</cell>
+                        <cell>Ohis</cell>
+                        <cell>Do</cell>
+                        <cell>also 1.6+3 Deci, of Legnat Athens.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

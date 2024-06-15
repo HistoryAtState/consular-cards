@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1645" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tutuila, Samoa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1644" type="prev"/>
+                <relatedItem target="c1646" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1645f1">
+                <graphic height="3622px" url="02198.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tutuila, Samoa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02198</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1645f2">
+                <graphic height="3622px" url="02199.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tutuila, Samoa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1847</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02199</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1645">
+        <body>
+            <div corresp="#c1645f1">
+                <head>Intuila, Samoa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mathew Hunking</cell>
+                        <cell>Con. Agt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 18, 1875.</cell>
+                        <cell>To Leone Mar. 13, 1879.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1645f2">
+                <head>Tutuila, Samoa.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Sibbons</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>C.A. at Apia</cell>
+                        <cell>June 1847.</cell>
+                        <cell>to May 20, 1854.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E.V.C. Ripley</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 20, 1854</cell>
+                        <cell>to resigned July 31, 1868.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julius Schwenke</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>from (186?)</cell>
+                        <cell>August, 1868 to Oct. 14, 1878. (1876?)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Meredith</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Scotland</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

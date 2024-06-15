@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0551" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manzanillo, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0550" type="prev"/>
+                <relatedItem target="c0552" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0551f1">
+                <graphic height="3632px" url="00749.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manzanillo, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00749</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0551">
+        <body>
+            <div corresp="#c0551f1">
+                <head>Manzanillo, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Bithorn</cell>
+                        <cell>Const</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 22, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Roca.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 3, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Stakeman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1883.</cell>
+                        <cell>Office closed by war</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Myron H. Emory</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Tenn</cell>
+                        <cell>Sept. 15, 1904.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis B. Bertot</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Mar. 16, 1905.</cell>
+                        <cell>Resignation accepted <lb/> effective July 7, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Son of</unclear>
+                            <lb/>
+                            <unclear>Francis</unclear></cell>
+                        <cell>Raoul A. Bertot</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Manzanillo, <lb/> Cuba</cell>
+                        <cell>Cuba</cell>
+                        <cell>Apr. 20, 1922.</cell>
+                        <cell>Appt. terminated <lb/> Oct. 29, 1949.</cell>
+                    </row>
+                </table>
+                <p>Consular Agency closed both to the public and officially <lb/> October 29,
+                    1949.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

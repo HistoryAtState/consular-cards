@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2592" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangkok, Thailand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2591" type="prev"/>
+                <relatedItem target="c2593" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2592f1">
+                <graphic height="3622px" url="03439.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bangkok, Thailand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03439</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2592">
+        <body>
+            <div corresp="#c2592f1">
+                <head>BANGKOK, Thailand</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David K. Edminster</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 22, 1963</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. Also 2d Sec, 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard M. Ogden</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 6, 1964</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Chiengmai</cell>
+                        <cell>Richard M. Ogden</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 17, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To Bogotá as 3d Sec. and V.C. 10-10-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Bangkok</cell>
+                        <cell>Alvis Craig Murphy</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Designated Consul. Bangkok, 5-13-66..</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas P. Doubleday, Jr.</cell>
+                        <cell>Cancel Fes0</cell>
+                        <cell>8</cell>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Chiengmai</cell>
+                        <cell>Walter J. Kearns</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2072" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Comayagua and Tegucigalpa, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2071" type="prev"/>
+                <relatedItem target="c2073" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2072f1">
+                <graphic height="3630px" url="02773.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Comayagua and Tegucigalpa, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1856</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02773</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2072">
+        <body>
+            <div corresp="#c2072f1">
+                <head>Comayagua and Tegucigalpa, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J.C. Tucker</cell>
+                        <cell>Coml. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Cali.</cell>
+                        <cell/>
+                        <cell>Feb. 22, 1856 by Secy</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William C. Burchard</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Oct. 2, 1860 Secess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 24, 1861 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office discontinued Aug. 19, 1873. (transfered to Amapala)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

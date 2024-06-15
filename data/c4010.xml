@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4010" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Strasbourg, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4009" type="prev"/>
+                <relatedItem target="c4011" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4010f1">
+                <graphic height="3606px" url="05235.tif" width="6052px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Strasbourg, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05235</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4010">
+        <body>
+            <div corresp="#c4010f1">
+                <head>STRASBOURG, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles M. Levy</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 5, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>To Saigon as Consul +<lb/>2d Sec., 9-27-65</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Lewis R. Townsend</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell>Designative Consul General<lb/>Strasbourg, 3-11-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John Hay</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 7, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cons.</cell>
+                        <cell>John Hay</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Gen.</cell>
+                        <cell>Mar. 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James E. Kerr, Jr. <unclear>cancelled</unclear></cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                        <cell><unclear>cancelled</unclear><lb/>Johyon as Cons. 8-19-66. To
+                            Paris/OEC)<lb/>as Attache (7SR), 10-23-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Marion M. Montague</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Consulate at Strasbourg was elevated to Consulate General status on July
+                    18, 1966</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2124" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cornwallis, Nova Scotia, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2123" type="prev"/>
+                <relatedItem target="c2125" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2124f1">
+                <graphic height="3630px" url="02837.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cornwallis, Nova Scotia, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02837</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2124">
+        <body>
+            <div corresp="#c2124f1">
+                <head>Cornwallis, Nova Scotia, Canada,</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E.A. Buckman</cell>
+                        <cell>Con. Agt. (<unclear>one</unclear> Cornwall)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 26, 1897.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ebenezer Rand</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 20, 1873.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Rand</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 14, 1885</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fenwick W. Rand</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr. Pr.</cell>
+                        <cell>June 22, 1888.</cell>
+                        <cell>Retired</cell>
+                    </row>
+                </table>
+                <p>Office changed to Kingsport July 26, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

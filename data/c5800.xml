@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5800" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5799" type="prev"/>
+                <relatedItem target="c5801" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5800f1">
+                <graphic height="3632px" url="07586.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07586</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5800f2">
+                <graphic height="3562px" url="07587.tif" width="5957px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07587</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5800">
+        <body>
+            <div corresp="#c5800f1">
+                <head>Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Secretary</cell>
+                        <cell>Post Wheeler</cell>
+                        <cell>(see over)<lb/>Counselor<lb/>of Embassy</cell>
+                        <cell>ny</cell>
+                        <cell>Wash.</cell>
+                        <cell>Mar. 26, 1917</cell>
+                        <cell>Assigned to Stockholm Oct. 13, 1917.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Do.</cell>
+                        <cell>John Van A. MacMurray</cell>
+                        <cell>"</cell>
+                        <cell>ny</cell>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 10, 1917</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>Edward Bell</cell>
+                        <cell>"</cell>
+                        <cell>ny</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 11, 1919</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>Hugh R. Wilson</cell>
+                        <cell>"</cell>
+                        <cell>Del.</cell>
+                        <cell>Aug. 19, 1921</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Do.</cell>
+                        <cell>Jefferson Caffery</cell>
+                        <cell>Counselor<lb/>of Legation</cell>
+                        <cell>La.</cell>
+                        <cell>La.</cell>
+                        <cell>Sept. 5, 1923.</cell>
+                        <cell>Assigned to Berlin May 22, 1925.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>F.S.O.</cell>
+                        <cell>Norman Armour</cell>
+                        <cell>England</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 25, 1925.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5800f2">
+                <head>Note. For authority, see reverse side of 'Counselor' card under
+                    Austria-Hungary</head>
+            </div>
+        </body>
+    </text>
+</TEI>

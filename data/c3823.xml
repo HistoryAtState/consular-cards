@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3823" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Pierre, Miguelon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3822" type="prev"/>
+                <relatedItem target="c3824" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3823f1">
+                <graphic height="3624px" url="04988.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Saint Pierre, Miguelon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04988</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3823">
+        <body>
+            <div corresp="#c3823f1">
+                <head>St. Pierre-Miquelon</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yarmanth</cell>
+                        <cell>Robert Jakes, 3d</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell><unclear>N.J.</unclear></cell>
+                        <cell><unclear>N.J.</unclear></cell>
+                        <cell>Oct. 7, 1938</cell>
+                        <cell>appt'd. 1.6., St. Stephen Dec. 39</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate Closed 12-15-1943</p>
+                <p>Saint Pierre and Miquelon, (French Overseas Territory of)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

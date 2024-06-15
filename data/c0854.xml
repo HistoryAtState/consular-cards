@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0854" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Riga, Latvia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0853" type="prev"/>
+                <relatedItem target="c0855" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0854f1">
+                <graphic height="3630px" url="01150.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Riga, Latvia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01150</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0854">
+        <body>
+            <div corresp="#c0854f1">
+                <head>Riga, Latvia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>E. Allan Lightner, Jr.</cell>
+                        <cell>8.20</cell>
+                        <cell>Une.</cell>
+                        <cell>12/17/1931</cell>
+                        <cell><unclear>ng</unclear>.</cell>
+                        <cell>Feb. 11. 1938</cell>
+                        <cell>assgd. also as 3d Secy. of Leg'n. Apptd. F.S.O., el. 8, Nov. 16,
+                            1939.</cell>
+                    </row>
+                    <row>
+                        <cell>Unc.</cell>
+                        <cell>E. Allan Lightner, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>11-16-39<lb/>EFFECTIVE<lb/>1-13-40</cell>
+                        <cell><unclear>ng</unclear>.</cell>
+                        <cell>Do</cell>
+                        <cell>Is also 3d Secy. of Leg'n. assgd. V.C. 3d Secy., Moscow, Aug. 22,
+                            1940.</cell>
+                    </row>
+                    <row>
+                        <cell>Tallinn</cell>
+                        <cell>H. Frederick Reinhardt</cell>
+                        <cell>Do</cell>
+                        <cell>Une.</cell>
+                        <cell>7-2-37 c</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 20, 1940</cell>
+                        <cell>Is also 3d Secy. of Leg'n. assgd. to Moscow, May 27, 1940.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

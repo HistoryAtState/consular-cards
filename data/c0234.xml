@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0234" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hermosillo, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0233" type="prev"/>
+                <relatedItem target="c0235" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0234f1">
+                <graphic height="3630px" url="00334.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hermosillo, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00334</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0234">
+        <body>
+            <div corresp="#c0234f1">
+                <head>Hermosillo, Mexico. (As of Mar. 3, 1905)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Robert S. Van R. Gutman</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 24, 1905.</cell>
+                        <cell>Made Vice Consul by Act<lb/>approved Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>VaD.C. Robert S. Van R. Gutman Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>By Act of Feb. 5, 1915.</cell>
+                        <cell>Told on June 7, 1917 that Consulate was recently<lb/>closed and his
+                            services as V.C. terminated.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

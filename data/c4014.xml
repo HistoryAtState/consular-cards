@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4014" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Strasbourg</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4013" type="prev"/>
+                <relatedItem target="c4015" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4014f1">
+                <graphic height="3630px" url="05240.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Strasbourg</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05240</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4014">
+        <body>
+            <div corresp="#c4014f1">
+                <head>Strasbourg (under France)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Reiger</cell>
+                        <cell>Dep. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 10, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bor-<lb/>deaux</cell>
+                        <cell>John A. Scott</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Minn. Calif</cell>
+                        <cell>Nov. 19, 1920</cell>
+                        <cell/>
+                        <cell>Reentered, a change in<lb/>spelling. See below.</cell>
+                    </row>
+                    <row>
+                        <cell>Bor-<lb/>deaux</cell>
+                        <cell>John A. Scott</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Minn Calif.</cell>
+                        <cell>Nov. 19, 1920</cell>
+                        <cell/>
+                        <cell>Decision of the Geographic<lb/>Board rendered June 1, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Limoges</cell>
+                        <cell>Reginald H. Williams</cell>
+                        <cell>" " " " </cell>
+                        <cell/>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Mar. 24, 1927.</cell>
+                        <cell/>
+                        <cell>Appts. V.C. Dresden Dec. 29, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Bordeaux</cell>
+                        <cell>James D. Child</cell>
+                        <cell>" " " " </cell>
+                        <cell/>
+                        <cell>N. Ore.</cell>
+                        <cell>Jan. 24, 1929.</cell>
+                        <cell/>
+                        <cell>Appt'd V.C. Bordeaux Jan. 24, 1929<lb/>Died at Strasbourg, Sept. 16,
+                            1935.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed September 5, 1959.</p>
+                <p>Reacquisition of the trench de facto authority established in Paris under the
+                    leadership of the<lb/>General de Gaulle as the Provisional Government of the
+                    French Republic 10-23-44</p>
+                <p>Consulate re-established March 23, 1946</p>
+                <p>Consulate opened to the public July 5, 1946.</p>
+                <table>
+                    <row role="label">
+                        <cell>Vice Consul<lb/>Marseille</cell>
+                        <cell>Edward S. Parker</cell>
+                        <cell>Vice Consul US</cell>
+                        <cell/>
+                        <cell>S.Car.</cell>
+                        <cell>June 27, 1947</cell>
+                        <cell/>
+                        <cell>To Belfast as V.C. 1-30-50</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Dar es Salaam</cell>
+                        <cell>H. Stewart Beers</cell>
+                        <cell>Vice Consul US</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 8, 1947</cell>
+                        <cell/>
+                        <cell>To Oslo as V.C. 10-1-52.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Bushawller</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 23, 1950</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

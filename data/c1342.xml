@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1342" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sault Ste. Marie, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1341" type="prev"/>
+                <relatedItem target="c1343" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1342f1">
+                <graphic height="3604px" url="01784.tif" width="6068px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sault Ste. Marie, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01784</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1342">
+        <body>
+            <div corresp="#c1342f1">
+                <head>Sault Ste. Marie, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Trieste</cell>
+                        <cell>Howard A. Bowman</cell>
+                        <cell>2.80.</cell>
+                        <cell>8</cell>
+                        <cell>5/23/1929 5-23-29</cell>
+                        <cell>Consul N.Y.</cell>
+                        <cell>Jan. 3, 1931</cell>
+                        <cell>Appt'd 2.80. class 7, Feb. 4, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>class &amp;</cell>
+                        <cell>Howard A. Bowman</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>2/4/1931</cell>
+                        <cell>Do N.Y.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Mexicali, May 24, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Mexicali</cell>
+                        <cell>Frank Bohr</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1924 10-24-18</cell>
+                        <cell>Consul Kane</cell>
+                        <cell>May 24, 1932.</cell>
+                        <cell>Retired Dec. 26(d) Act 7/25/31 effec. June 30, 1935</cell>
+                    </row>
+                </table>
+                <p>Consulate closed Mar. 31, 1939.</p>
+                <table>
+                    <row role="label">
+                        <cell>Paris</cell>
+                        <cell>Benjamin M. Hulley</cell>
+                        <cell>8.1.0.</cell>
+                        <cell>6</cell>
+                        <cell>4-22-37 Consul 4-1-37 5-23-29</cell>
+                        <cell>Fla.</cell>
+                        <cell>June 21, 1940</cell>
+                        <cell>assyd. to Dept. State, Sept. 20, 1940.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed September 30, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

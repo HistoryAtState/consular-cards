@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5446" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Servia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5445" type="prev"/>
+                <relatedItem target="c5447" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5446f1">
+                <graphic height="3630px" url="07090.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Servia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07090</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5446f2">
+                <graphic height="3630px" url="07091.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Servia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07091</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5446">
+        <body>
+            <div corresp="#c5446f1"/>
+            <div corresp="#c5446f2">
+                <head>Servia.</head>
+                <p>George L. Lorillard, Sec. Emb. or Leg. was assigned to serve in Servia as Special
+                    Agent to assist the Minister at Bucharest in taking care of American interests
+                    and, at the same time acting in representation of Austro-Hungarian interests
+                    there. As Special Agent, to enjoy individual rank as Chargé d'Affaires.</p>
+                <p>Lorillard closed the legation at Serbia January 4, 1917, and deposited the
+                    archives in the American Embassy at Rome. Lorillard's resignation was accepted
+                    Jan. 8, 1917, effective at once.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

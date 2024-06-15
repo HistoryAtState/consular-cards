@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3091" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milan, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3090" type="prev"/>
+                <relatedItem target="c3092" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3091f1">
+                <graphic height="3620px" url="04065.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milan, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04065</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3091">
+        <body>
+            <div corresp="#c3091f1">
+                <head>MILAN, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Kingston</cell>
+                        <cell>Robert D. Collins</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 15, 1962</cell>
+                        <cell/>
+                        <cell>Designated Consul, Milan, 5-26-65</cell>
+                    </row>
+                    <row>
+                        <cell>Commerce Dept.</cell>
+                        <cell>Howard B. Crotinger cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 14, 1963</cell>
+                        <cell/>
+                        <cell>To Mogadiscio as 3d Sec., 9-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Vo. 3d Sec. Tananariver VC, Dept. of Reunion + Brit. Col.
+                            Mauritius</cell>
+                        <cell>Alan M. Hardy</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 18, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Douglas G. Hartley</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell>Designated Consul, Milan, 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald E. Crafts</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John D. Perkins</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Jidda</cell>
+                        <cell>William O. Sugg III</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Genoa</cell>
+                        <cell>Peter O. Suchman</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4372" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zurich, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4371" type="prev"/>
+                <relatedItem target="c4373" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4372f1">
+                <graphic height="3634px" url="05688.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Zurich, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05688</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4372f2">
+                <graphic height="3634px" url="05689.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Zurich, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05689</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4372">
+        <body>
+            <div corresp="#c4372f1">
+                <head>Zurich, Switzerland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPTD</cell>
+                        <cell>WHENCE</cell>
+                        <cell>DATE OF</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Havre</cell>
+                        <cell>Robert D. Murphy</cell>
+                        <cell>V.C. de</cell>
+                        <cell>3</cell>
+                        <cell>9/17/1920</cell>
+                        <cell>Wisc.</cell>
+                        <cell>Apr. 2, 1921.</cell>
+                        <cell>May 13, 1921 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. Wilkinson</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>5/25/1921</cell>
+                        <cell>Wise.</cell>
+                        <cell>Jan. 30, 1922.</cell>
+                        <cell><unclear>Delfailed</unclear> to Munich Oct. 17, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>James R. Wilkinson</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Wise.</cell>
+                        <cell>Do.</cell>
+                        <cell>Assigned to Munich Nov. 15, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 2</cell>
+                        <cell>James R. Wilkinson</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>2/26/1923</cell>
+                        <cell>Wise.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd V.C. de carrière, Class 2, May 26, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Alexander Armstrong F.S.O. Ume.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>10/16/1924 R.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 8, 1924.</cell>
+                        <cell>Appt'd V.C. de carrière, Class 1, Feb. 26, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Cavendishle. Cannon Do</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>7/17/1928</cell>
+                        <cell>Utah</cell>
+                        <cell>May 29, 1928</cell>
+                        <cell>Appt'd Consul, class 7. Dec 19, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Stuttgart</cell>
+                        <cell>Hugh J. Ramsay</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>9/1/1926</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 8, 1930.</cell>
+                        <cell>Remained at Zurich on detail.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl Breuer</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/7/1931E</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 20, 1932</cell>
+                        <cell>Assigned to Nice Oct. 29. 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of</cell>
+                        <cell>Francis L. Spalding</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931</cell>
+                        <cell>Mass</cell>
+                        <cell>June 13, 1933.</cell>
+                        <cell>also</cell>
+                    </row>
+                    <row>
+                        <cell>State</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>assiqued to Sofia as r. C., &amp; Horeign Serr. Offr</cell>
+                    </row>
+                    <row>
+                        <cell>Jerusalem</cell>
+                        <cell>Joseph L. Brent</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>2/5/1927</cell>
+                        <cell>Md.</cell>
+                        <cell>Oct. 12, 1934</cell>
+                        <cell>iin the Legu, April 19, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Bombay</cell>
+                        <cell>Norris Pediker</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931</cell>
+                        <cell>Minn.</cell>
+                        <cell>Nov. 21, 1934</cell>
+                        <cell>assigned to Munich, Nov.27. 1931.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard D. Gatewood</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/18/1935R</cell>
+                        <cell><unclear>hy</unclear>.</cell>
+                        <cell>Oct. 5, 1935</cell>
+                        <cell>Asignasto Dept. of State, Kov. 29, 1952.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. State</cell>
+                        <cell>Carl H. Strom</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/18/1936R</cell>
+                        <cell>Iowa</cell>
+                        <cell>Dec. 18, 1936</cell>
+                        <cell>Assigned to stuttgart, tray 82, 1986.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Secy.,</cell>
+                        <cell>Clare Ho. Dimberlake</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1936</cell>
+                        <cell>Mich.</cell>
+                        <cell>Mar. 19, 1937</cell>
+                        <cell>Canceled.</cell>
+                    </row>
+                    <row>
+                        <cell>Montevideo</cell>
+                        <cell>Harlan B. Clark</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/2/1937C</cell>
+                        <cell>Ohio</cell>
+                        <cell>July 8, 1937</cell>
+                        <cell>Resigned May 16, 1937, clora of trains.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. State</cell>
+                        <cell>Kingsley H. Hamilton</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/2/1937C</cell>
+                        <cell>Ohio</cell>
+                        <cell>July 19, 1938</cell>
+                        <cell>Augd. to Dept. State, Dec, 5, 1986.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apptd. F.S.O., l. 8, May 9, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Asagdito Vigo, Deo. 14, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Actailekts supat. Jan. 17, 1939.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Asagd. to Saigon, Nov. 24, 1989.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4372f2">
+                <head>Zurich, Switzerland.</head>
+                <p>James P. Wilkinson, U.S.C. took chg. of the office (death of Murphy) Oct. 16,
+                    1924. Turned it over to C.D. Frazer Nov. 11, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

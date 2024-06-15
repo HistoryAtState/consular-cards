@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0555" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manzanillo, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0554" type="prev"/>
+                <relatedItem target="c0556" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0555f1">
+                <graphic height="3644px" url="00755.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manzanillo, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00755</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0555">
+        <body>
+            <div corresp="#c0555f1">
+                <head>Manzanillo, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Guaymas</cell>
+                        <cell>Edward S. Mall</cell>
+                        <cell>Vice Con. U. S.</cell>
+                        <cell>U. S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Dec. 16, 1927</cell>
+                        <cell>Jan. 17, 1928 to<lb/>Appt'd Guadalajara Mar. 15, 1929</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>V. Harwood Blocker, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nondo<lb/>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Nov. 27, 1928.</cell>
+                        <cell>Appt'd V. C. Asuncion Mar. 17, 1930.</cell>
+                    </row>
+                </table>
+                <p>Office closed January 11, 1930.</p>
+                <p>Office reopened January 24, 1941.</p>
+                <table>
+                    <row role="label">
+                        <cell>Guadalajara</cell>
+                        <cell>Henry A. Hoyt</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 18, 1940.</cell>
+                        <cell>to Valparaiso<lb/>Oct 29, 1943.<lb/>Cancelled<lb/>60 day temp. appt.
+                            Permanently<lb/>Appt'd V. C. at Acapulco 4-5-41</cell>
+                    </row>
+                    <row>
+                        <cell>Guadalajara</cell>
+                        <cell>J. Brock Havron</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Tenn.</cell>
+                        <cell/>
+                        <cell>Feb. 20, 1941.</cell>
+                        <cell>Apptd. Santuis Potosi, Sept. 2, 41.<lb/>to Guaymas<lb/>Nov. 02,
+                            1943.</cell>
+                    </row>
+                    <row>
+                        <cell>San Luis Potosi</cell>
+                        <cell>Myron H. Schrand</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>May 3, 1941</cell>
+                        <cell>Apptd. San Luis Potosi, Sept. 2, 41.<lb/>to Guaymas<lb/>Nov. 02,
+                            1943.</cell>
+                    </row>
+                    <row>
+                        <cell>Son Luis</cell>
+                        <cell>Myron H. Schrand</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>July 21, 1942</cell>
+                        <cell>To Piedras negras. V. E.<lb/>12-23-43.</cell>
+                    </row>
+                    <row>
+                        <cell>Piedras Negras</cell>
+                        <cell>Harald C. Wood</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass</cell>
+                        <cell/>
+                        <cell>Sept. 27, 1943</cell>
+                        <cell>To Guadalajara as Vice<lb/>Consul 5/9/46.</cell>
+                    </row>
+                    <row>
+                        <cell>La Paz</cell>
+                        <cell>Walter Edward Kneeland</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Texas</cell>
+                        <cell/>
+                        <cell>Oct 29, 1943.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Vice Consulate closed to the public May 31, 1946</p>
+                <p>Final closing date of the Vice Consulate was June 6, 1946</p>
+            </div>
+        </body>
+    </text>
+</TEI>

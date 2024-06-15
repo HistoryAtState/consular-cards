@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5063" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Halifax, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5062" type="prev"/>
+                <relatedItem target="c5064" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5063f1">
+                <graphic height="3636px" url="06574.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Halifax, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06574</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5063">
+        <body>
+            <div corresp="#c5063f1">
+                <head>Halifax, Nova Scotia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>St. Stephen</cell>
+                        <cell>Edwin 71. Munsaulus</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>Dec 1, 1944</cell>
+                        <cell>Died Sept. 1, 1945.<lb/>Made 7.S.D., unc., U.S. of career,<lb/>Secy in
+                            the Dip. Sero. to Halifax<lb/>as 8. C. of career, 6-3-46</cell>
+                    </row>
+                    <row>
+                        <cell>Oren</cell>
+                        <cell>Keld Christensen</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sawa</cell>
+                        <cell>Oct. 17, 1945</cell>
+                        <cell>assigned Foreign Service Reserve<lb/>Officer 11-13-4/6</cell>
+                    </row>
+                    <row>
+                        <cell>Conssilar</cell>
+                        <cell>Fred Wren</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 8, 1946</cell>
+                        <cell>To Panama as VC 1-13-50</cell>
+                    </row>
+                    <row>
+                        <cell>Assistant</cell>
+                        <cell>José L. Komers</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 1, 1948</cell>
+                        <cell>Designated V.C. (Fso) Halifax<lb/>11-24-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Charles C. Adams, Js.</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>n. J.</cell>
+                        <cell>July 20, 1948</cell>
+                        <cell><unclear>Designatial</unclear> Cons. (755)</cell>
+                    </row>
+                    <row>
+                        <cell>Belfast</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Florence</cell>
+                        <cell>Miss Ruth E. Wagner</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 29, 1963</cell>
+                        <cell>Halifax 12-9-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss kuthE.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>ner</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

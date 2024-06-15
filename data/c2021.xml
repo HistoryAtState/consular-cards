@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2021" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cienfuegos, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2020" type="prev"/>
+                <relatedItem target="c2022" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2021f1">
+                <graphic height="3634px" url="02712.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cienfuegos, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02712</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2021">
+        <body>
+            <div corresp="#c2021f1">
+                <head>Cienfuegos, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Erfurt</cell>
+                        <cell>Albert F. Rufer</cell>
+                        <cell>Vice Con. U. S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>newyork<lb/>City</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 26, 1917</cell>
+                        <cell>Resigned effective Jan. 31, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell>Skin<lb/>Cons.</cell>
+                        <cell>Edward Benet</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 4, 1922</cell>
+                        <cell>Appt'd V.C., Matanzas, Aug. 11, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Moncton</cell>
+                        <cell>Hernan C. Vogenity</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 17, 1934</cell>
+                        <cell>To Cuba, July 5, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Havana</cell>
+                        <cell>Thomas J. Cole</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 4, 1941</cell>
+                        <cell>Habana, Oct. 13, 1941.</cell>
+                    </row>
+                </table>
+                <p>American Consulate at Cienfuegos, Cuba, will be closed to the public<lb/>on
+                    August 31, 1945.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

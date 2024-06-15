@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0495" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lubeck, Germany-Free City</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0494" type="prev"/>
+                <relatedItem target="c0496" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0495f1">
+                <graphic height="3626px" url="00675.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lubeck, Germany-Free City</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00675</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0495">
+        <body>
+            <div corresp="#c0495f1">
+                <head>Lubeck, Germany. <unclear/>free city</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Coleman</cell>
+                        <cell>ViceCon.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 24, 1865.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>#</cell>
+                        <cell>Jacob Meyer</cell>
+                        <cell>Con. Agt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 22, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>#</cell>
+                        <cell>James F. Dartt</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Feb. 13, 1885.</cell>
+                        <cell>Resigned Aug. 11, 1885.</cell>
+                    </row>
+                    <row>
+                        <cell>#</cell>
+                        <cell>Jacob Meyer, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ger.</cell>
+                        <cell/>
+                        <cell>Sept. 5, 1885</cell>
+                        <cell>Superseded <lb/> May 9, 1903 to <lb/> Went out upon closing of
+                            Agency</cell>
+                    </row>
+                    <row>
+                        <cell>#</cell>
+                        <cell>Wolfgang Faerdtz</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1903.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed March 1, 1916.</p>
+                <p># same man</p>
+            </div>
+        </body>
+    </text>
+</TEI>

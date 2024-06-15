@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1976" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brockville, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1975" type="prev"/>
+                <relatedItem target="c1977" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1976f1">
+                <graphic height="3630px" url="02648.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brockville, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1869</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02648</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1976">
+        <body>
+            <div corresp="#c1976f1">
+                <head>Brockville, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. A. Schofield</cell>
+                        <cell>Con. Sgt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct 27,1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward A. Buckman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 4, 1875</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.A. Schofield</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 14,1881</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward A. Buckman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug, 10, 1881.</cell>
+                        <cell>Canceled</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Augustus Schofield</cell>
+                        <cell>Con. Sgt. Us.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Och, 14, 1885</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward A. Buckman</cell>
+                        <cell>V.D. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 17,1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.A. Schofield</cell>
+                        <cell>V.D. Con. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 3, 1888,-</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward A. Buckman</cell>
+                        <cell>" " " " Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Walton Wood</cell>
+                        <cell>" " " " U.S.</cell>
+                        <cell/>
+                        <cell>Minn</cell>
+                        <cell>Sept 22,1893</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry B. White</cell>
+                        <cell>" " " " Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 4, 1902,</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0016" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aguadilla, Porto Rico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0015" type="prev"/>
+                <relatedItem target="c0017" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0016f1">
+                <graphic height="3628px" url="00024.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aguadilla, Porto Rico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00024</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0016">
+        <body>
+            <div corresp="#c0016f1">
+                <head>Aguadilla, Porto Rico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Conrad Rieckehoff</cell>
+                        <cell>Con. Ayt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 16, 1864.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Koppisch</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1867</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bernhard Muller (temp.) Temp"</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 25, 1868</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustus Ganolandt</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 16, 1880</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

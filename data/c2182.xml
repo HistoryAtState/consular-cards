@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2182" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Demerara, Guiana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2181" type="prev"/>
+                <relatedItem target="c2183" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2182f1">
+                <graphic height="3624px" url="02910.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Demerara, Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1865</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02910</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2182">
+        <body>
+            <div corresp="#c2182f1">
+                <head>Demerara, Guiana. (<unclear>su</unclear> Georgetown)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Duff</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 7, 1865</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Tengely</cell>
+                        <cell>Temp. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 3, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Tengely</cell>
+                        <cell>Vice " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 15, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. H. de Jonge</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Demerara Sept 13, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Thomson</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 5, 1884</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur C. Watthall</cell>
+                        <cell>Dep. " " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>Mies</unclear> Jan. 22, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Spaight</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>Maes</unclear> July 17, 1893</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Spaight</cell>
+                        <cell>V.D. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>" " Nov. 29, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustav Henry Richter</cell>
+                        <cell>Vice " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Md. Nov. 21, 1896.</cell>
+                        <cell>Decommissioned to agree <lb/> with appropriation act 7/1/04,</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

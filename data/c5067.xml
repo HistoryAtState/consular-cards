@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5067" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hamburg, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5066" type="prev"/>
+                <relatedItem target="c5068" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5067f1">
+                <graphic height="3624px" url="06579.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hamburg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="9.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06579</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5067">
+        <body>
+            <div corresp="#c5067f1">
+                <head>HAMBURG, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard D. Wagner</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 20, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Louis B. Marr</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 21, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>John C. Weisert</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bonn</cell>
+                        <cell>Coburn B. Kidd</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Benjamin C. Hilliard 3d</cell>
+                        <cell>FSS</cell>
+                        <cell>Cons.</cell>
+                        <cell>Feb. 14, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Assigned to Dept.,<lb/>9-25-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell>Matthew T. Lorimer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raymond E. Benson</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 11, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul J. Haines</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Walker A. Diamanti</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>John T. Haldane</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

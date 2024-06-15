@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6392" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kenya</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6391" type="prev"/>
+                <relatedItem target="c6393" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6392f1">
+                <graphic height="3610px" url="08452.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kenya</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08452</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6392">
+        <body>
+            <div corresp="#c6392f1">
+                <head>KENYA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Philip Cherry</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 9, 1964</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>751<lb/>Dept.</cell>
+                        <cell>William B. Pogue</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 12, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C. also v.c. for<lb/>the Seychelles.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec<lb/>Nairobi</cell>
+                        <cell>Merle E. Arp</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C. To Kaduna<lb/>as V.C., 8-16-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Elmer G. Kryza</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Consul and Consul<lb/>for the Seychelles.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert W. Skiff</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell>*exceptional basis-<lb/>dunation this assignment</cell>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons. To London as<lb/>2d Secy 10-9-166</cell>
+                    </row>
+                    <row>
+                        <cell>Poznan</cell>
+                        <cell>Joseph R. Jacyno</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Oct. 11, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Russell C. Heater</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nairobi</cell>
+                        <cell>Miss Doris Meltana Luellen</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward N. Korn-Patterson</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Palermo</cell>
+                        <cell>James O. Westmoreland</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Ralph A. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

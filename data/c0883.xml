@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0883" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Roseau, Dominica Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0882" type="prev"/>
+                <relatedItem target="c0884" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0883f1">
+                <graphic height="3632px" url="01185.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Roseau, Dominica Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01185</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0883f2">
+                <graphic height="3632px" url="01186.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Roseau, Dominica Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01186</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0883">
+        <body>
+            <div corresp="#c0883f1">
+                <head>Roseau, Dominica Island. (see Dominica)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dominica</cell>
+                        <cell>William Stedman</cell>
+                        <cell>Con. Agh.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb 14, 1896.</cell>
+                        <cell>Resigned Nov. 1896.</cell>
+                    </row>
+                    <row>
+                        <cell>See</cell>
+                        <cell>Henry A Frampton</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>Nov. 24, 1896.</cell>
+                        <cell>Nov, 1896 to<lb/>Hieda Roseau, Sep.4, 1933</cell>
+                    </row>
+                    <row>
+                        <cell>over</cell>
+                        <cell>Keith Ernest Burton</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 28, 1933</cell>
+                        <cell>Serv. term. Mar 31, 1934</cell>
+                    </row>
+                </table>
+                <p>Agency closed March 31, 1934</p>
+            </div>
+            <div corresp="#c0883f2">
+                <head>Roseau</head>
+                <p>Keith Ernest Burton designated Acting Consul Agent. Office. Aug. 5, 1933.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

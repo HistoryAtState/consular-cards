@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0446" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leipzig, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0445" type="prev"/>
+                <relatedItem target="c0447" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0446f1">
+                <graphic height="3634px" url="00610.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leipzig, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00610</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0446f2">
+                <graphic height="3634px" url="00611.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leipzig, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00611</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0446">
+        <body>
+            <div corresp="#c0446f1">
+                <head>Leipzig, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Andrew Gilchrist</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>New York<lb/>City</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 6, 1926</cell>
+                        <cell>Appt'd V.C., Prague, Sept. 18, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Walter F. Dement</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Miss.</cell>
+                        <cell>Miss.</cell>
+                        <cell>June 19, 1928.</cell>
+                        <cell>Appt'd V.C., Saigon Mar. 29, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Cologne</cell>
+                        <cell>Gerald A. Mokma</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mich.</cell>
+                        <cell>Iowa</cell>
+                        <cell>Apr. 13, 1929.</cell>
+                        <cell>apptd. J.S.O., unch, also V.C. of career,<lb/>Dec. 19, 1929, assigned
+                            to Maracaibo, Dec. 31, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Kovno</cell>
+                        <cell>Paul J. Leveley</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Conn.</cell>
+                        <cell>Dec. 20, 1929.</cell>
+                        <cell>apptd. F.S.O., unch, V.C. of career to Secy<lb/>Dipl. Serv, Dec. 17,
+                            1931; assigned as<lb/>V.C., Leipzig, Jan. 2, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Riga</cell>
+                        <cell>Paul M. Dutko</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Aug. 26, 1937</cell>
+                        <cell>Appt'd V.C., Vienna, Apr. 7, 1938</cell>
+                    </row>
+                    <row>
+                        <cell>Vienna<lb/>Clerk in<lb/>Consulate</cell>
+                        <cell>Charles E. Kulick, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Aug. 17, 1938</cell>
+                        <cell>To Dept. 7-21-41<lb/>To Moscow 6-18-43</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1940</cell>
+                        <cell>Appt.V.C. Bucharest, Jan. 9, 1941.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0446f2">
+                <head>Leipzig</head>
+                <p>Paul M. Dutko detailed to Vienna as Clerk, Mar. 17, 1958,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

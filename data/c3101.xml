@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3101" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mogadiscio, Somaliland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3100" type="prev"/>
+                <relatedItem target="c3102" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3101f1">
+                <graphic height="3628px" url="04077.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mogadiscio, Somaliland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04077</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3101">
+        <body>
+            <div corresp="#c3101f1">
+                <head>MOGADISCIO, SOMALILAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John H. Scanlon</cell>
+                        <cell>Vice Cons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 29, 1959</cell>
+                        <cell>Designated Information Officer<lb/>(FSS) (USIA) Mogadiscio
+                            7-1-60</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas J. Tepper</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 2, 1965</cell>
+                        <cell>Mogadiscio raised to an Embassy 7-1-60.<lb/>To San Pedro Suiza as
+                            Vic.<lb/>10-11-65.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3016" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Medellin, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3015" type="prev"/>
+                <relatedItem target="c3017" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3016f1">
+                <graphic height="3626px" url="03974.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Medellin, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03974</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3016">
+        <body>
+            <div corresp="#c3016f1">
+                <head>MEDELLÍN, Colombia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Medellín<lb/>750 assigned<lb/>to the U. of<lb/>Fla.,
+                            Gainesville</cell>
+                        <cell>Tadao Kobayashi</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>Apr. 7, 1962</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>fso assigned to the<lb/>Dept., 3-31-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles P. Torrey</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

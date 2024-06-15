@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4208" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tripoli, Libya</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4207" type="prev"/>
+                <relatedItem target="c4209" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4208f1">
+                <graphic height="3628px" url="05477.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tripoli, Libya</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05477</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4208">
+        <body>
+            <div corresp="#c4208f1">
+                <head>TRIPOLI, LIBYA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS)<lb/>Hong Kong</cell>
+                        <cell>Flavio A. Esposito</cell>
+                        <cell>Sept. 2, 1963</cell>
+                        <cell>To Accra as V. C. 7-18-66 (confirmed as Consular Officer<lb/>955
+                            6-16-66)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1215" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cardiff, Wales</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1214" type="prev"/>
+                <relatedItem target="c1216" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1215f1">
+                <graphic height="3634px" url="01617.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cardiff, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01617</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1215f2">
+                <graphic height="3634px" url="01618.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cardiff, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="I"/>
+                    </f>
+                    <f name="year">
+                        <string>1836</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01618</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1215">
+        <body>
+            <div corresp="#c1215f1">
+                <head>Cardiff, Wales.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Patrick William Carey</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 16, 1871</cell>
+                        <cell>Removed for unfitness<lb/>July 1875?</cell>
+                    </row>
+                    <row>
+                        <cell>George James Davika</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 26, 1875</cell>
+                        <cell>Canceled Sept. 29/75</cell>
+                    </row>
+                    <row>
+                        <cell>Patrick William Carey</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Sept. 9, 1875</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John W. Vachell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Dee: 31, 1875</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>William Bruce Lovie</cell>
+                        <cell>Vod. Gr. Dr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 17, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John James Willetts</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mar. 30, 1892,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>William Harris</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Feb. 17, 1894.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ernest L. Phillips</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Ill. May 3, 1899</cell>
+                        <cell>Resigned Apr. 12, 1899.<lb/>Apptd Con. Agh at Chaux<lb/>de Fonds Nov.
+                            10, 1905</cell>
+                    </row>
+                    <row>
+                        <cell>Albert S. Phillips</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ill. Dec. 28, 1905</cell>
+                        <cell>Suspended by the Comment 10/25/13<lb/>Action approved by dept dow, 17,
+                            1913.<lb/>Made Vice Coneul by Act<lb/>approved Fel.5,1915.</cell>
+                    </row>
+                    <row>
+                        <cell>William John Perkins</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Dr. Eng</cell>
+                        <cell>Cardiff<lb/>Wales</cell>
+                        <cell>Apr. 12, 1914.</cell>
+                        <cell>Feb. 5, 1915. Appt'd term June 30, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell>VDC. William John Perkins</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Water</cell>
+                        <cell>Apr. 13, 1914.</cell>
+                        <cell>By Act of Fel. 5, 1915. </cell>
+                    </row>
+                    <row>
+                        <cell>Walden M. Howe</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Newton,<lb/>Mass</cell>
+                        <cell>Conn.</cell>
+                        <cell>Aug. 14, 1918.</cell>
+                        <cell>Sept. 27, 1918 to Oct. 4, 1918<lb/>Jeffform no duties as Vice
+                            Consul<lb/>Only chose of a clerk. Resigned</cell>
+                    </row>
+                    <row>
+                        <cell>Port<lb/>Antonio</cell>
+                        <cell>Edward B. Cipriani</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Trinidad</cell>
+                        <cell>N.J.</cell>
+                        <cell>June 17, 1919</cell>
+                        <cell>Appt'd V.C. Leeds Dec. 31, 1919<lb/>Dis not go Cardiff</cell>
+                    </row>
+                    <row>
+                        <cell>Stoke on<lb/>Trent</cell>
+                        <cell>Clarence T. Murphy</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Jan. 30, 1920</cell>
+                        <cell>Appt'd V.C. Barria Mar. 13, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Edwin H. Long</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind. Ind</cell>
+                        <cell>Farmersburg</cell>
+                        <cell>Mar 23, 1920</cell>
+                        <cell>Appt'd V.C. Swansea Aug. 3, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>formerly af<lb/>Hamillon<lb/>Bermuda</cell>
+                        <cell>Joseph Labury</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind. Wash</cell>
+                        <cell>Aug. 3, 1920</cell>
+                        <cell>Declined appointment<lb/>Arrived assumed<lb/>10-12-20 duties
+                            10/18/20;<lb/>Resigned from 165 Broadway new york,<lb/>aug. 23, 21.
+                            Acceptis 8-30 21921.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William L. Padgett</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Oct. 5, 1920</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(continued on card #2)</p>
+            </div>
+            <div corresp="#c1215f2">
+                <head>Cardiff, Wales.</head>
+                <table>
+                    <row role="label">
+                        <cell>✓</cell>
+                        <cell>Edward Prest Richards</cell>
+                        <cell>apptd Agh by Cons at Bristol - to Mar. 3, 1836,</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Richard Jones Todd</cell>
+                        <cell>" " " " " - Mar. 3, 1836 to- still in June 1840,</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Henry H. Parry</cell>
+                        <cell>" " " " " - Feb. 1849 to</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>David Brown</cell>
+                        <cell>" " " " " - June 1852 to Octo. 8, 1859.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Sidney D. Jenkins, (a naturalized Am. Citizen)</cell>
+                        <cell>apptd Agh by Cons at Bristol Oct. 8, 1859 to still in - Feb.
+                            1861</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

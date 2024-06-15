@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4012" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Strasbourg, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4011" type="prev"/>
+                <relatedItem target="c4013" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4012f1">
+                <graphic height="3620px" url="05237.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Strasbourg, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05237</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4012f2">
+                <graphic height="3620px" url="05238.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Strasbourg, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05238</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4012">
+        <body>
+            <div corresp="#c4012f1"/>
+            <div corresp="#c4012f2">
+                <head>Strasbourg, France.</head>
+                <p>Leslie E. Woods, V. c. took charge of the office (deack of Consul Pike) Apr. 23,
+                    1928, and turned it over to Consul Davis Nov. 3, 1923.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

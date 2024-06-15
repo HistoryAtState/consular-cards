@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5776" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5775" type="prev"/>
+                <relatedItem target="c5777" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5776f1">
+                <graphic height="3622px" url="07550.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07550</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5776f2">
+                <graphic height="3591px" url="07551.tif" width="5949px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07551</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5776">
+        <body>
+            <div corresp="#c5776f1">
+                <head>(Clerks) Dominican Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Palmer Lewis</cell>
+                        <cell>Clerk</cell>
+                        <cell>Mass. Vt</cell>
+                        <cell/>
+                        <cell>1907</cell>
+                        <cell>Left Santo Domingo Sept. 1910.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Read</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>No record</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Brewer</cell>
+                        <cell>"</cell>
+                        <cell>Ms. Md.</cell>
+                        <cell/>
+                        <cell>1914</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Small</cell>
+                        <cell>"</cell>
+                        <cell>Mo. Mo.</cell>
+                        <cell/>
+                        <cell>Feb. 7, 1912</cell>
+                        <cell>Arrive 8/2/12.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ramón J. Janer</cell>
+                        <cell>"</cell>
+                        <cell>Porto Rico</cell>
+                        <cell/>
+                        <cell>Oct. 18, 1912.</cell>
+                        <cell>Resigned 8/10 effect 9/10/1912.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hazel Mae O'Neil</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell/>
+                        <cell>Dec. 6, 1913.</cell>
+                        <cell>Appt'd. C.S. Santo Domingo June 11, 1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Blake Modica</cell>
+                        <cell>"</cell>
+                        <cell>Conn. N.Y.</cell>
+                        <cell/>
+                        <cell>July 14, 1915</cell>
+                        <cell>Resigned July 8, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Brewer</cell>
+                        <cell>"</cell>
+                        <cell>Ms. Md.</cell>
+                        <cell/>
+                        <cell>Oct. 7, 1915</cell>
+                        <cell>Arrived Aug. 27, 1915.</cell>
+                        <cell>Appt'd V.C. at Cartagena Oct. 7, 1915. <lb/> Assumed duties <lb/> Oct.
+                            24, 1915.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5776f2">
+                <head>Dominican Republic.</head>
+                <p>William B.Douglase, Jr., V.C. at Santo Domingo, will serve temporarily as a Clerk
+                    only in the Legation at Santo Domingo for about a month after which he will
+                    resume his duties as Vice Consul. (Memo, dated July 10, 1928.)</p>
+                <p>Served 8 Sept. 11, 1928 when he resumed his duties as Vice Consul.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

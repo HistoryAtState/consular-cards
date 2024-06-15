@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3366" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oslo, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3365" type="prev"/>
+                <relatedItem target="c3367" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3366f1">
+                <graphic height="3598px" url="04408.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oslo, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04408</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3366">
+        <body>
+            <div corresp="#c3366f1">
+                <head>Oslo, Norway</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Copenhagen</cell>
+                        <cell>Miss Norma L. Gardiner</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>La.</cell>
+                        <cell/>
+                        <cell>June 30, 1951</cell>
+                        <cell>755 officer assigned to dept.<lb/>6-26-52<lb/>Resignation<lb/>Ill.
+                            Mar. 3, 1952 1840B 11-10-55<lb/>To Aruba as V.C. 9-23-53</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Grant W. Olson</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ill.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1952</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Strasbourg</cell>
+                        <cell>H. Stewart Beers</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Oct. 1, 1952</cell>
+                        <cell>Termination off cob<lb/>9-20-53</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Bergen<lb/>re.<lb/>Jan Redro<lb/>Sula</cell>
+                        <cell>Francis R. Gasser</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 19, 1953</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred J. Pedersen</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 28, 1954</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<sup>FSS</sup><lb/>Munich</cell>
+                        <cell>Miss Joanne V. Winn</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.H.</cell>
+                        <cell>Sept. 8, 1956</cell>
+                        <cell>Designated V.C. of career<lb/>Oslo, 10-22-56-248.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Cardiff</cell>
+                        <cell>William H. Holm</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 16, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Miss Naomi M. Gilman</cell>
+                        <cell>V. Cons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 27, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

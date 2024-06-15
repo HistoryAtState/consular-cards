@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1027" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Piraeus, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1026" type="prev"/>
+                <relatedItem target="c1028" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1027f1">
+                <graphic height="3636px" url="01371.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Piraeus, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01371</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1027">
+        <body>
+            <div corresp="#c1027f1">
+                <head>Piraeus, Greece. (Athens Consulate at Piraeus) from Sept. 8, 1858 to Nov.
+                    1861.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar Howe</cell>
+                        <cell>Consul US.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Ill.</unclear></cell>
+                        <cell>Apr. 22, 1863 recess</cell>
+                        <cell>Disappeared latter part of 1867</cell>
+                    </row>
+                    <row>
+                        <cell>Athens</cell>
+                        <cell>Henry M. Canfield</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn.</cell>
+                        <cell>June 30, 1864 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mathew Meige</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 25, 1868 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert P. <unclear>Mup</unclear></cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn.</cell>
+                        <cell>Apr. 16, 1869 Conf. Resigned</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fisk P. Brewer</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Conn.</cell>
+                        <cell>Nov. 9, 1871 Recess Resigned</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lucien A. Wait</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Vt.</cell>
+                        <cell>Dec. 18, 1873 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed (T. A. memo dated Nov. 30, 1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2446" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French Guiana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2445" type="prev"/>
+                <relatedItem target="c2447" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2446f1">
+                <graphic height="3636px" url="03255.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03255</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2446">
+        <body>
+            <div corresp="#c2446f1">
+                <head>French Guiana</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>She also: Trinidad, W. Ford</cell>
+                        <cell>Merlin E. Smith</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>H. Da.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Apr. 8, 1939</cell>
+                        <cell>Appt'd V.C. Curacao Aug. 1, 1939</cell>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>Merlin E. Smith</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 18, 1939</cell>
+                        <cell>Appt'd V.C. Monterey 8-21-42.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

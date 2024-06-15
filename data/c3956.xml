@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3956" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Seychelles</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3955" type="prev"/>
+                <relatedItem target="c3957" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3956f1">
+                <graphic height="3632px" url="05159.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Seychelles</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05159</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3956">
+        <body>
+            <div corresp="#c3956f1">
+                <head>SEYCHELLES</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elmer G. Kryza</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Commn. dated 5-11-65<lb/>Dec. 12, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James R. Ruchti</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Commn. dated 5-11-60<lb/>Dec. 12, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Philip A. Heller</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Commn. dated 5-11-60<lb/>Dec. 12, 1964</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>REMARKS</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>also consul + 2d sec. nairobi<lb/>12-12-63. Also 1st Sec., Nairobi,
+                        5-216-65.</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>also counselor, 2nd sec. + deputy<lb/>chief, mission + consul,
+                        ct<lb/>nairobi</cell>
+                </row>
+                <row>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell><unclear>detail</unclear> termina. also consul + 1st sec. as
+                        nairobi<lb/>3-16-64. Detailed Bujumbura as<lb/>cons. + counselor of emb. +
+                        deputy<lb/>chief of mission, 12-1-66.</cell>
+                </row>
+            </div>
+        </body>
+    </text>
+</TEI>

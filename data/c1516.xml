@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1516" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taihoku, Taiwan (formerly Tansui)</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1515" type="prev"/>
+                <relatedItem target="c1517" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1516f1">
+                <graphic height="3644px" url="02023.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taihoku, Taiwan (formerly Tansui)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02023</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1516">
+        <body>
+            <div corresp="#c1516f1">
+                <head>Taikoku, Taiwan. (formerly Janani)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>ohama</cell>
+                        <cell>Harold C. Huggins</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ore.</cell>
+                        <cell>Ore.</cell>
+                        <cell>Jan. 3, 1916.</cell>
+                        <cell>Appt'd U.S. Cons. Yokohama, 7/15/16.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

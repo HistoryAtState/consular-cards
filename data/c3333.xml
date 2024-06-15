@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3333" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ottawa, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3332" type="prev"/>
+                <relatedItem target="c3334" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3333f1">
+                <graphic height="3610px" url="04367.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ottawa, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04367</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3333">
+        <body>
+            <div corresp="#c3333f1">
+                <head>OTTAWA, Ontario, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Mexico</cell>
+                        <cell>Miss Claretta L. Krueger</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

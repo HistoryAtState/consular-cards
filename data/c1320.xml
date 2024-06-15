@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1320" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santa Rosalia, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1319" type="prev"/>
+                <relatedItem target="c1321" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1320f1">
+                <graphic height="3632px" url="01755.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santa Rosalia, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01755</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1320">
+        <body>
+            <div corresp="#c1320f1">
+                <head>Santa Rosalia, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Bartley F. Yosh (ca)</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>naturalized</cell>
+                        <cell><unclear>Kana</unclear></cell>
+                        <cell>June 15, 1918.</cell>
+                        <cell>Appt'd Consul Class 8 July 6, 1918 <lb/> Assigned to Santa Rosalia
+                            7/22/1918</cell>
+                    </row>
+                </table>
+                <p>Office closed Nov. 30, 1918.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

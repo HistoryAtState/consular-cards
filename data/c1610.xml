@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1610" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trenton, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1609" type="prev"/>
+                <relatedItem target="c1611" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1610f1">
+                <graphic height="3624px" url="02151.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trenton, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02151</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1610f2">
+                <graphic height="3624px" url="02152.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trenton, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1894</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02152</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1610">
+        <body>
+            <div corresp="#c1610f1">
+                <head>Trenton, Ontario. under Belleville</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Davis Cosset Strong</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Syracuse N.Y.</cell>
+                        <cell>July 1, 1887.</cell>
+                        <cell>July 1887 to July 2, 1891. <lb/> Removed <lb/> July 2, 1891 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stephen J. Young</cell>
+                        <cell>"" Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 2, 1891.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed</p>
+            </div>
+            <div corresp="#c1610f2">
+                <head>Trenton, Ontario.</head>
+                <p>William H. Sill, acts in charge (absence of Agt.) Aug 16, 1894 to (4 or 5
+                    weeks)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

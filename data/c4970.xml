@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4970" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Genoa, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4969" type="prev"/>
+                <relatedItem target="c4971" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4970f1">
+                <graphic height="3626px" url="06454.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Genoa, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06454</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4970">
+        <body>
+            <div corresp="#c4970f1">
+                <head>Genoa, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Miss Horah Alsterlund</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Aug. 17, 1951</cell>
+                        <cell/>
+                        <cell>To Bogotá as V.C 10-26-54</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felton M. Wyatt</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif. Aug. 6, 1952</cell>
+                        <cell/>
+                        <cell>FSS assigned to Dept. 3/9/5-8</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. Paul Taylor</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 22, 1953</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter Constan</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. Jan. 16, 1954</cell>
+                        <cell/>
+                        <cell>Designated Consul, Genoa <lb/> 6-28-54</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Pattie H. Field</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Colo. Jan. 4, 1954</cell>
+                        <cell/>
+                        <cell>assign terminated 9-15-56</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Joseph F. Christiano</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 5, 1954</cell>
+                        <cell/>
+                        <cell>To Trieste as V.C.(FSS) <lb/> 4-3-55.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Francis J. Hejno</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1954</cell>
+                        <cell/>
+                        <cell>Designated Consul (<unclear>en</unclear>) <lb/> Genoa 7-20-55</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Westly E. Sheldon</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1956</cell>
+                        <cell/>
+                        <cell>Transfer from 755 to 750R 6-23-59</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert B. Clark</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 18, 1957</cell>
+                        <cell/>
+                        <cell>Designated Pol. off. 757 Genoa <lb/> 5-28-59.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0972" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Panama, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0971" type="prev"/>
+                <relatedItem target="c0973" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0972f1">
+                <graphic height="3632px" url="01300.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Panama, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01300</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0972f2">
+                <graphic height="3628px" url="01301.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Panama, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01301</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0972">
+        <body>
+            <div corresp="#c0972f1">
+                <head>Panama, Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>REV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert W. Turpin</cell>
+                        <cell>U.S. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 20, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph W. Adamson</cell>
+                        <cell>U. Con. Gen. U.S.</cell>
+                        <cell/>
+                        <cell>Pa</cell>
+                        <cell/>
+                        <cell>Sept. 24, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jose G. Duque</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix Ehrman</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 8, 1892.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis H. Rudger</cell>
+                        <cell>U.S. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.O.</cell>
+                        <cell>July 7, 1898.</cell>
+                        <cell>Resigned July 17, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix Ehrman</cell>
+                        <cell>U. Con. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 10, 1901.</cell>
+                        <cell>Recommissioned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix Ehrman (ex)</cell>
+                        <cell>" " (Panama, Panama)</cell>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell/>
+                        <cell>May 3, 1904.</cell>
+                        <cell>Resigned 1905.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0972f2">
+                <head>Panama, Colombia.</head>
+                <p>Felix Thiman of La U.S. in charge Feb. 24, 1905 to Apr. 23, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

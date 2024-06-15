@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2621" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Johannesburg, Transvaal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2620" type="prev"/>
+                <relatedItem target="c2622" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2621f1">
+                <graphic height="3632px" url="03484.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Johannesburg, Transvaal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03484</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2621">
+        <body>
+            <div corresp="#c2621f1"/>
+        </body>
+    </text>
+</TEI>

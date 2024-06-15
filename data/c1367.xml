@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1367" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shanghai, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1366" type="prev"/>
+                <relatedItem target="c1368" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1367f1">
+                <graphic height="3604px" url="01817.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01817</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1367f2">
+                <graphic height="3604px" url="01818.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01818</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1367">
+        <body>
+            <div corresp="#c1367f1"/>
+            <div corresp="#c1367f2">
+                <head>Shanghai</head>
+                <p>Consul General Gauss detailed to Dept. State temp., May 28, 1938 to serve in dual
+                    capacity as Con. Gen. &amp; Counselor of Embassy, June 20, 1933; renewed Sep.
+                    29, 1939.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

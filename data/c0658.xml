@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0658" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nagasaki, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0657" type="prev"/>
+                <relatedItem target="c0659" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0658f1">
+                <graphic height="3638px" url="00894.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nagasaki, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00894</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0658f2">
+                <graphic height="3638px" url="00895.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nagasaki, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00895</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0658">
+        <body>
+            <div corresp="#c0658f1">
+                <head>Nagasaki, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Hogg</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 22, 1862 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles L. Fisher</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 11, 1870 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Frank Nevells</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>Apr. 4, 1895 Pres. alone</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Makine</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wash.</cell>
+                        <cell>May 7, 1898..</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0658f2">
+                <head>Nagasaki, Japan</head>
+                <p>In 1866 David L. Moore, of Conn, acting as Marshal, Nagasaki. The Consul in
+                    despatch Oct. 10, 1865 sayd Mr. Moore had at that time been employed for 2½
+                    years.</p>
+                <p>Moore acted as Marshal until Feb. 1, 1867 when (as Vice Consul) he took charge of
+                    office in Consula absence.</p>
+                <p>In despatch Jan. 20, 1868 he says that L. M. Dent was acting as Marchal in 1867
+                    but gives no dates of entering creduty, etc..</p>
+            </div>
+        </body>
+    </text>
+</TEI>
