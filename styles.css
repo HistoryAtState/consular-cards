@@ -1,0 +1,81 @@
+teiHeader,
+facsimile {
+    display: none;
+}
+
+body {
+    font-family: Palatino;
+}
+
+body > div {
+    background-color: #f2e8c4; /* Light parchment color */
+    border: 1px solid black;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+cell {
+    display: table-cell;
+    border-right: 1px solid #b85c5c; /* Reddish color for vertical line */;
+    border-bottom: 1px solid gray; /* Reddish color for vertical line */;
+    padding: 0.3em;
+    color: inherit;
+    background-color: inherit;
+}
+cell[role = 'label'] {
+    color: inherit;
+    background-color: #BBBBBB;
+}
+
+body > div > head {
+    display: block;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    background-color: #d9c7a7; /* Slightly darker for the header */
+    color: #4a3a2a; /* Dark brown text color */
+}
+
+lb {
+    display: block;
+}
+
+p {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+row {
+    display: table-row;
+    border-bottom: 1px solid #c0b9a9;
+}
+row[role = 'label'] {
+    background-color: #d9c7a7; /* Slightly darker for the header */
+    color: #4a3a2a; /* Dark brown text color */
+    font-weight: bold;
+}
+
+table {
+    display: table;
+    margin: 1em;
+    border: 1px solid black;
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table head {
+    display: table-caption;
+    font-style: italic;
+    margin-bottom: 0.5em;
+    color: #4d4d4d;
+}
+
+unclear {
+    display: inline;
+    font-style: italic;
+}
