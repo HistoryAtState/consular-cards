@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4227" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Udorn, Thailand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4226" type="prev"/>
+                <relatedItem target="c4228" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4227f1">
+                <graphic height="3602px" url="05499.tif" width="6040px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Udorn, Thailand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05499</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4227f2">
+                <graphic height="3602px" url="05500.tif" width="6040px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Udorn, Thailand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05500</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4227">
+        <body>
+            <div corresp="#c4227f1">
+                <head>UDORN, Thailand</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept'l notice 6-8-64</cell>
+                        <cell>Coms. 2d sec. Bangkok</cell>
+                        <cell>Ralph T. Jans</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons. May 25, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell>American Consulate officially opened at Udorn on June 1, 1964. (see
+                            back)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gordon W. Murchie</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. May 31, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4227f2">
+                <head>Udon, Thailand.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Bangkok</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>For administrative purposes, the Consulate will operate as a branch of the
+                    Embassy in Bangkok rather than as a separate Consulate. The post will not be on
+                    the mailing list from the Dept.</p>
+                <p>According to the Desk officer for Thailand, Mr. Pickering, the consular
+                    jurisdiction for Udorn is not the same as Bangkok... June 18, 1964.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

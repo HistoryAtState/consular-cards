@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1383" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shanghai, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1382" type="prev"/>
+                <relatedItem target="c1384" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1383f1">
+                <graphic height="3632px" url="01842.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01842</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1383">
+        <body>
+            <div corresp="#c1383f1">
+                <head>Shanghai, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jonas A. Highaton</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 26, 1862</cell>
+                        <cell>Conf Died Nov. 10, 1862 at Post</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Phoenix</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell>Shanghai</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 12, 1876.</cell>
+                        <cell>Pres. alany. Aug, 1910 "died several years ago"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Adams Shufeldt</cell>
+                        <cell>""</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 19, 1881.</cell>
+                        <cell>Aug, 1910 "died several years ago"</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis R. Staudenmayer</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell>So. Car.</cell>
+                        <cell>So. Car.</cell>
+                        <cell>May 25, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Shufeldt</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Hamilton Eichelberger</cell>
+                        <cell>""</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>July 27, 1897.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Derby</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 13, 1899.</cell>
+                        <cell>Removed. Tel. 12/23/1904 <lb/> Office Closed by act</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Engelbracht</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell>Wise</cell>
+                        <cell>Wise</cell>
+                        <cell>Jan. 9, 1905.</cell>
+                        <cell>June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Roderick Dorsey</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>Aug. 13, 1907.</cell>
+                        <cell>Apptd U.S.D.C. 6/25/08 and superseded as Marshal by White
+                            9/1/08.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hyaddeus C. White</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 30, 1908.</cell>
+                        <cell>Resigned effect Feb. 1, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Williams</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell>China</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 1, 1913.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

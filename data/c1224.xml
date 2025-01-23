@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1224" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carlsbad, Bohemia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1223" type="prev"/>
+                <relatedItem target="c1225" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1224f1">
+                <graphic height="3630px" url="01629.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carlsbad, Bohemia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01629</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1224">
+        <body>
+            <div corresp="#c1224f1">
+                <head>Carlsbad, Bohemia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max Lederer</cell>
+                        <cell>Con. Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 12, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sigmund Freund (n) Cols US.</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 19, 1903</cell>
+                        <cell>Appt'd V.D.C. <lb/> June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sigmund Freund (n) D.C.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 30, 1906.</cell>
+                        <cell>superseded by Boesel</cell>
+                    </row>
+                    <row>
+                        <cell>Yoko-<lb/>homa</cell>
+                        <cell>Robert C. Boesel</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>New<lb/>Bremen<lb/>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 11, 1910.</cell>
+                        <cell>June 7, 1912 <lb/><lb/>Resigned, effective about Aug. 20, 1912
+                            <lb/><lb/>Resigned Dec. 26, 1913 to take <lb/><lb/>up Het. Dec. 31,
+                            1913</cell>
+                    </row>
+                    <row>
+                        <cell>far-</cell>
+                        <cell>Henry B. Albright</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 23, 1912.</cell>
+                        <cell>Made Vice Consul by Act <lb/><lb/>approved Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>Snouch</cell>
+                        <cell>George P. Waller, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>July 7, 1914.</cell>
+                        <cell>Left July 29, 1915. <lb/><lb/>Appt'd V.C. Athens July 14, 1915.
+                            <lb/><lb/>to Apr. 9, 1917</cell>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>George P. Waller, Jr.</cell>
+                        <cell>Vice Con</cell>
+                        <cell>"</cell>
+                        <cell>Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>By Tel. Feb. 5, 1915.</cell>
+                        <cell>Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert S. Townsend.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Aug. 24, 1915.</cell>
+                        <cell>Relations with Austria Hungary <lb/><lb/>severed, Apr. 9, 1917. Appt'd
+                            V.C. Goteborg 6/5/17</cell>
+                    </row>
+                </table>
+                <p>Consulate ordered closed Oct. 21, 1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

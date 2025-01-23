@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0337" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Keneh, Egypt</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0336" type="prev"/>
+                <relatedItem target="c0338" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0337f1">
+                <graphic height="3634px" url="00465.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Keneh, Egypt</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00465</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0337">
+        <body>
+            <div corresp="#c0337f1">
+                <head>Keneh, Egypt.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gadis Gad</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 7, 1873.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abdel K. Mel Ammari</cell>
+                        <cell>" "</cell>
+                        <cell>Egypt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 2, 1894.</cell>
+                        <cell>Appt'd Cons. Agt at Luxor Oct. 14, 1901.</cell>
+                    </row>
+                </table>
+                <p>Office abolished by afpt of el Ammari as Consular Agent at Luxor Oct. 14,
+                    1901.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

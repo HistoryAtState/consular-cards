@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1866" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Batum, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1865" type="prev"/>
+                <relatedItem target="c1867" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1866f1">
+                <graphic height="3626px" url="02494.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Batum, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02494</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1866f2">
+                <graphic height="3626px" url="02495.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Batum, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1911</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02495</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1866">
+        <body>
+            <div corresp="#c1866f1"/>
+            <div corresp="#c1866f2">
+                <head>Batoum, Russia.</head>
+                <p>Emerio Mattievich, V. C. took over the Consulate from Consul Heingartner Aug. 26,
+                    1911 and turned it over to</p>
+                <p>Frederic W. Cauldwell, V.D.C. turned over the Consulate to Consul Davis July 12,
+                    1912,</p>
+                <p>Emerio Mattievich, V. C., took over the office from Consul Davis May 7, 1914 and
+                    turned it over to Consul Smith June 4, 1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4212" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tunis, Tunis</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4211" type="prev"/>
+                <relatedItem target="c4213" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4212f1">
+                <graphic height="3636px" url="05481.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tunis, Tunis</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05481</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4212f2">
+                <graphic height="3636px" url="05482.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tunis, Tunis</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1795</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05482</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4212">
+        <body>
+            <div corresp="#c4212f1"/>
+            <div corresp="#c4212f2">
+                <head>Tunis; Tunis</head>
+                <p>Mons Fammin - Charge d'Affaires 1795? to Mar. 10, 1799?</p>
+                <p>Dr. George Davis - in charge - Mar. 10, 1803 to Aug. 1805. Appt'd Consul at
+                    Tripoli Mar. 17, 1806.</p>
+                <p>Dr. James Dodge - " " - Sept. 1, 1805 to Died Oct. 22, 1806.</p>
+                <p>Tobias Lear (U.S. Algiers) in negotiations Jan. 12, 1807 to Mar. 6, 1807.</p>
+                <p>Charles D. Cope, (an officer of marines on U.S. L'Hornet) Charge d'Affaires
+                    (Appt'd by Lear) Feb. 17, 1807 to</p>
+                <p>Ambrose Allegro was Secy in 1807 and " had been for many years.)</p>
+                <p>" " V.C. " " 1817 &amp; in 1825.</p>
+                <p>Anderson, Consul - away June 1817 to</p>
+                <p>Charles Folsom, of N.H. (Chaplain of U.S.S. "Washington" Jan. 1818?</p>
+                <p>Dr. Samuel D. Heap Charge d'Affaires (appt'd by Shaler at Algiers) Sept. 5, 1823
+                    to Appt'd Consul Nov. 7, 1825.</p>
+                <p>Midshipman James L. Heap, U.S.N. (son of Dr. Heap) in charge (absence of Cons.
+                    Heap) June 1831 to</p>
+                <p>Charles B. Beylard, V.C. took over the office from Consul Cookingham Nov. 29,
+                    1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

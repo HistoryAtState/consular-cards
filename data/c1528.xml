@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1528" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tamsui, Formosa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1527" type="prev"/>
+                <relatedItem target="c1529" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1528f1">
+                <graphic height="3636px" url="02039.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tamsui, Formosa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02039</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1528">
+        <body>
+            <div corresp="#c1528f1">
+                <head>Formosa.</head>
+                <p>John Dodd, British subject, Consular Agent Apr. 1868 - Continued as Consular
+                    Agent. (see yellow card)</p>
+                <p>E.J. Boyd - " " acted as Marshal - 1869 to</p>
+                <p>John Bratton Care " " Cons. Agt. - appt'd July 2, 1874. March 1874? to May 6,
+                    1876. Resigned May 6/76.</p>
+                <p>John Dodd, British subject, Cons. Agt. - June, 1877 to Apr., 1884. Resigned Sept.
+                    4, 1883 to take effect Dec. 31, 1883.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3123" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Monterrey, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3122" type="prev"/>
+                <relatedItem target="c3124" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3123f1">
+                <graphic height="3630px" url="04104.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monterrey, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04104</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3123">
+        <body>
+            <div corresp="#c3123f1">
+                <head>MONTERREY, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Philip J. Adler</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 9, 1964</cell>
+                        <cell/>
+                        <cell><unclear>750 assigned to the Dept. 4-25-65.</unclear></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Vernon J. Goertz, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 9, 1964</cell>
+                        <cell/>
+                        <cell>To Tijuana as V.C., 10-24-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Wilson A. Riley, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                        <cell><unclear>Assigned to Dept. 7-31-66</unclear></cell>
+                    </row>
+                    <row>
+                        <cell>México</cell>
+                        <cell>Peter R. Keller</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Paul P. Pilkauskas</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael A. Cramer, Jr.</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>Vernard A. Lanphier</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell>To San Luis Potosi as V.C., 12-5-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph L. Martinez</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Anthony vE. Miller</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 10, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald R. Tremblay</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

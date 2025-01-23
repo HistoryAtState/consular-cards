@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0058" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amapala, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0057" type="prev"/>
+                <relatedItem target="c0059" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0058f1">
+                <graphic height="3626px" url="00084.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amapala, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1858</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00084</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0058">
+        <body>
+            <div corresp="#c0058f1">
+                <head>Amapala, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gilbert S. Miner</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>June 3, 1858 Conf</cell>
+                        <cell>(see Comoy arga despatches)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. K. Morris</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1873 recedo</cell>
+                        <cell>to Nov, 1882</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 18, 1873 conf.</cell>
+                        <cell>Resigned Oct.6, 1882.</cell>
+                    </row>
+                </table>
+                <p>Agency closed April 30, 1927.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

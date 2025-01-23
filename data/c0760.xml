@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0760" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Olten, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0759" type="prev"/>
+                <relatedItem target="c0761" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0760f1">
+                <graphic height="3644px" url="01032.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Olten, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01032</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0760">
+        <body>
+            <div corresp="#c0760f1">
+                <head>Olten, Switzerland. (under Basel)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hyromimus Salathe</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 18, 1866.</cell>
+                        <cell>Resigned. Accepted by Consul 9/1/89, withdrawn June 30, 1869. May 7,
+                            1878 to Oct. 7, 1878. Appt'd V.C. at Basel Jan. 17, 1879. "C.A." Berne
+                            July 12, 1878.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ralph L. Doerr (n)</cell>
+                        <cell/>
+                        <cell>U.S. Ger.</cell>
+                        <cell>St. Louis</cell>
+                        <cell>Mo.</cell>
+                        <cell>Mar. 13, 1878.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

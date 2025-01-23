@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0301" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jacmel, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0300" type="prev"/>
+                <relatedItem target="c0302" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0301f1">
+                <graphic height="3632px" url="00417.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jacmel, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00417</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0301f2">
+                <graphic height="3632px" url="00418.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jacmel, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00418</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0301">
+        <body>
+            <div corresp="#c0301f1">
+                <head>Jacmel, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry O'Kill</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 18, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adrian St. Lazare, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 19, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jean Vital</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur May</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1896.</cell>
+                        <cell>Resigned May 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jean B. Vital</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June, 1897.</cell>
+                        <cell>Cinquaturrefund</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugo Jensen</cell>
+                        <cell>" "</cell>
+                        <cell>Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 1, 1901.</cell>
+                        <cell>Superseded May 1, 1904 to Out Me closing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis Vital</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn. Feb. 6, 1904.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed May 4, 1920.</p>
+            </div>
+            <div corresp="#c0301f2">
+                <head>Jamaica, Haiti.</head>
+                <p>Emile Vital (brother of Louis) in charge of Agency during absence of Louis Vital
+                    on leave (three months) June 1916 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

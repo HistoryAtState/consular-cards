@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0679" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nantes, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0678" type="prev"/>
+                <relatedItem target="c0680" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0679f1">
+                <graphic height="3640px" url="00926.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nantes, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00926</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0679f2">
+                <graphic height="3640px" url="00927.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nantes, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00927</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0679">
+        <body>
+            <div corresp="#c0679f1"/>
+            <div corresp="#c0679f2">
+                <head>Leonard S. Dawson, lately Consul at Lille, detailed to Nantes, off. May 20,
+                    1940.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

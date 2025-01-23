@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0869" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>River Herbert, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0868" type="prev"/>
+                <relatedItem target="c0870" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0869f1">
+                <graphic height="3644px" url="01168.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>River Herbert, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1879</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01168</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0869">
+        <body>
+            <div corresp="#c0869f1">
+                <head>River Herbert, Nova Scotia, see Portfoggine</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Moffat</cell>
+                        <cell>Appt'd to Port Jogging</cell>
+                        <cell>Con. Agt. Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1879</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John C. Gordon</cell>
+                        <cell>River Herbert S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. July 26, 1899.</cell>
+                        <cell>Resigned Dec. 2, 1899. <lb/> Did not go to Post.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Moffat</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>Dec. 19, 1899.</cell>
+                        <cell>Died Mar. 8, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Fred Moffat</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mar. 23, 1903.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 31, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

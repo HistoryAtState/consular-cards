@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1019" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Petit Goave, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1018" type="prev"/>
+                <relatedItem target="c1020" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1019f1">
+                <graphic height="3636px" url="01362.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Petit Goave, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1877</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01362</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1019">
+        <body>
+            <div corresp="#c1019f1">
+                <head>Petit Goâve, Heaiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.S. Roelgaard</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 24, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. Mérantie</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 10, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louie Lampmeyer</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1899.</cell>
+                        <cell>Resigned Oct. 28, 1911.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Georg Bohne</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Hamburg Petit Goâve</cell>
+                        <cell/>
+                        <cell>Jan. 4, 1912.</cell>
+                        <cell>Commr canceled 3/7/17</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed March 7, 1917; closed Mar. 12, 1917.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

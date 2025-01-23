@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1399" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sierra Leone, Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1398" type="prev"/>
+                <relatedItem target="c1400" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1399f1">
+                <graphic height="3640px" url="01863.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sierra Leone, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1858</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01863</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1399">
+        <body>
+            <div corresp="#c1399f1">
+                <head>Sierra Leone, Africa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John E. Taylor</cell>
+                        <cell>Consul Agh U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Pagla</unclear>.</cell>
+                        <cell><unclear>Pagla</unclear>.</cell>
+                        <cell>Oct. 15, 1858.</cell>
+                        <cell>Aug 1853 to Jan. 27, 1860 <lb/> by Sec'y. Died Jan. 27, 1860.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Rider</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Salem, Mass.</cell>
+                        <cell>Salem, Mass.</cell>
+                        <cell>May 24, 1866</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Hogan</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Sierra Leone</cell>
+                        <cell>Sierra Leone</cell>
+                        <cell>June 10, 1872</cell>
+                        <cell>Conf. Died Nov. 1873.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nathaniel Lyons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sierra Leone</cell>
+                        <cell>Sierra Leone</cell>
+                        <cell>Feb. 20, 1874</cell>
+                        <cell>Conf. suspended</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Randall</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sierra Leone</cell>
+                        <cell>Sierra Leone</cell>
+                        <cell>July 17, 1874</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Parm</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sierra Leone</cell>
+                        <cell>Sierra Leone</cell>
+                        <cell>Dec. 21, 1874</cell>
+                        <cell>Conf</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Judson A. Lewis</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sierra Leone</cell>
+                        <cell>Sierra Leone</cell>
+                        <cell>June 14, 1878</cell>
+                        <cell>Conf</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>B. Bowser <unclear/>Colored</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Sierra Leone</cell>
+                        <cell>May 26, 1879</cell>
+                        <cell>Conf. Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert P. Pooley</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>July 12, 1890</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John T. Williams <unclear/>Colored</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 1, 1893</cell>
+                        <cell>Conf. To St. Helena Jan. 12, 1898. <lb/> May 19, 1898 to <lb/> Oct.
+                            10, 1906</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Yerby <unclear/>Colored</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>No. Car.</cell>
+                        <cell>Feb. 25, 1898</cell>
+                        <cell>Conf. Resigned Apr. 18, 1906. <lb/> Assigned to Dakar 2/22/15</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

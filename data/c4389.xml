@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4389" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4388" type="prev"/>
+                <relatedItem target="c4390" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4389f1">
+                <graphic height="3636px" url="05711.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05711</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4389">
+        <body>
+            <div corresp="#c4389f1">
+                <head>ADEN</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>attaché<lb/>FSO<lb/>Beirut/75</cell>
+                        <cell>John D. Tinny</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>April 2, 1962</cell>
+                        <cell/>
+                        <cell>To Benghazi as Cons., 8-31-64.<lb/>Also Consul for The Sultanate
+                            of<lb/>Muscat &amp; Oman.<lb/>FSO assigned to the
+                            dept.,<lb/>8-29-65<lb/>To Beirut as 2d Sec.,<lb/>2-26-67.</cell>
+                    </row>
+                    <row>
+                        <cell>attache<lb/>FSO<lb/>Beirut/251</cell>
+                        <cell>John T. Wheelock</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Aug. 6, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>FSI<lb/>Beirut</cell>
+                        <cell>David W. Carr</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>Nov. 9, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate at Aden was elevated to Consulate General effective March 1,
+                            1965.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Curtis F. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Aden</cell>
+                        <cell>Curtis F. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Gen.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Heron</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Adana</cell>
+                        <cell>Thomas W. Davis, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Consul</cell>
+                        <cell>Dec. 5, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

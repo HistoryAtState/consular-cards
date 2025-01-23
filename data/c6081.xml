@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6081" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6080" type="prev"/>
+                <relatedItem target="c6082" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6081f1">
+                <graphic height="3628px" url="07981.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="14.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07981</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6081f2">
+                <graphic height="3628px" url="07982.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="14.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07982</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6081">
+        <body>
+            <div corresp="#c6081f1"/>
+            <div corresp="#c6081f2">
+                <head>Lester De Witt Mallory - Agricultural Attaché - attached to the office of the
+                    U.S. Rep. to the French Committee of National Liberation, Paris, France -
+                    9-27-44. assigned to the Dept. 12-3-45</head>
+            </div>
+        </body>
+    </text>
+</TEI>

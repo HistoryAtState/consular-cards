@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1428" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sorrento, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1427" type="prev"/>
+                <relatedItem target="c1429" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1428f1">
+                <graphic height="3632px" url="01901.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sorrento, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01901</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1428">
+        <body>
+            <div corresp="#c1428f1">
+                <head>Sorrento, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nestore Calvano</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell>Italy</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 6, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francesco Ciampa</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jan. 11, 1894.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolph S. Studer (n)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Sowa</cell>
+                        <cell>Mar. 14, 1899.</cell>
+                        <cell>Died Jan. 3, 1900, <lb/>Apptd Agt. at Capri <lb/>Jan 23, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Spencer Jerome</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Mich</cell>
+                        <cell>Jan. 10, 1900.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francesco Ciampa</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Staty</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 25, 1901.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Agency closed July 18, 1908.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

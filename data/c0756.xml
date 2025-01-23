@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0756" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Old Harbor, Jamaica</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0755" type="prev"/>
+                <relatedItem target="c0757" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0756f1">
+                <graphic height="3626px" url="01028.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Old Harbor, Jamaica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01028</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0756">
+        <body>
+            <div corresp="#c0756f1">
+                <head>Old Harbor, Jamaica.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Isaac Dolphy</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 3, 1867,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Moses Bravo</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 13, 1868,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maurice Levy</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 27, 1873,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Morrice</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 4, 1874,</cell>
+                        <cell>(Resigned) to Mar. 3, 1876. <lb/> Office closed Mar. 3, 1876.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Moses Bravo</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 24, 1887,</cell>
+                        <cell>Exequatur refused</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D. H. Mendez</cell>
+                        <cell>〃 〃 S.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 23, 1892,</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

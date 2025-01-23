@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4408" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aleppo, Syrian Arab Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4407" type="prev"/>
+                <relatedItem target="c4409" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4408f1">
+                <graphic height="3636px" url="05738.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aleppo, Syrian Arab Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05738</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4408">
+        <body>
+            <div corresp="#c4408f1">
+                <head>ALEPPO, SYRIAN ARAB REPUBLIC</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>VC.<lb/>Aleppo</cell>
+                        <cell>George M. Lane</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>Coradino E. Gatti</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>To Rabat as 2 Secy 9-11-66</p>
+            </div>
+        </body>
+    </text>
+</TEI>

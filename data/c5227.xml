@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5227" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Austria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5226" type="prev"/>
+                <relatedItem target="c5228" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5227f1">
+                <graphic height="3614px" url="06788.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06788</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5227f2">
+                <graphic height="3614px" url="06789.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06789</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5227">
+        <body>
+            <div corresp="#c5227f1"/>
+            <div corresp="#c5227f2">
+                <head>Richard W. Murphy, Consular Officer, Salzburg, Austria, Oct. 9, 1955.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

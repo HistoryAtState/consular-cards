@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0402" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Las Palmas, Canary Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0401" type="prev"/>
+                <relatedItem target="c0403" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0402f1">
+                <graphic height="3632px" url="00553.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Las Palmas, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00553</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0402">
+        <body>
+            <div corresp="#c0402f1">
+                <head>Las Palmas, Canary Islands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Oruro</cell>
+                        <cell>Julian C. Greenup</cell>
+                        <cell>V.C. de carrière</cell>
+                        <cell>3</cell>
+                        <cell>7/27/1919</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 14, 1920.</cell>
+                        <cell>Office opened Aug. 10, 1920 <lb/> Aug. 9, 1920 to</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Julian C. Greenup</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>2/11/1921</cell>
+                        <cell>Calif.</cell>
+                        <cell>"</cell>
+                        <cell>Appt'd V.C. de carrière, Class 2 Nov. 17, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 2</cell>
+                        <cell>Julian C. Greenup</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Calif.</cell>
+                        <cell>"</cell>
+                        <cell>Appt'd V.C. de carrière, Class 1 May 26, 1922.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to the public Sept. 10, 1946.</p>
+                <p>Consulate officially closed Sept. 30, 1946.</p>
+                <p>Appt'd Consul class 7 Dec. 19, 1923. <lb/> Remained at Las Palmas on detail.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

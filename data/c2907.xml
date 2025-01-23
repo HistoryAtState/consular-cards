@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2907" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Madrid, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2906" type="prev"/>
+                <relatedItem target="c2908" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2907f1">
+                <graphic height="3624px" url="03829.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madrid, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03829</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2907f2">
+                <graphic height="3624px" url="03830.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Madrid, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1803</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03830</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2907">
+        <body>
+            <div corresp="#c2907f1">
+                <head>Madrid, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Juan Angel Rosille</cell>
+                        <cell><unclear>Con. Gen. Spain</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 9, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ignacio F. Hernandez</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 29, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dwight T. Reed</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 26, 1899</cell>
+                        <cell>Died Oct. 17, 1900, <lb/> to Nov. 28, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dean R. Wood</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 11, 1900.</cell>
+                        <cell>Appt'd Consul Ceiba Mar. 26, '03 <lb/> Nov. 29, 1902 to May 8,
+                            1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry H. Hallatt</cell>
+                        <cell>Temp.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 24, 1902.</cell>
+                        <cell>superseded <lb/> May 9, 1903</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolphe Danziger (@@)</cell>
+                        <cell>Vice</cell>
+                        <cell>U.S. Ger.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 28, 1903.</cell>
+                        <cell>Appt'd Agt. Aberdeen Apr. 12, 1904</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maddin Summers (@@)</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Tenn.</cell>
+                        <cell>May 26, 1904.</cell>
+                        <cell>Apr. 29, 1904 to <lb/> On leave</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Crocker</cell>
+                        <cell>Vice Con. Temp.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell>Jan. 6, 1905</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maddin Summers</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell>Feb. 16, 1905.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jose Maria Gay</cell>
+                        <cell>Dep.</cell>
+                        <cell>" "</cell>
+                        <cell>P.I.</cell>
+                        <cell>Philippine</cell>
+                        <cell>May 10, 1907.</cell>
+                        <cell>Appt'd 2.0.D.C. Dec. 9, 1910. <lb/> Made Vice Consul by Act <lb/>
+                            approved Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>Con.</cell>
+                        <cell>Jose Maria Gay</cell>
+                        <cell>V.D.</cell>
+                        <cell>" "</cell>
+                        <cell>Philippine</cell>
+                        <cell>Dec. 9, 1910.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>Jose Maria Gay</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>By Act of Feb. 5, 1915.</cell>
+                        <cell>Reported to be insane 10/10/1916 <lb/> Nov. 1, 1916 to <lb/>
+                            Recommissioned 6/5/1917</cell>
+                    </row>
+                    <row>
+                        <cell>see <lb/> above</cell>
+                        <cell>Carlton B. Hurst</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>of Am. par. <lb/> Crafter <lb/> Ger.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Oct. 25, 1916.</cell>
+                        <cell>Appt'd V.C. Santander July 23, 1917</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carlton Hurst</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Peter <lb/> Ger.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Oct. 25, 1916.</cell>
+                        <cell>Appt'd V.C. Tangier Jan. 7, 1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest E. Evans</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Rochester <lb/> N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 23, 1917</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dudley W. Windes</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Riverside <lb/> Ariz.</cell>
+                        <cell>Ariz.</cell>
+                        <cell>Feb. 3, 1919</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Reginald S. Castleman</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Apr. 14, 1919.</cell>
+                        <cell>Appt'd V.C. de Carriere, class 5 and <lb/> assigned to Madrid Oct. 1,
+                            1920</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2907f2">
+                <head>Madrid, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Graham</cell>
+                        <cell>Consul</cell>
+                        <cell>in November 1803?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry H. Hallatt</cell>
+                        <cell>Temp. V.C.</cell>
+                        <cell>in charge Dec. 6, 1902 to May 8, 1903</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolphe Danziger</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>" " May 9, 1903 to Apr. 28, 1904</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maddin Summers</cell>
+                        <cell>" "</cell>
+                        <cell>" " Apr. 29, 1904 to Nov. 5, 1907</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José Maria Say, VoD. Con.</cell>
+                        <cell/>
+                        <cell>look over the Consulate from Consul Hoover Aug. 31, 1912 and turned it
+                            over to Con. Dumont 7/10/15</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roland A. Durkle</cell>
+                        <cell/>
+                        <cell>Blud Int. in Turkey, detailed to Madrid Apr. 9, 1917, temporarily to
+                            assist in Consulate.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

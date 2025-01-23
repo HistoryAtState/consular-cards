@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5101" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Helsinki, Finland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5100" type="prev"/>
+                <relatedItem target="c5102" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5101f1">
+                <graphic height="3628px" url="06621.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Helsinki, Finland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06621</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5101">
+        <body>
+            <div corresp="#c5101f1">
+                <head>HELSINKI, FINLAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roy M. Melbourne</cell>
+                        <cell>750</cell>
+                        <cell>1</cell>
+                        <cell>Consul General</cell>
+                        <cell>Dec. 22, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Helsinki</cell>
+                        <cell>Joseph Basile</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Cons.</cell>
+                        <cell>March 5, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>F50 assigned to National War College D.C.</cell>
+                        <cell>George Mason Ingram</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 11, 1962</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>FISO Couns. of Emb. &amp; Dep. Chief of mission</p>
+                <p>To Baghdad as Consul Gen., Couns. of Emb. &amp; Deputy Chief of Mission, 8-62</p>
+                <p>Also 2d Sec. FSO asgd to the Dept., 8-16-64.</p>
+                <p>Also Couns. of Emb. and Deputy Chief of Mission.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

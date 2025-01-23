@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2086" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constantza, Rumania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2085" type="prev"/>
+                <relatedItem target="c2087" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2086f1">
+                <graphic height="3610px" url="02790.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Constantza, Rumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02790</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2086f2">
+                <graphic height="3610px" url="02791.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Constantza, Rumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02791</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2086">
+        <body>
+            <div corresp="#c2086f1">
+                <head>Constantea, Rumania.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS.</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK.</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(See over)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office ordered, closed May 3, 1926; closed June 30, 1926.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2086f2">
+                <head>Constantza, Rumania.</head>
+                <p>Richard B. Haven, lately a F. S. C. Unclassified, was appt'd F.S.C. class 8 Feb.
+                    24, 1925. Also Consul Mar. 3, 1925. Assigned to Vienna May 7, 1926.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

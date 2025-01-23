@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3009" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Medan, Sumatra, Republic of Indonesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3008" type="prev"/>
+                <relatedItem target="c3010" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3009f1">
+                <graphic height="3632px" url="03964.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Medan, Sumatra, Republic of Indonesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03964</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3009">
+        <body>
+            <div corresp="#c3009f1">
+                <head>MEDAN, SUMATRA, Republic of Indonesia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John P. Coffey</cell>
+                        <cell>V.Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 19, 1955</cell>
+                        <cell>Designated Consul<lb/>Medan 7-21-56<lb/><unclear>ass to
+                                agency</unclear> 6-1 956</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Karl F. Brauckmann</cell>
+                        <cell>V. Con.</cell>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell/>
+                        <cell>March 8, 1956</cell>
+                        <cell>Resigned from 755s corps CO 516-59</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Winston C. Oliver</cell>
+                        <cell>V. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 7, 1958</cell>
+                        <cell>FSS to Djakarta as cultural<lb/>affairs off. 3-21-58. <unclear>Con
+                                Called</unclear><lb/><unclear>USIA</unclear> 1115-58. <unclear>to
+                                agency</unclear></cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James E. Markey, Jr.</cell>
+                        <cell>V. Cons. USIA</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell/>
+                        <cell>Aug. 2, 1956</cell>
+                        <cell>To Djakarta as Assist. Cultural<lb/>affairs off. (755),
+                            10-15-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick H. Rein, Jr.</cell>
+                        <cell>V. Cons. USIA</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 14, 1958</cell>
+                        <cell>Converted to F.S. Reserve<lb/>officer 9-30-62. Designated<lb/>Branch
+                            Public Affairs officer.<lb/>(TSR) (USIA), Medan, 9-30-62</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mrs. Susan F. Parrish</cell>
+                        <cell>V. Cons. USIA</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 13, 1961</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

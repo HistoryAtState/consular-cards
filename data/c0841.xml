@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0841" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rheims, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0840" type="prev"/>
+                <relatedItem target="c0842" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0841f1">
+                <graphic height="3626px" url="01133.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rheims, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01133</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0841">
+        <body>
+            <div corresp="#c0841f1">
+                <head>Rheims, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Walter Stanford</cell>
+                        <cell>VvD.C</cell>
+                        <cell>Eng.</cell>
+                        <cell>France</cell>
+                        <cell>France</cell>
+                        <cell>July 29, 1910.</cell>
+                        <cell>Made Vice Consul by Act approved Feb. 5, 1915,</cell>
+                    </row>
+                    <row>
+                        <cell>VvD.C</cell>
+                        <cell>Walter Stanford</cell>
+                        <cell>Vice Con</cell>
+                        <cell>Eng.</cell>
+                        <cell>France</cell>
+                        <cell>By Act of Feb. 5, 1915</cell>
+                        <cell/>
+                        <cell>Office closed by ConsulBardel, Nov. 1915 / archives, etc sent to
+                            Paris</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

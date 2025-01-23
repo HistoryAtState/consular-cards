@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2442" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French Equatorial Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2441" type="prev"/>
+                <relatedItem target="c2443" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2442f1">
+                <graphic height="3612px" url="03251.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French Equatorial Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1958</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03251</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2442">
+        <body>
+            <div corresp="#c2442f1">
+                <head>French Equatorial Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V. Consul+<lb/>24 Sec.<lb/>Cairo</cell>
+                        <cell>Owen W. Roberts</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>Feb. 24, 1958</cell>
+                        <cell>Also U.C. Leopoldville<lb/>Leopoldville, as Consul, 3-18-60.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

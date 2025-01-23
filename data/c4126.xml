@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4126" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tel Aviv, Israel</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4125" type="prev"/>
+                <relatedItem target="c4127" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4126f1">
+                <graphic height="3634px" url="05380.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tel Aviv, Israel</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05380</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4126">
+        <body>
+            <div corresp="#c4126f1">
+                <head>TEL AVIV, Israel</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>James E. Kiley</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ankara V.C.</cell>
+                        <cell>William N. Dale</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen. Cons.</cell>
+                        <cell>Sept. 28, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>TEL AVIV</cell>
+                        <cell>Miss Margaret M. Herrick</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 11, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Clifton P. English</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Brussels</cell>
+                        <cell>Mrs. Sara L. Andren</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also 2d Sec.</p>
+                <p>Also Counselor of Emb. &amp; Deputy Chief of Mission.</p>
+                <p>To Athens as Consul (755), 7-1-65.</p>
+                <p>Also 1st Sec.</p>
+                <p>Also 2d Sec.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

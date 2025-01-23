@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2408" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Flovianopolis, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2407" type="prev"/>
+                <relatedItem target="c2409" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2408f1">
+                <graphic height="3630px" url="03209.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Flovianopolis, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03209</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2408">
+        <body>
+            <div corresp="#c2408f1">
+                <head>Florianopolis, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Sao Paulo</cell>
+                        <cell>John Hubner, 22</cell>
+                        <cell>8.10</cell>
+                        <cell>Une. 17/10/1950</cell>
+                        <cell>Md.</cell>
+                        <cell>June 29, 1940.</cell>
+                        <cell>Cancelled, remain at Sao Paulo.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sao Paulo</cell>
+                        <cell>Reginald D. Kazanjian</cell>
+                        <cell>do</cell>
+                        <cell>8</cell>
+                        <cell>6-8-39<lb/>EFFECTIVE<lb/>4-1-39</cell>
+                        <cell>R.d.</cell>
+                        <cell>Aug. 10, 1940.</cell>
+                        <cell>Made Consul - 6-15-42<lb/>Assigned 6-26-42 to
+                            Florianopolis<lb/>Assig'd to Dept. 11-10-42.</cell>
+                    </row>
+                    <row>
+                        <cell>Sao Paulo</cell>
+                        <cell>Roger L. Heacock</cell>
+                        <cell>do</cell>
+                        <cell>Une. A-16-38c</cell>
+                        <cell>Calif.</cell>
+                        <cell>July 23, 1941.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Consulate was closed March 31, 1945.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

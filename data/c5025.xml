@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5025" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Habana, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5024" type="prev"/>
+                <relatedItem target="c5026" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5025f1">
+                <graphic height="3618px" url="06524.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Habana, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="9.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06524</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5025">
+        <body>
+            <div corresp="#c5025f1">
+                <head>HABANA, CUBA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Monterrey</cell>
+                        <cell>Anthony L. Sileo</cell>
+                        <cell>FSR</cell>
+                        <cell>7</cell>
+                        <cell>May 16, 1960</cell>
+                        <cell>Also 3d Sec. 10-10-60. FSR assigned to<lb/>the Dept. 2-19-61.<lb/>Also
+                            3d Sec. Detailed to Kingston as V.C., 2-27-61.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gerald M. Sutton</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 10, 1960</cell>
+                        <cell>Also 3d Sec. also 2d Sec. 2-2-61.<lb/>FSO assigned to the Dept.
+                            3-5-61.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>V.C.</cell>
+                        <cell>Gerald Lamberty</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 5, 1960</cell>
+                        <cell>To Mexicali as V.C. 10-22-60.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mexicali<lb/>V.C. (FSR)</cell>
+                        <cell>Elwin T. Vangas</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 11, 1960</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hong Kong</cell>
+                        <cell>Dale H. Baker<lb/>cancelled</cell>
+                        <cell>FSR</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 28, 1960</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>The U.S. severed diplomatic relations with Cuba on January 3, 1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

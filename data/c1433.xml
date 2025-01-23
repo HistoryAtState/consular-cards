@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1433" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Southampton, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1432" type="prev"/>
+                <relatedItem target="c1434" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1433f1">
+                <graphic height="3628px" url="01907.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Southampton, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1953</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01907</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1433">
+        <body>
+            <div corresp="#c1433f1">
+                <head>Southampton, England</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John G. Pool</cell>
+                        <cell>750</cell>
+                        <cell>3</cell>
+                        <cell>Consul Del.</cell>
+                        <cell>Aug. 17, 1953</cell>
+                        <cell/>
+                        <cell>To Jegungasas Consul of Counselor 4-7-56</cell>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Maples Robert J. Cavanaugh</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul Ill</cell>
+                        <cell>Feb. 25, 1956</cell>
+                        <cell/>
+                        <cell>750 to Univ. &amp; Wis. 6.30.57.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James J. Brady</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul Mass</cell>
+                        <cell>June 17, 1957</cell>
+                        <cell/>
+                        <cell>Retired eff. Close of business 5-31-62,</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Earl T. Hart</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul N.C.</cell>
+                        <cell>April 7, 1958</cell>
+                        <cell/>
+                        <cell>to Lima as 2d Sec. 1-10-60</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Roy L. Wode</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons ben.</cell>
+                        <cell>May 28, 1962</cell>
+                        <cell/>
+                        <cell>To Liverpool as Consul General, 11-8-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (738)</cell>
+                        <cell>Southampton William A. Mucci</cell>
+                        <cell>fss</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>June 13, 1964</cell>
+                        <cell/>
+                        <cell>To London as Consul (Ass). 11-8-65.</cell>
+                    </row>
+                </table>
+                <p>Consulate at Southampton closed to the public effective Oct. 31, 1965.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

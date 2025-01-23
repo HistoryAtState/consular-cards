@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0766" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oratava, Teneriffe, Canary Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0765" type="prev"/>
+                <relatedItem target="c0767" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0766f1">
+                <graphic height="3624px" url="01040.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oratava, Teneriffe, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1874</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01040</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0766">
+        <body>
+            <div corresp="#c0766f1">
+                <head>Cratava, Teneriffe, Canary Islands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Renshaw</cell>
+                        <cell>ConAgt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 9, 1874.</cell>
+                        <cell>Resigned Dec. 30, 1895.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Spence Reid</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1878,</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed, Nov. 11, 1896; Closed February 1900?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

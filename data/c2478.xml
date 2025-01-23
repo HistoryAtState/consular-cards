@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2478" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaspe, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2477" type="prev"/>
+                <relatedItem target="c2479" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2478f1">
+                <graphic height="3632px" url="03295.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gaspe, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03295</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2478f2">
+                <graphic height="3632px" url="03296.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gaspe, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03296</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2478">
+        <body>
+            <div corresp="#c2478f1">
+                <head>Gaspi, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horatio Le Bontillier</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 8, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry Lowndes</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 8, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Short</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 5, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Theodore Carter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 13, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles S. Le Boutillier</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 4, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred T. Carter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 2, 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Carter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 7, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Gaspe</cell>
+                        <cell>Frederick C. Johnson</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.J. Jan. 23, 1919.</cell>
+                        <cell>Formerly at Paspebiac<lb/>Mar. 15, 1919 to<lb/>Appt'd U.S. Cons. Riv.
+                            du Loup "15/19</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kingsley Carter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Canada June 7, 1922.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1905, Net of May 1, 1908.</p>
+                <p>9-19-29 Consul at Campbellton, N.B, instructed to close Agency as soon as
+                    practicable.</p>
+            </div>
+            <div corresp="#c2478f2">
+                <head>Gadsden, <unclear>In</unclear>c.</head>
+                <p>Kingplay J. Carter, temporarily in chg. of agency, departure Johnson Nov. 21,
+                    1919 to</p>
+                <p>Ansel T. Miller, authorized to act as acting Sheridan Consular Agent to succeed
+                    Thomas E. Rowley Memo: A. Mar 8, 1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

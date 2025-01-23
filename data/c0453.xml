@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0453" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Libau, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0452" type="prev"/>
+                <relatedItem target="c0454" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0453f1">
+                <graphic height="3620px" url="00621.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Libau, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1886</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00621</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0453f2">
+                <graphic height="3620px" url="00622.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Libau, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00622</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0453">
+        <body>
+            <div corresp="#c0453f1">
+                <head>Liban, Russia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Simon Shreiber</cell>
+                        <cell>Cont. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 21, 1886.</cell>
+                        <cell>to Jan. 16, 1909.<lb/>Resigned<lb/>July 3, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugo Smit</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Russia</cell>
+                        <cell>" "</cell>
+                        <cell>Apr. 21, 1892.</cell>
+                        <cell>Superseded July 3, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Friedrich Puchert</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Liban, Liban</cell>
+                        <cell>Germany</cell>
+                        <cell>Feb. 21, 1908.</cell>
+                        <cell><unclear>Exequatur</unclear> referred June 1908.<lb/>Jan. 17, 1909
+                            to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Seligmann</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Coblenz, Liban</cell>
+                        <cell>Great Britain</cell>
+                        <cell>Sept. 19, 1908.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>☆ Mr. Seligmann was re-naturalized in Germany about Nov. 3, 1916.</p>
+            </div>
+            <div corresp="#c0453f2">
+                <head>Liban, Persia.</head>
+                <p>Swan (John) Smit (son of Hugo) Acting Consular Agent (resig of H. Smit) July 13,
+                    1908 25</p>
+            </div>
+        </body>
+    </text>
+</TEI>

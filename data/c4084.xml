@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4084" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tananarive, Malagasy Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4083" type="prev"/>
+                <relatedItem target="c4085" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4084f1">
+                <graphic height="3602px" url="05328.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tananarive, Malagasy Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05328</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4084">
+        <body>
+            <div corresp="#c4084f1">
+                <head>TANANARIVE, Malagasy Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Fredrick C. Ashley</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 15, 1963</cell>
+                        <cell>Also 2d Sec. Also VC. for the Overseas Dept. of British Colony of
+                            Mauritania, FSO asgd to Saigon/AID, 8-16-64</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Charles H. Twining, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 9, 1964</cell>
+                        <cell>Also 3d Sec. Also V.C. for Brit. Colony Mauritius, + for Overseas
+                            Dept. Reunion, etc.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>James P. Sullivan</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Mar. 1, 1965</cell>
+                        <cell>Designated Cons. Jananarive, for Brit. Colony of Mauritius, and for
+                            Overseas Dept. of Reunion, etc. 25-26-65.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Athens</cell>
+                        <cell>Robert P. Goold</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell>Also 2d Sec. Also VC. for British Colony of mauritias + for the
+                            Overseas Dept. of Reunion, etc.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John L. Nesvig</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell>Also 3d Sec. Also VC. for the Overseas Dept. of Reunion, etc.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2220" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Durango, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2219" type="prev"/>
+                <relatedItem target="c2221" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2220f1">
+                <graphic height="3632px" url="02963.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Durango, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1934</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02963</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2220">
+        <body>
+            <div corresp="#c2220f1">
+                <head>Durango, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Mazatlan</cell>
+                        <cell>Earl F. Eaton</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Pel.</unclear></cell>
+                        <cell><unclear>Zex.</unclear></cell>
+                        <cell>Aug. 1, 1934</cell>
+                        <cell><unclear>Comelyg</unclear> 1-17-42 <lb/> Apptd. V. Con:
+                                <unclear>Negras</unclear> 6-26-42</cell>
+                    </row>
+                    <row>
+                        <cell>Chihuahua</cell>
+                        <cell>James C. Powell Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Zex.</unclear></cell>
+                        <cell><unclear>Zex.</unclear></cell>
+                        <cell>Oct. 9, 1936</cell>
+                        <cell>Apptd. V.C., Chihuahua, Jan. 8, 1937</cell>
+                    </row>
+                    <row>
+                        <cell>Mexico</cell>
+                        <cell>Stephen G. Horster</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>The.</unclear></cell>
+                        <cell><unclear>The.</unclear></cell>
+                        <cell>July 21, 1937</cell>
+                        <cell>Apptd. V.C., Mexico, Oct. 19, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Monterey</cell>
+                        <cell>H. Claremont Moses</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell><unclear>Assignment</unclear> Feb. 27, 1940</cell>
+                        <cell>Contd. under monterey Temp. detail</cell>
+                    </row>
+                    <row>
+                        <cell>Monterey</cell>
+                        <cell>H. Claremont Moses</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell>June 26, 1942</cell>
+                        <cell>assigned to Ciudad Juarez</cell>
+                    </row>
+                    <row>
+                        <cell>Ciudad Juarez</cell>
+                        <cell>Harry K. Pangburn</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>July 14, 1943</cell>
+                        <cell>Sept. 13, 1943.</cell>
+                    </row>
+                    <row>
+                        <cell>Monterrey</cell>
+                        <cell>Edward C. Webster</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Mass.</unclear></cell>
+                        <cell>July 5, 1944</cell>
+                        <cell>To Monterrey - 8-19-44.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Consulate closed officially July 12, 1946.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

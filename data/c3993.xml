@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3993" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stockholm, Sweden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3992" type="prev"/>
+                <relatedItem target="c3994" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3993f1">
+                <graphic height="3604px" url="05210.tif" width="6046px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stockholm, Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05210</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3993">
+        <body>
+            <div corresp="#c3993f1">
+                <head>STOCKHOLM, Sweden</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cons.<lb/>Frankfurt<lb/>F50 assigned
+                            to<lb/>Princeton.<lb/>Princeton,<lb/>New Jersey</cell>
+                        <cell>Walter G. Walcavich</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>March 18, 1963</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Retired COB<lb/>9-30-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gerald R. Olsen</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 22, 1963</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. 750 assigned<lb/>To Jept 8-28-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George R. Andrews</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 9, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Paul J. Hoylen</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 28, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. 750 assigned<lb/>to Dept., 10-9-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John D. Rendahl</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 7, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Turner C. Cameron, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell/>
+                        <cell>Also Couns. of Emb. + Deputy<lb/>Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Stock-<lb/>holm</cell>
+                        <cell>Raymond J. Alvarez</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Assigned<lb/>to Dept. 1-29-67.<lb/>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Paul B. McCarty</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilbur N. Nadel</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

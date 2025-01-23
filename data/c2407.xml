@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2407" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Flovianopolis, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2406" type="prev"/>
+                <relatedItem target="c2408" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2407f1">
+                <graphic height="3636px" url="03208.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Flovianopolis, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03208</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2407">
+        <body>
+            <div corresp="#c2407f1">
+                <head>Florianópolis, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Portalya</cell>
+                        <cell>William Preston Rombo</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Fla.</cell>
+                        <cell>Dec. 16, 1942</cell>
+                        <cell>To Curit<lb/>3-19-45</cell>
+                        <cell>See Foreign Service<lb/>Ausiliary card.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Black</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Jan. 20, 1944.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate was closed March 31, 1945</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

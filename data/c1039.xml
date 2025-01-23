@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1039" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pointe a Pitve, Quadeloupe, French West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1038" type="prev"/>
+                <relatedItem target="c1040" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1039f1">
+                <graphic height="3632px" url="01388.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pointe a Pitve, Quadeloupe, French West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01388</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1039">
+        <body>
+            <div corresp="#c1039f1">
+                <head>Pointe a Pitre, Guadeloupe French West Indies</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT<lb/>TO CLASS</cell>
+                        <cell>WHENCE<lb/>APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cayenne</cell>
+                        <cell>James L. Sullivan</cell>
+                        <cell>Cancelled 7.1. 0. Une. 2-20-420</cell>
+                        <cell>Coun.</cell>
+                        <cell>June 7, 1944</cell>
+                        <cell>To Martinique as V.6. 11-10-44.<lb/>Cancelled - office never
+                            opened</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

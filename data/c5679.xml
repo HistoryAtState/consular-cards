@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5679" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sian, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5678" type="prev"/>
+                <relatedItem target="c5680" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5679f1">
+                <graphic height="3012px" url="07416.tif" width="4794px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sian, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07416</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5679">
+        <body>
+            <div corresp="#c5679f1">
+                <head>SIAN, CHINA</head>
+                <p>Temporary post.</p>
+                <table>
+                    <row role="label">
+                        <cell>POST</cell>
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <table>
+                    <row role="label">
+                        <cell>SUPERVISION (over or under)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                    </row>
+                </table>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>6/1/43</cell>
+                        <cell>In copy of informal talk, Mr. Ruess says other names for Sian are
+                            Chang-an and Siking (123 Ruess, Waldo/123).</cell>
+                    </row>
+                    <row>
+                        <cell>11/6/42</cell>
+                        <cell>Drumright arrived Sian. Tel. says regular office will not be
+                            established. An officer of the Embassy will be detailed to Sian and will
+                            be addressed "Secretary of Embassy on detail at Sian, China". All
+                            telegrams to and from Dept. will be through the Embassy. The officer
+                            will be commissioned at Kunming in order that he may perform some
+                            consular functions for American citizens. Under supervision of Embassy,
+                            except re consular functions which will be under supervision of Congen.
+                            at Kunming.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

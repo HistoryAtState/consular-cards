@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2507" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Glasgow, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2506" type="prev"/>
+                <relatedItem target="c2508" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2507f1">
+                <graphic height="3636px" url="03329.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Glasgow, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03329</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2507">
+        <body>
+            <div corresp="#c2507f1">
+                <head>GLASGOW, SCOTLAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Pol. Asst. Saigon</cell>
+                        <cell>Richard W. Kautsky</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Ark.</cell>
+                        <cell>Aug. 10, 1957</cell>
+                        <cell>FSO assigned to the Dept. 5-15-60</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.+ VC. New Delhi</cell>
+                        <cell>Miss Marlene W. Futterman</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>April 4, 1960</cell>
+                        <cell>FSO assigned to the Dept., 9-16-62 <lb/> Designated Consul, Glasgow,
+                            4-7-62</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. Panamá</cell>
+                        <cell>Wallace F. Holbrook</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 3, 1960</cell>
+                        <cell>Resig. Consul Glasgow 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>VC. 4 3d Sec. Lima</cell>
+                        <cell>John O. Grimes</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 22, 1962</cell>
+                        <cell>FSO assigned to the Dept. 12-5-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Ford Cooper</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 30, 1963</cell>
+                        <cell>Resigned 11-20-65.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Harry R. Bieling, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate at Glasgow closed to the public effective October 31, 1965.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

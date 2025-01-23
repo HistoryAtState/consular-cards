@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2387" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erzerim, Armenia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2386" type="prev"/>
+                <relatedItem target="c2388" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2387f1">
+                <graphic height="3632px" url="03182.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Erzerim, Armenia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03182</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2387">
+        <body>
+            <div corresp="#c2387f1">
+                <head>Erzerum, Armenia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leo Bergholz</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 25, 1896 Conf.</cell>
+                        <cell>Appt'd Consul at Three Rivers June 26, 1903.</cell>
+                        <cell>Nov. 2, 1903 to Appt'd Cons. Trebizond Apr. 30, 1904.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward J. Sullivan</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ireland</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 6, 1903 recess</cell>
+                        <cell>Nov. 23, 1903 Conf.</cell>
+                    </row>
+                </table>
+                <p>Consulate transferred.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

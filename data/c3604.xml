@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3604" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rawalpindi, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3603" type="prev"/>
+                <relatedItem target="c3605" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3604f1">
+                <graphic height="3618px" url="04706.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rawalpindi, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04706</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3604f2">
+                <graphic height="3618px" url="04707.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rawalpindi, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04707</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3604">
+        <body>
+            <div corresp="#c3604f1">
+                <head>RAWALPINDI, Pakistan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. &amp; V.C.</cell>
+                        <cell>R. Allen Irvine</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 1, 1963</cell>
+                        <cell>Also 3d Sec. (see back)<lb/>To Sydney as V.C., 7-20-64.</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C + 2d Sec</cell>
+                        <cell>Anthony C. E. Quainton</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Apr. 27, 1964</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Karachi<lb/>V.C. + 3d Sec.</cell>
+                        <cell>John Steven Boritas</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Designated Consul,<lb/>Rawalpindi, 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Karachi<lb/>3d Sec.<lb/>Rawalpindi</cell>
+                        <cell>Anthony C. E. Quainton</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 31, 1964</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas J. O'Flaherty</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Karachi</cell>
+                        <cell>James Tarrant</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3604f2">
+                <head>Rawalpindi, Pakistan</head>
+                <p>This officer was assigned in a consular capacity in error since Rawalpindi is a
+                    diplomatic post only.</p>
+                <p>*Although Rawalpindi is under the consular jurisdiction of Lahore, Foreign
+                    Service Officers are assigned at Rawalpindi pending the opening of an Embassy
+                    there.</p>
+                <p>(See Pakistan country file for a complete statement.)</p>
+                <p>On June 9, 1966, the American Embassy Branch Office in Rawalpindi was elevated to
+                    Embassy status and the American Embassy in Karachi was redesignated American
+                    Embassy Branch Office.</p>
+                <p>FAMC No. 414 of</p>
+                <p>June 13, 1966</p>
+            </div>
+        </body>
+    </text>
+</TEI>

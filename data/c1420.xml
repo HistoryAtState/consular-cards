@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1420" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Solingen, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1419" type="prev"/>
+                <relatedItem target="c1421" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1420f1">
+                <graphic height="3622px" url="01890.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Solingen, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01890</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1420f2">
+                <graphic height="3628px" url="01891.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Solingen, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01891</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1420">
+        <body>
+            <div corresp="#c1420f1">
+                <head>Solingen, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Chem-nitz</cell>
+                        <cell>Richard E. Jahn</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>" "</cell>
+                        <cell>Australia</cell>
+                        <cell>May 9, 1893</cell>
+                        <cell>June 15, 1893 to Oct. 14, 1897 <lb/> Apptd V.D.C. Barmen 9/21/1897.
+                            <lb/> Oct. 15, 1897 to June 30, 1898,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Verne E. Joy</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Sept. 21, 1897.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max Brab</cell>
+                        <cell>Vice Con. Ser</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Nov. 25, 1898,</cell>
+                        <cell/>
+                        <cell>superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolph Kaulen</cell>
+                        <cell>V.D. Con.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Oct. 8, 1904,</cell>
+                        <cell/>
+                        <cell>superseded <lb/> Mar. 2, 1905</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Victor W. Heldt</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1905.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed Nov. 30, 1905,</p>
+            </div>
+            <div corresp="#c1420f2">
+                <head>Solingen, Germany.</head>
+                <p>Julius Vom Hagen - in chg. (absence of Agt at Barmen) in Mar, 1876 to July 2,
+                    1897 (indefinite)</p>
+                <p>Fried Schadde - " " " " July 1, 1898 to</p>
+                <p>V. W. Weldt - in chg. from Nov. 19, 1905 to Nov. 30, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

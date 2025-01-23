@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1313" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santa Fe, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1312" type="prev"/>
+                <relatedItem target="c1314" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1313f1">
+                <graphic height="3634px" url="01745.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santa Fe, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1825</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01745</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1313">
+        <body>
+            <div corresp="#c1313f1">
+                <head>Santa Fe, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustue Storrs</cell>
+                        <cell>Consul US</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell>Mar. 8, 1825 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Davis</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 29, 1830 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ceran St. Vrain</cell>
+                        <cell>"</cell>
+                        <cell>US.</cell>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell>May 12, 1834 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Alvarez</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 21, 1839 reced</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Alvarez</cell>
+                        <cell>Comlgh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1846 by Bey</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

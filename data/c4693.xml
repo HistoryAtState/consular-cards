@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4693" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cali, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4692" type="prev"/>
+                <relatedItem target="c4694" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4693f1">
+                <graphic height="3628px" url="06118.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cali, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06118</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4693">
+        <body>
+            <div corresp="#c4693f1">
+                <head>Cali, Colombia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Cali Consul + 2d see Montevideo</cell>
+                        <cell>Anthony J. pay</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Mar. 9, 1959</cell>
+                        <cell/>
+                        <cell>To Barranquilla as Consul 1-23-61</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John L. Ohmans</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>July 11, 1960</cell>
+                        <cell/>
+                        <cell>750 assigned to the Dept, 10-13-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>S. Morey Bell</cell>
+                        <cell>fso</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Oct. 14, 1963</cell>
+                        <cell/>
+                        <cell>To Kingston as 2d Sec., 1-16-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>William P. Boswell</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cali</cell>
+                        <cell>Donald F. Hart</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

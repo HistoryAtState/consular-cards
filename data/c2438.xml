@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2438" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frelighsburg, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2437" type="prev"/>
+                <relatedItem target="c2439" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2438f1">
+                <graphic height="3626px" url="03245.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frelighsburg, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03245</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2438f2">
+                <graphic height="3626px" url="03246.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frelighsburg, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1900</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03246</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2438">
+        <body>
+            <div corresp="#c2438f1">
+                <head>Frelighsburg, Quebec, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gaines M. Plodgett</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 28, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis Wilkinson</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George R. Marrin</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 17, 1873</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Augustus Barney</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 4, 1884</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm Alfred Reynolds</cell>
+                        <cell>" "</cell>
+                        <cell>Sr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 31, 1894</cell>
+                        <cell>to Feb. 10, 1900. <lb/> Refused to act Feb. 1900</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Artemus H. Holden</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 1, 1900</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed Feb. 9, 1901; closed Mar. 6, 1901.</p>
+            </div>
+            <div corresp="#c2438f2">
+                <head>Frelighsburg, Quebec.</head>
+                <p>A.N.Holden, betg in charge - Feb. 10, 1900 to -</p>
+            </div>
+        </body>
+    </text>
+</TEI>

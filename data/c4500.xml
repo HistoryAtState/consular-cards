@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4500" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bilbao, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4499" type="prev"/>
+                <relatedItem target="c4501" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4500f1">
+                <graphic height="3604px" url="05865.tif" width="6048px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bilbao, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05865</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4500">
+        <body>
+            <div corresp="#c4500f1">
+                <head>Bilbao, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Bilbao</cell>
+                        <cell>Joseph A. Livornese</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Mar. 9, 1959</cell>
+                        <cell>To Nogales as Cons. 10-3-60</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Bilbao</cell>
+                        <cell>Peter Simon</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Mar. 9, 1959</cell>
+                        <cell>To Karachi as 2d sec. 9-6-59</cell>
+                    </row>
+                    <row>
+                        <cell>Bilbao</cell>
+                        <cell>Abraham N. Hopman</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>USIA Consul</cell>
+                        <cell/>
+                        <cell>Aug. 12, 1959</cell>
+                        <cell>Converted from FSS to FSR Office (career) USIA, 7-24-60 <lb/>
+                            Designalere Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Consul USIA Bilbao</cell>
+                        <cell>Antonio Certosimo</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 25, 1960 Ben. Bilbao, 12.9. 44.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Bilbao</cell>
+                        <cell>Abraham N. Hopman</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>USIA Consul</cell>
+                        <cell/>
+                        <cell>October 10, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bilbao</cell>
+                        <cell>Charles E. Finan</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell>FSO asgd to the Dept., 8-16-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Consul Bilbao</cell>
+                        <cell>William F. McRory</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Aug. 3, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bilbao</cell>
+                        <cell>Antonio Certosimo</cell>
+                        <cell>750</cell>
+                        <cell>2</cell>
+                        <cell/>
+                        <cell>Cons. Gen.</cell>
+                        <cell/>
+                        <cell>Dec. 9, 1964</cell>
+                        <cell>To México as Consul General, 10-25-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Bilbao</cell>
+                        <cell>Rafael Sancho-Bonet</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell>Designated Consul Gen, Bilbao, 10-30-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Bilbao</cell>
+                        <cell>Rafael Sancho-Bonet</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul General</cell>
+                        <cell/>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

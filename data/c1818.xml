@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1818" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Baden-Baden, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1817" type="prev"/>
+                <relatedItem target="c1819" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1818f1">
+                <graphic height="3634px" url="02429.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Baden-Baden, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02429</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1818">
+        <body>
+            <div corresp="#c1818f1">
+                <head>Baden-Baden, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Secy<lb/>Brussels</cell>
+                        <cell>Ernest de W. Mayer</cell>
+                        <cell>FS0</cell>
+                        <cell>5</cell>
+                        <cell>Consul<lb/>2-16-430</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 21, 1946</cell>
+                        <cell>also 7.5.0., Berlin<lb/>To Montreal cas Consul<lb/>676-49.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

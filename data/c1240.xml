@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1240" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carthagena, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1239" type="prev"/>
+                <relatedItem target="c1241" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1240f1">
+                <graphic height="3630px" url="01649.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carthagena, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1874</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01649</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1240f2">
+                <graphic height="3630px" url="01650.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carthagena, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1793</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01650</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1240">
+        <body>
+            <div corresp="#c1240f1">
+                <head>Carthagena, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alberto Molina</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 28, 1874</cell>
+                        <cell>Resigned Apr. 4, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Reginald W. Barrington</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 21, 1899</cell>
+                        <cell>Resigned Mar. 20, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Clemenson</cell>
+                        <cell>VkD.</cell>
+                        <cell>" "</cell>
+                        <cell>India Spain</cell>
+                        <cell/>
+                        <cell>Apr. 22, 1903</cell>
+                        <cell>Resigned June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Office reduced to Agency (under Valencia) July 1, 1906.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander J. Marke</cell>
+                        <cell>Con Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 30, 1906.</cell>
+                        <cell>Out of closing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Office closed August 31, 1910.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1240f2">
+                <head>Cartagena, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell/>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dominiche Castilliné</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>(apptd by Consul at Alicante)</cell>
+                        <cell>Octo. 1793 to</cell>
+                        <cell>Died 1813?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bartolome Miguetote</cell>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nicholas Biale</cell>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>1813? to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Cirilo Molina</cell>
+                        <cell>Afpt con. Agt.</cell>
+                        <cell>by U.S. Minister at Madrid</cell>
+                        <cell>1852</cell>
+                        <cell>Afft canceled by Consul at Alicante (not confirmed by Sec. of State)
+                            Oct. 7, 1861.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

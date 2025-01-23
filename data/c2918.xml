@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2918" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Managua, Nicaragua</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2917" type="prev"/>
+                <relatedItem target="c2919" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2918f1">
+                <graphic height="3630px" url="03847.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Managua, Nicaragua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03847</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2918">
+        <body>
+            <div corresp="#c2918f1">
+                <head>Managua, Nicaragua</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Miss Rose Margaret Dickson</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March 23, 1959</cell>
+                        <cell>To Tijuana as V.C.<lb/>(FSS) 9-8-59.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (750)</cell>
+                        <cell>Jack S. Konitor</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 10, 1963</cell>
+                        <cell>To Asunción as Consular<lb/>Assistant (FSS), 5-23-65.<lb/>Designated
+                            Consul (FSS)<lb/>Managua, 12-19-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Managua</cell>
+                        <cell>Samuel Karp</cell>
+                        <cell>V. Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 30, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Managua</cell>
+                        <cell>Peter K. Murphy cancelled</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1965</cell>
+                        <cell>Tohagos as FSStaff Officer<lb/>8-28-66</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rafael Mercado</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 12, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Laddie L. Valis</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

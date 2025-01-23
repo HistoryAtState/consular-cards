@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5703" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trust Territories of the Pacific</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5702" type="prev"/>
+                <relatedItem target="c5704" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5703f1">
+                <graphic height="3024px" url="07454.tif" width="4804px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trust Territories of the Pacific</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07454</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5703">
+        <body>
+            <div corresp="#c5703f1">
+                <head>TRUST TERRITORIES<lb/>OF THE PACIFIC</head>
+                <table>
+                    <row role="label">
+                        <cell>Consulate</cell>
+                        <cell>To be OPENED</cell>
+                        <cell>1950</cell>
+                    </row>
+                </table>
+                <p>Incl. in 1950 budget for possible opening. Basic policy<lb/>of jurisdiction not
+                    worked out yet with Navy.<lb/>Postponed.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

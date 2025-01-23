@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1560" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Texel and Vlieland Islands, Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1559" type="prev"/>
+                <relatedItem target="c1561" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1560f1">
+                <graphic height="3624px" url="02081.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Texel and Vlieland Islands, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1804</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02081</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1560">
+        <body>
+            <div corresp="#c1560f1"/>
+        </body>
+    </text>
+</TEI>

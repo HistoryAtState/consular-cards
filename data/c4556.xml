@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4556" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brasilia, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4555" type="prev"/>
+                <relatedItem target="c4557" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4556f1">
+                <graphic height="3642px" url="05940.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brasilia, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05940</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4556">
+        <body>
+            <div corresp="#c4556f1">
+                <head>BRASILIA, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Rio de Janeiro</cell>
+                        <cell>Harry Weiner</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Dec. 26, 1961</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Designated Consul, Brasilia, 3-1-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert S. Gershenson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 22, 1962</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Designated Consul, Brasilia, 3-1-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>J. Phillip McLean</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 6, 1962</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To Edinburgh as V.C. 1-2-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David E. Zweifel</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 15, 1962</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To Rio de Janeiro as V.C. + 3d Sec., 10-26-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert B. Bentley</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Mar. 18, 1963</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Brasilia</cell>
+                        <cell>Donald K. Kanes</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May 9, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Rio</cell>
+                        <cell>Richard Hines</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 9, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rio de Janeiro</cell>
+                        <cell>Mark Lore</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To huanda as V.C. 9-12-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

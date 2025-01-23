@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1238" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carthagena, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1237" type="prev"/>
+                <relatedItem target="c1239" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1238f1">
+                <graphic height="3628px" url="01647.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carthagena, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01647</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1238">
+        <body>
+            <div corresp="#c1238f1">
+                <head>Cartagena, Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Samuel J. Fletcher</cell>
+                        <cell>V.C. de Cavrière</cell>
+                        <cell>3</cell>
+                        <cell>5/25/1921</cell>
+                        <cell>Me. June 11, 1921</cell>
+                        <cell/>
+                        <cell>Appt'd V.C. La Guaira Sept. 6, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Edward Rand</cell>
+                        <cell>F.S.O.</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>7/1/1924</cell>
+                        <cell>La. Mar. 11, 1926.</cell>
+                        <cell/>
+                        <cell>Assigned to Cali Sept. 27, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Nuevo Laredo</cell>
+                        <cell>Arthur T. Williams</cell>
+                        <cell>Do</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>11/16/1936R</cell>
+                        <cell>Colo. July 23, 1937</cell>
+                        <cell/>
+                        <cell>Assigned to Cali Dept. 9, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Para</cell>
+                        <cell>T. Muldruff Forsyth</cell>
+                        <cell>Do</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>1/23/1937C</cell>
+                        <cell>Da. Apr. 25, 1940.</cell>
+                        <cell/>
+                        <cell>apptd. Consul, Oct. 5, 1940. <lb/> assgd. Consul, Cartagena, Oct. 19,
+                            1940. <lb/> Assgd. Dept. beginning not later than June 15, 1944.</cell>
+                    </row>
+                    <row>
+                        <cell>Barcelona</cell>
+                        <cell>John D. Jernegan</cell>
+                        <cell>Do</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>11-16-1936R <lb/> EFFECTIVE <lb/> 1-23-1937C</cell>
+                        <cell>Calif. Feb. 21, 1941</cell>
+                        <cell/>
+                        <cell>Assgd. to Dept. June 27, 1944.</cell>
+                    </row>
+                    <row>
+                        <cell>Bogota</cell>
+                        <cell>R. Kennith Oakley</cell>
+                        <cell>Do</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>June 7-15-37C</cell>
+                        <cell>Ark. July 23, 1942.</cell>
+                        <cell/>
+                        <cell>To Bogota, 5-28-43</cell>
+                    </row>
+                    <row>
+                        <cell>Bogota</cell>
+                        <cell>James C. Lobenstine</cell>
+                        <cell>F.S.O.</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell>June 5-12-42C</cell>
+                        <cell>Corn May 12, 1943</cell>
+                        <cell/>
+                        <cell>To Guayaquilas VC. 10-25-48.</cell>
+                    </row>
+                    <row>
+                        <cell>Deft.</cell>
+                        <cell><unclear>Wenay</unclear> L. Coster</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>C</cell>
+                        <cell/>
+                        <cell>Calif. Oct. 9, 1947.</cell>
+                        <cell/>
+                        <cell>To Bogota as V.C. 9-17-48 <lb/> and 3d secy.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>S. Wilson Clark</cell>
+                        <cell><unclear>+</unclear>30</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Calif. May 21, 1948</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate officially closed October 20, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1740" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Windsor, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1739" type="prev"/>
+                <relatedItem target="c1741" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1740f1">
+                <graphic height="3636px" url="02319.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Windsor, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02319</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1740">
+        <body>
+            <div corresp="#c1740f1">
+                <head>Windsor, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Danielt. Hobart</cell>
+                        <cell>Consul US.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Me.</cell>
+                        <cell>May 28, 1872 Conf</cell>
+                        <cell>to Nov. 15, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Young</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>Aug. 3, 1886 Conf</cell>
+                        <cell>Nov. 16, 1897 to</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Cugling</unclear></cell>
+                        <cell>Joseph T. Hoke</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>W. Va.</cell>
+                        <cell>Oct. 8, 1897 reeesd</cell>
+                        <cell><unclear>Resigned</unclear> effect June 30, 1908.
+                                <unclear>superceded</unclear> at <unclear>Post</unclear>.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Diaz</unclear></cell>
+                        <cell>Charles P. Snyder</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>W. Va</cell>
+                        <cell>Dec. 18, 1897 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>W. Va</cell>
+                        <cell>June 18, 1901 recess</cell>
+                        <cell>Declined July 1, 1901,</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

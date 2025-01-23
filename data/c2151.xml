@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2151" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curitiba, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2150" type="prev"/>
+                <relatedItem target="c2152" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2151f1">
+                <graphic height="3634px" url="02872.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curitiba, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02872</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2151">
+        <body>
+            <div corresp="#c2151f1">
+                <head>Curitiba, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Floria<lb/>nopolis</cell>
+                        <cell>William P. Rambo</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Ala.</cell>
+                        <cell>Mar. 29, 1945.</cell>
+                        <cell>To Rio de Janeiro as V.C. 8-6-46</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Vice Consulate cloud to the public</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>October 12, 1946.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Vice Consulate officially closed</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>October 25, 1946.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Consular Agency established</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 24, 1948</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francisco M. Albizu</cell>
+                        <cell>Cons.Agent</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 16, 1950</cell>
+                        <cell>Termination of Consular Agent<lb/>due to closing of Agency
+                            on<lb/>6-16-57.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

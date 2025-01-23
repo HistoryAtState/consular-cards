@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4770" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gambia Colony and Protectorate</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4769" type="prev"/>
+                <relatedItem target="c4771" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4770f1">
+                <graphic height="3608px" url="06210.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gambia Colony and Protectorate</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06210</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4770f2">
+                <graphic height="3608px" url="06211.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gambia Colony and Protectorate</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06211</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4770">
+        <body>
+            <div corresp="#c4770f1">
+                <head>Gambia Colony and Protectorate</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter M. Masters</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 24, 1950</cell>
+                        <cell>Also V.C. Dakar. Also V.C.<lb/>for Portuguese Guineas.<lb/>Also Paris
+                            as V.C. 8-8-50.<lb/>To K.C. Dakar and for<lb/>Portuguese Guinea.<lb/>To
+                            Canberra as adm. Officer 8-19-52.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold T. Christee</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 7, 1952</cell>
+                        <cell>Also V.C. Dakar + V.C. for Portuguese<lb/>Guinea. Dec. 19, V.C.ESOPat
+                            Gambia Colony.<lb/>Also Port. Guinea + Dakar 4-6-59</cell>
+                    </row>
+                    <row>
+                        <cell>Frankfurt</cell>
+                        <cell>Richard P. Sullivan</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 3, 1952</cell>
+                        <cell>Also V.C. Dakar + for Portuguese<lb/>Guinea. 12-1-52</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roy L. Davis, Jr. Cancelled</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1951</cell>
+                        <cell>Resigned CoB 2-16-52</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter S. Burke</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 27, 1954</cell>
+                        <cell>Assigned CoB 2-16-52<lb/>at Tunis for Gambia Colony +<lb/>for
+                            Portuguese Guinea.</cell>
+                    </row>
+                    <row>
+                        <cell>YOKOHAM</cell>
+                        <cell>James B. Lindsey</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1952</cell>
+                        <cell>To Taipei as V.C. 2-21-55</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward J. Dolezal</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 26, 1959</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4770f2">
+                <head>Gambia</head>
+                <p>Gambia was transferred from the consular jurisdiction of Lagos, Nigeria, West
+                    Africa, to the consular jurisdiction of Dakar, French West Africa, in 1950. This
+                    was agreed to by both the British and the French Governments. Officers assigned
+                    to Dakar in a consular capacity will receive* in addition to their assignment
+                    commission to Dakar a commission assigning them "for Gambia Colony and
+                    Protectorate" addressed to the British Government - delete phrase "and its
+                    prescribed district" from commission.</p>
+                <p>*when assigned by a form 349</p>
+            </div>
+        </body>
+    </text>
+</TEI>

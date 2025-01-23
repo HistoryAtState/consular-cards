@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2192" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Djibouti, French Somali Coast</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2191" type="prev"/>
+                <relatedItem target="c2193" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2192f1">
+                <graphic height="3638px" url="02922.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Djibouti, French Somali Coast</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02922</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2192f2">
+                <graphic height="3638px" url="02923.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Djibouti, French Somali Coast</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1932</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02923</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2192">
+        <body>
+            <div corresp="#c2192f1">
+                <head>Djibouti, French Somali Const. (under Addis Ababa)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Vahram S. Condayan Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Turkey</cell>
+                        <cell/>
+                        <cell>Apr. 1, 1929.</cell>
+                        <cell>Agency closed temporarily for six months from about July 11, 1939,
+                            during absence of<lb/>Consular Agent. Agency actually closed July 7,
+                            1939, close of business.<lb/>Consular Agency to be closed permanently
+                            December 31, 1940.<lb/>Consular Agency was officially closed as of
+                            December 15, 1946.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2192f2"/>
+        </body>
+    </text>
+</TEI>

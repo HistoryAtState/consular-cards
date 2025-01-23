@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2040" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cobh, Ireland (formerly Queenstown)</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2039" type="prev"/>
+                <relatedItem target="c2041" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2040f1">
+                <graphic height="3638px" url="02733.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cobh, Ireland (formerly Queenstown)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1923</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02733</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2040">
+        <body>
+            <div corresp="#c2040f1">
+                <head>Cobh, Ireland. (formerly Queenstown)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dublin</cell>
+                        <cell>Loy W. Henderson</cell>
+                        <cell>V.C. de carrière</cell>
+                        <cell>2</cell>
+                        <cell>1/23/1923</cell>
+                        <cell>Colo.</cell>
+                        <cell>Appt'd FS.O, Unclassified July 1, 1924</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con</cell>
+                        <cell>John B. Richardson Jr.</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>6/13/1924</cell>
+                        <cell>Mass.</cell>
+                        <cell>Appt'd FS.O, Unclassified July 1, 1924.</cell>
+                    </row>
+                </table>
+                <p>See above</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>Loy W. Henderson</cell>
+                        <cell>FS.O. Une.</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924 R.</cell>
+                        <cell>Colo</cell>
+                        <cell>Continued under assignment of July 17, 1923. Details to Dept. of State
+                            Dec. 18, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Richardson Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924 R.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Continued under assignment of June 23, 1924. Assigned to Tananarive
+                            May 19, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Winthrop S. Greene</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/16/1924 R.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Oct. 21, 1924. Appt'd a Secretary in the Diplomatic Service Apr. 8,
+                            1926. Assigned as 3d Secy at Madrid Apr. 1926. July 14, 1928 to
+                            <unclear/> also Consul July 24, 1930. assigned as Consul, July 24,
+                            1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Leipzig</cell>
+                        <cell>William L. Peck</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Comm.</cell>
+                        <cell>May 19, 1928</cell>
+                    </row>
+                </table>
+                <p>Consulate transferred to Cork, Irish Free State, December 1, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

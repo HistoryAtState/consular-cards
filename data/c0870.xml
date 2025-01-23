@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0870" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Riviere Du Loup, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0869" type="prev"/>
+                <relatedItem target="c0871" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0870f1">
+                <graphic height="3634px" url="01169.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Riviere Du Loup, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1901</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01169</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0870">
+        <body>
+            <div corresp="#c0870f1">
+                <head>Riviere du Loup, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Crockett</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 27, 1901.</cell>
+                        <cell>Exequatur refused <lb/> Declined the office.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph R. Theriault</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>Canada</cell>
+                        <cell>Canada</cell>
+                        <cell>Feb. 1, 1918.</cell>
+                        <cell>Resigned effective June 11, 1919.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Trim'd</cell>
+                        <cell>Edward W. Bradford</cell>
+                        <cell>Con. Agt</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass. R.D.</cell>
+                        <cell>Jan. 27, 1919</cell>
+                        <cell>Declined this appointment</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Com. at</cell>
+                        <cell>Henry C. Hamel</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. Me.</cell>
+                        <cell>May 20, 1919</cell>
+                        <cell>Nov. 27, 1919 to <lb/> Resigned Nov. 24 effective Dec. 20, 1920</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Armprida</cell>
+                        <cell>Frederick Johnson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.S. N.J.</cell>
+                        <cell>Nov. 15, 1919</cell>
+                        <cell>Error in name <lb/> Recommissioned as Albert R 7/18/21</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Garpi</cell>
+                        <cell>Albert B. Bartlett</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>May 14, 1921</cell>
+                        <cell>Resigned effective Aug. 20, 1921.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert R. Bartlett</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>May 14, 1921</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Clerk in <lb/> Cons. Sen'd <lb/> Montreal</cell>
+                        <cell>Garcia D. Ingells</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Feb. 8, 1922.</cell>
+                        <cell>Returned to Montreal as Clerk <lb/> Mar. 8, 1922. Appt'd V.C., Quebec
+                            3-22-1922. <lb/> Appt'd V.C. at Martiigrue Feb. 8, 1923 <lb/> Services
+                            terminated Dec. 18, 1922 and <lb/> left on leave of absence.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Quebec</cell>
+                        <cell>Garcia D. Ingells</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich. Mich.</cell>
+                        <cell>Oct. 16, 1922.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sherbrooke</cell>
+                        <cell>Walter J. Linthicum</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Md. Md.</cell>
+                        <cell>Aug. 18, 1927</cell>
+                        <cell>Appt'd V.C., Sherbrooke Sept. 13, 1927</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sherbrooke</cell>
+                        <cell>Walter J. Linthicum</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 9, 1928.</cell>
+                        <cell>Appt'd V.C., Sherbrooke Sept. 7, 1928.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sherbrooke</cell>
+                        <cell>Walter J. Linthicum</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 19, 1928</cell>
+                        <cell>Appt'd V.C., Vienna June 30, 1930.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Naples</cell>
+                        <cell>Adam Beaumont</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>England Mass. June 30, 1930.</cell>
+                        <cell>Appt'd V.C., Hamilton, Ont. 10-6-30.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Surabaya</cell>
+                        <cell>Raymond Lanctot</cell>
+                        <cell>Office closed</cell>
+                        <cell/>
+                        <cell>U.S. Va.</cell>
+                        <cell>March 31, 1931</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0769" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Orillia, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0768" type="prev"/>
+                <relatedItem target="c0770" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0769f1">
+                <graphic height="3630px" url="01043.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Orillia, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1879</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01043</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0769">
+        <body>
+            <div corresp="#c0769f1">
+                <head>Orillia, Ontario</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gordon Corbould</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 6, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Carbould</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Carbould</cell>
+                        <cell>U.S. Comill Agt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 2, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Jupp</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Sept. 26, 1898.</cell>
+                        <cell>Apptt Urd. Cons. July 7, 1900</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Jupp</cell>
+                        <cell>U.S. Cons.</cell>
+                        <cell>" "</cell>
+                        <cell>Orillia, Ontario</cell>
+                        <cell>Canada Canada</cell>
+                        <cell>July 7, 1900.</cell>
+                        <cell>Resigned Nov. 1909 <lb/> Made Vice Consul by set <lb/> approved Feb.
+                            5, 1915. <lb/> Resignation accepted, 4/28/1915 effect <lb/> upon appt of
+                            successor.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bertram A. S. Webber</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nov. 9, 1909.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>U.S.C</cell>
+                        <cell>Bertram A. S. Webber</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>By Act of Feb. 5, 1915</cell>
+                        <cell>(Resigned &amp; enlist <lb/> in Br. Army <lb/> Resigned Jan. 25, 1916,
+                            30 days written</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm Davidson Cairns Christie</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Montreal <lb/> Canada Canada</cell>
+                        <cell>July 23, 1915.</cell>
+                        <cell>Resigned Jan. 25, 1916, 30 days</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate ordered, closed July 13, 1916; Closed July 26, 1916.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

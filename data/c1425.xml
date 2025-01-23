@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1425" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sorau, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1424" type="prev"/>
+                <relatedItem target="c1426" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1425f1">
+                <graphic height="3636px" url="01897.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sorau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01897</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1425f2">
+                <graphic height="3626px" url="01898.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sorau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1899</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01898</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1425">
+        <body>
+            <div corresp="#c1425f1">
+                <head>Loraw, Germany. under Berlin</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William B. Murphy</cell>
+                        <cell>Com. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>San Frane</cell>
+                        <cell>No. Car</cell>
+                        <cell>Aug. 2, 1898.</cell>
+                        <cell>Seph. 30, 1898 to Oct. 7, 1909. <lb/> Appt. Con. Agt. Superior Aug.
+                            24, 1909.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Makinson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Dec. 23, 1909.</cell>
+                        <cell>App'd Dep. Con. Tampico " "/6/1914</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1425f2">
+                <head>Soran, Germany.</head>
+                <p>Julius Redeman, acty in chg. (Murphy at Bremen) Oct. 1899 to (few days)</p>
+                <p>George A. Makinson, Temp. Con. Agt. (teanape of Murphy) Oct. 8, 1909 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5680" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Swatow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5679" type="prev"/>
+                <relatedItem target="c5681" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5680f1">
+                <graphic height="3012px" url="07417.tif" width="4794px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Swatow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07417</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5680">
+        <body>
+            <div corresp="#c5680f1">
+                <head>Swatow, China</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                        <cell>SUPERVISION (over or under)</cell>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Closed 12/7/41 US time. Incl. in budget for 1950 possible opening.</p>
+                <p>conditions not favorable. Postponed.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>TIME</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>12/8/41</cell>
+                        <cell>Closed, Confidential archives were destroyed and other archives were
+                            intact at the time of officer's departure. See file no. 125.893/17.
+                            Non-confidential records and archives ordered stored locally. Some old
+                            confidential files remain which have lost confidential character. Some
+                            conf. files burned.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>11/1/43</cell>
+                        <cell>Airgram 436 from Bern says Jap. military removed Swatow
+                            archives.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

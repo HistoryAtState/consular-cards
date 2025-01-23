@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0139" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caldera, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0138" type="prev"/>
+                <relatedItem target="c0140" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0139f1">
+                <graphic height="3640px" url="00202.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caldera, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00202</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0139f2">
+                <graphic height="3640px" url="00203.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caldera, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00203</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0139">
+        <body>
+            <div corresp="#c0139f1">
+                <head>Caldera, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John C. Morong</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1871</cell>
+                        <cell>Resigned effect Jan. 1, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander M. Gore</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 8, 1907.</cell>
+                        <cell>Resigned effect Dec. 31, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Thomas Morong</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>San Fran. Caldera</cell>
+                        <cell>Calif. Chile</cell>
+                        <cell>July 27, 1908.</cell>
+                        <cell>Resigned July 22, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Martin N. Gaines</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Kansas City</cell>
+                        <cell>Mo.</cell>
+                        <cell>Jan. 26, 1922.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed May 28, 1927; closed July 13, 1927.</p>
+            </div>
+            <div corresp="#c0139f2">
+                <head>Caldara, Chile</head>
+                <p>A. M. Cross, a Br. subject - in chg after resig of Morong Jan. 1, 1907 to (apptd
+                    Con Agh July 8, 1907)</p>
+                <p>Thomas Siggelkow, Cons. Agent. (resig of Agh.) Jan. 1, 1908 to</p>
+                <p>D. J. Mackenzie, British Vice Consul, Acting Consular Agent, (resig of Morong
+                    July 22, 1921 to</p>
+                <p>Martin N. Gaines, of mo. succeeded Mackenzie as Acting Con. Agt. Nov. 15, 1921.
+                    apptd Agent Jan. 26, 1925</p>
+                <p>James A. Rowe, a Br. subject, Acting Agt. (absence of Gaines on leave) Apr. 1,
+                    1925 to closed Agency July 13, 1927</p>
+            </div>
+        </body>
+    </text>
+</TEI>

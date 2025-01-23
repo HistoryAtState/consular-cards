@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2460" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Funchal, Madeira-Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2459" type="prev"/>
+                <relatedItem target="c2461" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2460f1">
+                <graphic height="3636px" url="03273.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Funchal, Madeira-Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03273</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2460f2">
+                <graphic height="3636px" url="03274.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Funchal, Madeira-Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1934</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03274</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2460">
+        <body>
+            <div corresp="#c2460f1">
+                <head>Funchal, Madeira Portugal</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Marseille</cell>
+                        <cell>George P. Wilson</cell>
+                        <cell>ViceCon.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Aug. 14, 1930.</cell>
+                        <cell>Apptd.V.C. Marseille, Oct. 30, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>See</cell>
+                        <cell>William B. Douglass, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>DC.</cell>
+                        <cell>DC.</cell>
+                        <cell>July 24, 1934</cell>
+                        <cell>Apptd.V.C. Malaga, Sept. 21, 1934.</cell>
+                    </row>
+                    <row>
+                        <cell>over</cell>
+                        <cell>William B. Douglass, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>DC</cell>
+                        <cell>DC</cell>
+                        <cell>Apr. 6, 1937</cell>
+                        <cell>Apptd.V.C. Tenerife Oct. 15, 1937. To Oporto ast. as 0.6. 6/24-44.
+                            cancelled Aug. 9/40.</cell>
+                    </row>
+                    <row>
+                        <cell>Rice</cell>
+                        <cell>Foster H. Kreis</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Minu.</cell>
+                        <cell>Ore.</cell>
+                        <cell>Mar. 14, 1938</cell>
+                        <cell><unclear>Amer. Martine Delegate</unclear></cell>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>William B. Douglass, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>DC.</cell>
+                        <cell>Apr. 15, 1944</cell>
+                        <cell><unclear>amended</unclear> - see below</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>William B. Douglass, Jr.</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>DC.</cell>
+                        <cell>Apr. 15, 1944</cell>
+                        <cell>To Rabat - 12-4-44.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>William C. Shackley, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Del.</cell>
+                        <cell>August 19, 1946.</cell>
+                        <cell>To Lisbon as Vice Consul 1-2-47</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Alvin E. Bandy</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>July 23, 1947</cell>
+                        <cell>Resigned off. 3.26.48</cell>
+                    </row>
+                </table>
+                <p>Consulate to be closed</p>
+            </div>
+            <div corresp="#c2460f2"/>
+        </body>
+    </text>
+</TEI>

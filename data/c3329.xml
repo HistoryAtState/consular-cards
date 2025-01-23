@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3329" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ouagadougou, Republic of Upper Volta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3328" type="prev"/>
+                <relatedItem target="c3330" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3329f1">
+                <graphic height="3610px" url="04362.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ouagadougou, Republic of Upper Volta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04362</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3329f2">
+                <graphic height="3610px" url="04363.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ouagadougou, Republic of Upper Volta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04363</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3329">
+        <body>
+            <div corresp="#c3329f1">
+                <head>OUAGADOUGOU, Republic of Upper Volta</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Anthony S. Dalsimer</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 17, 1961</cell>
+                        <cell>Also 3d Sec. FSO assigned to the Dept., 8-4-63.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. 3d Sec.tv</cell>
+                        <cell>Reynold A. Riemer</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 23, 1962</cell>
+                        <cell>Also 3d Sec. To Saigon es Asst. Development officer 8-30-64.
+                            (AID)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Oslo</cell>
+                        <cell>Robert T. Grey, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 1, 1963</cell>
+                        <cell>Also 3d Sec. Also 2d Sec., 5.26-65. FSO assigned to the Dept.,
+                            8-15-C05,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>George R. Martens</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 7, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Conrad M. Drescher</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John H. Miller</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3329f2">
+                <head>Ouagadougou, Upper Volta.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Ouagadougou</cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consular mission officially established in the new Republic of Upper Volta, at
+                    Ouagadougou, on December 31, 1960.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

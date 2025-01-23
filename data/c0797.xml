@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0797" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quezaltenango, Guatemala</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0796" type="prev"/>
+                <relatedItem target="c0798" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0797f1">
+                <graphic height="3626px" url="01079.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Quezaltenango, Guatemala</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01079</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0797">
+        <body>
+            <div corresp="#c0797f1">
+                <head>Quezaltenango, Guatemala.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Grant A. Morrill</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Cal. Sept 12, 1898.</cell>
+                        <cell>to Mar. 31, 1903, <lb/> Regd Jan so effect Mar 31, 1903.</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed Feb. 12, 1903; Closed Mar. 31, 1903,</p>
+                <p>Town destroyed by earthquake April 18, 1902,</p>
+            </div>
+        </body>
+    </text>
+</TEI>

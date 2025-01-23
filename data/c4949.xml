@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4949" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Geneva, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4948" type="prev"/>
+                <relatedItem target="c4950" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4949f1">
+                <graphic height="3634px" url="06424.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Geneva, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06424</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4949">
+        <body>
+            <div corresp="#c4949f1">
+                <head>GENEVA, Switzerland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Geneva</cell>
+                        <cell>Elias A. McQuaid</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>March 5, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Geneva</cell>
+                        <cell>Harry B. Glazer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 1, 1963</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General closed to the public August 30, 1963.</p>
+                <p>To Edinburgh as Consul Gen., 10-28-63.</p>
+                <p><unclear>$50</unclear> assigned to the Dept., 6-23-63.</p>
+                <p>Officially closed eff. Sept. 13, 1963.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5815" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Persia-Iran</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5814" type="prev"/>
+                <relatedItem target="c5816" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5815f1">
+                <graphic height="3628px" url="07609.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Persia-Iran</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07609</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5815">
+        <body>
+            <div corresp="#c5815f1">
+                <head>Persia (Name chgd. to Draw, Mar. 22, 1935)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF<lb/>APPT. TO CLASS.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>RANK AND<lb/>DATE OF RANK.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.+3d Secy<lb/>Managua</cell>
+                        <cell>Earl T. Crain</cell>
+                        <cell>✓ 7.D.O.</cell>
+                        <cell>Une. 12/17/1931</cell>
+                        <cell><unclear>All</unclear>.</cell>
+                        <cell>Feb. 18, 1935</cell>
+                        <cell>3d Secy<lb/>12-17-31</cell>
+                        <cell>also Teheran.<lb/>Name trans. to Draw. card, 3/22/35</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

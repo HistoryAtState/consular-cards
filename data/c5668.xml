@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5668" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kweilin, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5667" type="prev"/>
+                <relatedItem target="c5669" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5668f1">
+                <graphic height="3006px" url="07397.tif" width="4790px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kweilin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07397</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5668f2">
+                <graphic height="3006px" url="07398.tif" width="4790px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kweilin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07398</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5668">
+        <body>
+            <div corresp="#c5668f1">
+                <head>KWEILIN, CHINA</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Established May 21, 1943.</p>
+                <p>1944. (Emergency closing)</p>
+                <p>Sept. 11, 1944.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>6/1/43</cell>
+                        <cell>Tel. of 6/1/43 says Arthur Ringwalt, Consul and Richard Service
+                            arrived Kweilin May 21. Under supervision of the Embassy except re
+                            purely consular functions, when under supervision of Kunming where
+                            practicable. No separate consular district. (In old consular district of
+                            Canton and not in old Kunming district)</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>6/25/44</cell>
+                        <cell>Consulate reported closed. In August informed that Consul had
+                            reconsidered the June closing and that the office had never ceased to
+                            function.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>9/11/44</cell>
+                        <cell>Office closed and two officers departed for Chungking where
+                            they</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5668f2">
+                <head>Kunming, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                        <cell><unclear>" "</unclear></cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

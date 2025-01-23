@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0040" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aleppo, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0039" type="prev"/>
+                <relatedItem target="c0041" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0040f1">
+                <graphic height="3632px" url="00059.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aleppo, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00059</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0040">
+        <body>
+            <div corresp="#c0040f1">
+                <head>Aleppo, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Jerusalem</cell>
+                        <cell>Samuel Edelman</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 6, 1915.</cell>
+                        <cell>arrived 5/27/15. <lb/> Appt'd Int. Beirut 11/30/1915. <lb/> Ahired.
+                            Detailed to <lb/> Jan. 22, 1916, Bordeaux.</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>George W. Young</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Md</cell>
+                        <cell>Nov. 30, 1915.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

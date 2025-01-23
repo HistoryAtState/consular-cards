@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2088" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constantza, Rumania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2087" type="prev"/>
+                <relatedItem target="c2089" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2088f1">
+                <graphic height="3628px" url="02793.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Constantza, Rumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02793</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2088">
+        <body>
+            <div corresp="#c2088f1">
+                <head>Constantza, Rumania.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Genna</cell>
+                        <cell>Richard B. Haven</cell>
+                        <cell>Vice Con US.</cell>
+                        <cell>Dee.</cell>
+                        <cell>Dee.</cell>
+                        <cell>Dee.</cell>
+                        <cell>Apr. 29, 1922.</cell>
+                        <cell>Appt'd V. C. de carrière class 3 may 26, 1922 <lb/> Assigned to
+                            Constantza June 23, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>Bucha-reat</cell>
+                        <cell>Leo F. Cochran</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass. R.D.</cell>
+                        <cell>June 14, 1924.</cell>
+                        <cell>Appt'd V. C, Bucharest July 1, 1924. <lb/> Aug. 8, 1924 - to.</cell>
+                    </row>
+                    <row>
+                        <cell>Bucha-reat</cell>
+                        <cell>George C. Arnols, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>R.D. R.D.</cell>
+                        <cell>Aug. 7, 1924.</cell>
+                        <cell>Appt'd V. C, Bucharest Aug. 22, 1924</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed May 3, 1926. Closed June 30, 1926.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

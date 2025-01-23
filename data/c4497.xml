@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4497" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bern, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4496" type="prev"/>
+                <relatedItem target="c4498" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4497f1">
+                <graphic height="3618px" url="05861.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bern, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05861</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4497">
+        <body>
+            <div corresp="#c4497f1">
+                <head>BERN, SWITZERLAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Coleman J. Nee</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 10, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. Also 2d Sec., 6-16-66.<lb/>Assigned to Dept.
+                            2-12-67.<lb/>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Hong Kong</cell>
+                        <cell>Robert E. Ezelle</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>The Hague</cell>
+                        <cell>F. Pierce Olson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert D. Johnson</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

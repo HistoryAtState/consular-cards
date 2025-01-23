@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1872" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bathurst, Gambia, Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1871" type="prev"/>
+                <relatedItem target="c1873" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1872f1">
+                <graphic height="3632px" url="02503.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bathurst, Gambia, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1833</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02503</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1872">
+        <body>
+            <div corresp="#c1872f1">
+                <head>Bathurst, Gambia, Africa. (British)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.M. Harton</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Oct. 17, 1833 recess</cell>
+                        <cell>Rodespatches filed</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel R. B. Upton</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell/>
+                        <cell>Para, Brazil</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 10, 1834 Conf.</cell>
+                        <cell>Nov. 4, 1858 to (Consul)</cell>
+                    </row>
+                    <row>
+                        <cell>Son of late<lb/>Consul Agt.<lb/>at Rosario</cell>
+                        <cell>Daniel R. B. Upton</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 18, 1858 by Des</cell>
+                        <cell>to July 9, 1861</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mar. 7, 1859 Conf.</cell>
+                        <cell>Resigned in U.S. Sept. 21, 1864</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 28, 1866 (by Secy)</cell>
+                        <cell>to June 1872</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1867 Conf.</cell>
+                        <cell>Resigned Mar. 8, 1870.</cell>
+                    </row>
+                </table>
+                <p>(Office ordered closed April 14, 1900.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

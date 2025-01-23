@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0871" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Riviere Du Loup, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0870" type="prev"/>
+                <relatedItem target="c0872" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0871f1">
+                <graphic height="3640px" url="01170.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Riviere Du Loup, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01170</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0871f2">
+                <graphic height="3640px" url="01171.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Riviere Du Loup, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1923</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01171</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0871">
+        <body>
+            <div corresp="#c0871f1">
+                <head>Rivieve du Loup Quebec, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Charlotte town</cell>
+                        <cell>Arthur . Giroux</cell>
+                        <cell>V.C.de Carrera</cell>
+                        <cell>2</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 5,1923.</cell>
+                        <cell>Assigned to Montreal Dec. 31,1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Quebec</cell>
+                        <cell>Knox Alexander</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Mo.</cell>
+                        <cell>Nov. 28, 1923,</cell>
+                        <cell>Appth F. B. C., Unclassified, July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>See above</cell>
+                        <cell>Knox Alexander</cell>
+                        <cell>F.S.O. Une.</cell>
+                        <cell/>
+                        <cell>7/1/1924. R.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Continued under assignment of Nov. 28, 1923.</cell>
+                        <cell>Assigned to Hamilton (Int. Jan. 4,1926 to Jan. 2, 1990. (over)</cell>
+                    </row>
+                    <row>
+                        <cell>St. Michael Montevideo</cell>
+                        <cell>Prescott Childe</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>10/16/1924</cell>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 2, 1929.</cell>
+                        <cell>Assigned to Montevideo, Sept. 25, 1937</cell>
+                    </row>
+                </table>
+                <p>Consulate closed May 15, 1931.</p>
+            </div>
+            <div corresp="#c0871f2">
+                <head>Rivière du Loup, Canada,</head>
+                <p>Arthur B. Siroux, V. C. dec., assumed charge of the Consulate Apr. 24, 1923,</p>
+                <p>Arthur B. Siroux, V. c. dec. took over the office from Conoul Pariggo Apr 24,
+                    1923. and turned it over thonsul Mitchell 1/7/1924.</p>
+                <p>Knox Alexander, V. C. de e. " " " " </p>
+                <p>Prescott Childs served under his assignment at Rivière du Louf, dated nov. 2,
+                    1929, Jeevious to serving under his appointment at Montevides, dated Sept. 25,
+                    1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

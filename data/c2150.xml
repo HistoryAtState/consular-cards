@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2150" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curitiba, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2149" type="prev"/>
+                <relatedItem target="c2151" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2150f1">
+                <graphic height="3630px" url="02871.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curitiba, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02871</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2150">
+        <body>
+            <div corresp="#c2150f1">
+                <head>Curitiba, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>u.consul<lb/>Santos</cell>
+                        <cell>Orton W. Hoover</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 4, 1957</cell>
+                        <cell>To Santos as U.C. 6-24-57<lb/>Converted to F.S. Reserve<lb/>officer
+                            9-30-62. Designated<lb/>Branch Public Affairs<lb/>officer (FSR) (USIA),
+                            Curitiba, 9-30-62</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Parker Lee</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 31, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis J. McArdle</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph T. Beaver, Jr.</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 20, 1962</cell>
+                        <cell>Ass't officer<lb/>assigned to the<lb/>Dept., 10-28-62.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Meldon R. Thomas</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Effective October 1, 1966, the functions and staff of the American Consulate
+                    at<lb/>Curitiba are to be reduced. Curitiba will no longer perform any statutory
+                    consular<lb/>operations. Its consular services are to be handled by the
+                    Consulate General, São Paulo.<lb/>(FAMC No. 439 of 8-24-<lb/>66.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0344" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kingston, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0343" type="prev"/>
+                <relatedItem target="c0345" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0344f1">
+                <graphic height="3626px" url="00474.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kingston, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00474</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0344">
+        <body>
+            <div corresp="#c0344f1">
+                <head>Kingston, Ontario, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul non-career</cell>
+                        <cell>Claude H. Hall, Jr.</cell>
+                        <cell>B.A. Unc.</cell>
+                        <cell>10/16/1929e</cell>
+                        <cell>Md.</cell>
+                        <cell>Oct. 16, 1929.</cell>
+                        <cell>Assigned to Monrovia, Nov. 23, 1929.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald D. Edgar.</cell>
+                        <cell>Do</cell>
+                        <cell>N</cell>
+                        <cell>4/15/1930</cell>
+                        <cell>N.J.</cell>
+                        <cell>Apr. 29, 1930.</cell>
+                        <cell>Assigned to Dept. of State, Sept. 27, 1930</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>Herbert C. Biar</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Ind.</cell>
+                        <cell>Mar. 4, 1936</cell>
+                        <cell>Assigned to Toronto, Mar. 23, 1936.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed March 31, 1937</p>
+                <p>Consulate closed September 30, 1940</p>
+            </div>
+        </body>
+    </text>
+</TEI>

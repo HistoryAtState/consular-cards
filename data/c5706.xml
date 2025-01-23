@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5706" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kukong, Kwangtung, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5705" type="prev"/>
+                <relatedItem target="c5707" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5706f1">
+                <graphic height="3016px" url="07457.tif" width="4796px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kukong, Kwangtung, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07457</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5706">
+        <body>
+            <div corresp="#c5706f1">
+                <head>Kukong, Kwangtung, China</head>
+                <p>See desp.1798,11/10/43 (124.93/582) from Chungking, suggesting an officer be
+                    detailed to Kukong and spend most of his time traveling in southern section of
+                    Kwangtung and in Kiangsi. Not to be an office.</p>
+                <p>Instr.12/15/43 to Chungking agrees preferable that officer from Kweilin visit
+                    Kukong when necessary and authorizes such trips if sufficient personnel and
+                    travel funds. (124.93/582)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

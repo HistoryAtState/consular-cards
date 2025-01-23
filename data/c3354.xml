@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3354" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Osaka and Hiogo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3353" type="prev"/>
+                <relatedItem target="c3355" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3354f1">
+                <graphic height="3622px" url="04394.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Osaka and Hiogo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04394</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3354">
+        <body>
+            <div corresp="#c3354f1">
+                <head>Osaka and Hiogo, Japan. (see Kobe)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Frank</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 6, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Harris</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 11, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Burge Lewis</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 10, 1875.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Sewall Benson</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 29, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. Seidmore</cell>
+                        <cell>//</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 13, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. J. H. Nienstead</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 2, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hunter Sharp</cell>
+                        <cell>//</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 22, 1887.</cell>
+                        <cell>Did not serve under this Comm. to Oct. 1, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hunter Sharp</cell>
+                        <cell>//</cell>
+                        <cell>U.S.</cell>
+                        <cell>No. Car.</cell>
+                        <cell>Mar. 12, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George F. Smithers</cell>
+                        <cell>Dep.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hubbard J. Smith (C.)</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ind.</cell>
+                        <cell>June 1, 1898.</cell>
+                        <cell>Oct. 1, 1898 to <lb/> To Canton V.C. Apr. 12, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hunter Sharp</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell>No. Car.</cell>
+                        <cell>Apr. 25, 1900.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <head>Osaka, Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>Clerk in Consulate</cell>
+                        <cell>Gordon L. Jorgensen</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 12, 1937</cell>
+                        <cell>Resigned Close of Dep. 27, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Quebec</cell>
+                        <cell>Thomas Edmund Burke</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Coun.</cell>
+                        <cell>June 20, 1940</cell>
+                        <cell>Sairen, Oct. 17, 1941.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

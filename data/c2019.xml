@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2019" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cienfuegos, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2018" type="prev"/>
+                <relatedItem target="c2020" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2019f1">
+                <graphic height="3630px" url="02710.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cienfuegos, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02710</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2019">
+        <body>
+            <div corresp="#c2019f1">
+                <head>Cienfuegos, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See card #1</cell>
+                        <cell>Frank Bohr</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R. Consul 10-24-18</cell>
+                        <cell>Mans.</cell>
+                        <cell>Continued under assign- ment of May 10, 1919. See card #1 - to Sept.
+                            30, 1955. Assigned to Mexicali Aug. 17, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell>Cdiz</cell>
+                        <cell>Lucien N. Sullivan</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Consul Pa. 5-31-09</cell>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 9, 1926. Mar. 9, 1926 to Assigned to Matanzas, June 10,
+                            1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Matanzas</cell>
+                        <cell>Knox Alexander</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>5/9/1930</cell>
+                        <cell>Consul 5-9-30</cell>
+                        <cell>Mo.</cell>
+                        <cell>June 10, 1931. Assigned to Edmonton, Oct. 17, 1934</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>J. Ridgway Limeweaver</cell>
+                        <cell>Do.</cell>
+                        <cell>7</cell>
+                        <cell>5-9-41C</cell>
+                        <cell>Consul 5-21-42C</cell>
+                        <cell>Pa</cell>
+                        <cell>July 5, 1943. To Bohia, Brogl 3-20-45</cell>
+                    </row>
+                </table>
+                <p>American Consulate at Cienfuegos, Cuba, will be closed to the public on August
+                    31, 1945.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

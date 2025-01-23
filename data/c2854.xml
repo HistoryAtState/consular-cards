@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2854" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luanda, Angola</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2853" type="prev"/>
+                <relatedItem target="c2855" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2854f1">
+                <graphic height="3614px" url="03763.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Luanda, Angola</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03763</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2854">
+        <body>
+            <div corresp="#c2854f1">
+                <head>LUANDA, ANGOLA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. William L. Simmons</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 4, 1959</cell>
+                        <cell>To Dacca as V.C, 122-62.</cell>
+                    </row>
+                    <row>
+                        <cell>2d SEC.VV.C. BOGOTA</cell>
+                        <cell>Roger P. Hipskind</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 29, 1961</cell>
+                        <cell>Designated Consul, Luanda, 4-7-62.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. T. Elkin Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 10, 1961</cell>
+                        <cell>To Buenos Aires as V.C. and 3d Sec., 11-25-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 1, 1962.</cell>
+                        <cell>Consulate elevated to the status of Consulate General, eff.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Tampico</cell>
+                        <cell>Charles W. Walker</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 29, 1963</cell>
+                        <cell>To Madrid as V.C. &amp; 2d Sec., 12-6-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. George T. Colman, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell>Designated Consul, Luanda, 10-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Nuevo Laredo</cell>
+                        <cell>Edward Marks</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell>To Lusaka as V.C. + 2d Secy 7-18-66</cell>
+                    </row>
+                    <row>
+                        <cell>Brasilia</cell>
+                        <cell>Mark Lore</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

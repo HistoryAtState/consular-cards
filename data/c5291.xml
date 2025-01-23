@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5291" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>New Zealand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5290" type="prev"/>
+                <relatedItem target="c5292" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5291f1">
+                <graphic height="3636px" url="06882.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06882</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5291f2">
+                <graphic height="3636px" url="06883.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06883</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5291">
+        <body>
+            <div corresp="#c5291f1"/>
+            <div corresp="#c5291f2">
+                <head>Osborn S. Watson - Commercial attaché - Wellington, 5-2-45 To Damascus as
+                    Consul 1st Secy. 7-1-49 Retired off. 11-30-50</head>
+                <head>Basil D. Dahl - Commercial attaché - Wellington, 2-10-42 - assigned to Dept.
+                    5-29-45</head>
+            </div>
+        </body>
+    </text>
+</TEI>

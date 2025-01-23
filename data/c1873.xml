@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1873" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bathurst, New Brunswick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1872" type="prev"/>
+                <relatedItem target="c1874" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1873f1">
+                <graphic height="3622px" url="02504.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bathurst, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1886</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02504</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1873f2">
+                <graphic height="3622px" url="02505.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bathurst, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02505</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1873">
+        <body>
+            <div corresp="#c1873f1">
+                <head>Bathurst, New Brunswick.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Hickson</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 20, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benedict C. Mullins</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1898</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Agency closed Dec. 31, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Claude M. Mersereaw</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell>N.B.</cell>
+                        <cell>N.B.</cell>
+                        <cell>Oct. 25, 1915.</cell>
+                        <cell>(under Campbellton)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Agency closed FA Memo, 10-20-31.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1873f2">
+                <head>Bathurst, N.B.</head>
+                <table>
+                    <row role="label">
+                        <cell>SB - 125.26582/66</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>SB - 125.26582/68</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Henry D. Morse, in chy of Agency Sept. 27, 1924, during absence &amp; Mercereaw.
+                    Died at Bathurst Aug. 9, 1926,</p>
+                <p>Smith Morse, and was succeeded as substitute American Consular Agent by his
+                    son</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1302" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cherbourg, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1301" type="prev"/>
+                <relatedItem target="c1303" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1302f1">
+                <graphic height="3630px" url="01730.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cherbourg, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01730</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1302">
+        <body>
+            <div corresp="#c1302f1">
+                <head>Cherbourg, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Potterdam</cell>
+                        <cell>Joseph A. Marquis</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>2</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Me.</cell>
+                        <cell>Nov. 6, 1922.</cell>
+                        <cell>Appt'd U.C. de carrière Class 1, Feb. 26, 1923</cell>
+                    </row>
+                    <row>
+                        <cell>Class 2, Clerk,</cell>
+                        <cell>Joseph A. Marquis</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>12/26/1923</cell>
+                        <cell>Me.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Paris Sept. 18, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Cherbourg</cell>
+                        <cell>Byler Thompson</cell>
+                        <cell>J.S.O. Unc.</cell>
+                        <cell>"</cell>
+                        <cell>12/7/1931c</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 2, 1932.</cell>
+                        <cell>Assigned to Dept. of State Feb. 7, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Havre</cell>
+                        <cell>Harry M. Donaldson</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/1/1935r</cell>
+                        <cell>Pa.</cell>
+                        <cell>Oct. 1, 1937</cell>
+                        <cell>Assgd. to Havre, Oct. 27, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>1/18/1936c</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate temporarily closed June 12, 1940.</p>
+                <p>Recognition of the de facto authority established in Paris under the leadership
+                    of General de Gaulle as the Provisional Government of the French Republic
+                    10-23-44</p>
+                <p>Consulate re-established November 10, 1944</p>
+                <p>Opened to the public December 1, 1944.</p>
+                <table>
+                    <row role="label">
+                        <cell>Dept.</cell>
+                        <cell>Alfred J. Wellborn</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>5-21-45c</cell>
+                        <cell>La.</cell>
+                        <cell>Jan. 2, 1946</cell>
+                        <cell>Appt'd. Consul 7-19-46c Assigned as Consul at Cherbourg, France July
+                            19, 1946. To Paris as V.C. &amp; 3rd Secy.</cell>
+                    </row>
+                    <row>
+                        <cell>Parish</cell>
+                        <cell>Francis C. Grant, Jr.</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell>5-16-45</cell>
+                        <cell>Penn.</cell>
+                        <cell>May 13, 1949</cell>
+                        <cell>To Disseldorf as Economic Officer 8-31-52.</cell>
+                    </row>
+                    <row>
+                        <cell>Cherbourg</cell>
+                        <cell>John G. Leary</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 24, 1950</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed Oct. 31, 1957 - Consular Agency established.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

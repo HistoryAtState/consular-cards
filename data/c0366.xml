@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0366" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Krakow, Poland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0365" type="prev"/>
+                <relatedItem target="c0367" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0366f1">
+                <graphic height="3642px" url="00502.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Krakow, Poland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00502</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0366">
+        <body>
+            <div corresp="#c0366f1">
+                <head>Krakow, Poland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Malcolm Joon</cell>
+                        <cell>FSll</cell>
+                        <cell>me. 9.</cell>
+                        <cell>2-27-46c</cell>
+                        <cell>Mass.</cell>
+                        <cell>March 8, 1946.</cell>
+                        <cell>Consulate formally established July, 1946.<lb/>Consulate to be closed
+                            on or before April 15, 1947.<lb/>Consulate closed to the public April
+                            15, 1947; Officially closed April 17, 1947.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1472" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stoke on Trent, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1471" type="prev"/>
+                <relatedItem target="c1473" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1472f1">
+                <graphic height="3636px" url="01962.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stoke on Trent, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01962</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1472f2">
+                <graphic height="3638px" url="01963.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stoke on Trent, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01963</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1472">
+        <body>
+            <div corresp="#c1472f1">
+                <head>Stoke on Trent, England. (formerly Burslem)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Durslem</cell>
+                        <cell>Robert S. S. Bergh</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell>2/5/1915</cell>
+                        <cell>Norway N. Dak.</cell>
+                        <cell>Dec. 20, 1911.</cell>
+                        <cell>Continued under appt assigned to Guadeloupe but he did not
+                            go<lb/>Assigned to Stavanger Oct. 24, 1919<lb/>to May 27, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Port</cell>
+                        <cell>Charles E. Asbury</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>C. Ind. Ind.</cell>
+                        <cell>Sept. 8, 1919.</cell>
+                        <cell>Assigned to Cardiff Mar. 1, 1920<lb/>Apr. 2, 1920 to see below</cell>
+                    </row>
+                    <row>
+                        <cell>Antonis</cell>
+                        <cell>William F. Doty</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/1/1916</cell>
+                        <cell>N.Y. N.J.</cell>
+                        <cell>Mar. 1, 1920</cell>
+                        <cell>Appt'd S. O., class 7 July 1, 1924.</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>See<lb/>above</cell>
+                        <cell>William F. Doty</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R. Consul</cell>
+                        <cell>N.J.</cell>
+                        <cell>Continued under assign-See above-to Nov. 11, 1924.<lb/>Assigned to St.
+                            Michael's 9/9/1924<lb/>Nov. 12, 1924 to<lb/>Appt'd F.S.O. class 6 May
+                            17, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>St.<lb/>Michael's</cell>
+                        <cell>Renwick S. M. Niece</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R. Consul</cell>
+                        <cell>Utah</cell>
+                        <cell>Sept. 9, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>class 7</cell>
+                        <cell>Renwick S. M. Niece</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>7/7/1928</cell>
+                        <cell>Consul</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Karachi June 19, 1928.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 1, 1929.</p>
+            </div>
+            <div corresp="#c1472f2">
+                <head>Stoke-on-Trent, England</head>
+                <p>George W. Young. Consul. Cl 6, lately at Damascus, detailed to Stoke on Trent
+                    July 14,1921; resignation accepted in Depts. telegram of Dec. 9, 1921 to take
+                    effect on arrival of Consul Doty from leave of absence; took effect Feb. 15,
+                    1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

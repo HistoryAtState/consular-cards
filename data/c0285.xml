@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0285" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iquique, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0284" type="prev"/>
+                <relatedItem target="c0286" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0285f1">
+                <graphic height="3610px" url="00397.tif" width="6074px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Iquique, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00397</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0285">
+        <body>
+            <div corresp="#c0285f1">
+                <head>Iquique, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS.</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK.</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See<lb/>card #1<lb/>Rio de<lb/>Janeiro</cell>
+                        <cell>Harry Campbell</cell>
+                        <cell>S.S.O.</cell>
+                        <cell>5</cell>
+                        <cell>7/1/1924 R.</cell>
+                        <cell>Consul<lb/>10-18-15</cell>
+                        <cell><unclear>Continued under assignment</unclear> See card #1
+                                to<lb/><unclear>Mans</unclear>. Sept. 21, 1923.
+                                <unclear>Resigned</unclear> to Kingston Ont. Dec. 2, 1927.<lb/>May
+                            14, 1928 to<lb/><unclear>Assigned</unclear> to Messina July 2,
+                            1929.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert R. Bradford</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>10/20/1926</cell>
+                        <cell>Consul<lb/>9-14-17</cell>
+                        <cell>Nebr. Mar. 3, 1928.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate Class October 10, 1931.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

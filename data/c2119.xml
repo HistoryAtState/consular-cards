@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2119" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cork, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2118" type="prev"/>
+                <relatedItem target="c2120" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2119f1">
+                <graphic height="3634px" url="02830.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cork, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02830</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2119">
+        <body>
+            <div corresp="#c2119f1">
+                <head>Cork, Ireland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. &amp; 2d Sec. Seoul</cell>
+                        <cell>Robert W. Eastham</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Var. Dec. 31, 1952</cell>
+                        <cell>Var.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>UCd 3d Sec. London</cell>
+                        <cell>Raymond J. Barrett</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>June 17, 1954</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>2d Sec. V.C. Dublin</cell>
+                        <cell>Robert F. Andrew</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 9, 1957</cell>
+                        <cell>Calif.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dublin</cell>
+                        <cell>Richard W. White</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 6, 1958</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed to the public eff. Aug. 2, 1963 officially was closed eff. Aug.
+                    16, 1963.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

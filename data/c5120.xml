@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5120" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hong Kong, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5119" type="prev"/>
+                <relatedItem target="c5121" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5120f1">
+                <graphic height="3618px" url="06643.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hong Kong, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06643</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5120">
+        <body>
+            <div corresp="#c5120f1">
+                <head>Honghong, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Chee</cell>
+                        <cell>Interpreter</cell>
+                        <cell/>
+                        <cell>China</cell>
+                        <cell/>
+                        <cell>July 2, 1875 Pres. alone</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Chue A. Sine</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>China</cell>
+                        <cell/>
+                        <cell>May 14, 1890 " " </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Chin Boy Wor</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 4, 1893 " " </cell>
+                        <cell>Removed?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wong Chung</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>China</cell>
+                        <cell/>
+                        <cell>Feb. 24, 1906.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Chive</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>May 9, 1906.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

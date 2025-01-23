@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5488" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sudan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5487" type="prev"/>
+                <relatedItem target="c5489" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5488f1">
+                <graphic height="3608px" url="07148.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sudan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07148</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5488">
+        <body>
+            <div corresp="#c5488f1">
+                <head>SUDAN</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Khartoum</cell>
+                        <cell>Charles H. Barr</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C. To Dept. 1-15-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>G. Gardiner Brown</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 29, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Jeru-<lb/>salem</cell>
+                        <cell>Robert H. Munn</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Oct. 9, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>The<lb/>Hague</cell>
+                        <cell>Cleo A. Noel, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Dec. 19, 1966</cell>
+                        <cell/>
+                        <cell>Couns.<lb/>of Emb.</cell>
+                        <cell>Also Consul &amp; Deputy<lb/>Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John F. Rieger</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Nov. 20, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>George E. Mercer</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

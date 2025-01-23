@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6191" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6190" type="prev"/>
+                <relatedItem target="c6192" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6191f1">
+                <graphic height="3640px" url="08153.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="13.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08153</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6191f2">
+                <graphic height="3640px" url="08154.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="13.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08154</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6191">
+        <body>
+            <div corresp="#c6191f1"/>
+            <div corresp="#c6191f2">
+                <head>Norman L. Cansler, Visa Assistant, Salonika, Greece, 12-17-56. To Port
+                    Elizabeth as U.C. 3-9-57</head>
+                <head>Kenneth J. Yearns, Refugee Relief Program Officer, Athens, 12-17-56. To
+                        <unclear>H</unclear><unclear>a</unclear><unclear>s</unclear><unclear>s</unclear><unclear>e</unclear><unclear>l</unclear><unclear>t</unclear><unclear>o</unclear><unclear>n</unclear><unclear>e</unclear>
+                    5-4-57</head>
+                <head>Frederick A. Hill, Passport and citizenship officer, Athens 2-5-58. To Torin
+                    as Cons. 3/10/58</head>
+            </div>
+        </body>
+    </text>
+</TEI>

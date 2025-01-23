@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5142" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ibadan, Federation of Nigeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5141" type="prev"/>
+                <relatedItem target="c5143" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5142f1">
+                <graphic height="3628px" url="06670.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ibadan, Federation of Nigeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06670</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5142">
+        <body>
+            <div corresp="#c5142f1">
+                <head>IBADAN, Federation of Nigeria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consult<lb/>1st sec<lb/>Accra</cell>
+                        <cell>John P. Meagher</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons. Apr. 2, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>FSO asgd to the Dept., 8-30-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jack W. Juergens</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Dec. 19, 1963</cell>
+                        <cell/>
+                        <cell>FSR assigned to the Agency (USIA)<lb/>Washington, D.C. 4-21-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George B. Sherry</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons. Apr. 11, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lindsay H. White</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Dec. 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3090" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milan, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3089" type="prev"/>
+                <relatedItem target="c3091" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3090f1">
+                <graphic height="3632px" url="04063.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milan, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04063</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3090f2">
+                <graphic height="3632px" url="04064.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milan, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04064</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3090">
+        <body>
+            <div corresp="#c3090f1"/>
+            <div corresp="#c3090f2">
+                <head>Milan, Italy</head>
+                <p>Heamer Brett detailed to Dept. of State temporarily, Mar. 9, 1985.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

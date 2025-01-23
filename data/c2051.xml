@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2051" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cognac, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2050" type="prev"/>
+                <relatedItem target="c2052" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2051f1">
+                <graphic height="3636px" url="02746.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cognac, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02746</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2051">
+        <body>
+            <div corresp="#c2051f1">
+                <head>Cognac, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Gifford</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>May 9, 1883</cell>
+                        <cell>Declined. Nom. withdrawn <lb/> July 1884 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Drish</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wise</cell>
+                        <cell>Mar. 20, 1884</cell>
+                        <cell>recess To Bale Jan. 11, 1884. <lb/> July 1884 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar Malmros</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>Feb. 22, 1887</cell>
+                        <cell>Conf. Apr. 1887 to Dec. 1888. <lb/> Dec. 1888 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.O. Earle</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ala.</cell>
+                        <cell>Oct. 18, 1888</cell>
+                        <cell>Conf. To St. Etienne Oct. 12, 1888. <lb/> Dec. 1888 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William S. Preston</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 24, 1890</cell>
+                        <cell>Conf. May 1890 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John P. Beecher</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 13, 1893</cell>
+                        <cell>recess July 1893 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Fitz Gerald</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 19, 1893</cell>
+                        <cell>Conf. Resigned June 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. Jackson <unclear/>(Colored)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>Nov. 5, 1894</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Hilldorman</cell>
+                        <cell>Coml. Agt. <lb/> Consul</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 15, 1898</cell>
+                        <cell>Comm. Dec. 11, 1894 Conf.</cell>
+                    </row>
+                    <row>
+                        <cell>La Rochelle</cell>
+                        <cell>George H. Jackson <unclear/>(Colored)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>June 10, 1908</cell>
+                        <cell>Apptd Con. La Rochelle <lb/> Apptd Cons. at Munich <lb/> Feb. 10,
+                            1899. <lb/> to Jan. 3, 1914</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Kenneth S. Patton</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Nov. 24, 1913</cell>
+                        <cell>Conf. Jan. 4, 1914 to <lb/> Office moved to La Rochelle</cell>
+                    </row>
+                </table>
+                <p>Changes to La Rochelle early in 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

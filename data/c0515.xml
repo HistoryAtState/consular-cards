@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0515" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Magdeburg, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0514" type="prev"/>
+                <relatedItem target="c0516" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0515f1">
+                <graphic height="3638px" url="00701.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Magdeburg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00701</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0515">
+        <body>
+            <div corresp="#c0515f1">
+                <head>Magdeburg, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert H. Washburn</cell>
+                        <cell>Comil'd U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>June 27, 1890.</cell>
+                        <cell>recess</cell>
+                        <cell>to Sept. 23, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julius Muth</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Sept 19, 1893</cell>
+                        <cell>Conf.</cell>
+                        <cell>Och. 1, 1897 to Nov. 10, 1899<lb/>Appt'd Consul Bremen
+                            10/27/1899<lb/>Appt'd Consul at Ainfuegos</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry W. Diederich</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>July 19, 1897</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Max J. Bachr</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Neb.</cell>
+                        <cell>Mar. 13, 1900</cell>
+                        <cell>Conf.</cell>
+                        <cell>June 6, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A. McMellip</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Neb.</cell>
+                        <cell>July 23, 1902</cell>
+                        <cell>recess</cell>
+                        <cell>Sept. 16, 1902 to Apr. 3, 1904</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank S. Hannah</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Dec. 12, 1902</cell>
+                        <cell>Conf</cell>
+                        <cell>Died Apr. 3, 1904.</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>Alfred W. Donegan</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ala.</cell>
+                        <cell>June 24, 1910</cell>
+                        <cell>Conf.</cell>
+                        <cell>Oct. 28, 1910 to<lb/>see below</cell>
+                    </row>
+                    <row>
+                        <cell>Home</cell>
+                        <cell>Alfred W. Donegan</cell>
+                        <cell>Con. 7</cell>
+                        <cell/>
+                        <cell>Ala.</cell>
+                        <cell>June 24, 1910.</cell>
+                        <cell>Continued under appt</cell>
+                        <cell>Relations with Ger,<lb/>severed Feb. 3, 1917.<lb/>Details for duty in
+                            Legation at<lb/>Berne Feb. 28, 1917.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed Feb. 6, 1917 - Notturned over to any<lb/>Consul of another
+                    Power.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

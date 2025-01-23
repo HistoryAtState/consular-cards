@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1772" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yokkaichi, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1771" type="prev"/>
+                <relatedItem target="c1773" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1772f1">
+                <graphic height="3632px" url="02360.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yokkaichi, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02360</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1772">
+        <body>
+            <div corresp="#c1772f1">
+                <head>Yokkaichi, Japan!</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry F. Hawley</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>Appt. to Class.</cell>
+                        <cell>See entry on<lb/>next line.</cell>
+                        <cell>Date of assignment.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry F. Hawley</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>9/14/1917</cell>
+                        <cell>N.J. N.Y.</cell>
+                        <cell>Oct. 5, 1918</cell>
+                        <cell>Dec. 1, 1918 to<lb/>Assigned to Nagoya Mar. 8, 1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office transferred to Nagoya May 1, 1919</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

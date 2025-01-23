@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1282" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chatham, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1281" type="prev"/>
+                <relatedItem target="c1283" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1282f1">
+                <graphic height="3626px" url="01706.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chatham, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01706</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1282">
+        <body>
+            <div corresp="#c1282f1">
+                <head>Chatham, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas M. Cray</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 22, 1866</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. McCutcheon</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell>Mich. Sept. 11, 1876.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David N. Mitchell</cell>
+                        <cell><unclear>Wondelgt</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 8, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert C. Smith</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 15, 1881</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William L. Tackberry</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1887.</cell>
+                        <cell>Gr. Br.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin Bell</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 31, 1893</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin Bell</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 17, 1894</cell>
+                        <cell>Resigned Jan. 7, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Gordon</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 27, 1896.</cell>
+                        <cell>Resigned Nov. 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin Bell</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 13, 1901</cell>
+                        <cell>Did not qualify. <lb/> Ineligible.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Gordon</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>May 26, 1902</cell>
+                        <cell>Declined <lb/> Did not qualify</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ward Stanworth</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br. Eng.</cell>
+                        <cell>Ont.</cell>
+                        <cell>July 5, 1902.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

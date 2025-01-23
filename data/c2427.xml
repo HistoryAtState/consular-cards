@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2427" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fort William and Port Arthur, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2426" type="prev"/>
+                <relatedItem target="c2428" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2427f1">
+                <graphic height="3636px" url="03232.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fort William and Port Arthur, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03232</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2427">
+        <body>
+            <div corresp="#c2427f1">
+                <head>Fort William &amp; Port Arthur, Ontario, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Winnipeg</cell>
+                        <cell>Inuen M. Eitrem</cell>
+                        <cell>Do</cell>
+                        <cell>Unc. 9-3-40c</cell>
+                        <cell>L.D.</cell>
+                        <cell>Aug. 29, 1942.</cell>
+                        <cell>To Winnipeg 9-1-42</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Winnipeg</cell>
+                        <cell>William Belton</cell>
+                        <cell>Do.</cell>
+                        <cell>8</cell>
+                        <cell>7-16-438.</cell>
+                        <cell>Oregon. July 19, 1943</cell>
+                        <cell>To Winnipeg 9-14-43</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell>Gaston J. Kelsey</cell>
+                        <cell>J.SO.</cell>
+                        <cell>6</cell>
+                        <cell>8-15-45a</cell>
+                        <cell>Mich. Aug. 13 1945</cell>
+                        <cell>To Toronto as Vice Consul 9-14-45.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate officially closed October 31, 1948</p>
+            </div>
+        </body>
+    </text>
+</TEI>

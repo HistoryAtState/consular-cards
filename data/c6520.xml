@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6520" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6519" type="prev"/>
+                <relatedItem target="c6521" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6520f1">
+                <graphic height="3662px" url="08625.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="o"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08625</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6520f2">
+                <graphic height="3662px" url="08626.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="o"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08626</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6520">
+        <body>
+            <div corresp="#c6520f1"/>
+            <div corresp="#c6520f2">
+                <head>China.</head>
+                <p>The following telegram was sent to Ferdinand L. Mayer, On board S. S. President
+                    Me Kinley which sailed from Seattle August 30 for Yokohama: "On account of
+                    earthquake catastrophe you are hereby detailed temporarily for duty in Embassy
+                    Tokyo." signed Phillipes, Acting.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

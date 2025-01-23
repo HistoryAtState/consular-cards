@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5867" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Student Interpreters in Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5866" type="prev"/>
+                <relatedItem target="c5868" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5867f1">
+                <graphic height="3622px" url="07677.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Student Interpreters in Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07677</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5867">
+        <body>
+            <div corresp="#c5867f1">
+                <head>Student Interpreters in Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Erwin F. Lange</cell>
+                        <cell>Stud. Int. U. S.</cell>
+                        <cell>"</cell>
+                        <cell>New York City</cell>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 14, 1914.</cell>
+                        <cell>Arrived 7/10/1914; Appt'd Interpreter at Constantinople June 19,
+                            1916.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George L. Brandt</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Watch D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Mar. 24, 1915.</cell>
+                        <cell>Arrived 6/7/1915 Appt'd a Con. Asst. Mar. 23, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell>Con. Asst</cell>
+                        <cell>Berhard Sotlieb</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 1, 1915.</cell>
+                        <cell>Arrived 6/7/1915 Appt'd Int. &amp; V. C. Bagdad 8/24/1917 Did not go
+                            to Constantinople</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Jacobs</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Johnston, So. Car.</cell>
+                        <cell>So. Car.</cell>
+                        <cell>Oct. 15, 1915.</cell>
+                        <cell>Appt'd S. I. in China, Nov. 5, 1915 Arrived 12/8/1916</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roland A. Durkee</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Aug. 30, 1916.</cell>
+                        <cell>Appt'd a Con. Asst. July 21, 1917</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

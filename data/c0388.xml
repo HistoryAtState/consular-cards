@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0388" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Guayra, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0387" type="prev"/>
+                <relatedItem target="c0389" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0388f1">
+                <graphic height="3622px" url="00532.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Guayra, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00532</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0388">
+        <body>
+            <div corresp="#c0388f1">
+                <head>La Guaira, Venezuela</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Curacao</cell>
+                        <cell>Wallace E. Moesener</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Ga.</cell>
+                        <cell>Okla.</cell>
+                        <cell>Aug. 23, 1940</cell>
+                        <cell>Temporary detail from Curacao<lb/>Appld. V.C. Toronto, Feb. 13,
+                            1941.<lb/>Appld. V. C. <unclear/>unts de la <unclear/>ruz</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George R. Phelan</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>France</cell>
+                        <cell>Calif.</cell>
+                        <cell>Sept. 29, 1941.</cell>
+                        <cell>Cancelled-10-1-43.-</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard A. Osborne</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Wash</cell>
+                        <cell>July 5, 1943</cell>
+                        <cell>Sec. For. Serv. <unclear/>ex. card.<lb/>to Caracas, July 31,
+                            1943</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>George R. Phelan</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>France</cell>
+                        <cell>Calif</cell>
+                        <cell>July 3, 1943</cell>
+                        <cell>Cancelled</cell>
+                    </row>
+                    <row>
+                        <cell>Law Zinsetos</cell>
+                        <cell>Henry J. Dveper</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>R.2.</cell>
+                        <cell>Aug. 21, 1944.</cell>
+                        <cell>Cancelled</cell>
+                    </row>
+                    <row>
+                        <cell>U.C.</cell>
+                        <cell>Guy A. Morin</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Marine</cell>
+                        <cell>Dec. 11, 1945</cell>
+                        <cell>Cancelled</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Manuel J. Codoner</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 5, 1946</cell>
+                        <cell>Consular district of<lb/>La Guaira combined<lb/>with That of
+                            Caracas-Mr. Codoner's Comm. to<lb/>La Guaira not presented to Foreign
+                            Office-he<lb/>is serving at La Guaira under comm.<lb/>issued for
+                            Caracas. To Mexico as V.C. 3-14-47</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas.</cell>
+                        <cell>Louis B. Mazzeo</cell>
+                        <cell>Vice Consul U.S</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>D.C.</cell>
+                        <cell>April 14, 1947</cell>
+                        <cell>Commissioned also to Caracas but officially<lb/>stationed at La
+                            Guaira. <unclear/>fficed to <unclear/>ara<lb/>Mazzeo now serving at
+                            Caracas</cell>
+                    </row>
+                </table>
+                <p>Vice Consulate closed November 22, 1947.</p>
+                <p>Consular Agency established November 22, 1947.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

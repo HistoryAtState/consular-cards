@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5818" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Persia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5817" type="prev"/>
+                <relatedItem target="c5819" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5818f1">
+                <graphic height="3622px" url="07613.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Persia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07613</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5818f2">
+                <graphic height="3622px" url="07614.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Persia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07614</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5818">
+        <body>
+            <div corresp="#c5818f1">
+                <head>(Clerks) Persia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ralph H. Bader</cell>
+                        <cell>Clerk</cell>
+                        <cell>Va. Mar. 8, 1912</cell>
+                        <cell>Out - Aug, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Feriborze B. Irani</cell>
+                        <cell>"</cell>
+                        <cell>India Persia Mar. 8, 1912</cell>
+                        <cell>Out - Aug, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard M. de Lambert</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Mex July 1, 1915.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5818f2">
+                <head>Persia</head>
+                <p>"John Tyler, Interpreter, apptd Jan. 1, 1891; Superseded Mar. 12, 1912</p>
+                <p>Mirza Mohamed Ali Khan Kajar, apptd about 1896; Superseded Mar. 1912.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

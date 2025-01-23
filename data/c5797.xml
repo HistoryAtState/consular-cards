@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5797" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5796" type="prev"/>
+                <relatedItem target="c5798" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5797f1">
+                <graphic height="3632px" url="07583.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07583</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5797">
+        <body>
+            <div corresp="#c5797f1">
+                <head>Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WERE BORN. WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Neil B. Sinclair</cell>
+                        <cell>Clerk</cell>
+                        <cell>Tenn. Calif. Dec. 1907</cell>
+                        <cell>Resigned effective 2/3/1912.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A. Newcome</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. Calif Feb. 1, 1912.</cell>
+                        <cell>Dismissed Apr. 19, 1917 for cause</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Thomas J. Cole</cell>
+                        <cell>"</cell>
+                        <cell>Apr. 19, 1917</cell>
+                        <cell>Assumed duties</cell>
+                        <cell>Apr. 27, 1917.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>v.e.</cell>
+                        <cell>Algiers Robert M Sheehan</cell>
+                        <cell>Clerk</cell>
+                        <cell>Dec. 20, 1943.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

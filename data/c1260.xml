@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1260" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cette, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1259" type="prev"/>
+                <relatedItem target="c1261" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1260f1">
+                <graphic height="3618px" url="01676.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cette, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01676</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1260">
+        <body>
+            <div corresp="#c1260f1">
+                <head>Ceuta, Morocco - Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>3rd Secy. Portugal</cell>
+                        <cell>Douglas Flood</cell>
+                        <cell>7.S.O. 7</cell>
+                        <cell>6-1-42 Consul</cell>
+                        <cell>6.26.42 8-11-42.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Nov. 11, 1942.</cell>
+                        <cell>Assigned to Dept. 1-6-44</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

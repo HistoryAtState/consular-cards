@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2413" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Foochow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2412" type="prev"/>
+                <relatedItem target="c2414" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2413f1">
+                <graphic height="3600px" url="03215.tif" width="6060px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Foochow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1937</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03215</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2413">
+        <body>
+            <div corresp="#c2413f1">
+                <head>Foochow, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec'y. Peking</cell>
+                        <cell>Robert S. Hard</cell>
+                        <cell>8.A.0.</cell>
+                        <cell>7</cell>
+                        <cell>4-22-37 Consul effec. 4-1-37</cell>
+                        <cell>Consul 1-22-35</cell>
+                        <cell>Ohio</cell>
+                        <cell>Returned to Foochow June 26, 1939, under assign- ment of May 29,
+                            1937</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 7 V. Con.</cell>
+                        <cell>Robert S. Hard</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>11-16-39R EFFECTIVE 1-13-40 C.</cell>
+                        <cell>Do</cell>
+                        <cell>Ohio</cell>
+                        <cell>continued under assign- ment of May 29, 1937</cell>
+                        <cell>Ass'd to Hong Kong Aug. 23/40</cell>
+                    </row>
+                    <row>
+                        <cell>Foochow</cell>
+                        <cell>Edward E. Rice</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>9-3-40 Consul EFFECTIVE 8-1-40c</cell>
+                        <cell>Consul 10-5-40</cell>
+                        <cell>Wiec.</cell>
+                        <cell>Oct. 16, 1940.</cell>
+                        <cell>Ass'd. toon. Kunming, China for temp. duty Chungking 2/9/42</cell>
+                    </row>
+                </table>
+                <p>Consulate closed January 31, 1942.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

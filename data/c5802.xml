@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5802" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liberia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5801" type="prev"/>
+                <relatedItem target="c5803" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5802f1">
+                <graphic height="3622px" url="07590.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Liberia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1906</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07590</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5802">
+        <body>
+            <div corresp="#c5802f1">
+                <head>(Clerks) Liberia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(Mrs) Anabel Lyon Walker</cell>
+                        <cell>Clerk</cell>
+                        <cell>La. Md.</cell>
+                        <cell>(Data re clerks prior to 1906 not obtainable)</cell>
+                        <cell>1906</cell>
+                        <cell>Out Aug. 1910.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eldridge J. Hawkins</cell>
+                        <cell>"</cell>
+                        <cell>D.C. D.C.</cell>
+                        <cell>Feb. 10, 1911.</cell>
+                        <cell>Resigned 2/7, effective about Mar. 19, 1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emory Ross</cell>
+                        <cell>"</cell>
+                        <cell>Ill.</cell>
+                        <cell>(Temporary)</cell>
+                        <cell>May 15, 1913</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Guy B. Robbins</cell>
+                        <cell>"</cell>
+                        <cell>Ind. Nebr.</cell>
+                        <cell>Aug. 23, 1913</cell>
+                        <cell>Resigned Oct. 28, 1915; arrived in U.S. 5/1/1916</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nellie May Bundy</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Cincinnati, Ohio</cell>
+                        <cell>Oct. 23, 1916.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

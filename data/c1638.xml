@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1638" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tumbez, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1637" type="prev"/>
+                <relatedItem target="c1639" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1638f1">
+                <graphic height="3636px" url="02191.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tumbez, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1852</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02191</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1638">
+        <body>
+            <div corresp="#c1638f1">
+                <head>Numbers, Peru.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Oakford</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 9, 1852</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Brandreth</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 27, 1854</cell>
+                        <cell>Conf</cell>
+                        <cell>Declined <lb/> To Plymouth, Eng. Apr. 26, 1854.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard G. Sanford</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 3, 1855</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Demison Card</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 22, 1858</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas P. Smith</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 22, 1862</cell>
+                        <cell>Conf</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hiram R. Hawkins</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass</cell>
+                        <cell>Jan. 13, 1865</cell>
+                        <cell>Conf.</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.A. Sprigman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>New</cell>
+                        <cell>Mar. 21, 1866</cell>
+                        <cell>Conf</cell>
+                        <cell>Died Oct. 1866.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E.M. Baron Timoney</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 17, 1868</cell>
+                        <cell>Conf</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ralph Abercrombie</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ga.</cell>
+                        <cell>Sept. 22, 1869</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Faulkner</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Sept. 9, 1870</cell>
+                        <cell>recess</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Orville McGregor</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Me.</cell>
+                        <cell>Mar. 10, 1878</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed September 23, 1904.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

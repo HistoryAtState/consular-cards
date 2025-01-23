@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2032" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Clifton-Niagara Falls, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2031" type="prev"/>
+                <relatedItem target="c2033" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2032f1">
+                <graphic height="3632px" url="02725.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Clifton-Niagara Falls, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02725</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2032">
+        <body>
+            <div corresp="#c2032f1">
+                <head>Clifton, Ontario. (Niagara Falls after July 1, 1899)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Augustus Porter</cell>
+                        <cell>Consul Us</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 14, 1864 Recess</cell>
+                        <cell>Feb. 14, 1865 Conf. Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>St. Martin Jones</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 21, 1866 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert S. Chilton</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Feb. 2, 1877 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Low</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 24, 1888 Conf. suspended Nov. 12, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Amos A. Brown</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 12, 1886 Recess</cell>
+                        <cell>Feb. 22, 1887 Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry M. Hard</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 27, 1891 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry L. Arnold</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>July 2, 1891 Recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Nichole</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 16, 1891 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harlan W. Brush</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 21, 1894 Conf.</cell>
+                        <cell>New comm'n to Niagara Falls June 27, 1899.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

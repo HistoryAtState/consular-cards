@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4439" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Algiers, Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4438" type="prev"/>
+                <relatedItem target="c4440" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4439f1">
+                <graphic height="3622px" url="05780.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Algiers, Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1795</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05780</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4439">
+        <body>
+            <div corresp="#c4439f1">
+                <head>Algiers (Miscellaneous)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Humphreys</cell>
+                        <cell>Apptd Commin Plenipotentiary to conclude treaty of Amity and Commerce
+                            with Tripoli</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March 30, 1795</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joel Barlow</cell>
+                        <cell>Apptd by Humphreys - apptd to conclude treaty with Tripoli</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Donaldson Jr.</cell>
+                        <cell>with Tripoli</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 10, 1796.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard O'Brien</cell>
+                        <cell>Apptd Oct. 8, 1796 by Joel Barlow (on absence of Donaldson) to
+                            conclude treaty with Tripoli</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Capt. Joseph Ingram</cell>
+                        <cell>Charged by Richard O'Brien on Nov. 4, 1796 with affairs of the U.S. at
+                            Tripoli until a Consul is apptd</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm. Shaler, Consul to Algiers</cell>
+                        <cell>Commissioners to treat with</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Commodore Chauncey U.S.N.</cell>
+                        <cell>Algiers 1816.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Handy</cell>
+                        <cell>Secretary to the Commission</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

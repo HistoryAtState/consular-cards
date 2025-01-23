@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2190" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dijon, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2189" type="prev"/>
+                <relatedItem target="c2191" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2190f1">
+                <graphic height="3632px" url="02920.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dijon, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02920</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2190">
+        <body>
+            <div corresp="#c2190f1">
+                <head>Dijon, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. L. Meyer</cell>
+                        <cell>Con. Agh. Us.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 29, 1891</cell>
+                        <cell>Nom. withdrawn by Consul <lb/> Never entered on duty, <lb/> to Sept.
+                            7, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lucien Bargy</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Fr.</cell>
+                        <cell/>
+                        <cell>Aug. 18, 1891</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Bourette</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 8, 1896</cell>
+                        <cell>Died?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Laurean</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 30, 1900.</cell>
+                        <cell>Died May 7, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nicolas Chapuje (m)</cell>
+                        <cell>" "</cell>
+                        <cell>U.S. Fr.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>July 10, 1906.</cell>
+                        <cell>Died at Dijon Nov. 12, 1918</cell>
+                    </row>
+                </table>
+                <p>Agency closed Jan. 14, 1918 Sufile 125.55981/33</p>
+            </div>
+        </body>
+    </text>
+</TEI>

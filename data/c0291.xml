@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0291" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Irkutsk, Siberia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0290" type="prev"/>
+                <relatedItem target="c0292" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0291f1">
+                <graphic height="3632px" url="00406.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Irkutsk, Siberia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00406</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0291f2">
+                <graphic height="3632px" url="00407.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Irkutsk, Siberia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00407</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0291">
+        <body>
+            <div corresp="#c0291f1"/>
+            <div corresp="#c0291f2">
+                <head>Irkutsk, Siberia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest L. Harris</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1918</cell>
+                        <cell>Appt'd Consul Class 6 Sept. 5, 1919. <lb/> Detailed to Irkutsk;
+                            arriving Oct. 28, 1918 <lb/> on that day relinquished charge of <lb/>
+                            the office to Consul General Ernest L. Harris; appt'd Consul Class 6
+                            Sept. 5, 1919. <lb/> Dated Mar. 14, 1919; accepted by tel. dated
+                            2/17/19</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred R. Thomson</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 28, 1918</cell>
+                        <cell>Reported in a despatch dated Oct. 28, 1918, that he had on that day
+                            relinquished charge of the office to Consul General Ernest L. Harris;
+                            appt'd Consul Class 6 Sept. 5, 1919. <lb/> Dated Mar. 14, 1919; accepted
+                            by tel. dated 2/17/19</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Embry</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 1, 1918</cell>
+                        <cell>Lately at Vladivostok was detailed to Irkutsk Nov. 1, 1918; resigned
+                            in tel. dated Mar. 14, 1919; accepted by tel. dated 2/17/19</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

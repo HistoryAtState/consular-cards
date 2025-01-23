@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3143" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Montreal, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3142" type="prev"/>
+                <relatedItem target="c3144" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3143f1">
+                <graphic height="3626px" url="04131.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Montreal, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04131</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3143">
+        <body>
+            <div corresp="#c3143f1">
+                <head>MONTREAL, Quebec, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Genoa</cell>
+                        <cell>Mrs. Sara M. MacDonell</cell>
+                        <cell>FSR</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>Oct. 29, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. Consul Munich</cell>
+                        <cell>Miss Dorothy J. Dugan</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>June 24, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arvid G. Holm</cell>
+                        <cell>FSS</cell>
+                        <cell>Cons. Aug. 19, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard H. Hawkins, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>1 Gen.</cell>
+                        <cell>Apr. 25, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Ancel N. Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Belize, Br. Hond</cell>
+                        <cell>Harrison W. Burgess</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Con.</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>Ancel M. Taylor</cell>
+                        <cell>FSS</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Termination of limited appt + retirement 10131-65</p>
+                <p><unclear>Res'd</unclear> as FSO only 8-13-66. Continues to serve as Consul</p>
+            </div>
+        </body>
+    </text>
+</TEI>

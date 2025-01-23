@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1993" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Buenos Ayres, Chile- Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1992" type="prev"/>
+                <relatedItem target="c1994" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1993f1">
+                <graphic height="3628px" url="02672.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenos Ayres, Chile- Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1811</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02672</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1993">
+        <body>
+            <div corresp="#c1993f1">
+                <head>Buenos Ayres, Chile and Peru (Span. Provinces)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joel Roberts Poinsett</cell>
+                        <cell>On. Gen. U.S.</cell>
+                        <cell/>
+                        <cell>Charleston</cell>
+                        <cell>So. Car.</cell>
+                        <cell>Apr. 30, 1811 recess <lb/> Nov. 26, 1811 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Left Buenos Aires for Chile Dec. 18, 1811. Reached Santiago Dec. 26, 1811; there
+                    until Apr. 1814?</p>
+                <p>In Buenos Aires June, 1814; left for U.S. before Feb. 11, 1816.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

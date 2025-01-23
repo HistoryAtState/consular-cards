@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2610" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bridgetown, Barbados</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2609" type="prev"/>
+                <relatedItem target="c2611" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2610f1">
+                <graphic height="3602px" url="03467.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bridgetown, Barbados</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03467</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2610">
+        <body>
+            <div corresp="#c2610f1">
+                <head>BRIDGETOWN, BARBADOS</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>William E. Ryerson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell>Also 3d Sec., 11-30-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mrs. Sarah G. Fisher</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General at Bridgetown was elevated to Embassy status Nov. 30, 1966.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

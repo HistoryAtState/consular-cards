@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0873" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ruatan, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0872" type="prev"/>
+                <relatedItem target="c0874" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0873f1">
+                <graphic height="3646px" url="01173.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ruatan, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1895</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01173</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0873">
+        <body>
+            <div corresp="#c0873f1">
+                <head>Ruatan, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene Jarnigan</cell>
+                        <cell>(<unclear>toresideat</unclear>
+                            <lb/> Utilla) Consul U.S.</cell>
+                        <cell/>
+                        <cell>So Car.</cell>
+                        <cell>Feb. 2, 1895</cell>
+                        <cell>Conf</cell>
+                        <cell>Apr. 1, 1895 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>See Consular Agenteard Agency ordered Closed Feb. 28, 1920.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Closed Mar. 31, 1920.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

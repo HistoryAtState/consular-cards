@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0587" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mersine, Turkey-Asia Minor</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0586" type="prev"/>
+                <relatedItem target="c0588" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0587f1">
+                <graphic height="3636px" url="00796.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mersine, Turkey-Asia Minor</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00796</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0587">
+        <body>
+            <div corresp="#c0587f1">
+                <head>Marsine, Turkey. (Asia Minor)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Jamestown</cell>
+                        <cell>Robert P. Pooley (n)</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>"</cell>
+                        <cell>St. Helena N.Y.</cell>
+                        <cell>June 10, 1908</cell>
+                        <cell>recess</cell>
+                        <cell>Declined to advanced age. <lb/> Did not go to Mersine</cell>
+                    </row>
+                    <row>
+                        <cell>St. Helena</cell>
+                        <cell>A. Donaldson Smith</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Phila, Pa.</cell>
+                        <cell>N.C. Mar. 3, 1909</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd Consul, Patras May 7, 1909. <lb/> May 5, 1909 to <lb/> see
+                            below</cell>
+                    </row>
+                    <row>
+                        <cell>Patras</cell>
+                        <cell>Edward J. Nathan</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa. May 4, 1909</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>see <lb/> above</cell>
+                        <cell>Edward J. Nathan</cell>
+                        <cell>Con. 7</cell>
+                        <cell>3/3/1915</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Continued under appt <lb/> of May 4, 1909</cell>
+                        <cell>Assigned to Vigo Dec. 8, 1917</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6244" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hungary</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6243" type="prev"/>
+                <relatedItem target="c6245" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6244f1">
+                <graphic height="3628px" url="08235.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hungary</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="9.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08235</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6244">
+        <body>
+            <div corresp="#c6244f1">
+                <head>HUNGARY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Counselor of Ent.<lb/>oor Bal. offers<lb/>London</cell>
+                        <cell>Elim O'Shaughnessy</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Nov. 8, 1964</cell>
+                        <cell>also sep. Chief of Mission</cell>
+                        <cell><unclear>lied</unclear> 9-24-66</cell>
+                    </row>
+                    <row>
+                        <cell>Budapest</cell>
+                        <cell>Leon A. Shelnutt</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Jan. 17, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec. FSR assigned to the<lb/>Dept., 10-24-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Budayant</cell>
+                        <cell>Kenneth C. Keller</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec. Also V.C. To Berlin<lb/>as Political
+                            officer,<lb/>12-19-65</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Theodore C. Nelson</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>June 6, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Harry J. Gilmore</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 5, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V. C. Desig. 2d<lb/>Sec. Budapest 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>J. Theodore Papendorp</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>July 5, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons. Designated<lb/>1st Sec., Budapest, 5=13-66</cell>
+                    </row>
+                    <row>
+                        <cell>Budapest</cell>
+                        <cell>Harry J. Gilmore</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Budapest</cell>
+                        <cell>J. Theodore Papendorp</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec. Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard E. Scutt</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Buda-<lb/>pest</cell>
+                        <cell>Richard W. Tims</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Nov. 28, 1966</cell>
+                        <cell>Raised from Legation to Embassy eff. Nov. 28, 1966.</cell>
+                        <cell>Couns.<lb/>of Emb.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

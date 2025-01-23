@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0691" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nelson, British Columbia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0690" type="prev"/>
+                <relatedItem target="c0692" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0691f1">
+                <graphic height="3630px" url="00943.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nelson, British Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00943</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0691">
+        <body>
+            <div corresp="#c0691f1">
+                <head>Nelson, British Columbia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Knibbe</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. Feb. 5, 1900.</cell>
+                        <cell>Resigned Feb. 5, 1901<lb/>(under charges?)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emmett C. Brown</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Md. Mar. 26, 1901.</cell>
+                        <cell>Resigned in U.S. Aug. 4, 1902<lb/>to take effect July 1, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter S. Riblet</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Wash. Aug. 19, 1902.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed May 31, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

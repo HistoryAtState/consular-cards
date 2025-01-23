@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1537" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tarsus and Mersine, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1536" type="prev"/>
+                <relatedItem target="c1538" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1537f1">
+                <graphic height="3630px" url="02049.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tarsus and Mersine, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1877</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02049</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1537f2">
+                <graphic height="3630px" url="02050.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tarsus and Mersine, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02050</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1537">
+        <body>
+            <div corresp="#c1537f1">
+                <head>Tarsus and Mersine, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abdo Debbas</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 20, 1877.</cell>
+                        <cell>Appt. withdrawn <lb/> July 3, 1882.</cell>
+                    </row>
+                </table>
+                <p>Cover)</p>
+            </div>
+            <div corresp="#c1537f2">
+                <head>Tarsus &amp; Mersine, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>Abdo Debbas, tety Agent</cell>
+                        <cell>Aug. 1862 to Fell. 1872 ?</cell>
+                    </row>
+                    <row>
+                        <cell>Rev. Lucian A. Adams " " </cell>
+                        <cell>Feb. 1872 to still in Jan. 1874.</cell>
+                    </row>
+                    <row>
+                        <cell>Debbas name sent by G. at Beirut as Agt. in Mar. 1874 - still in Aug.
+                            1075</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Mr. E. Avania, V. C. of Netherlands in chgy, </cell>
+                        <cell>July 1882 to still June 1884,</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2476" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Garrucha, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2475" type="prev"/>
+                <relatedItem target="c2477" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2476f1">
+                <graphic height="3628px" url="03292.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Garrucha, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1876</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03292</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2476f2">
+                <graphic height="3628px" url="03293.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Garrucha, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03293</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2476">
+        <body>
+            <div corresp="#c2476f1">
+                <head>Garrucha, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Enrique Cabrut</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1876 recess<lb/>Feb. 22, 1877 Conf.</cell>
+                        <cell>to 1885</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Enrique Calvet</cell>
+                        <cell>Comil Agh.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 1, 1877</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José Garcia Suesa</cell>
+                        <cell>" " Spain</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1893.</cell>
+                        <cell>Resigned Mar. 1896?<lb/>Cegir cancelled by war 4/21/1898</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Oct. 18, 1899.</p>
+            </div>
+            <div corresp="#c2476f2">
+                <head>Garnacha, Spain.</head>
+                <p>Enrique Calvet absent since 1886. (Rosay, Surea in his application Oct. 21,
+                    1892)</p>
+                <p>Suesa in charge — 18855</p>
+            </div>
+        </body>
+    </text>
+</TEI>

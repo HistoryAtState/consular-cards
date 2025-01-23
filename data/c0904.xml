@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0904" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Bartholomew</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0903" type="prev"/>
+                <relatedItem target="c0905" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0904f1">
+                <graphic height="3642px" url="01212.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Bartholomew</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1797</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01212</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0904">
+        <body>
+            <div corresp="#c0904f1">
+                <head>St. Bartholomew, (Island)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Job Wall</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>R.I.</cell>
+                        <cell>June 26, 1877 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Isaac Prince</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 21, 1803 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Israel</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Mar. 21, 1809 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nathaniel W. Strong</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 16, 1813 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Ficklin</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>Apr. 26, 1816 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joshua Norvell</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>Feb. 7, 1821 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Monroe Harrison</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Jan. 2, 1822 Conf</cell>
+                        <cell>Appt'd Cons. at St. Christopher <lb/> Antigua Mar. 3, 1823.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugh Steele</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Del.</cell>
+                        <cell>July 11, 1823 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>antigua</cell>
+                        <cell>Robert Monroe Harrison</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Mar. 3, 1827 Conf</cell>
+                        <cell>Appt'd Consul at Kingston, <lb/> Jamaica Feb. 3, 1831. <lb/> Rec'd
+                            comm'n same date. (?)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Crump</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Mar. 2, 1831 Conf</cell>
+                        <cell>Declined ?</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Burton Dinzey</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 26, 1860.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Feb. 10, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

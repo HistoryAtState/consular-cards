@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3355" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Osaka and Hiogo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3354" type="prev"/>
+                <relatedItem target="c3356" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3355f1">
+                <graphic height="3624px" url="04395.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Osaka and Hiogo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1886</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04395</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3355">
+        <body>
+            <div corresp="#c3355f1">
+                <head>Osaka and Hiogo, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. J. A. Neinstead</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 10, 1886</cell>
+                        <cell>Pres. <lb/> alone</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Ebiharah</cell>
+                        <cell/>
+                        <cell>Japan</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1887</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George F. Smithers</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1895</cell>
+                        <cell>Resigned Aug. 1, 1895.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hunter Sharp</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.C.</cell>
+                        <cell>Apr. 25, 1900</cell>
+                        <cell>Changed to Kobe July 1, 1902</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

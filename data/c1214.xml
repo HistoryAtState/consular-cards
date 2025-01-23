@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1214" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cardiff, Wales</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1213" type="prev"/>
+                <relatedItem target="c1215" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1214f1">
+                <graphic height="3642px" url="01616.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cardiff, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01616</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1214">
+        <body>
+            <div corresp="#c1214f1">
+                <head>Cardiff, Wales</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Southampton</cell>
+                        <cell>Samuel S. Ebling</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Ohio</cell>
+                        <cell>June 23, 1950</cell>
+                        <cell>Separation eff. CoB 9-30-51</cell>
+                    </row>
+                    <row>
+                        <cell>Ld sed</cell>
+                        <cell>Chester B. Beaman</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Ind.</cell>
+                        <cell>Sept. 27, 1954</cell>
+                        <cell>FSO to dept. as F-1-15-56</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell><unclear>nel</unclear> m. Ruge</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Calif.</cell>
+                        <cell>Feb. 25, 1956</cell>
+                        <cell>FSO assigned to the Dept. 2/23/58</cell>
+                    </row>
+                    <row>
+                        <cell>Consul Warsaw</cell>
+                        <cell>Walter S. Walcavich</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>April 21, 1958</cell>
+                        <cell>To Frankfurt am Main as Consul, 9-3-62.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Cardiff 1st Sed!</cell>
+                        <cell>Stanley P. Harris</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Feb. 2, 1961</cell>
+                        <cell>FSO assigned to the Dept. of Commerce, 12-24-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Mrs. Magdalen M. H. Flexner</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>August 20, 1962</cell>
+                        <cell>To London as Assistant Cultural Affairs officer, 9-1-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>August 30, 1963</cell>
+                        <cell>Consulate Closed to the public</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

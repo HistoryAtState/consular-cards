@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3537" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Portuguese Timor-Colony of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3536" type="prev"/>
+                <relatedItem target="c3538" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3537f1">
+                <graphic height="3628px" url="04626.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Portuguese Timor-Colony of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04626</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3537">
+        <body>
+            <div corresp="#c3537f1">
+                <head>Portuguese Colony of Timor (as of August 1956)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Blattner</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 4, 1952</cell>
+                        <cell>also V.C. Surabaya.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William M. Decker</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 28, 1952</cell>
+                        <cell>also V.C. Surabaya, 755 Officer, assigned to Dept. 6-7-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert A. Bishton</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 15, 1954</cell>
+                        <cell>Also V.C. at Surabaya, Colony of Timor, July 8, 1955.</cell>
+                    </row>
+                    <row>
+                        <cell>Djakarta</cell>
+                        <cell>Frederick A. Allner, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 5, 1956</cell>
+                        <cell>Also V.C. Surabaya, 755 Officer assigned to the Dept. 7-29-56.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0591" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Messina, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0590" type="prev"/>
+                <relatedItem target="c0592" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0591f1">
+                <graphic height="3644px" url="00802.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Messina, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00802</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0591">
+        <body>
+            <div corresp="#c0591f1">
+                <head>Messina, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Marseille</cell>
+                        <cell>Alexander. Cruger</cell>
+                        <cell>V.C, de <lb/>carriere</cell>
+                        <cell>3</cell>
+                        <cell>19/26/1921</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 19,1923.</cell>
+                        <cell>Aspty F.S. O., Unclassified July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Milan</cell>
+                        <cell>Harry L Troutman</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>26/1923.</cell>
+                        <cell>Ga.</cell>
+                        <cell>July 21,1923.</cell>
+                        <cell>Assigned to Budapest Dec. 18. 1923.</cell>
+                    </row>
+                </table>
+                <p>See <lb/>above</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>Alexander Cruger</cell>
+                        <cell>SBQ Une.</cell>
+                        <cell>7/1/1924R.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Continued under assignment of July 19, 1923.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lawrence S. Armstrong</cell>
+                        <cell>Do</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Mich.</cell>
+                        <cell>Sept. 7, 1926.</cell>
+                        <cell>Assigned to Antwerp Dec 12, 1928.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed June 30, 1934</p>
+            </div>
+        </body>
+    </text>
+</TEI>

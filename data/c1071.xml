@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1071" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Sarnia, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1070" type="prev"/>
+                <relatedItem target="c1072" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1071f1">
+                <graphic height="3632px" url="01427.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Sarnia, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01427</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1071">
+        <body>
+            <div corresp="#c1071f1">
+                <head>Port Larnia, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>S.B. Hance</cell>
+                        <cell>Consul US.</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>Oct. 14, 1864 recess</cell>
+                        <cell>Jan. 16, 1865 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John L. Near</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Jan. 16, 1865 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew W. Duggan</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Sept. 29, 1866 Conf</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel D. Pace</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Mar. 2, 1867 recess</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Hill</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Apr. 19, 1869 Conf. suspended Oct. 21, 1885, to Nov. 25, 1885,</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Judson S. Farrar</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>July 3, 1886 Conf</cell>
+                        <cell>Oct. 21, 1885 recess Nov. 25, 1885 to Apr. 1, 1887,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel D. Pace</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Feb. 22, 1887 Conf.</cell>
+                        <cell>Apr. 1, 1887 to July 1, 1890</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur M. Clark</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>May 16, 1890 Conf</cell>
+                        <cell>July 1, 1890 to Nov. 1, 1893,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Neal McMillan</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Sept. 28, 1893 Conf.</cell>
+                        <cell>Nov. 1, 1893 to Feb. 28, 1898</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>" Sarnia"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Jan. 10, 1898 Conf</cell>
+                        <cell>Mar. 1, 1898 to Aug 31, 1909</cell>
+                        <cell>superseded by Slater.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

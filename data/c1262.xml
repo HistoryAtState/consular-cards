@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1262" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ceuta, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1261" type="prev"/>
+                <relatedItem target="c1263" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1262f1">
+                <graphic height="3644px" url="01678.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ceuta, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01678</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1262">
+        <body>
+            <div corresp="#c1262f1">
+                <head>Ceuta, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>Ellich Doniger</cell>
+                        <cell>Vice Con, U.S.</cell>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 24, 1944</cell>
+                        <cell>also 7. C. Jangur</cell>
+                    </row>
+                </table>
+                <p>* noh paid by Dept. of State</p>
+            </div>
+        </body>
+    </text>
+</TEI>

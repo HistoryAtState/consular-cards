@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5762" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belgium</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5761" type="prev"/>
+                <relatedItem target="c5763" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5762f1">
+                <graphic height="3632px" url="07534.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belgium</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07534</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5762">
+        <body>
+            <div corresp="#c5762f1">
+                <head>Belgium.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>August Henry Sneyers</cell>
+                        <cell>Clerk</cell>
+                        <cell><unclear>Data re clerks prior to 1878 moblamable</unclear></cell>
+                        <cell>Belg. Belg.</cell>
+                        <cell>1878</cell>
+                        <cell>Died July 12, 1912</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel L. Blount</cell>
+                        <cell>"</cell>
+                        <cell>Mo. Mo.</cell>
+                        <cell>Apr. 1, 1910</cell>
+                        <cell>Resigned Apr. 7, 1911.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raymond U. Light</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Dee. Wisc.</unclear></cell>
+                        <cell>Mar. 1, 1911</cell>
+                        <cell>Resigned June 1, 1913</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Pendleton Oruger</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Dex. N.Y.</unclear></cell>
+                        <cell>June 1, 1913</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

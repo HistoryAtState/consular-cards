@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0378" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>la Ceiba, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0377" type="prev"/>
+                <relatedItem target="c0379" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0378f1">
+                <graphic height="3602px" url="00515.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Ceiba, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00515</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0378f2">
+                <graphic height="3602px" url="00516.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>la Ceiba, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00516</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0378">
+        <body>
+            <div corresp="#c0378f1">
+                <head>La Ceiba, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>See<lb/>card #1</cell>
+                        <cell>George P. Waller</cell>
+                        <cell>FS0.</cell>
+                        <cell>8</cell>
+                        <cell>7/1/1924 R. Consul<lb/>12-19-23,</cell>
+                        <cell>Ala.</cell>
+                        <cell>Continued under assign-<lb/>ment of Dec. 22, 1923. assigned to Dresden
+                            Apr. 22, 26<lb/>Jan. 7, 1927 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Inspector</cell>
+                        <cell>James B. Stewart</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>8/31/1925 R. Consul<lb/>12/17/25 C. 9-14-17</cell>
+                        <cell>N. Mex.</cell>
+                        <cell>Dec. 21, 1926. Resumed detail as Inspector about<lb/>Mar. 23, 1927
+                            to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>detail<lb/>Callao-Lima</cell>
+                        <cell>Nelson R. Park</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>6/2/1926 Consul<lb/>6-15-26</cell>
+                        <cell>Colo.</cell>
+                        <cell>Feb. 12, 1927. Appt'd F.S.O. class 7, Dec. 19, 1929</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class</cell>
+                        <cell>Nelson R. Park</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>12/19/1929<lb/>eff.</cell>
+                        <cell>Colo.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Dorreon, Sept. 18, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Panama</cell>
+                        <cell>Edward B. Rand</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>6-1-34 1-22-35</cell>
+                        <cell>La.</cell>
+                        <cell>June 10, 1939</cell>
+                        <cell>Ass'd. to Panama, Aug. 19, 1939<lb/>(Jenny Detail)</cell>
+                    </row>
+                    <row>
+                        <cell>Igucigalpa</cell>
+                        <cell>John B. Hause</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>6-1-42 1-22-35 C. S. C.</cell>
+                        <cell/>
+                        <cell>Mar. 5, 1945.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate officially closed October 30, 1978</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0378f2"/>
+        </body>
+    </text>
+</TEI>

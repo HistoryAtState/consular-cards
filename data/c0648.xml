@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0648" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Sultanate of Muscat and Oman</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0647" type="prev"/>
+                <relatedItem target="c0649" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0648f1">
+                <graphic height="3634px" url="00880.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>The Sultanate of Muscat and Oman</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1958</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00880</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0648">
+        <body>
+            <div corresp="#c0648f1">
+                <head>Muscat and Oman</head>
+                <head>The Sultanate of Muscat and Oman</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Lang. +Area Trainee Beirut</cell>
+                        <cell>William sl. Wolle</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>Dec. 20, 1958 (comm. dated 8-7-60)</cell>
+                        <cell/>
+                        <cell>Also Consul Aden to Jidda as Cons. +ed Sec. 10-19-59</cell>
+                    </row>
+                    <row>
+                        <cell>A Hache</cell>
+                        <cell>William A. Stoltyfuss Jr</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>Aug. 10, 1959</cell>
+                        <cell/>
+                        <cell>Also Consul, Aden</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut/FSI</cell>
+                        <cell>John T. Wheelock</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Aug. 6, 1962</cell>
+                        <cell/>
+                        <cell>Also Consul for Aden. 750 assigned in the Dept. 8-29-65! Also Cons.
+                            aden &amp; Sultanate of muscat + Oman, 10-30-65. Cons Gen Designated
+                            Also Consul General, Aden.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Curtis F. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Aden</cell>
+                        <cell>Curtis F. Jones</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Gen.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

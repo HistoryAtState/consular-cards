@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5710" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jogjakarta, Indonesia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5709" type="prev"/>
+                <relatedItem target="c5711" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5710f1">
+                <graphic height="3038px" url="07461.tif" width="4798px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jogjakarta, Indonesia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07461</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5710">
+        <body>
+            <div corresp="#c5710f1">
+                <head>Jogjakarta, Java</head>
+                <p>See tel. 421 from Batovis</p>
+                <p>1949</p>
+            </div>
+        </body>
+    </text>
+</TEI>

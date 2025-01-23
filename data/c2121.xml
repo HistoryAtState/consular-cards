@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2121" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cornwall, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2120" type="prev"/>
+                <relatedItem target="c2122" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2121f1">
+                <graphic height="3640px" url="02832.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cornwall, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1901</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02832</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2121f2">
+                <graphic height="3640px" url="02833.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cornwall, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02833</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2121">
+        <body>
+            <div corresp="#c2121f1">
+                <head>Cornwall, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Mgeris-<lb/>thuy</cell>
+                        <cell>John E. Hamilton</cell>
+                        <cell>Com'l Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ky.</cell>
+                        <cell>"</cell>
+                        <cell>July 1, 1901.</cell>
+                        <cell>to Aug. 6, 1909.<lb/>Conf. superseded by Damm,<lb/>Aug. 7, 1909 to
+                            Apr. 22, 1912.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John E. Hamilton</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 22, 1906</cell>
+                        <cell>Appt'd Consul Stettin Apr. 9, 1912</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry C. A. Damm</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Wise, Tenn.</cell>
+                        <cell>"</cell>
+                        <cell>May 31, 1909</cell>
+                        <cell>see below</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Giles R. Taggart</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Clarksboro,<lb/>N.J.</cell>
+                        <cell>N.J.</cell>
+                        <cell>Mar. 13, 1912</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt. to Class.</cell>
+                        <cell>By Act of</cell>
+                        <cell>N.J.</cell>
+                        <cell>Date of assignment.</cell>
+                    </row>
+                    <row>
+                        <cell>Con.</cell>
+                        <cell>9</cell>
+                        <cell>2/5/1915</cell>
+                        <cell>N.J.</cell>
+                        <cell>Continued under appt<lb/>to Oct. 19, 1917<lb/>Argentine, Port William
+                            and<lb/>Fort Arthur Sept. 5, 1917.<lb/>Oct. 19, 1917 to<lb/>Resigned
+                            effective Sept. 15, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>8</cell>
+                        <cell>2/5/1915</cell>
+                        <cell>N.Y. &amp; Dak.</cell>
+                        <cell>Sept. 5, 1917.</cell>
+                    </row>
+                </table>
+                <p>Consulate ordered closed Sept. 5, 1923. Closed Sept. 15, 1923.</p>
+            </div>
+            <div corresp="#c2121f2">
+                <head>Cornwall, Ontario, Canada</head>
+                <p>James H. Hoodier, Consul Cl.S, lately on detail, Charlottetown, was detailed to
+                    Cornwall, as Consul in charge June 28, 1921, <unclear>ye</unclear> illness of
+                    Consul Edwards, Resignation accepted effective Feb. 19, 1922, the date of
+                    expiration of leave of absence.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

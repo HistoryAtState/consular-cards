@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3512" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Porto Alegre, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3511" type="prev"/>
+                <relatedItem target="c3513" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3512f1">
+                <graphic height="3718px" url="04595.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Porto Alegre, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04595</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3512">
+        <body>
+            <div corresp="#c3512f1">
+                <head>PORTO ALEGRE, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>W. Douglas McLain, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 9, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Whistler</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Mar. 10, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rio de Janeiro</cell>
+                        <cell>Townsend B. Friedman, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 28, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert F. Gillin</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wayde C. Stoker</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Designated Consul Porto alegre 4-13-64.</p>
+                <p>FSR officer, assigned to the Dept, 7-17-66.</p>
+                <p>FSO assigned to the Dept, 6-6-65.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2278" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grao, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2277" type="prev"/>
+                <relatedItem target="c2279" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2278f1">
+                <graphic height="3628px" url="03036.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Grao, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03036</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2278f2">
+                <graphic height="3628px" url="03037.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Grao, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03037</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2278">
+        <body>
+            <div corresp="#c2278f1">
+                <head>Grao, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Loewenstein</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 20, 1871</cell>
+                        <cell>To Valencia Dec. 9, 1874.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolphe Loewenstein</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 9, 1874</cell>
+                        <cell>Nov. 27, 1876 to <lb/> Died Sept. 5, 1884.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Loewenstein</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 18, 1876.</cell>
+                        <cell>Sept. 1884 to Mar. 1, 1889, <lb/> Resigned to date Dec. 31,
+                            1888.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolpho Loewenstein (son)</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 3, 1884.</cell>
+                        <cell>Mar. 1, 1889 to Aug. 25, 1899 <lb/> War declared Apr. 21, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodor Mertens (n)</cell>
+                        <cell>" "</cell>
+                        <cell>US. Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 21, 1889.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2278f2">
+                <head>Grao, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell/>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>A. Mukle</cell>
+                        <cell>Acty in charge (2/2 mos?)</cell>
+                        <cell>(absence of Agent)</cell>
+                        <cell>July &amp; August (7) 1891</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>C. Nirtter</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 1895 to (short time)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Carl Bohlmann</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 1896 to Aug? 1896.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

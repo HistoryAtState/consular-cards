@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0615" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Moncton, New Brunswick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0614" type="prev"/>
+                <relatedItem target="c0616" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0615f1">
+                <graphic height="3618px" url="00832.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Moncton, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00832</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0615">
+        <body>
+            <div corresp="#c0615f1">
+                <head>Moncton, New Brunswick</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS.</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK.</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Havre</cell>
+                        <cell>Edwin Carl Kemp</cell>
+                        <cell>2.8.0.</cell>
+                        <cell>4</cell>
+                        <cell>7/24/1930R<lb/>12/16/1930C</cell>
+                        <cell>Consul<lb/>4-24-14</cell>
+                        <cell>I'la.</cell>
+                        <cell>July 18, 1933</cell>
+                        <cell>apptd a cou. Gen. assigned<lb/>to Winnipeg, July 22, 1935.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed Dec. 31, 1936. Archives to St. John, N. B.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

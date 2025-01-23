@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3930" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sarajevo, Yugoslavia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3929" type="prev"/>
+                <relatedItem target="c3931" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3930f1">
+                <graphic height="3602px" url="05123.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sarajevo, Yugoslavia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05123</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3930f2">
+                <graphic height="3602px" url="05124.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sarajevo, Yugoslavia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05124</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3930">
+        <body>
+            <div corresp="#c3930f1">
+                <head>Sarajevo, Yugoslavia, for the Peoples Republics of Bosnia-Herzegovina and
+                    Montenegro</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consult 2d Sec. Belgrade</cell>
+                        <cell>Stephen E. Palmer, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>March 9, 1954</cell>
+                        <cell>750 assigned to Dept. 5-17-59.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Sec. Belgrade</cell>
+                        <cell>Nicholas G. Andrews</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>March 9, 1959</cell>
+                        <cell>FSO assigned to the Dept. 12-24-61.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Belgrade</cell>
+                        <cell>Charles R. Stout</cell>
+                        <cell>450</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Aug. 5, 1961</cell>
+                        <cell>750 assigned to the Dept. 10-04-62.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Belgrade</cell>
+                        <cell>Robert G. Shockleton</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 9, 1962</cell>
+                        <cell>To Munich as Consul 2-4-63.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to the public July 31, 1963.</p>
+            </div>
+            <div corresp="#c3930f2">
+                <head>Sarajevo Officially opened April 23, 1937 per Mr. Miller EE</head>
+            </div>
+        </body>
+    </text>
+</TEI>

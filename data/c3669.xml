@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3669" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belfast, Northern Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3668" type="prev"/>
+                <relatedItem target="c3670" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3669f1">
+                <graphic height="3618px" url="04798.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belfast, Northern Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04798</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3669">
+        <body>
+            <div corresp="#c3669f1">
+                <head>BELFAST, NORTHERN IRELAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Eugene A. Luebker</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>June 29, 1957</cell>
+                        <cell>Resignation eff. co. 5-18-59.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard W. Faville, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 6, 1959</cell>
+                        <cell>to Paris as V.Cs+ 3d Sec., 10-2-61.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

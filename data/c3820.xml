@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3820" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Saint Pierre, Miguelon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3819" type="prev"/>
+                <relatedItem target="c3821" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3820f1">
+                <graphic height="3644px" url="04984.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Saint Pierre, Miguelon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04984</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3820">
+        <body>
+            <div corresp="#c3820f1">
+                <head>Saint Pierre Miquelon</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Aguas. <lb/>Calientes</cell>
+                        <cell>George K. Donald</cell>
+                        <cell>Con. 7</cell>
+                        <cell>416/1917</cell>
+                        <cell>Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>Aug. 31, 1918.</cell>
+                        <cell>Did not go to St. Pierre <lb/>Detailed to Sydney Sept. 23, 1918.
+                            <lb/>Office ordered closed Jan. 17, 1919. Closed Feb. 18, 1919.
+                            <lb/>Consulate officially reopened Feb. 21, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Halifax</cell>
+                        <cell>Joseph P. Ragland <lb/>class 8 Joseph P. Ragland</cell>
+                        <cell>S.D. 8</cell>
+                        <cell>2/4/1931C <lb/>1011/1935R</cell>
+                        <cell>2-4-31</cell>
+                        <cell>D.C.</cell>
+                        <cell>Sept. 3, 1935</cell>
+                        <cell>Apptd. T.S.O., el. 7, Oct. 1, 1935. <lb/>Ass'd. to Halifax, Dec. 14,
+                            1935.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C., Paint <lb/>Cierno-Miijilon</cell>
+                        <cell>Maurice Pasquet</cell>
+                        <cell>F.P.O. 8</cell>
+                        <cell>8-30-38 <lb/>8-17-38 R <lb/>8-20-39C</cell>
+                        <cell>10-5-40</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 16, 1940.</cell>
+                        <cell>To Rabat-Con.-10-11-43.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate Closed December 15, 1943</cell>
+                    </row>
+                </table>
+                <p>Saint Pierre and Miquelon, (French Overseas Territory of)</p>
+                <table>
+                    <row role="label">
+                        <cell>Consul <lb/>(FSS)</cell>
+                        <cell>Montreal Carroll C. Parry</cell>
+                        <cell>FSS 2</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1958</cell>
+                        <cell>Also Consul Halifax <lb/>assigned only as Cons. (FSS), Halifax,
+                            <lb/>as of 5-15-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Montreal Paul T. Meyer</cell>
+                        <cell>FSO 2</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1957</cell>
+                        <cell>Also Cons. Gen. Halifax <lb/>assigned only as Consul, Halifax <lb/>as
+                            of 5-15-61.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

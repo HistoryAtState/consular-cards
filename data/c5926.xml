@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5926" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nanking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5925" type="prev"/>
+                <relatedItem target="c5927" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5926f1">
+                <graphic height="3624px" url="07765.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nanking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07765</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5926f2">
+                <graphic height="3624px" url="07766.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nanking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1937</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07766</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5926">
+        <body>
+            <div corresp="#c5926f1"/>
+            <div corresp="#c5926f2">
+                <head>Hanking</head>
+                <p>John M. Allison, regularly Consul at Tsingtao detailed, as 3<sup>rd</sup> Secy of
+                    Embassy at Hanking, Sept. 8, 1937.</p>
+                <p>Willys R. Peck detailed to Sept. State temp. May 9, 1938.</p>
+                <p>Everett J. Drumright detailed to Sept. State, temp., Dec. 2, 1939.</p>
+                <p>T. Eliot Weil, detailed temp. to Dept. State, for 30 days, beginning July 17,
+                    1940.</p>
+                <p>Oliver Edmund Club detailed to Dept. State temp., Dec. 19, 1940.</p>
+                <p>Willys R. Peck, Consul of Embassy at Chungking temporarily detailed to Dept.
+                    State on about January 3, 1941.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

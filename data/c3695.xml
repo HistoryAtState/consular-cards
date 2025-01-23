@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3695" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belo Horizonte, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3694" type="prev"/>
+                <relatedItem target="c3696" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3695f1">
+                <graphic height="3632px" url="04830.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belo Horizonte, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04830</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3695">
+        <body>
+            <div corresp="#c3695f1">
+                <head>Belo Horizonte, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>acty Consular<lb/>agt</cell>
+                        <cell>William Vollmuch</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 17, 1953</cell>
+                        <cell><unclear>DA MAILING</unclear><lb/><unclear>NOTICE</unclear>
+                            7-30-52<lb/>Resigned off. Oct 10-23-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob M. Krulfeld</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 21, 1955</cell>
+                        <cell>Services terminates due to<lb/>closing of Consular Agency.<lb/>eff.
+                            Feb. 8-57</cell>
+                    </row>
+                </table>
+                <p>The Consular Agency was officially opened July 7, 1952.</p>
+                <p>Consular Agency closed Feb. 8, 1957.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

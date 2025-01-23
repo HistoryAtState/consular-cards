@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4438" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Algiers, Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4437" type="prev"/>
+                <relatedItem target="c4439" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4438f1">
+                <graphic height="3634px" url="05779.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Algiers, Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05779</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4438">
+        <body>
+            <div corresp="#c4438f1">
+                <head>Algiers, Algeria</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Rotterdam</cell>
+                        <cell>Joseph F. Christiano</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1951</cell>
+                        <cell>Termination Reduction in<lb/>force eff. cos 4-30-53.<lb/>To Istanbul
+                            as asst to Public<lb/>affairs 9-18-52.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Ruth R. Tryon</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 9, 1951</cell>
+                        <cell>Resigned COB 6-17-54.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilson G. Carter</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 18, 1952</cell>
+                        <cell>Designated Cons. Algiers<lb/>8-12-57</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Johannes V. Imhof</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 3, 1956</cell>
+                        <cell>Transferred from 755 to 78R<lb/>5-3-59. 758 Algiers as<lb/>econ. off.
+                            5-3-59.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard D. Willey</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Made 755 3-5-57</cell>
+                        <cell>Feb. 7, 1958</cell>
+                        <cell>Eff. 9-29-62</cell>
+                    </row>
+                </table>
+                <p>Elevated to rank<lb/>of Embassy 9-29-62. ALGIERS, the Democratic and Popular
+                    Republic of Algeria</p>
+            </div>
+        </body>
+    </text>
+</TEI>

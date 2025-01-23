@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5568" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5567" type="prev"/>
+                <relatedItem target="c5569" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5568f1">
+                <graphic height="3622px" url="07260.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07260</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5568">
+        <body>
+            <div corresp="#c5568f1">
+                <head>Istanbul</head>
+                <p>Earle C. Taylor, appld. 8. S. O., ul., July 13, off. July 1, 1939. to remain a of
+                    Istanbul temps. appld. C. of career &amp;gt; Asst. Com'l Attaché; made com'l
+                    attice 11-7-42.)</p>
+                <p>Gardner Richardson 75.0., el. 4, lately at Bucharest, designated Com'l Attaché at
+                    Istanbul, Oct. 9, 1939.</p>
+                <p>Earle C. Taylor 7.5.0.1. 8, 822-41. eff. 8-16-41c, Commercial attache at Ankara,
+                    Nuw. 7 1942. assigned to Dept. 1-10-44</p>
+                <p>Resigned eff. 8-12-44</p>
+            </div>
+        </body>
+    </text>
+</TEI>

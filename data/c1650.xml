@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1650" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tyre, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1649" type="prev"/>
+                <relatedItem target="c1651" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1650f1">
+                <graphic height="3628px" url="02205.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tyre, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02205</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1650f2">
+                <graphic height="3628px" url="02206.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tyre, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1833</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02206</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1650">
+        <body>
+            <div corresp="#c1650f1"/>
+            <div corresp="#c1650f2">
+                <head>Tyre, Syria.</head>
+                <p>Jacoub Akkadd - <unclear/> Agent - Sept. 1833 to Died Feb. 1874.</p>
+                <p>Office abolished</p>
+            </div>
+        </body>
+    </text>
+</TEI>

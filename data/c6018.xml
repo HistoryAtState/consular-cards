@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6018" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>El Salvador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6017" type="prev"/>
+                <relatedItem target="c6019" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6018f1">
+                <graphic height="3626px" url="07884.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>El Salvador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07884</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6018">
+        <body>
+            <div corresp="#c6018f1">
+                <head>EL SALVADOR</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Salis-bury</cell>
+                        <cell>Norman M. Pearson cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Jan. 18, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Nathaniel Wilson, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 1, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell>Designated 2d Sec., San Salvador, 616-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Munich</cell>
+                        <cell>Garrett C. Burke cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Asunción</cell>
+                        <cell>Benjamin R. Moser</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Port-au-Prince</cell>
+                        <cell>Edward Glion Curtis</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell/>
+                        <cell>Couns. Also Consul General. Deputy Chief of Mission.</cell>
+                        <cell>of Emb.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald J. Yellman</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Copenhagen</cell>
+                        <cell>Eiler R. Cook</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Asunción</cell>
+                        <cell>Don C. Jensen</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>July 3, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>San Salvador</cell>
+                        <cell>Nathaniel Wilson, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Yoshio Kiyonaga</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

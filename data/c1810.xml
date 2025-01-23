@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1810" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Christiansand, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1809" type="prev"/>
+                <relatedItem target="c1811" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1810f1">
+                <graphic height="3642px" url="02416.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Christiansand, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1809</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02416</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1810f2">
+                <graphic height="3642px" url="02417.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Christiansand, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02417</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1810">
+        <body>
+            <div corresp="#c1810f1">
+                <head>Christiansand, Norway</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Isaacksen (Henriech)</cell>
+                        <cell>Consul Norway</cell>
+                        <cell/>
+                        <cell>Norway</cell>
+                        <cell>Norway</cell>
+                        <cell>Nov. 1, 1809 recess<lb/>Dec. 21, 1810 Conf.<lb/>Mar. 12, 1821
+                            recess<lb/>Jan. 2, 1822 Conf</cell>
+                        <cell>to May 1821</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Jansonen</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 1821 to</cell>
+                    </row>
+                    <row>
+                        <cell>Bergen</cell>
+                        <cell>Charles Forman</cell>
+                        <cell>Con. 8</cell>
+                        <cell/>
+                        <cell>La. La.</cell>
+                        <cell>Nov. 30, 1917</cell>
+                        <cell>Consulate opened<lb/>Feb. 19, 1918.</cell>
+                        <cell>Assuming Charge Mar. 15, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate closed by Consul in Charge, George N. Ifft, Mar. 31, 1919.
+                            (see over)</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1810f2">
+                <head>Christiansand, Norway.</head>
+                <p>George N. Ifft, lately of Christiania was detailed to Christiansand June 15,
+                    1918; arrived June 29; took charge July 1, 1918; assigned to Bergen Mar. 31,
+                    1919.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

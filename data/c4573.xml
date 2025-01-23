@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4573" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bremen</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4572" type="prev"/>
+                <relatedItem target="c4574" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4573f1">
+                <graphic height="3638px" url="05959.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bremen</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05959</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4573f2">
+                <graphic height="3638px" url="05960.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bremen</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1876</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05960</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4573">
+        <body>
+            <div corresp="#c4573f1">
+                <head>Bremen</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Ghent</cell>
+                        <cell>Fred H. Houck</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Dec. 29, 1925.</cell>
+                        <cell>Did not go to Bremen (appt canceled)<lb/>Remained at Ghent.</cell>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Thomas P. Flack</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Dee.</cell>
+                        <cell>Dee.</cell>
+                        <cell>Mar. 15, 1926.</cell>
+                        <cell>Apptd. V.C. Vienna Aug. 13, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Bremer-<lb/>haven</cell>
+                        <cell>Helmut L. Ripperger</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 12, 1926.</cell>
+                        <cell>Resigned effective<lb/>1927</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell>Malcolm C. Burke</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>Mar. 15, 1927.</cell>
+                        <cell>Apptd. V.C. Hamburg Apr. 30, 1927.</cell>
+                    </row>
+                    <row>
+                        <cell>Matanyae</cell>
+                        <cell>Augustus Ostertag</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>May 18, 1927.</cell>
+                        <cell>Apptd. V.C. Bremerhaven June 22, 1927.<lb/>Did not go to
+                            Bremen<lb/>Remained at Hamburg</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell>Walter M. Walsh</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ala.</cell>
+                        <cell>Colo.</cell>
+                        <cell>Aug. 12, 1927</cell>
+                        <cell>Did not go to Bremen<lb/>Remained at Hamburg</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell>Malcolm C. Burke</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Colo.</cell>
+                        <cell>Aug. 12, 1927</cell>
+                        <cell>Sept. 19, 1927 to Oct. 28, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell>Frank E. M. Fadden)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>Sept. 12, 1927</cell>
+                        <cell>Apptd. V.C. Bremerhaven Sept. 1, 1928</cell>
+                    </row>
+                    <row>
+                        <cell>Bremer-<lb/>haven</cell>
+                        <cell>Frank E. M. Fadden)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>Nov. 28, 1927</cell>
+                        <cell>Apptd. V.C., Bremerhaven Jan. 3, 1929</cell>
+                    </row>
+                    <row>
+                        <cell>Bremer-<lb/>haven</cell>
+                        <cell>Frank E. M. Fadden)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>Jan. 5, 1929</cell>
+                        <cell>Apptd. V.C., Bremerhaven, 9-27-29.<lb/>to Apr. 28, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Lon B. Gresham</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ga.</cell>
+                        <cell>Ga.</cell>
+                        <cell>Nov. 30, 1929.</cell>
+                        <cell>Apptd. V.C., Rotterdam, Apr. 28, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Francis A. Lane</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Nov. 19, 1929.</cell>
+                        <cell>Apptd. V.C., Vienna Aug. 20/38</cell>
+                    </row>
+                    <row>
+                        <cell>Bremer-<lb/>haven</cell>
+                        <cell>Frank E. M. Fadden</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>Feb. 6, 1930.</cell>
+                        <cell>Apptd. V.C., Sydney, May 22, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>Augustus Ostertag</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Oct. 10, 1931.</cell>
+                        <cell>Apptd. V.C., Lagos, Feb. 2, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Francis A. Lane</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Nov. 2, 1938.</cell>
+                        <cell>Apptd. V.C. Stuttgart, Nov. 20/1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Stuttgart</cell>
+                        <cell>Francis A. Lane</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>May 10, 1939</cell>
+                        <cell>Cork, July 19, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell>Copenhagen</cell>
+                        <cell>John A. Lehra</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 10, 1941.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate Clasid July 10, 1941</p>
+            </div>
+            <div corresp="#c4573f2">
+                <head>Bremen</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Justus Gruner</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mar. 31, 1876 to Apr. 24, 1876</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Geo. N. Sillcox,</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Aug. 4, 1877</cell>
+                        <cell>Oct. 29, 1877</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leopold Strube</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 11, 1878</cell>
+                        <cell>June 12, 1878</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Feb. 11, 1885</cell>
+                        <cell>Mar. 30, 1885</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Nov. 24, 1886</cell>
+                        <cell>Feb. 7, 1887</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 30, 1888</cell>
+                        <cell>Apr. 8, 1888</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Georg M. Matjen</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 31, 1891</cell>
+                        <cell>Apr. 29, 1891</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George St. Murphy,</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>2 weeks in Feb. or Mar. 1893</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 17, 1896</cell>
+                        <cell>Mar. 1, 1896</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>(resig. if ")</cell>
+                        <cell>Oct. 4, 1899</cell>
+                        <cell>Dec. 31, 1899</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Carlton Hurst, a Consular Assistant lately V. C. at San Salvador, detailed Bremen
+                    Sept. 20, 1921.</p>
+                <p>V.C. Mc Fadden detailed to Bremerhaven Jan. 3+14, 1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

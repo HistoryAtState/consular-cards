@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0060" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amherstburg, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0059" type="prev"/>
+                <relatedItem target="c0061" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0060f1">
+                <graphic height="3632px" url="00087.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amherstburg, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00087</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0060">
+        <body>
+            <div corresp="#c0060f1">
+                <head>Amherstburg, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Josiah Turner</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Mich.</cell>
+                        <cell>Mar. 22, 1882 Conf.</cell>
+                        <cell>May 1, 1882 to Sept. 13, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James H. Hine</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mich.</cell>
+                        <cell>Aug. 3, 1891 recess</cell>
+                        <cell>Sept. 14, 1891 to July 15, 1893.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Patton</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ireland</cell>
+                        <cell>Mich.</cell>
+                        <cell>June 8, 1893 recess</cell>
+                        <cell>July 16, 1893 to Nov. 27, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Chester M. Martin</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Mich.</cell>
+                        <cell>Dec. 18, 1897 recess</cell>
+                        <cell>Nov. 28, 1897 to June 22, 1906. <lb/> Appt'd Con. Martinique
+                            6/22/06</cell>
+                    </row>
+                </table>
+                <p>Consulate abolished June 30, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2823" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>London, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2822" type="prev"/>
+                <relatedItem target="c2824" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2823f1">
+                <graphic height="3632px" url="03723.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>London, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1790</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03723</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2823f2">
+                <graphic height="3632px" url="03724.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>London, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1811</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03724</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2823">
+        <body>
+            <div corresp="#c2823f1">
+                <head>London, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joshua Johnson</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell/>
+                        <cell>Aug. 3, 1790</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Williams</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Dec. 5, 1797</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Erving</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>July 3, 1801</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Lyman</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Jan. 26, 1802</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>War Office</unclear></cell>
+                        <cell>Thomas Repinwall</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Dec. 12, 1804</cell>
+                        <cell>Conf. Died Sept 22, 1811 at Cheltenham, Eng. to Nov. 24, 1853?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George N. Saunders</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Feb. 5, 1816</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert B. Campbell</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Aug 23, 1853</cell>
+                        <cell>recess. Rejected Feb. 14, 1854.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Freeman H. Morse</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell/>
+                        <cell>Aug. 3, 1854</cell>
+                        <cell>Conf. (Died in London July 12, 1862.)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Freeman H. Morse</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Mar. 22, 1861</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adam Badeau</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Apr. 16, 1869</cell>
+                        <cell>Conf. to July 1870.</cell>
+                    </row>
+                    <row>
+                        <cell>Havana</cell>
+                        <cell>Edwin A. Merritt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Apr. 28, 1870</cell>
+                        <cell>Conf. to Sept. 1881</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas M. Waller</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>May 18, 1881</cell>
+                        <cell>Conf. Sept. 1881 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John C. New</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell/>
+                        <cell>Apr. 2, 1885</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Patrick A. Collins</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell/>
+                        <cell>Mar. 28, 1887</cell>
+                        <cell>Conf. May 6, 1893 to May 17, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William M. Osborne</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Mar. 20, 1898</cell>
+                        <cell>Conf. May 18, 1897 to Apr. 29, 1902</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Clay Evans</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Mar. 22, 1897</cell>
+                        <cell>Conf. Died at Post Apr. 29, 1902. June 16, 1902 to Apr. 10,
+                            1905</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert J. Wynne</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell/>
+                        <cell>May 9, 1902</cell>
+                        <cell>Conf. Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Mar. 8, 1905</cell>
+                        <cell>Conf. Resigned to take effect Aug. 1, 1909 (regrets to Gods
+                            leave)</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2823f2">
+                <head>London, England.</head>
+                <p>Thus, is much corespondence from the Consulate been signed by Reuben Beasley,
+                    laty Consul at Haare</p>
+                <p>Reuben Gaunt Beasley assumed charge of the Consulate upon death of Consul Lyman
+                    until War of 1812 broke out when he was permitted by the British authorities to
+                    remain in England to look after the interests of American prisoners in the
+                    capacity of "United States Agent for Prisoners of War." Mr. Beasley resumed his
+                    consular duties upon the resumption of peace and continued until December 26,
+                    1815, when he was succeeded by Consul Thomas Aspinwall. (See DCR File
+                    125.5476/191)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

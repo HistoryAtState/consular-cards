@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2599" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bangkok, Thailand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2598" type="prev"/>
+                <relatedItem target="c2600" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2599f1">
+                <graphic height="3636px" url="03449.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bangkok, Thailand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03449</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2599">
+        <body>
+            <div corresp="#c2599f1">
+                <head>Bangkok, Thailand</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Taipei</cell>
+                        <cell>Miss Louise A. Lyon</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wash. July 1, 1952</cell>
+                        <cell>Resigned off. co3 9-13-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William W. Thomas, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>S. Cor. June 24, 1952</cell>
+                        <cell>Designated V.C. of career &amp; <lb/> 3d Dec. Bangkok. 6-26-52.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Charles J. Baker</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 20, 1954</cell>
+                        <cell>Designated Ass't. attache, Bangkok <lb/> as of 9-22-55.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Phillip V. Battaglia</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 1, 1963</cell>
+                        <cell>To Paris as <lb/> V.C. (755), 9-27-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Martha E. Mayer</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 10, 1962</cell>
+                        <cell>Resigned eff. COB 4-1-63</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Katherine E. Barry</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

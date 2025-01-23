@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2653" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Katmandu, Nepal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2652" type="prev"/>
+                <relatedItem target="c2654" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2653f1">
+                <graphic height="3630px" url="03521.tif" width="6026px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Katmandu, Nepal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03521</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2653">
+        <body>
+            <div corresp="#c2653f1">
+                <head>Katmandu, Nepal</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Douglas N. Forman, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Ohio May 9, 1950</cell>
+                        <cell>Also ad secy. Also vet 2d Secy. New Delhi. To Taiplancellede of 2d
+                            secy. 12-8-50.</cell>
+                        <cell>August 5, 1959</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nicholas J. Shacher</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>N.Y. May 29, 1950</cell>
+                        <cell>also V.C. Calcutta Designated Consul Katmandic 2-21-52. Also 3d
+                            Secretary</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John R. Clingerman</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 21, 1959</cell>
+                        <cell>To Leopold ville as V.C. + 3d Sec, 3-5-62. Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert E. Armstrong</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 18, 1960</cell>
+                        <cell>To Moscow - as V.C. + 3d Sec, 10-5-62. Also 3d Sec.
+                                <unclear>reduced</unclear> to FSO eff close of 6-23-62</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Sec.</cell>
+                        <cell>Miss Helen H. Larson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 12, 1961</cell>
+                        <cell>Also 3d Sec. To Bogotá as V.C. + 3d Sec., 3-2-64.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Ronald F. Rosner</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 16, 1961</cell>
+                        <cell>Also 3d Sec. Also 2d Sec 5-26-65, FSO assigned to the Dept.,
+                            8-29-65</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.+3d Sec.</cell>
+                        <cell>Kenneth A. Kurze</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 23, 1962</cell>
+                        <cell>Also 3d Sec. FSO asgd to Saigon/AID, 8-16-64</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Laurence Desaix Anderson, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell>Also 3d Sec. FSO assigned to the Dept., 10-24-65. Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.+ 3d Sec.</cell>
+                        <cell>Rufus Grant Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Elizabeth F. O'Brien</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

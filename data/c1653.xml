@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1653" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Urumia, Persia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1652" type="prev"/>
+                <relatedItem target="c1654" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1653f1">
+                <graphic height="3624px" url="02209.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Urumia, Persia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02209</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1653f2">
+                <graphic height="3624px" url="02210.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Urumia, Persia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02210</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1653">
+        <body>
+            <div corresp="#c1653f1">
+                <head>Urumia, Persia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1653f2">
+                <head>Uriemia, Persia.</head>
+                <p>Dr. W. A. Shedd, an Am. Missionary was designated by the Minister to act
+                    temporarily as Honorary Vice Consul. So reported Dec. 28, 1917.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

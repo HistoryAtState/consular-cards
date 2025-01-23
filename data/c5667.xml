@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5667" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kunming, Yunnan, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5666" type="prev"/>
+                <relatedItem target="c5668" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5667f1">
+                <graphic height="3016px" url="07395.tif" width="4810px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kunming, Yunnan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07395</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5667f2">
+                <graphic height="3016px" url="07396.tif" width="4810px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kunming, Yunnan, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07396</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5667">
+        <body>
+            <div corresp="#c5667f1">
+                <head>KUNMING, Yunnan, China</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>C est. - C to CG 12/1/42 - CG to C 8/26/46. Closed to Public 11/10/49 and
+                    Officially 12/10/49.</p>
+                <p>REMARKS: Formerly Yunnanfu</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>7/26/40</cell>
+                        <cell>Instr. to Yunnanfu &amp; Chungking (893.014/235) re change of
+                            name.</cell>
+                    </row>
+                    <row>
+                        <cell>12/1/42</cell>
+                        <cell>Raised to Consulate General.</cell>
+                    </row>
+                    <row>
+                        <cell>8/26/46</cell>
+                        <cell>Changed to Consulate</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5667f2">
+                <head>Yunnanfu, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Acapulco</cell>
+                        <cell>John Kehl</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

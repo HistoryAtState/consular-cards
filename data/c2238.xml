@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2238" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Emden, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2237" type="prev"/>
+                <relatedItem target="c2239" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2238f1">
+                <graphic height="3626px" url="02988.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Emden, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02988</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2238">
+        <body>
+            <div corresp="#c2238f1">
+                <head>Emden, Germany. (under Bremen)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Conrad Zorn</cell>
+                        <cell>Con. Azt. Ser.</cell>
+                        <cell>Ger.</cell>
+                        <cell>Ger.</cell>
+                        <cell>Ger.</cell>
+                        <cell>Mar. 25, 1914</cell>
+                        <cell>Apr. 1, 1914 to <lb/> Went out upon closing Agency</cell>
+                    </row>
+                </table>
+                <p>Agency Closed March 1, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

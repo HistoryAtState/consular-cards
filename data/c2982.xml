@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2982" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maseru,- Basutoland-Kingdom of Lesotho</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2981" type="prev"/>
+                <relatedItem target="c2983" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2982f1">
+                <graphic height="3628px" url="03927.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maseru,- Basutoland-Kingdom of Lesotho</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03927</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2982">
+        <body>
+            <div corresp="#c2982f1">
+                <head>MASERU, Basutoland Kingdom of Lesotho (as of 10-4-66)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Mbabane</cell>
+                        <cell>Richard St. F. Post</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Consul</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>Designated Chargé d'Affaires ad interim<lb/>Assigned under Kingdom
+                            of<lb/>Lesotho, 10-4-66.<lb/>40-4-66</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. Jensen</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons. Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell>Assigned un Kingdom of<lb/>Lesotho 10-4-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Maseru</cell>
+                        <cell>Richard St. F. Post</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons. Oct. 4, 1966</cell>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell>Also Chargé d'Affaires ad interim, Counselon<lb/>of Emb. &amp; Dep.
+                            Chief of Mission 10-4-66</cell>
+                    </row>
+                    <row>
+                        <cell>Maseru</cell>
+                        <cell>James A. Jensen</cell>
+                        <cell>FSR</cell>
+                        <cell>Consul Oct. 4, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2391" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Falmouth, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2390" type="prev"/>
+                <relatedItem target="c2392" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2391f1">
+                <graphic height="3628px" url="03186.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Falmouth, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03186</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2391">
+        <body>
+            <div corresp="#c2391f1">
+                <head>Falmouth, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard Fox</cell>
+                        <cell>Dep. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 21, 1863.</cell>
+                        <cell>Apptd Cons. June 17, 1874.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Henry Fox</cell>
+                        <cell><unclear>Ved</unclear>." </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 26, 1875.</cell>
+                        <cell>Resigned May 18, 1900. <lb/><lb/><unclear>Poot</unclear> reduced to an
+                            <lb/><lb/>Agency Dec. 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>R. Barclay Fox</cell>
+                        <cell>" " " </cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 4, 1900.</cell>
+                        <cell>Jan. 1, 1906 to <lb/><lb/>Out a pelsiing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard Fox</cell>
+                        <cell>Con. Agt. Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 28, 1905.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed November 20, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3186" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Moscow, Union of Soviet Socialist Republics</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3185" type="prev"/>
+                <relatedItem target="c3187" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3186f1">
+                <graphic height="3624px" url="04185.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Moscow, Union of Soviet Socialist Republics</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04185</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3186">
+        <body>
+            <div corresp="#c3186f1">
+                <head>MOSCOW, Union of Soviet Socialist Republics</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. V.C.+ 2d Sec</cell>
+                        <cell>F. Stephen Hoffman</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 1, 1962</cell>
+                        <cell>Also 3d Sec.<lb/>Resigned COB 7-31-64.<lb/>Also 2d Sec. Designated
+                            Consul, Moscow,<lb/>5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Donald R. Lesh</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell>Also 2d Sec. Designated Consul,<lb/>Moscow, 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edward A. Mainland</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 31, 1964</cell>
+                        <cell>Also 2d Sec. Designated Consul,<lb/>Moscow, 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Oberammergau</cell>
+                        <cell>James M. Ealum</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Feb. 15, 1965</cell>
+                        <cell>Also 2d Sec. Designated Consul,<lb/>Moscow, 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Harlan G. Moen</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Garmisch</cell>
+                        <cell>Jon S. Lodeesen</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Samuel Edwin Fry, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Djakarta</cell>
+                        <cell>Franz H. Misch</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 15, 1966</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

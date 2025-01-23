@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4194" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trieste, Italy Province of Trieste</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4193" type="prev"/>
+                <relatedItem target="c4195" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4194f1">
+                <graphic height="3632px" url="05460.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trieste, Italy Province of Trieste</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1956</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05460</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4194">
+        <body>
+            <div corresp="#c4194f1">
+                <head>TRIESTE, ΑΧΑLY/ PROVINCE OF TRIESTE (4-6-56)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>VC</cell>
+                        <cell>Paul E. Wheeler</cell>
+                        <cell>Vice<lb/>Consul<lb/>Vice<lb/>Consul</cell>
+                        <cell>(USIA)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 27, 1955</cell>
+                        <cell>F.S.S. OFF assigned to USIA. Agency,<lb/>10-5-58</cell>
+                    </row>
+                    <row>
+                        <cell>Palermo</cell>
+                        <cell>Mrs. Ruth W. Perrin</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 11, 1956</cell>
+                        <cell>Termination of assign.<lb/>eff ca. 9-13-56</cell>
+                    </row>
+                    <row>
+                        <cell>Mérida</cell>
+                        <cell>Shelby M. Currie, Jr.</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1956</cell>
+                        <cell>Designated Vice Conseal of<lb/>Carcek, Trieste, 4-6-59</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (785)</cell>
+                        <cell>William S. Harrington</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 10, 1957</cell>
+                        <cell>Designated Cons. (FSS)<lb/>Trieste 8-6-67.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank N. Reilly</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 10, 1957</cell>
+                        <cell>FSS officer assigned to Dept.<lb/>3-22-59.</cell>
+                    </row>
+                    <row>
+                        <cell>Venice</cell>
+                        <cell>Jack F. Gillespie</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 30, 1963</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

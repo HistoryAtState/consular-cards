@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5270" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5269" type="prev"/>
+                <relatedItem target="c5271" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5270f1">
+                <graphic height="3608px" url="06853.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="24.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06853</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5270">
+        <body>
+            <div corresp="#c5270f1">
+                <head>BRAZIL</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Rio</cell>
+                        <cell>N. Shaw Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ponta<lb/>Delgado</cell>
+                        <cell>Frederick D. Purdy</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                        <cell>Brasilia<lb/>Counselor of<lb/>Embassy for<lb/>Public
+                            affairs<lb/>Rio</cell>
+                    </row>
+                    <row>
+                        <cell>Sal-<lb/>vador</cell>
+                        <cell>John W. Mowinckel</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 18, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell>1st Sec. Also Cons.</cell>
+                        <cell>Brasilia</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold M. Midkiff</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Rio</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Joseph Sagona</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Jan. 1, 1967</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                        <cell>Rio</cell>
+                    </row>
+                    <row>
+                        <cell>Santiago</cell>
+                        <cell>Frank M. Ravndal</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Jan. 16, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3572" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quebec, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3571" type="prev"/>
+                <relatedItem target="c3573" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3572f1">
+                <graphic height="3622px" url="04665.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Quebec, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04665</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3572">
+        <body>
+            <div corresp="#c3572f1">
+                <head>Quebec, Quebec, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cons.</cell>
+                        <cell>Quebec Carroll M. Terry</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>General</cell>
+                        <cell>Aug. 27, 1960</cell>
+                        <cell/>
+                        <cell>Retired, eff Close of business<lb/>5-31-62.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert D. Yoder</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 1, 1961</cell>
+                        <cell/>
+                        <cell>FSO assigned to the Dept.,<lb/>11-21-65,</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard H. Courtenaye</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 23, 1962</cell>
+                        <cell/>
+                        <cell>To Windsor as Cons. Gen.,<lb/>7-20-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate elevated to the rank of Consulate General, effective June 1,
+                            1964.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Gen.<lb/>Montreal</cell>
+                        <cell>Jerome T. Gaspard</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell>Retired 12-31-65</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>H. Francis Cunningham, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>Nov. 22, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick S. Quin</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

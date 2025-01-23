@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0763" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Omsk, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0762" type="prev"/>
+                <relatedItem target="c0764" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0763f1">
+                <graphic height="3634px" url="01035.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Omsk, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01035</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0763f2">
+                <graphic height="3634px" url="01036.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Omsk, Silheria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01036</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0763">
+        <body>
+            <div corresp="#c0763f1">
+                <head>Omsk, Russia. (under Moscow)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolph F. Reinecke</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>New York, N.Y.</cell>
+                        <cell>St. R.</cell>
+                        <cell>June 5, 1908.</cell>
+                        <cell>Oct. 17, 1908 to Mar. 24, 1914. <lb/> Out <lb/> closing of
+                            Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur L. Dille</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wash.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 27, 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert E. Winters</cell>
+                        <cell>〃 〃</cell>
+                        <cell>〃</cell>
+                        <cell>D.C.</cell>
+                        <cell>C.D.</cell>
+                        <cell>July 14, 1919</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency Closed Mar. 24, 1914.</p>
+            </div>
+            <div corresp="#c0763f2"/>
+        </body>
+    </text>
+</TEI>

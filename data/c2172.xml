@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2172" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dardanelles, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2171" type="prev"/>
+                <relatedItem target="c2173" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2172f1">
+                <graphic height="3630px" url="02899.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dardanelles, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02899</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2172">
+        <body>
+            <div corresp="#c2172f1">
+                <head>Dardanelles, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James C. Calvert</cell>
+                        <cell>Com. Agt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 22, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Calvert</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 10, 1874.</cell>
+                        <cell>Died Aug. 12, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred R. Grech</cell>
+                        <cell>" "</cell>
+                        <cell><unclear>Dardanelles</unclear> Da<unclear>rd</unclear></cell>
+                        <cell><unclear>Gr. Br.</unclear> Turkey <unclear>Tur</unclear>key</cell>
+                        <cell/>
+                        <cell>Nov. 9, 1908.</cell>
+                        <cell>Died at Athens Oct. 30, 1914.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

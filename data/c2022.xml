@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2022" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ciudad Bolivar, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2021" type="prev"/>
+                <relatedItem target="c2023" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2022f1">
+                <graphic height="3636px" url="02713.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ciudad Bolivar, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1852</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02713</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2022">
+        <body>
+            <div corresp="#c2022f1">
+                <head>Ciudad Bolivar, Venezuela.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolphine H. Kappans</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 30, 1852 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph B. Austin</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1854 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Tay</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. July 7, 1856 Conf. Did not go to Post?</cell>
+                        <cell>Puerto Cabello July 3, 1863?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Lochron)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ser.</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 14, 1862 Conf. ToLa Guayra Mar 16, 1865</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John F. Van Ingen</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn. Mar. 22, 1865 recess Declined</cell>
+                        <cell>Nov. 21, 1863? to June 19, 1884</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Dalton</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1867 Conf. Died at Post June 19, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George F. Underhill</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 7, 1884 recess</cell>
+                        <cell>Dec. 11, 1884 Conf. Recalled</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Scandella</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 7, 1891 recess</cell>
+                        <cell>Feb. 8, 1892 Conf</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4100" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tangier, Morocco</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4099" type="prev"/>
+                <relatedItem target="c4101" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4100f1">
+                <graphic height="3600px" url="05347.tif" width="6046px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tangier, Morocco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05347</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4100">
+        <body>
+            <div corresp="#c4100f1">
+                <head>TANGIER, Morocco</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Beirut Consul</cell>
+                        <cell>David Korn</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 19, 1963</cell>
+                        <cell/>
+                        <cell>To Nouakchott as Cons. + 2d Sec. 11-9-64 <lb/> Retired COB
+                            9-15-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Tangier V. C.</cell>
+                        <cell>Joseph W. Schutz</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Gen.</cell>
+                        <cell>Aug. 1, 1963</cell>
+                        <cell/>
+                        <cell>To Casablanca as Consul, 1-31-66. <lb/> Designated Cons. Gen.,
+                            Tangier, 10-30-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Tangier</cell>
+                        <cell>James A. Mattson</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Karachi</cell>
+                        <cell>Ben F. Dixon</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Blaine C. Tueller</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tangier</cell>
+                        <cell>Ben F. Dixon</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Gen.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>The Embassy Branch Office, Tangier, Morocco was elevated to Consulate
+                            General status effective May 23, 1966.</cell>
+                    </row>
+                    <row>
+                        <cell>Tangier</cell>
+                        <cell>Leon J. Bajek</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edward E. Keller, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 29, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1105" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puerto Cabezas, Nicaragua</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1104" type="prev"/>
+                <relatedItem target="c1106" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1105f1">
+                <graphic height="3598px" url="01472.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puerto Cabezas, Nicaragua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01472</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1105">
+        <body>
+            <div corresp="#c1105f1">
+                <head>Puerto Cabezas, Nicaragua</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Degucigalpa</cell>
+                        <cell>Robert D. Fernald</cell>
+                        <cell>8.8.0.</cell>
+                        <cell>6</cell>
+                        <cell>2/4/1931</cell>
+                        <cell>Consul 6-22-22</cell>
+                        <cell>Me.</cell>
+                        <cell>May 15, 1931.</cell>
+                        <cell>Assigned to La Paz, Mar. 11, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clased</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>April 30, 1939.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

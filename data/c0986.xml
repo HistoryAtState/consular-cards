@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0986" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paspebiac, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0985" type="prev"/>
+                <relatedItem target="c0987" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0986f1">
+                <graphic height="3626px" url="01317.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paspebiac, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01317</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0986">
+        <body>
+            <div corresp="#c0986f1">
+                <head>Paspebiac, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William T. Meagher</cell>
+                        <cell>Cont. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 8, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Meagher</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>Aug. 5, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Bilon</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 17, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Johnson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell><unclear>M.J.</unclear> July 26, 1918.</cell>
+                        <cell><unclear>Aug. 12, 1918 to</unclear>
+                            <lb/>
+                            <unclear>N.Y.</unclear>
+                            <unclear>Con. Agt.</unclear>, <unclear>Paspé</unclear> Jan. 23, 1919 <lb/>
+                            <unclear>Class</unclear> Mar. 15, 1919</cell>
+                    </row>
+                </table>
+                <p>Agency ordered transferred to Paspé Jan. 23, 1919, <unclear>clouds</unclear> Mar.
+                    15, 1919</p>
+            </div>
+        </body>
+    </text>
+</TEI>

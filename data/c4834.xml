@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4834" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dar-es Salaam, Tanganyika</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4833" type="prev"/>
+                <relatedItem target="c4835" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4834f1">
+                <graphic height="3610px" url="06290.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dar-es Salaam, Tanganyika</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06290</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4834">
+        <body>
+            <div corresp="#c4834f1">
+                <head>Dar-es-Salaam, Tanganyika</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Dar-es-Salaam, Tanganyika, East Africa</cell>
+                        <cell>Michael F. Stern</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Embassy</cell>
+                        <cell>Dec. 9, 1961.</cell>
+                        <cell>Dec. 9, 1961</cell>
+                        <cell>(New form of address) To Addis Ababa as Economic Officer (FSR)
+                            1-7-62.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Date the Union was ratified</cell>
+                    </row>
+                    <row>
+                        <cell>DAR-ES-SALAAM, United Republic of Tanganyika and Zanzibar</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>eff. Apr. 27, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>DAR-ES-SALAAM, United Republic of Tanzania</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Effective Oct. 29, 1964.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Zanzibar</cell>
+                        <cell>Donald K. Petterson</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 29, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Charls E. Behrens</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

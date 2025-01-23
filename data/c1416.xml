@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1416" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Smyrna, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1415" type="prev"/>
+                <relatedItem target="c1417" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1416f1">
+                <graphic height="3628px" url="01885.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Smyrna, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01885</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1416">
+        <body>
+            <div corresp="#c1416f1">
+                <head>Smyrna, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Cons. G.</cell>
+                        <cell>Thomas O. Morton</cell>
+                        <cell>Int. to C. G. Gr. Int.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Leytonstone, England</cell>
+                        <cell>Smyrna, Turkey</cell>
+                        <cell>Sept. 15, 1908</cell>
+                        <cell>Resigned Jan. 21, 1911 a/e of
+                                having<lb/><unclear>mi</unclear><unclear>n</unclear><unclear>i</unclear><unclear>s</unclear><unclear>t</unclear><unclear>e</unclear><unclear>r</unclear><unclear>e</unclear><unclear>d</unclear>
+                            funds. File 128.8733/21</cell>
+                    </row>
+                    <row>
+                        <cell>Saloni<unclear>k</unclear>e</cell>
+                        <cell>Leland B. Morris</cell>
+                        <cell>Interpreter U.S. &amp;c.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 8, 1913.</cell>
+                        <cell>Assigned Genoa Apr. 9, 1917.</cell>
+                    </row>
+                </table>
+                <p>Name changed to
+                        <unclear>S</unclear><unclear>m</unclear><unclear>i</unclear><unclear>r</unclear>
+                    January 8, 1930.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

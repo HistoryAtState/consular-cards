@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1080" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Portsmouth, Dominica, West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1079" type="prev"/>
+                <relatedItem target="c1081" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1080f1">
+                <graphic height="3634px" url="01437.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Portsmouth, Dominica, West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01437</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1080">
+        <body>
+            <div corresp="#c1080f1">
+                <head>Portsmouth, Dominica, West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander D. Riviere</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell>Dominica, Dominies</cell>
+                        <cell>Dominica</cell>
+                        <cell>Nov. 17, 1881.</cell>
+                        <cell>Jan. 27, 1882 to Apr. 11, 1894. <lb/> Died Apr. 11, 1894.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Charles Riviere</cell>
+                        <cell><unclear>In</unclear> Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 4, 1894</cell>
+                        <cell>Died June 4, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Office ordered closed July 2, 1898. Records to Agent at Roseau,
+                            Dominica, from June 11, 1898.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

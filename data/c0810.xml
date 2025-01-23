@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0810" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reichenberg, Austria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0809" type="prev"/>
+                <relatedItem target="c0811" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0810f1">
+                <graphic height="3636px" url="01094.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Reichenberg, Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1886</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01094</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0810">
+        <body>
+            <div corresp="#c0810f1">
+                <head>Reichenberg, Austria, formerly Bohemia)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Hawes</cell>
+                        <cell>Committet. US.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Calif.</cell>
+                        <cell>June 25, 1886.</cell>
+                        <cell>Sept. 8, 1886 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugo Jacobi</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>Wise.</cell>
+                        <cell>Nov. 3, 1893</cell>
+                        <cell>Conf.</cell>
+                        <cell>Jan. 1, 1894 to<lb/>Resigned March 1, 1894.<lb/>Recepted March 14,
+                            1894.<lb/>June 15, 1894 to Jan. 31, 1895.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Ernst</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Wise.</cell>
+                        <cell>Apr. 5, 1894</cell>
+                        <cell>Conf.</cell>
+                        <cell>Feb. 1, 1898 to Aug. 31, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell>Notting-<lb/>ham</cell>
+                        <cell>Frank W. Mahin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Dec. 18, 1897</cell>
+                        <cell>Conf.</cell>
+                        <cell>to Nottingham June 11, 1902.<lb/>Sept. 1, 1902 to May 1, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Silas C. McFarland</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>June 11, 1902 recess Sept. 8, 1907 to</cell>
+                        <cell>Conf.</cell>
+                        <cell>App'd C. G. St. Gall. 3/30/1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles B. Harris</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind.</cell>
+                        <cell>Mar. 30, 1907 to June 11, 1910<lb/>Reepted to take offrch
+                            7/9/1910.</cell>
+                        <cell>Conf.</cell>
+                        <cell>Resigned June 11, 1910.</cell>
+                    </row>
+                    <row>
+                        <cell>Ruhe</cell>
+                        <cell>William J. Pike</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 24, 1910</cell>
+                        <cell>Conf.</cell>
+                        <cell>July 16, 1910 to May 15, 1914<lb/>Appt'd Con. Gen. Coburg
+                            4/24/1914<lb/>June 16, 1914 to</cell>
+                    </row>
+                    <row>
+                        <cell>Leipzig</cell>
+                        <cell>Nicholas R. Snyder</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 24, 1914</cell>
+                        <cell>Conf.</cell>
+                        <cell>see below</cell>
+                    </row>
+                    <row>
+                        <cell>see<lb/>abore</cell>
+                        <cell>Nicholas R. Snyder</cell>
+                        <cell>Con. 5</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 24, 1914</cell>
+                        <cell/>
+                        <cell>Mr. Snyder resigned from Pittsburg, Pa., June 27, 1917, to take effect
+                            July 22, 1917.<lb/>Relations with Austria-Hungary severed, Apr. 9,
+                            1917.</cell>
+                    </row>
+                </table>
+                <p>By Net of 2/5/1915</p>
+                <p>Continued under appt of Apr. 24, 1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

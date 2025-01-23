@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1486" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sutton, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1485" type="prev"/>
+                <relatedItem target="c1487" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1486f1">
+                <graphic height="3630px" url="01982.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sutton, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01982</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1486">
+        <body>
+            <div corresp="#c1486f1">
+                <head>Sutton, Quebec, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Luther L. Davis</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept 15, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Shepherd</cell>
+                        <cell>〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 8, 1875,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lester Rounds</cell>
+                        <cell>〃</cell>
+                        <cell>U.S.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Feb. 21,1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Melville B. March</cell>
+                        <cell>〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 20, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Egbert R. Shepard</cell>
+                        <cell>〃</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 14,1893,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James L. Ireland</cell>
+                        <cell>〃</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 19, 1897.</cell>
+                        <cell><unclear>June</unclear> 30, 1902</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick A. Olmstead</cell>
+                        <cell>〃</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 13, 1900</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Ordered Apr. 4, 1902 to be closed June 30, 1902; Closed June 30, 1902.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

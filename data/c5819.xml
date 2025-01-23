@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5819" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5818" type="prev"/>
+                <relatedItem target="c5820" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5819f1">
+                <graphic height="3630px" url="07615.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07615</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5819">
+        <body>
+            <div corresp="#c5819f1">
+                <head>Perw.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(Lucas?)<lb/>Leslie B. Combs</cell>
+                        <cell>Clerk</cell>
+                        <cell>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>May, 1910.</cell>
+                        <cell>Resigned effect 4/24/1911.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert W. Bryan</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>Apr. 1, 1911.</cell>
+                        <cell>Recalled. Left Lima July 15, 1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William W. Lewis</cell>
+                        <cell/>
+                        <cell>Mo.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Aug. 16, 1913.</cell>
+                        <cell>Resigned Apr, 21, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Antony J Serrone</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 29, 1915</cell>
+                        <cell>Appt'd Clerk in Emb., Santiago, Nov. 29, 1915</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Victor L. Dyree</cell>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Nov. 29, 1915.</cell>
+                        <cell>Resigned effective about Mar. 1, 1918 &amp; accept a more remunerative
+                            position</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José Jordi</cell>
+                        <cell/>
+                        <cell>N.Mey.</cell>
+                        <cell/>
+                        <cell>Mar. 26, 1918.</cell>
+                        <cell>Resigned and returned to U.S. June, 1919</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

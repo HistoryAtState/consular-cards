@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2517" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arequipa, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2516" type="prev"/>
+                <relatedItem target="c2518" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2517f1">
+                <graphic height="3622px" url="03342.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arequipa, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03342</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2517f2">
+                <graphic height="3622px" url="03343.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arequipa, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03343</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2517">
+        <body>
+            <div corresp="#c2517f1">
+                <head>Arequipa, Peru.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis S. Blaisdell</cell>
+                        <cell>Con Agt U.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mallapan Mass.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 12, 1918</cell>
+                        <cell>Mar. 21, 1919 to Dec. 31, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gabriel Louis Ancianx</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Barbados N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 15, 1924.</cell>
+                        <cell>Jan. 1, 1924 to <lb/>Resigned, effective Aug. 4, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Neil Murphy</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Socorro, <lb/>N. Mex.</cell>
+                        <cell>N. Mex.</cell>
+                        <cell>Feb. 19, 1927.</cell>
+                        <cell>Services terminated afe closing <lb/>of Agency, Dec. 16, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Guayspund <lb/>renador</cell>
+                        <cell>John G. Dewey</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Feb. 20, 1942</cell>
+                        <cell>Mode F.S.O. J. Corner 3-1445 <lb/>assigned as U.C. Consul at Arequipa
+                            4-16-45</cell>
+                    </row>
+                    <row>
+                        <cell>Lima</cell>
+                        <cell>Charles C. Sidney, Jr.</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 16, 1944</cell>
+                        <cell>To Lima as VC</cell>
+                    </row>
+                </table>
+                <p>Agency closed December 16, 1929.</p>
+                <p>Reopened August 19, 1942 as an American Vice Consulate</p>
+            </div>
+            <div corresp="#c2517f2">
+                <head>J. Neil Murphy, Acting American Consular Agent, Aug. 4, 1926 to Feb. 19, 1927,
+                    date of appointment as Consullar Agent.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

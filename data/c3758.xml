@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3758" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rome, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3757" type="prev"/>
+                <relatedItem target="c3759" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3758f1">
+                <graphic height="3626px" url="04908.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rome, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04908</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3758">
+        <body>
+            <div corresp="#c3758f1">
+                <head>Rome, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Reykjinik</cell>
+                        <cell>Robert J. Littons</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell/>
+                        <cell>Phis</cell>
+                        <cell>April 23, 1952</cell>
+                        <cell>Sep. FROM FSS &amp; APP. To FSO with<lb/>assignment as 2d Sec.<lb/>FSS
+                            to Dept. as 05 10-27-56</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Toronto</cell>
+                        <cell>John R. Harvey</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Wise.</cell>
+                        <cell>June 5, 1952</cell>
+                        <cell>To Palermo as Inocalypton<lb/>(FSS) 2-24-54</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Toronto</cell>
+                        <cell>John P. Mac Donald</cell>
+                        <cell>Vice Consul U.S</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 4, 1952</cell>
+                        <cell>To London as V.C. 3-26-55</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Djakarta</cell>
+                        <cell>St. John Anthony Bargas</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>May 12, 1954</cell>
+                        <cell>Calif. Oct. 26, 1954</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Djakarta</cell>
+                        <cell>David B. Wharton <unclear>cancelled</unclear></cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>March 11, 1955</cell>
+                        <cell>Designated V.C. of career<lb/>Rome 6-18-56.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Salzburg</cell>
+                        <cell>Edward S. McClary</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Apr. 4, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Salzburg</cell>
+                        <cell>Miss<lb/>/Teresa M. Offie <unclear>cancelled</unclear></cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>May 4, 1959</cell>
+                        <cell>Designated Cons. (FSO) Rome<lb/>6-157-59</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

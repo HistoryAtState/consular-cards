@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2075" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Concepcion, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2074" type="prev"/>
+                <relatedItem target="c2076" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2075f1">
+                <graphic height="3630px" url="02776.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Concepcion, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02776</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2075">
+        <body>
+            <div corresp="#c2075f1">
+                <head>Concepción, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Valpa-raiso.</cell>
+                        <cell>Robert L. Moser</cell>
+                        <cell>F.B.O. Une.</cell>
+                        <cell>7/1/1924. R.</cell>
+                        <cell>Ind. Oct. 22. 1924.</cell>
+                        <cell>Resigned effective July 26, 1926.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed October 31, 1930. - Respened October 1, 1942.</p>
+                <p>Hahana Caspar D. Green 7.S.O. Unc. 3-20-44. Ohio July 25, 1942 8-2-44. To
+                    Huayaguias 0.6. 10-31-44. To Santiago as V. C. <unclear>det</unclear>
+                    <unclear>eff</unclear>
+                    <unclear>Sept</unclear>
+                    <unclear>1</unclear>, <unclear>1942</unclear>.</p>
+                <p>Vice Consulate to be closed on or about January 1, 1948.</p>
+                <p>Vice Consulate closed to the public December 5, 1947.</p>
+                <p>Vice Consulate officially closed December 31, 1947.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

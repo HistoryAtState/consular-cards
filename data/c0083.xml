@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0083" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Annapolis Royal, N.S.-Annapolis</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0082" type="prev"/>
+                <relatedItem target="c0084" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0083f1">
+                <graphic height="3632px" url="00122.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Annapolis Royal, N.S.-Annapolis</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00122</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0083f2">
+                <graphic height="3632px" url="00123.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Annapolis Royal, N.S.-Annapolis</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00123</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0083">
+        <body>
+            <div corresp="#c0083f1">
+                <head>Annapolis Royal (formerly Annapolis) N.S.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William R. Ruggles</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 19, 1863.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob M. Owen</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 18, 1872.</cell>
+                        <cell>Died June 26, 1933.</cell>
+                    </row>
+                </table>
+                <p>Agency Closed July 21, 1933.</p>
+                <p>Archives &amp; Records Preserved at Yarmouth.</p>
+            </div>
+            <div corresp="#c0083f2">
+                <head>Annapolis Royal, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Owen, son of J.M.</cell>
+                        <cell>Acting Consular Agent (absence of J.M.)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J.H. Edwards, of Annapolis Royal</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Owen, Acting Consular Agent (absence of J.M. Owen)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 1930, to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Owen</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 3, 1932 to</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>to</p>
+                <p>Sept. 1927 to</p>
+                <p>(for ninety days)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

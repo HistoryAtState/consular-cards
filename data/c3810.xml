@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3810" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Michael's, Azores</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3809" type="prev"/>
+                <relatedItem target="c3811" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3810f1">
+                <graphic height="3626px" url="04973.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Michael's, Azores</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04973</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3810">
+        <body>
+            <div corresp="#c3810f1">
+                <head>St. Michael's, Azores.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Oporto</cell>
+                        <cell>Charles E. Harman</cell>
+                        <cell>Vice Con</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>This It. Va</cell>
+                        <cell>Jan. 7, 1931.</cell>
+                        <cell>apptd.V.C., Oporto, aug. 2, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Sakar</cell>
+                        <cell>John J. Coyle</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 22, 1931</cell>
+                        <cell>Canceled.</cell>
+                    </row>
+                    <row>
+                        <cell>Plymouth</cell>
+                        <cell>Paul Dean Thompson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Nask. Calif.</cell>
+                        <cell>Oct. 23, 1931.</cell>
+                        <cell>apptd.V.C., Milan, Feb. 20, 1933</cell>
+                    </row>
+                    <row>
+                        <cell>Malaga</cell>
+                        <cell>William B. Douglas, Jr.,</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C</cell>
+                        <cell>Apr. 13, 1932.</cell>
+                        <cell>apptd.V.C., Malaga, 9/3/32</cell>
+                    </row>
+                    <row>
+                        <cell>Oporto</cell>
+                        <cell>Charles E. Horman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>This It. ba</cell>
+                        <cell>May 7, 1934</cell>
+                        <cell>apptd.V.C., Oporto, Sept. 18, 1934. <lb/> to Oct. 7, 1935</cell>
+                    </row>
+                    <row>
+                        <cell>Oporto</cell>
+                        <cell>William G. Robertson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jenn.</cell>
+                        <cell>Jenn.</cell>
+                        <cell>June 10, 1935</cell>
+                        <cell>Apptd.V.C., Oporto, Oct. 7, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Vigo</cell>
+                        <cell>Percy G. Remfe</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Canada</cell>
+                        <cell>R.J.</cell>
+                        <cell>June 5, 1936.</cell>
+                        <cell>Apptd.V.C., Victoria, May 25, 1959.</cell>
+                    </row>
+                    <row>
+                        <cell>Bilbao</cell>
+                        <cell>Manuel J. Codoner</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>R.Y.</cell>
+                        <cell>R.Y.</cell>
+                        <cell>Oct. 18, 1937</cell>
+                        <cell>To monterrey, V.C, 1-12-44</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

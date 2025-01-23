@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5547" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Togo, Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5546" type="prev"/>
+                <relatedItem target="c5548" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5547f1">
+                <graphic height="3616px" url="07232.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Togo, Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07232</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5547">
+        <body>
+            <div corresp="#c5547f1">
+                <head>TOGO, REPUBLIC</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Boston Univ.<lb/>Boston, Moss.</cell>
+                        <cell>Michael G. Wygant</cell>
+                        <cell>FSO</cell>
+                        <cell>6 July 19, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David M. Lowrey</cell>
+                        <cell>FSO</cell>
+                        <cell>8 Mar. 28, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lome</cell>
+                        <cell>David D. Hoyt</cell>
+                        <cell>FSO</cell>
+                        <cell>3 May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec. Also Cons. To Conakry<lb/>as 1st sec., 12-18-66,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lome</cell>
+                        <cell>Terence A. Todman</cell>
+                        <cell>FSO</cell>
+                        <cell>3 May 13, 1966</cell>
+                        <cell/>
+                        <cell>Couns. also Consul-Deputy<lb/>Chief of Mission.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

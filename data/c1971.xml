@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1971" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>British Somaliland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1970" type="prev"/>
+                <relatedItem target="c1972" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1971f1">
+                <graphic height="3634px" url="02643.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>British Somaliland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02643</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1971">
+        <body>
+            <div corresp="#c1971f1">
+                <head>British Somaliland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew G. Lynch</cell>
+                        <cell>F50</cell>
+                        <cell>2</cell>
+                        <cell>General</cell>
+                        <cell>Feb. 24, 1960</cell>
+                        <cell/>
+                        <cell>Also Cons. Gen., Mogadiscio<lb/>Appointed AEXP to the Somali
+                            Republic<lb/>4-5-60</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard St. F. Post</cell>
+                        <cell>F50</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Feb. 24, 1960</cell>
+                        <cell/>
+                        <cell>Also Cons. Mogadiscio<lb/>Recommissioned under Somali<lb/>Republic
+                            7-1-60</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nez C. Hallett, JR.</cell>
+                        <cell>F50</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Mar. 18, 1960</cell>
+                        <cell/>
+                        <cell>Also Cons. Mogadiscio<lb/>Recommissioned under Somali<lb/>Republic
+                            7-1-60</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>JAMES D. FARRELL</cell>
+                        <cell>F50</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Oct. 3, 1960</cell>
+                        <cell/>
+                        <cell>also Cons. Mogadiscio</cell>
+                    </row>
+                </table>
+                <p>British Somaliland became independent July 1, 1960 and since that date is known
+                    as Somali Republic. For future entries see Mogadiscio, Somali Republic.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

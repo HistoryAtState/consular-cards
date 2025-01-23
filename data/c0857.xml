@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0857" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rimouski, Quebec</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0856" type="prev"/>
+                <relatedItem target="c0858" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0857f1">
+                <graphic height="3634px" url="01154.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rimouski, Quebec</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01154</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0857">
+        <body>
+            <div corresp="#c0857f1">
+                <head>Rimouski, Quebec.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Boardman</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Me.</cell>
+                        <cell>Nov. 16, 1897.</cell>
+                        <cell>Dec. 27, 1897 to<lb/>Died at Montreal Oct. 10, 1903</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. Haldeman Dennison</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Nov. 7, 1903.</cell>
+                        <cell>Nov. 29, 1903 to Sept. 7, 1906<lb/>Appt'd Consul Bombay
+                            23/1/1904</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin M. Gunsaulus</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>June 22, 1906</cell>
+                        <cell>Sept. 8, 1906 to July 21, 1908<lb/>Appt'd Cons. Johannesburg
+                            6/10/1908.</cell>
+                    </row>
+                    <row>
+                        <cell>San Juan<lb/>del Norte</cell>
+                        <cell>Frederick M. Ryder (n)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Canada</cell>
+                        <cell>June 10, 1908</cell>
+                        <cell>July 22, 1908 to<lb/>Appt'd C.O., Singapore 17/2/1914.</cell>
+                    </row>
+                    <row>
+                        <cell>Foo-</cell>
+                        <cell>John Fowler</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mass</cell>
+                        <cell>Dec. 17, 1908</cell>
+                        <cell>see below</cell>
+                    </row>
+                    <row>
+                        <cell>above</cell>
+                        <cell>John Fowler</cell>
+                        <cell>Con. 6</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mass</cell>
+                        <cell>Dec. 29, 1914</cell>
+                        <cell>Died at Winchester, Mass<lb/>Dec. 31, 1923<lb/>Continued under appt
+                            Oct. 18, 1915 to<lb/>Resigned Oct. 21, 1915.</cell>
+                    </row>
+                </table>
+                <p>Consulate moved Riviere du Loup.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3580" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Quito, Ecuador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3579" type="prev"/>
+                <relatedItem target="c3581" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3580f1">
+                <graphic height="3658px" url="04675.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Quito, Ecuador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04675</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3580">
+        <body>
+            <div corresp="#c3580f1">
+                <head>QUITO, ECUADOR</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>William B. Snidow (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 15, 1965</cell>
+                        <cell/>
+                        <cell>Detail terminated 5-31-66.<lb/>Retired 5-31-66.<lb/>Also 2d
+                            Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Guadalajara</cell>
+                        <cell>Donald B. Wallace, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. Resigned as FSO<lb/>Apptd. FSS 9-11-66. Continues to
+                            serve as<lb/>Consul, Quito.<lb/>9-10-66.<lb/>Also 1st Sec. Assigned to
+                            Dept<lb/>7-31-66</cell>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>Earl A. Kessler II</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert Klaber</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 11, 1965</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>San<lb/>Salvador</cell>
+                        <cell>Robert M. Phillips</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell>Also Cons. of Emb. &amp; Deputy Chief of<lb/>Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John J. Crowley, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 29, 1966</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Joel W. Biller</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

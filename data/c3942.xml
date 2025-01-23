@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3942" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Seoul, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3941" type="prev"/>
+                <relatedItem target="c3943" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3942f1">
+                <graphic height="3604px" url="05141.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Seoul, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05141</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3942">
+        <body>
+            <div corresp="#c3942f1">
+                <head>SEOUL, KOREA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Investigator<lb/>Seoul<lb/>V.C.</cell>
+                        <cell>Richard L.K. Jung</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1957</cell>
+                        <cell>FSS officer assigned to<lb/>Taichung/Fst Field Sch. 1-23-58<lb/>FSS
+                            officer assigned to<lb/>Frankfort post &amp;<lb/>Citizenship assistant
+                            3-1-64<lb/>To Panama as V.C. (Ass) 4-27-64.<lb/>To Damascus as<lb/>V.C.
+                            (755), 12-20-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Piedras Negras<lb/>V.C. (755)</cell>
+                        <cell>Harry R. Hargis</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 5, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>Miss Grace E. Mentag</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 20, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Elizabeth M. Post</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>Miss Raecarol Morgan</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

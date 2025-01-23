@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5153" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Istanbul, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5152" type="prev"/>
+                <relatedItem target="c5154" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5153f1">
+                <graphic height="3608px" url="06681.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Istanbul, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06681</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5153">
+        <body>
+            <div corresp="#c5153f1">
+                <head>ISTANBUL, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Quentin H. Watkins</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Jan. 21, 1963</cell>
+                        <cell>USIA</cell>
+                        <cell>FSR officer assigned to the Dept, 12-1965. <lb/> Ankara as Attaché
+                            (FSR), (USIA) 6-6-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bernardo H. Knight, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 3, 1974</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Arnold P. Schifferdecker</cell>
+                        <cell>FSO 7</cell>
+                        <cell/>
+                        <cell>Apr. 26,1965</cell>
+                        <cell/>
+                        <cell>To Tel Aviv as Stats Aide 9-15-66</cell>
+                    </row>
+                    <row>
+                        <cell>Adana</cell>
+                        <cell>Duane C. Butcher</cell>
+                        <cell>FSO 7</cell>
+                        <cell/>
+                        <cell>July 19,1965</cell>
+                        <cell/>
+                        <cell>FSR Officer, assigned to <lb/> the Dept., 2-1-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Kabul</cell>
+                        <cell>William F. Roy</cell>
+                        <cell>FSR 7</cell>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Managua</cell>
+                        <cell>William Edwin Humphrey</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles E. Courtney</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 30,1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William D. Fisher</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May. 10,1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

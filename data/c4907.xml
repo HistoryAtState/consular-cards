@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4907" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frankfurt Am Main, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4906" type="prev"/>
+                <relatedItem target="c4908" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4907f1">
+                <graphic height="3632px" url="06376.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frankfurt Am Main, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06376</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4907">
+        <body>
+            <div corresp="#c4907f1">
+                <head>FRANKFURT AM MAIN, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wolfgang F. Robinow</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David J. S. Manbey</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Nov. 22, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bern</cell>
+                        <cell>James F. Amory</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Geoffrey P. Gwaltney</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 10, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Frank-<lb/>furt</cell>
+                        <cell>Robert M. Allen</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>755 Vice Cons.<lb/>Frankfurt</cell>
+                        <cell>Patrick T. O'Connor</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Saul Moskowitz</cell>
+                        <cell>FSS</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 10, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Kenneth W. Knauf</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert E. Day, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lagos</cell>
+                        <cell>Wendell A. Pike</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>To The Hague as Assistant<lb/>Commercial Attaché, 6-19-66.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

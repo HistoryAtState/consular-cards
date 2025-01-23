@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0930" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Helena, Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0929" type="prev"/>
+                <relatedItem target="c0931" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0930f1">
+                <graphic height="3630px" url="01245.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Helena, Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01245</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0930">
+        <body>
+            <div corresp="#c0930f1">
+                <head>St. Helena (Island)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Magnus</cell>
+                        <cell>Vice Con</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 28, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert P. Pooley</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nr. 18, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas E. Fowler</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>St. Helena</cell>
+                        <cell>Sept. 17, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry J. Bovell</cell>
+                        <cell>〃 〃</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 9, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Erridge</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 26, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Metcalfe</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 23, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Carrol</cell>
+                        <cell>〃 〃</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 3, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Edmund Fowler</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1885</cell>
+                        <cell>Resigned Aug. 7, 1889</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Broadway</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 14, 1904.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

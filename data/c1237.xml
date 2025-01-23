@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1237" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carthagena, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1236" type="prev"/>
+                <relatedItem target="c1238" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1237f1">
+                <graphic height="3646px" url="01646.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carthagena, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01646</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1237">
+        <body>
+            <div corresp="#c1237f1">
+                <head>Cartagena, Colombia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Bogota</cell>
+                        <cell>John F Frank</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Wisa</cell>
+                        <cell>Hise.</cell>
+                        <cell>Act.</cell>
+                        <cell>16. 1941.</cell>
+                        <cell>Services term. c.o.b. Dec. 8, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell>Colombia</cell>
+                        <cell>Granville Cury-Jackson</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                        <cell>Mexico</cell>
+                        <cell>Mich</cell>
+                        <cell>Dec. 27, 1941.</cell>
+                        <cell>Died at Cartagena of typhoed fever-5-19-42 Ret'd &amp; Bogota
+                            6-12-42</cell>
+                    </row>
+                    <row>
+                        <cell>New + S.O.</cell>
+                        <cell>Frederick W. Eyssell</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                        <cell>Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Feb. 19, 1942</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bogota</cell>
+                        <cell>Granville Cury-Jackson</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                        <cell>Mexico</cell>
+                        <cell>Mexico</cell>
+                        <cell>May 28, 1942</cell>
+                        <cell>Cancelled July 18, 1945</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk Am.</cell>
+                        <cell>Charles H. Taliaferrs</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>June 25, 1942</cell>
+                        <cell>See Foreign Service directory card.</cell>
+                    </row>
+                    <row>
+                        <cell>For. Ser. Aux</cell>
+                        <cell>Leonard R. Morey</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 19, 1942</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Para, Brazil</cell>
+                        <cell>Willard Roger Ray</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Feb. 17, 1944</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V. Con.</cell>
+                        <cell>Hernan C. Vagenitz</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 10, 1945</cell>
+                        <cell>Apptd Consul, F.S.S., 12-23-46n assigned Consul, FSS, Cartagena
+                            1-21-47c</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ciudad Trujillo</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consular Asst.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cartagena</cell>
+                        <cell>Seorge E. Belcher</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>January 24, 1948</cell>
+                        <cell>To Cali as V.C. 6-18-98</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate officially closed October 20, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

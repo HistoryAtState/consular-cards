@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0150" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Camaguey, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0149" type="prev"/>
+                <relatedItem target="c0151" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0150f1">
+                <graphic height="3634px" url="00219.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Camaguey, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00219</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0150f2">
+                <graphic height="3634px" url="00220.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Camaguey, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00220</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0150">
+        <body>
+            <div corresp="#c0150f1">
+                <head>Camaguey, Cuba,</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franklin Hawley</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>8</cell>
+                        <cell>9-19-430 6-9-440</cell>
+                        <cell>Consul</cell>
+                        <cell>Mich.</cell>
+                        <cell>June 17, 1944</cell>
+                        <cell>To Santiago Cuba as Consul</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Lawrence S. Armstrong</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell>8-16-410 Consul</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 16, 1944</cell>
+                        <cell>To Lisbon 7-6-45</cell>
+                    </row>
+                </table>
+                <p>An American Consulate was established at Camaguey, October 24, 1942.</p>
+                <p>American Consulate was closed to the public of Camaguey May 31, 1945</p>
+                <p>Reopened Dec. 1, 1947</p>
+                <p>Closed to the Public Jan. 1, 1949 (consular district of Camaguey assigned to
+                    Santiago de Cuba)</p>
+                <p>Consulate officially closed February 7, 1949</p>
+            </div>
+            <div corresp="#c0150f2">
+                <head>The Consulate at Nuevitas was moved to Camaguey, Cuba, December 1, 1947</head>
+                <p>The con</p>
+                <p>N</p>
+            </div>
+        </body>
+    </text>
+</TEI>

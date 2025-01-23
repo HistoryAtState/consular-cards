@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0368" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Krakow, Poland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0367" type="prev"/>
+                <relatedItem target="c0369" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0368f1">
+                <graphic height="3628px" url="00504.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Krakow, Poland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00504</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0368">
+        <body>
+            <div corresp="#c0368f1">
+                <head>Krakow, Poland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>(moncaren)</cell>
+                        <cell>Vice Consul Casimir T. Zawadzki</cell>
+                        <cell>7.5.5</cell>
+                        <cell/>
+                        <cell>Consul N.Y.</cell>
+                        <cell>Jan 31, 1947</cell>
+                    </row>
+                </table>
+                <p>Consulate formally established July 1, 1946.</p>
+                <p>Consulate to be closed on or before April 15, 1947</p>
+                <p>Consulate closed to the public April 15, 1947; Officially closed April 17,
+                    1947.</p>
+                <p>To Hossard as Consul (F.S.) 3-28-47.</p>
+                <p>F.S. - Foreign Service Staff</p>
+            </div>
+        </body>
+    </text>
+</TEI>

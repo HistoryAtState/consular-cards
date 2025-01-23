@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1586" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tirana, Albania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1585" type="prev"/>
+                <relatedItem target="c1587" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1586f1">
+                <graphic height="3630px" url="02117.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tirana, Albania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02117</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1586">
+        <body>
+            <div corresp="#c1586f1">
+                <head>Tirana, Albania.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Legation</cell>
+                        <cell>George C. Minor</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>W. Va.</cell>
+                        <cell>June 16, 1926.</cell>
+                        <cell>Appt'd V.C. Stuttgart Dec. 14, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Paul H. Demille</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Essen, Germany</cell>
+                        <cell>" "</cell>
+                        <cell>June 22, 1929.</cell>
+                        <cell>Appt'd V.C., Monterrey Mar. 1/32</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Sup</unclear>erint</cell>
+                        <cell>Erich H. A. Hoffmann</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell><unclear>Hisc</unclear>.</cell>
+                        <cell><unclear>Hisc</unclear>.</cell>
+                        <cell>Dec. 5, 1931</cell>
+                        <cell>Appt'd V.C., Moscow, July 18/39</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Ad</unclear>oba</cell>
+                        <cell>Robert L. Hrenter</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Do. Dok.</cell>
+                        <cell>" "</cell>
+                        <cell>Mar. 24, 1937</cell>
+                        <cell>Appt'd. Clerk in Leg., The Hague May 14/38</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Sup</unclear></cell>
+                        <cell>Erich W. A. Hoffman</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell><unclear>Wis</unclear>.</cell>
+                        <cell>" "</cell>
+                        <cell>Continuing under appoint To FRANKFORT on the Maine, Germany</cell>
+                        <cell>ment of July 27, 1945 av D.C. 1-31-47.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed: July 20, 1939.</p>
+                <p>Established as a Mission May 8, 1945.</p>
+                <p>Mission closed November 15, 1946.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

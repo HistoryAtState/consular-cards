@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2343" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hague, Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2342" type="prev"/>
+                <relatedItem target="c2344" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2343f1">
+                <graphic height="3634px" url="03120.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hague, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03120</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2343">
+        <body>
+            <div corresp="#c2343f1">
+                <head>Hague, Netherlands. (under Rotterdam)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Agt<lb/>Scheidam</cell>
+                        <cell>Anders C. Nelson</cell>
+                        <cell>Con. U.S. Den.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Del.</cell>
+                        <cell>Mar. 9, 1910.</cell>
+                        <cell>Appt'd Con. Agt. Scheveningen 4/5/16</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency at The Hague not established - see Scheveningen</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ghent<lb/>Beheven-<lb/>ingen</cell>
+                        <cell>Julius A. Van Hee</cell>
+                        <cell>Vice Con. U.S. Ind. Down</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 28, 1917</cell>
+                        <cell>For duty in Am. Legations<lb/>Appt'd V.C. Ghent May 2, 1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Anders C. Nelson</cell>
+                        <cell>" " " " Den. Ill.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1917</cell>
+                        <cell>Died at Post Oct. 26, 1929, 5 P.M.</cell>
+                    </row>
+                </table>
+                <p>Vice Consulate closed November 9, 1929.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

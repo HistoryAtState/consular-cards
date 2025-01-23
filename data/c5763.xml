@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5763" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bolivia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5762" type="prev"/>
+                <relatedItem target="c5764" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5763f1">
+                <graphic height="3616px" url="07535.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bolivia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07535</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5763">
+        <body>
+            <div corresp="#c5763f1">
+                <head>Bolivia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph E. Ponte</cell>
+                        <cell>Clerk</cell>
+                        <cell>(Data re clerks prior to 1909 unobtainable)</cell>
+                        <cell>Venezuela Bolivia</cell>
+                        <cell>June 1, 1909</cell>
+                        <cell>Resigned Mar. 5, 1918 to engage in business</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene D. Lujan</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N. Mex. N. Mex.</cell>
+                        <cell>Apr. 22, 1918.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

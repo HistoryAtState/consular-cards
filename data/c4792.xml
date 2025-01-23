@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4792" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cotonou, Republic of Dahomey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4791" type="prev"/>
+                <relatedItem target="c4793" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4792f1">
+                <graphic height="3612px" url="06237.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cotonou, Republic of Dahomey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06237</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4792">
+        <body>
+            <div corresp="#c4792f1">
+                <head>COTONOU, REPUBLIC OF DAHOMEY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Virginia Randolph</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 28, 1960</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec. To Monterrey as V.C., 10-28-63.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Tangier Richard P. Bailor</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Dec. 11, 1961</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec. To Brussels as 2d Sec. &amp; V.C., 11-12-62.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald M. Maclay</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Mar. 26, 1962</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec. To Frankfurt am main as V.C., 8-17-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edward J. Maguire, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 28, 1962</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec. To London as 2d Sec. 10-25-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Frederick Owen Shoup</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 15, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec. To Vienna as V.C. + 3d Sec., 9-27-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Stephen M. Block</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

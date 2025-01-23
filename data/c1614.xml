@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1614" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tripoli, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1613" type="prev"/>
+                <relatedItem target="c1615" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1614f1">
+                <graphic height="3634px" url="02156.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tripoli, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1877</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02156</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1614f2">
+                <graphic height="3634px" url="02157.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tripoli, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1889</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02157</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1614">
+        <body>
+            <div corresp="#c1614f1">
+                <head>Tripoli, Syria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Antonis Yanni</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 20, 1877.</cell>
+                        <cell>Died May 19, 1882.<lb/>Recog. refused by Turkish Govt<lb/>sitte signar
+                            June '85.<lb/>Exequatur refused. Missionary</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Yanni (son)</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ira Harris (Dr.)</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 20, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ira Harris</cell>
+                        <cell>Office closed Dec. 1886.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Mar. 3, 1899.</cell>
+                        <cell>Died of typhus Nov. 25, 1915<lb/>Exequatur refused May
+                            1899,<lb/>Recognized by local authorities 1900.<lb/>June 23, 1916
+                            to</cell>
+                    </row>
+                    <row>
+                        <cell>In chg. of</cell>
+                        <cell>William S. Nelson</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>St Louis Mo.</cell>
+                        <cell>Mo. Apr. 26, 1916.</cell>
+                        <cell/>
+                        <cell>Resignation accepted May 5, 1921</cell>
+                    </row>
+                    <row>
+                        <cell>Agency</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Agency closed May 25, 1921.</cell>
+                        <cell>Reported in Consul Knabenshues despatch<lb/>from Beirut July 8,
+                            1921</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1614f2">
+                <head>Tripoli, Syria, </head>
+                <p>Office closed, March 31, 1889 – Archives at Beirut</p>
+                <p>• Mrs. Antonio Yanni had the archives when office was closed</p>
+                <p>• Mr. Saliba, bely tgent before 1849.</p>
+                <p>Antonio Yanni // July 1833 to</p>
+                <p>William B. Nelson, (American) - Ambassador at Constantinople reported by telegram
+                    Nov. 29, 1915 that he had requested temporary recognition for as being in charge
+                    of the agency Approved by Dept. Dec, 13, 1915. </p>
+                <p>ants Consulat agent at Tripoli Apr. 26, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

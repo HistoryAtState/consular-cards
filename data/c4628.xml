@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4628" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Buenos Aires, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4627" type="prev"/>
+                <relatedItem target="c4629" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4628f1">
+                <graphic height="3620px" url="06033.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenos Aires, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06033</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4628">
+        <body>
+            <div corresp="#c4628f1">
+                <head>BUENOS AIRES, Argentina</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE<lb/>OF ASSIGNMENT</cell>
+                        <cell>OTHER<lb/>AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Luanda</cell>
+                        <cell>T. Elkin Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 25, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.<lb/>Also 2d Sec., 4-12-64.<lb/>Designated Consul, Buenos
+                            Aires, 5-13-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Ferrer, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>June 21, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec. Also 2d Sec., 10-30-65.<lb/>To Monrovia as V.C. &amp; 2d
+                            Sec., 5-9-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John C. Stephens</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 28, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec. Also 2 Sec. 5-13-66</cell>
+                    </row>
+                    <row>
+                        <cell>Nogales</cell>
+                        <cell>John R. Davis</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 12, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Albert J. Planagan</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Maurice N. Gralnek</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Charles T. Owens</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 11, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Michael M. Skol</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William F. Schrage</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lloyd M. Duffe</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Margot E. Reiner</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

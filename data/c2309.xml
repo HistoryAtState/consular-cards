@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2309" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guelph, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2308" type="prev"/>
+                <relatedItem target="c2310" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2309f1">
+                <graphic height="3632px" url="03076.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guelph, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03076</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2309">
+        <body>
+            <div corresp="#c2309f1">
+                <head>Guelph, Ontario, Canada!</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry P. Dill</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Feb. 15, 1883 Conf.</cell>
+                        <cell>to Oct. 1885 <lb/> suspended Oct. 16, 1885</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James U. Childs</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Apr. 28, 1886 Conf.</cell>
+                        <cell>Oct. 16, 1885 recede</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Loton S. Hunt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>June 18, 1890 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles N. Daly</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell/>
+                        <cell>Sept. 25, 1893 Conf.</cell>
+                        <cell>Superreded <lb/> Feb. 28, 1905 to Nov. 5, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard D. Van Bant</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell/>
+                        <cell>Jan. 11, 1905 Conf.</cell>
+                        <cell>Apptd Cons Kingston 9/15/1905.</cell>
+                    </row>
+                    <row>
+                        <cell>Catania</cell>
+                        <cell>Alexander Heingartner</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Sept. 15, 1905 recess Dec. 6, 1905 to <lb/> Dec. 12, 1905 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

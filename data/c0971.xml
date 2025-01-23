@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0971" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Panama, Colombia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0970" type="prev"/>
+                <relatedItem target="c0972" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0971f1">
+                <graphic height="3630px" url="01299.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Panama, Colombia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1879</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01299</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0971">
+        <body>
+            <div corresp="#c0971f1">
+                <head>Panama, Colombia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell>John M. Wilson</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell><unclear>Asignmate</unclear></cell>
+                        <cell>Apr. 3, 1879 Conf</cell>
+                        <cell>To Bremen Mar. 10, 1882.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William L. Serugge</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ga.</cell>
+                        <cell>Mar. 13, 1882 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Adamson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 17, 1883 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Adamson</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>Aug. 1, 1884</unclear>
+                            <lb/>
+                            <unclear>Dec. 11, 1884</unclear> Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Victor Viquaim</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>May. 29, 1893</unclear> Conf</cell>
+                        <cell>to Sept. 15, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hezekiah A. Judger</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N. Car.</cell>
+                        <cell><unclear>July 29, 1897</unclear>
+                            <lb/>
+                            <unclear>Jan. 5, 1898</unclear> Conf</cell>
+                        <cell><unclear>ex Panama</unclear>
+                            <lb/> at Panama, Panama <lb/>
+                            <unclear>Recommissioned</unclear> May 3, 1904</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

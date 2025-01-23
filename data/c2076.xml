@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2076" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Concepcion, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2075" type="prev"/>
+                <relatedItem target="c2077" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2076f1">
+                <graphic height="3636px" url="02777.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Concepcion, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02777</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2076">
+        <body>
+            <div corresp="#c2076f1">
+                <head>Concepción, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Valpa-raiso</cell>
+                        <cell>Camden L. McLain</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>May 1, 1924.</cell>
+                        <cell>Apptz V.C., Valparaiso Oct. 22,1924</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Con. Gen.</cell>
+                        <cell>John L. Steward</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Chila Pa.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 5, 1926.</cell>
+                        <cell>Resigned, effective Mar. 14, 1927.</cell>
+                    </row>
+                    <row>
+                        <cell>Iquique</cell>
+                        <cell>Camden L. McLain</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>Dec. 7, 1926.</cell>
+                        <cell>Apptd. V.C. Antofagasta, 8.30.30.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 31, 1930. Reapened Oct. 11, 1942.</p>
+                <p>Veljesrineo Lee M. Plunnsaker Vice Con. Utah Nov. 27, 1944 Jo La Paz V.C.
+                    1-7-48.</p>
+                <p>Vice Conculate to be closed on or about January 1, 1948.</p>
+                <p>Vice Consulate closed to the public December 5, 1947.</p>
+                <p>Vice Consulate officially closed December 31, 1947.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

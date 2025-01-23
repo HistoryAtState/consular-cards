@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2568" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bagdad, Turkey, Iraq</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2567" type="prev"/>
+                <relatedItem target="c2569" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2568f1">
+                <graphic height="3626px" url="03411.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bagdad, Turkey, Iraq</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03411</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2568">
+        <body>
+            <div corresp="#c2568f1">
+                <head>Bagdad, Turkey), Iraq.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Constan-<lb/>tinople</cell>
+                        <cell>A. Van Heznert Engert</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell>Austria</cell>
+                        <cell>Calif.</cell>
+                        <cell>Aug. 4, 1915.</cell>
+                        <cell>Remained at<lb/>Did not go to Bagdad Constantinople</cell>
+                    </row>
+                    <row>
+                        <cell>Constan-<lb/>tinople</cell>
+                        <cell>Bernard Sotlieb</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 24, 1917</cell>
+                        <cell>Appt'd V. C. Int., Cairo 3/10/1919</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1943" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brazoria, Texas, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1942" type="prev"/>
+                <relatedItem target="c1944" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1943f1">
+                <graphic height="3636px" url="02603.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brazoria, Texas, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1833</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02603</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1943">
+        <body>
+            <div corresp="#c1943f1">
+                <head>Brazoria, Texas, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Woodridge</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Miss.</cell>
+                        <cell>Oct. 17, 1833 recess<lb/>Oct. 17, 1833 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Parker</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>Mar. 29, 1824 Conf.<lb/>June 24, 1835 recess<lb/>Jan. 26, 1836 Conf.
+                            Resigned in U.S. June 19, 1837</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Young I. Porter</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Miss</cell>
+                        <cell>Oct. 9, 1838 recess<lb/>Feb. 5, 1839 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

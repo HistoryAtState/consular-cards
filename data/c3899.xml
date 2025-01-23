@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3899" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santo Domingo, Dom. Rep.</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3898" type="prev"/>
+                <relatedItem target="c3900" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3899f1">
+                <graphic height="3632px" url="05082.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santo Domingo, Dom. Rep.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1932</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05082</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3899">
+        <body>
+            <div corresp="#c3899f1">
+                <head>Santo Domingo, Dom. Rep.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Consulate</cell>
+                        <cell>Dudley &amp; Cyphers</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Conn.</cell>
+                        <cell>July 27, 1932.</cell>
+                        <cell>Trujillo Card. Jan. 9, 1936. <lb/> Name transferred to Ciudad</cell>
+                    </row>
+                    <row>
+                        <cell>Penang</cell>
+                        <cell>Linton Brook</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Colo.</cell>
+                        <cell>Colo.</cell>
+                        <cell>Nov. 12, 1934</cell>
+                        <cell>Name transferred to Ciudad <lb/> Trujillo Card. Jan. 9, 1936.</cell>
+                    </row>
+                </table>
+                <p>Name of Santo Domingo changed to Ciudad Trujillo by official decree.</p>
+                <p>dated Jan. 9, 1936. For future entries see Ciudad Trujillo Card.</p>
+                <p>SANTO DOMINGO, Dominican Republic (Formerly Ciudad Trujillo) eff. Nov. 23,
+                    1961.</p>
+                <p>For future entries see Santo Domingo card.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

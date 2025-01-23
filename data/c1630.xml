@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1630" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tsingtau, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1629" type="prev"/>
+                <relatedItem target="c1631" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1630f1">
+                <graphic height="3634px" url="02180.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsingtau, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1906</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02180</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1630f2">
+                <graphic height="3634px" url="02181.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsingtau, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1906</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02181</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1630">
+        <body>
+            <div corresp="#c1630f1"/>
+            <div corresp="#c1630f2">
+                <head>Tsingtan, China</head>
+                <p>Consul Willys R. Peck was detailed as Vice Consul General at Hankow under Section
+                    3, Act of Apr. 5, 1906 (tel. to Leg. Peking 1/30/14) &amp; Peck to return to
+                    Tsingtan Feb. 6, 1915.</p>
+                <p>Consul Peck was granted leave and closed the office temporarily October 3,
+                    1915.</p>
+                <p>Mr. A. I. Harr, the Standard Oil Co was asked by Consul Peck to maintain a
+                    general supervision of the Consular premises.</p>
+                <p>Consul Peck was stored to. Tsingtan April 4, 1916 - detailed temporarily to
+                    Legation at Peking Apr. 20, 1916.</p>
+                <p>Consul Peck was detailed to Trentsin as Vice in charge by Legation May 12, 1916;
+                    resumed duties at Tsingtan July 24, 1916.</p>
+                <p>Consul Peck was detailed; appt'd Consul, Class 6, Mar. 1, 1923.</p>
+                <p>Walter R. Adams, F.S.O., class 7, July 1, 1924; class 6 Aug. 8, 1924. Assigned to
+                    Chungking Apr. 10, 1925. Turned over office to V.C. Newbill Apr. 23, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

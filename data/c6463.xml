@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6463" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mali, Republic of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6462" type="prev"/>
+                <relatedItem target="c6464" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6463f1">
+                <graphic height="3604px" url="08551.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mali, Republic of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08551</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6463">
+        <body>
+            <div corresp="#c6463f1">
+                <head>MALI, Republic of</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Bamako</cell>
+                        <cell>Charles Steedman</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Belgrade</cell>
+                        <cell>David Anderson</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Benjamin Hill Hardy III</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert D. Brown</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Libre-ville</cell>
+                        <cell>Willis B. Collins, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Jan. 1, 1967</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

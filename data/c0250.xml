@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0250" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Holyhead, England-Wales</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0249" type="prev"/>
+                <relatedItem target="c0251" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0250f1">
+                <graphic height="3630px" url="00353.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Holyhead, England-Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00353</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0250">
+        <body>
+            <div corresp="#c0250f1">
+                <head>Holyhead, England, Wales</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert D. Jones</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1875.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Jones</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>July 19, 1883.</cell>
+                        <cell>Reg'd to date July 31, 1896.<lb/>to May 7, 1908.<lb/>Out &amp; closing
+                            of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard David Roberts</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Wales Wales</cell>
+                        <cell/>
+                        <cell>July 24, 1896.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard D. Roberts</cell>
+                        <cell>Con. Agt. Gr. Br. Wales Wales</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1909.</cell>
+                        <cell>Aug. 18, 1909 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Aug. 7, 1908.</p>
+                <p>Agency closed December 31, 1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

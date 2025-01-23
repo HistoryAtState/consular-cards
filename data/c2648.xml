@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2648" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karachi, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2647" type="prev"/>
+                <relatedItem target="c2649" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2648f1">
+                <graphic height="3606px" url="03515.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Karachi, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03515</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2648">
+        <body>
+            <div corresp="#c2648f1">
+                <head>Karachi, Pakistan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Lahore</cell>
+                        <cell>James W. Spain</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 18, 1951</cell>
+                        <cell>To Lahore KC 4-24-51<lb/>Assigned off. 8-15-53<lb/>TAS 1-1-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mrs. Margaret Mackirman V.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1952</cell>
+                        <cell>Assistant attache, assigned<lb/>to New Delhi. 4-11-55</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Richard W. Kashe</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Oct. 20, 1952</cell>
+                        <cell>Assigned asst. attache, (FSS)<lb/>Karachi 1-12-55.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Henry T. Andersen</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 2, 1954</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS)</cell>
+                        <cell>Henry E. Dumas</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 27, 1955</cell>
+                        <cell>Designated V.C. of career<lb/>Karachi - 10-1-56</cell>
+                    </row>
+                </table>
+                <p>On June 9, 1966, the American Embassy in Karachi was redesignated American
+                    Embassy<lb/>Branch Office.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

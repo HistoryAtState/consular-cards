@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1913" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bluefields, Nicaragua</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1912" type="prev"/>
+                <relatedItem target="c1914" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1913f1">
+                <graphic height="3638px" url="02563.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bluefields, Nicaragua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02563</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1913">
+        <body>
+            <div corresp="#c1913f1">
+                <head>Bluefields, Nicaragua</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of<lb/>state</cell>
+                        <cell>Alvin D. Rowe, Jr.</cell>
+                        <cell>J.S.Q</cell>
+                        <cell><unclear>Unc</unclear>. 3/26/1929</cell>
+                        <cell>Va.</cell>
+                        <cell>Sept. 14, 1929.</cell>
+                        <cell>appld a secy in the Dept Sero, June 19, 1931-<lb/>assigned to Legnat
+                            Bogota 3d Secy, July 6, 1931.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed April 29, 1933.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

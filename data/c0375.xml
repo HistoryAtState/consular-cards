@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0375" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kweilin, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0374" type="prev"/>
+                <relatedItem target="c0376" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0375f1">
+                <graphic height="3634px" url="00511.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kweilin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00511</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0375">
+        <body>
+            <div corresp="#c0375f1">
+                <head>Kweilin</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Kunming</cell>
+                        <cell>Richard M. Service</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.A.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 21, 1943</cell>
+                        <cell>To Kunming as O.C. 11-6-44.</cell>
+                    </row>
+                </table>
+                <p>Consulate at Kweilin closed on June 25, 1944.</p>
+                <p>" " reopened (Aug. 16, 1944 notice)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

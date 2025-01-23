@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3344" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oporto, Portugal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3343" type="prev"/>
+                <relatedItem target="c3345" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3344f1">
+                <graphic height="3630px" url="04382.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oporto, Portugal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04382</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3344">
+        <body>
+            <div corresp="#c3344f1">
+                <head>Oporto, Portugal</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>St. Michaels</cell>
+                        <cell>William P. Robertson</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Oct. 7, 1935</cell>
+                        <cell>To Ponta Delgada as Maritime Delegate 7-26-1945 to Bahia To
+                            Paramariboas Vice Consul 8-5-47</cell>
+                    </row>
+                    <row>
+                        <cell>Funchal</cell>
+                        <cell>Foster H. Kreis</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Minn. June</cell>
+                        <cell>June 24, 1944</cell>
+                        <cell>To Funchal (temp. detail) To Lisbon as Vice Consul 11-1-46</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Alvin E. Bandy</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Tenn.</cell>
+                        <cell>Oct. 1, 1946</cell>
+                        <cell>To Ponta Delgada as V.C. 9-21-53</cell>
+                    </row>
+                    <row>
+                        <cell>Lome</cell>
+                        <cell>Stanley Dr. Have</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 2, 1950</cell>
+                        <cell>Converted to 755 Appt-Regular assigned as Clerk-Steno to Ottawa
+                            1-6-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>MRS. Lydia D. Rodrigues</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 29, 1958</cell>
+                        <cell>Retired COB 8-31-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Georgette M. Everart</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 10, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Minna Krakauer</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick I. Rossi</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

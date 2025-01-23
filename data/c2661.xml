@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2661" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Khorramshahr, Iran</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2660" type="prev"/>
+                <relatedItem target="c2662" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2661f1">
+                <graphic height="3600px" url="03529.tif" width="6048px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Khorramshahr, Iran</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03529</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2661">
+        <body>
+            <div corresp="#c2661f1">
+                <head>Khorramshahr, Iran</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul qud 2d Sec. Tehran</cell>
+                        <cell>Rolland H. Bushner</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Okla.</cell>
+                        <cell>June 25, 1955</cell>
+                        <cell>20 Dept 4-8-56</cell>
+                    </row>
+                    <row>
+                        <cell>Polititical Officer</cell>
+                        <cell>Stanley J. Prislech</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>7-28-56</cell>
+                        <cell>Consul</cell>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 9, 1956</cell>
+                        <cell>P.S.O. assigned to Dept. 7-13-58</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John M. Bowie</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Md.</cell>
+                        <cell>April 7, 1958</cell>
+                        <cell>To Paris as 2d Sec. 9-18-60</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Frank E. Maestrone</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>July 25, 1960</cell>
+                        <cell>FSO assigned to Naval War College, Newport, R. I. 8-5-62</cell>
+                    </row>
+                    <row>
+                        <cell>Political Officer Berlin</cell>
+                        <cell>Thomas A. Donovan</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Sept. 3, 1962</cell>
+                        <cell>FSO assigned to the Dept., 5-9-65</cell>
+                    </row>
+                    <row>
+                        <cell>Aleppo</cell>
+                        <cell>Ellis O. Jones III</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Sept. 28, 1964</cell>
+                        <cell>To Taiz as 2d Sec., 12-18-66.</cell>
+                    </row>
+                    <row>
+                        <cell>F.S.R. Officer USIA - Washington</cell>
+                        <cell>William B. Maillefert</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>August 1, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

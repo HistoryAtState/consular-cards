@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3569" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pusan, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3568" type="prev"/>
+                <relatedItem target="c3570" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3569f1">
+                <graphic height="3628px" url="04662.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pusan, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1951</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04662</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3569">
+        <body>
+            <div corresp="#c3569f1">
+                <head>Pusan, Korea</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>The Hague</cell>
+                        <cell>Robert C. Arnold Cancelled</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Aug. 16, 1951</cell>
+                        <cell>Resigned off. Co5 12-13-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gene A. McDaniel</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Apr. 17, 1952</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fred C. Thomas Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 14, 1952</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Durban</cell>
+                        <cell>Virgil C. Brichard</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>April 23, 1952</cell>
+                        <cell>To México as V.C. 6-10-54</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James J. Manning</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 13, 1952</cell>
+                        <cell>45198-1-53 Termination RiF<lb/>10-29-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James E. Markey Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 18, 1952</cell>
+                        <cell>To Bangkok per Pal. aff. 8/17-53<lb/>dost. 8/1/53. USA 18-1-55</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard G. Horomanski</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 13, 1952</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>The Hague</cell>
+                        <cell>Robert C. Arnold</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 9, 1951</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Benghazi</cell>
+                        <cell>Webber J. Mason</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 18, 1954</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

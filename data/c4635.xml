@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4635" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Buenos Aires, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4634" type="prev"/>
+                <relatedItem target="c4636" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4635f1">
+                <graphic height="3626px" url="06041.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenos Aires, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06041</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4635f2">
+                <graphic height="3626px" url="06042.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Buenos Aires, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06042</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4635">
+        <body>
+            <div corresp="#c4635f1">
+                <head>Buenos Aires, Argentina</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Barbados<lb/>Vice Consul<lb/>La Paz<lb/>Vice
+                            Consul<lb/>Panama<lb/>Vice Consul<lb/>Warsaw</cell>
+                        <cell>Samuel H. Young<lb/>Park J. Wolland Cancelled<lb/>Oscar R.
+                            Puerra<lb/>James B. Harnett<lb/>Richard S. Sampson<lb/>Abraham
+                            Vigil<lb/>Robert F. Florstedt<lb/>Blair A. Moffett</cell>
+                        <cell>Vice Consul U.S.<lb/>Vice Consul U.S.<lb/>Vice Consul U.S.<lb/>Vice
+                            Consul U.S.<lb/>Vice Consul U.S.<lb/>Vice Consul U.S.<lb/>Vice
+                            Consul<lb/>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Fla.<lb/>Calif.<lb/>Texas.<lb/>Iowa<lb/>Colo.<lb/>Ohio<lb/>Pa.<lb/></cell>
+                        <cell>Mar. 30, 1948<lb/>June 2, 1949<lb/>Nov. 23, 1949<lb/>Sept. 5,
+                            1950<lb/>Dec. 15, 1950<lb/>Feb. 1, 1952<lb/>Feb. 9, 1954</cell>
+                        <cell>Alss Asst. Attache 7-13-49.<lb/>To Valpariso as ve 12.13-50<lb/>To
+                            Santiago decuba asVe.<lb/>4-2-55.<lb/>To Tehran as
+                            Communicationss<lb/>Supervisor 7.30-52.<lb/>Designated Const.
+                            Attache,<lb/>Buenos Aires 7-23-52.<lb/>Designated asst.
+                            Attache<lb/>Buenos Aires 11-7-52.<lb/>To México as V.C.,
+                            3-18-65<lb/>Resigned CoB6-28-54.<lb/>Designated ve. (F.S.O.)<lb/>Buenos
+                            Aires <unclear>and</unclear> 2-5-55.<lb/>assigned as Assistant
+                            Attache<lb/>Buenos Aires (FSS) 6-16-57.</cell>
+                    </row>
+                    <row>
+                        <cell>V. c.<lb/>BOGOTA<lb/>V.C.<lb/>São Paulo</cell>
+                        <cell>Edward P. Kardas<lb/>Stewart D. Burton<lb/>Miss Margaret E.
+                            Rea<lb/>Robert Prieto</cell>
+                        <cell>Vice Cons.<lb/>Vice Cons.<lb/>V. Consul<lb/>V. Cons.</cell>
+                        <cell/>
+                        <cell>May 26, 1954<lb/>Feb. 1, 1955<lb/>Sept. 29, 1965<lb/>Nov 26,
+                            1962</cell>
+                        <cell>755 assigned to the<lb/>Dept., 9-12-65.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4635f2">
+                <head>Maracaibo</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>John Charles Murray</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>Buenos Aires, Argentina</cell>
+                        <cell>Special appointment</cell>
+                        <cell/>
+                        <cell>Jan. 13, 1949</cell>
+                        <cell>To Maracaibo 6-5-50</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Williams R. Hazen</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>Buenos Aires, Argentina</cell>
+                        <cell>Special Appointment</cell>
+                        <cell>Apr. 6, 1950</cell>
+                        <cell>terminated 1-14-53</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

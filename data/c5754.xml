@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5754" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5753" type="prev"/>
+                <relatedItem target="c5755" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5754f1">
+                <graphic height="3618px" url="07520.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07520</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5754">
+        <body>
+            <div corresp="#c5754f1">
+                <head>CANADA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Ottawa</cell>
+                        <cell>Charles A. Kiselyak</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>FSO assigned to the Dept., 8-29-65.</cell>
+                    </row>
+                    <row>
+                        <cell>AID</cell>
+                        <cell>B. Winfred Ruffner</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Apr. 1, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss H. Alberta Colclaser</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>July 18, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Cornelia Anne Bryant</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 6, 1965</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C. To Vancouver as VS., 11-7-66.</cell>
+                    </row>
+                    <row>
+                        <cell>México</cell>
+                        <cell>Miss Claretta L. Krueger</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Canadian Nat'l Defence College, Kingston, Can.</cell>
+                        <cell>Charles G. Wootton</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Aug. 1, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Counselor of Embassy for economic affairs</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Robert K. Olson</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Sept. 26, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>John L. Gawf</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Aug. 29, 1965</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0026" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aintab, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0025" type="prev"/>
+                <relatedItem target="c0027" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0026f1">
+                <graphic height="3632px" url="00039.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aintab, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00039</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0026f2">
+                <graphic height="3632px" url="00040.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aintab, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1860</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00040</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0026">
+        <body>
+            <div corresp="#c0026f1">
+                <head>Aintab, Turkey, <unclear/>under Beirut</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nazar Nazarian</cell>
+                        <cell>Con. Agt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sep. 20, 1866.</cell>
+                        <cell>Objected to by Turkish<lb/>Govt<lb/>July 1873 to 1875</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Nazar Nazarian</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 24, 1873</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Lee Norris</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug 20, 1877</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gillman C. Trowbridge</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 25, 1878</cell>
+                        <cell>Resigned June 30, 1885. -Withdrawn<lb/>Died July 20, 1888</cell>
+                    </row>
+                </table>
+                <p>Office closed March 31, 1889. (Archive at Beirut) (Ordered closed Feb.)</p>
+            </div>
+            <div corresp="#c0026f2">
+                <head>Aintab, Turkey.</head>
+                <p>Samuel di Picciotto, Agt at Marash. Acting Agt at Rintal also June 1860 to July
+                    1873?</p>
+                <table>
+                    <row role="label">
+                        <cell>C. S. Sanders</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>2 or 3 months summer of 1884</cell>
+                    </row>
+                    <row>
+                        <cell>C. S. Sanders</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Acting in charge (absence of Agt) July, 1885 to (2 or 3 mos)</cell>
+                    </row>
+                    <row>
+                        <cell>C. S. Sanders</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Nov. 8, 1886 to (some months)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

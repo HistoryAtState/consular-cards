@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3610" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Recife, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3609" type="prev"/>
+                <relatedItem target="c3611" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3610f1">
+                <graphic height="3620px" url="04714.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Recife, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04714</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3610">
+        <body>
+            <div corresp="#c3610f1">
+                <head>RECIFE, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. Riode Janeiro V.C.</cell>
+                        <cell>Samuel H. Weaver Cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>To Santo Domingo as Attache, (7SR), 8-15-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. São Paulo</cell>
+                        <cell>Lee G. Mestres</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 28,1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. São Paulo 2d Sec. + V.C. Conakry</cell>
+                        <cell>Datus C. Proper cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 28, 1963</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Designated Consul Recife, 4-13-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugh Cooke MacDougall</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Dec. 23, 1964</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>To Belo Horizonte as VC (7SR)(USIA), 8-2-64. Designated Consul,
+                            Recife, 3.11-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Challinor</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 3,1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stephen F. Creane</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 3, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>F.J. Reserve Officer assigned to Dept. 2-12-67.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter C. d'Andrade</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 9, 1964</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ponta Delgada</cell>
+                        <cell>William P. Kelly</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert W. Stone</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May 10, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert S. Snow</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 16,1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>To Belém as V.C. (7SR)(USIA) cancelled F.S.R. Off. assigned to Agency
+                            2-27-67</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Allen Thomas</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

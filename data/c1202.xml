@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1202" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sandakan, British North Borneo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1201" type="prev"/>
+                <relatedItem target="c1203" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1202f1">
+                <graphic height="3634px" url="01600.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sandakan, British North Borneo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01600</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1202f2">
+                <graphic height="3638px" url="01601.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sandakan, British North Borneo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01601</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1202">
+        <body>
+            <div corresp="#c1202f1">
+                <head>Sandakan, British North Borneo.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Tucker Wardrop</cell>
+                        <cell>Con Agt.</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 4, 1904.</cell>
+                        <cell>superseded<lb/>May 9, 1906 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Granville J. Altman</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 2, 1906.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Nightingale</cell>
+                        <cell>V. Con US.</cell>
+                        <cell>US.</cell>
+                        <cell>Canton, Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Aug 14, 1906.</cell>
+                        <cell>Did not qualify.<lb/>Reapptd to give name<lb/>in full Apr. 21,
+                            1909.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Wardrop</cell>
+                        <cell>Vice Con. Gr.Br.</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 2, 1907.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>VC.</cell>
+                        <cell>John Nimmo Wardrop</cell>
+                        <cell>Vice Con. Gr.Br.</cell>
+                        <cell>B.N.B.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 21, 1909.</cell>
+                        <cell>Out &amp; closing of Consulate</cell>
+                    </row>
+                </table>
+                <p>Consulate ordered closed May 20, 1916.</p>
+            </div>
+            <div corresp="#c1202f2">
+                <head>Sandakan, Br. No. Borneo.</head>
+                <p>John Nimmo Wardrop. V.C. in ekg. of Consulate (departure of Con. Baker)</p>
+                <p>to turned it over to Consul Hanson June 30, 1917.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

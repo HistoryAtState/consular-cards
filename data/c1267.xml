@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1267" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chanaral, Chile-Antofagasta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1266" type="prev"/>
+                <relatedItem target="c1268" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1267f1">
+                <graphic height="3632px" url="01685.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chanaral, Chile-Antofagasta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01685</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1267">
+        <body>
+            <div corresp="#c1267f1">
+                <head>Chanaral, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Archibald</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 27, 1927.</cell>
+                        <cell>Agency opened <lb/> Sat. 14, 1927. <lb/> Res. 1930.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ferdinand &amp; Libenow</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Jan. 20, 1930.</cell>
+                        <cell>Serv. teru, ac closing of Agency.</cell>
+                    </row>
+                </table>
+                <p>Agency closed November 30, 1932.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

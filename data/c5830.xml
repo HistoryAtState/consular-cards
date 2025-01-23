@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5830" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5829" type="prev"/>
+                <relatedItem target="c5831" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5830f1">
+                <graphic height="3614px" url="07629.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07629</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5830f2">
+                <graphic height="3614px" url="07630.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07630</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5830">
+        <body>
+            <div corresp="#c5830f1">
+                <head>Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Enrique Trigueros</cell>
+                        <cell>Clerk</cell>
+                        <cell>dai fain</cell>
+                        <cell>Spain</cell>
+                        <cell>1896</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Randolph</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>April,</cell>
+                        <cell>1907</cell>
+                        <cell>Resigned about June 5, 1909.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William M. Mackie</cell>
+                        <cell>"</cell>
+                        <cell>Mass, Mass.</cell>
+                        <cell>June 29, 1909</cell>
+                        <cell>Resigned Dec. 14, 1910</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James M. Bowcock</cell>
+                        <cell>"</cell>
+                        <cell>W.Va, Colo.</cell>
+                        <cell>Feb. 8, 1911.</cell>
+                        <cell>Resigned June 8, 1912.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Willis J. Plummer</cell>
+                        <cell>"</cell>
+                        <cell>Va. Va.</cell>
+                        <cell>July 1, 1912.</cell>
+                        <cell>Reigned June 1, 1914.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert W. Bryan</cell>
+                        <cell>"</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>May 16, 1914</cell>
+                        <cell>Resigned, Sept. 23, 1915.</cell>
+                        <cell>(Financial irregularities)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William E. Linden</cell>
+                        <cell>"</cell>
+                        <cell>D.C. D.C.</cell>
+                        <cell>Jan. 17, 1916.</cell>
+                        <cell>Resignation accepted (tel) Mar. 2, 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Charles Y. Morgan</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Apr. 19, 1917</cell>
+                        <cell>(see over) Paid from war fund.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur A. Asech</cell>
+                        <cell>"</cell>
+                        <cell>Pecos, N.Mex. N.Mex.</cell>
+                        <cell>Mar. 9, 1918.</cell>
+                        <cell>Resigned effective Mar. 15, 1919</cell>
+                        <cell>on account of ill health.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5830f2">
+                <head>Spain.</head>
+                <p>Charles G. Morgan, lately at Vienna, appointed Clerk at Madrid Apr. 19, 1917 at a
+                    salary of $1800 pa. Remained at Berne Apr. 23, 1917, instead of Morgan</p>
+                <p>Isaac A. Miller, " " " " " " " " </p>
+            </div>
+        </body>
+    </text>
+</TEI>

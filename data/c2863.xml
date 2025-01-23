@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2863" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luxembirg-Luxemburg, Grand Duchy of Luxenburg</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2862" type="prev"/>
+                <relatedItem target="c2864" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2863f1">
+                <graphic height="3628px" url="03774.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Luxembirg-Luxemburg, Grand Duchy of Luxenburg</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03774</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2863">
+        <body>
+            <div corresp="#c2863f1">
+                <head>Luxemburg, Grand Duchy of Luxemburg</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. Murphy</cell>
+                        <cell>Consul Gen. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>No. Car</cell>
+                        <cell>June 30, 1893.</cell>
+                        <cell>Office opened Feb. 13, 1896.</cell>
+                        <cell>Apr. 25, 1904 to Dec. 13, 1912 <lb/> Died at Post Dec. 13, 1912</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Derulle</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 23, 1904.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Desiré Derulle</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Lysem-Lysem-Lysem</cell>
+                        <cell>burg burg burg</cell>
+                        <cell>Jan. 11, 1913.</cell>
+                        <cell>Died at Post May 24, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Formuly<lb/>Sec. &amp;<lb/>Lisbot</cell>
+                        <cell>Ghent Donald E. T. Sherman</cell>
+                        <cell>Vice Con. U.S. Belgium</cell>
+                        <cell>Mass. June 15, 1927.</cell>
+                        <cell>Died at London, England, Dec. 27, 1935.</cell>
+                        <cell>Appt'd V.C. Ghent Oct. 1, 1927. <lb/> Nov. 10, 1927 to <lb/> Resigned
+                            effective Oct. 1, 1928.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Eving Moore</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y. N.Y.</cell>
+                        <cell>Dec. 27, 1928.</cell>
+                        <cell>Assigned to Florence, May 12, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick L. Washbourne</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Denu Denu</cell>
+                        <cell>Sept. 3, 1930.</cell>
+                        <cell>Appt'd V.C., Port Said Jan. 3, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Belfast</cell>
+                        <cell>Hade Blackard</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Legation at Luxembourg was re established 9-23-44.</p>
+                <p>And will function as a combined office.</p>
+                <table>
+                    <row role="label">
+                        <cell>Bern</cell>
+                        <cell>John Tuck Sherman</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 14, 1945. 6-2-50</cell>
+                        <cell>Designated Consul, Luxembourg</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John L. Leonard</cell>
+                        <cell>V.C.</cell>
+                        <cell>Penn.</cell>
+                        <cell>July 3, 1956</cell>
+                        <cell/>
+                        <cell>to Nagoya as V.C. 10-20-58</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

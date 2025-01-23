@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5097" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Helsingfors-Helsinki, Finland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5096" type="prev"/>
+                <relatedItem target="c5098" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5097f1">
+                <graphic height="3604px" url="06617.tif" width="6054px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Helsingfors-Helsinki, Finland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06617</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5097">
+        <body>
+            <div corresp="#c5097f1">
+                <head>Helsingfors, Finland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Bordeaux</cell>
+                        <cell>Archibald E. Gray</cell>
+                        <cell>8.4.0.</cell>
+                        <cell>8</cell>
+                        <cell>10/9/1935</cell>
+                        <cell>Consul 10-1-35</cell>
+                        <cell>Pa.</cell>
+                        <cell>Oct. 4, 1935</cell>
+                        <cell>asegod. also as ad secy of Login. Oct. 4/35<lb/>Name transferred to
+                            Helsinki card.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Herbert D. Goold</cell>
+                        <cell>Do</cell>
+                        <cell>1</cell>
+                        <cell>4/11/1936</cell>
+                        <cell>Cou. Sen. 10-24-30</cell>
+                        <cell>Calif.</cell>
+                        <cell>continued under assign-dealer of gin, Helsingfors<lb/>ment of July 12,
+                            1934 amend to Forge</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>George Ou</cell>
+                        <cell>Do</cell>
+                        <cell>5</cell>
+                        <cell>7/24/1930R</cell>
+                        <cell>Cousel 6-4-20</cell>
+                        <cell><unclear>ng</unclear>.</cell>
+                        <cell>May 27, 1936</cell>
+                        <cell>Is also 2d Secy of Lagin., Helsingfors<lb/>Died at Post, Apr. 3,
+                            1937.</cell>
+                    </row>
+                </table>
+                <p>Name changed to Helsinki</p>
+            </div>
+        </body>
+    </text>
+</TEI>

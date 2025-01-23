@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0086" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antigua, Leeward Islands, British West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0085" type="prev"/>
+                <relatedItem target="c0087" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0086f1">
+                <graphic height="3624px" url="00126.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antigua, Leeward Islands, British West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1939</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00126</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0086">
+        <body>
+            <div corresp="#c0086f1">
+                <head>Antigua, Leeward Islands, British West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V. Consul</cell>
+                        <cell>Frank A. Schuler, St.</cell>
+                        <cell>F.D.O.</cell>
+                        <cell>8</cell>
+                        <cell>6-8-39</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Assgid. to Lisbon 1943 <lb/> To Windsor, Ontario, Canada <lb/>
+                            4-24-43</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>4-1-39c</cell>
+                        <cell>12-20-41c</cell>
+                        <cell>Mich</cell>
+                        <cell>Dec 27, 1944</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Opened to public on February 27, 1942.</p>
+                <p>Consulate officially closed September 21, 1942.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

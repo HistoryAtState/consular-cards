@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3768" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rosario, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3767" type="prev"/>
+                <relatedItem target="c3769" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3768f1">
+                <graphic height="3636px" url="04920.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rosario, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04920</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3768">
+        <body>
+            <div corresp="#c3768f1">
+                <head>Rosario, Argentina.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>H. Claremont Moses</cell>
+                        <cell>Vice Con. U. S.</cell>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell>Oct. 7, 1927.</cell>
+                        <cell>(apptd. V.C. Saltillo, Jan. 15, 1932) <lb/> Res. close of Nov. 20,
+                            1931.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed January 31, 1933</p>
+                <p>Consulate re-opened on August 5, 1942.</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>Tobias E. Matthews</cell>
+                        <cell>V. Con.</cell>
+                        <cell>N.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 5, 1942</cell>
+                        <cell>Terminated: December 1943.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

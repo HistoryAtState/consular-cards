@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3405" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Para, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3404" type="prev"/>
+                <relatedItem target="c3406" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3405f1">
+                <graphic height="3624px" url="04457.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Para, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04457</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3405">
+        <body>
+            <div corresp="#c3405f1">
+                <head>Pará, Brazil (See Belim, Pará, Brazil)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Juaymae</cell>
+                        <cell>Franklin V.C. Jame</cell>
+                        <cell>Vice Consul <unclear>U.S.</unclear></cell>
+                        <cell/>
+                        <cell>Fla.</cell>
+                        <cell/>
+                        <cell>July 17, 1946</cell>
+                        <cell>also Adm. Assist.<lb/>Resigned off.. <unclear>C.O.B.</unclear>
+                                10-9-47.<lb/><unclear>Inteffining</unclear> under accign - Alco Adm.
+                            Asse. 7-1-46.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>F.S.Cup.</cell>
+                        <cell>George Henry Zenty</cell>
+                        <cell>Vice Consul <unclear>U.S.</unclear></cell>
+                        <cell/>
+                        <cell>Minn. mene of Affail 30, 1946</cell>
+                        <cell>To Moricali as V.C. 11-20-47<lb/>Assigned Consul-7-1-48 Apptd Com.
+                            6-4-48e</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Natal</cell>
+                        <cell>George I. Colman</cell>
+                        <cell>Vice Consul <unclear>U.S.</unclear></cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 23, 1947</cell>
+                        <cell>To Naples as V.C. 1-25-50.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Moran, 3<sup>rd</sup></cell>
+                        <cell>Vice Consul <unclear>U.S.</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1947</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Name changed from Pará to Belem effective 2/28/49<lb/>See DA. Mailing Notice
+                    25</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1041" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Point de Galle, Ceylon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1040" type="prev"/>
+                <relatedItem target="c1042" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1041f1">
+                <graphic height="3624px" url="01390.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Point de Galle, Ceylon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1877</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01390</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1041f2">
+                <graphic height="3626px" url="01391.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Point de Galle, Ceylon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01391</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1041">
+        <body>
+            <div corresp="#c1041f1">
+                <head>Point de Galle, Ceylon. (see Ceylon)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. J. Delmege</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mar. 26, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Bussell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>Sept. 2, 1881.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Staines Clark</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 22, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold F. Blyth</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 17, 1893.</cell>
+                        <cell>Resigned Apr. 10, 1895.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hermann Breitenstein</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 10, 1896.</cell>
+                        <cell>Resigned May 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emil Bretscher</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Sevity</unclear>.</cell>
+                        <cell>June 9, 1899.</cell>
+                        <cell>Resigned Nov? 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jean Steiger</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 6, 1902.</cell>
+                        <cell>Resigned Dec. 1906.</cell>
+                    </row>
+                </table>
+                <p>Agency closed Feb. 28, 1907.</p>
+            </div>
+            <div corresp="#c1041f2">
+                <head>Point de Galle, Ceylon,</head>
+                <p>Otto Steiner, a Swiss citizen in charge of Agency Jan. 1, 1907 to Feb. 28,
+                    1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

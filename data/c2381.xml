@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2381" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Esbjerg, Denmark</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2380" type="prev"/>
+                <relatedItem target="c2382" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2381f1">
+                <graphic height="3636px" url="03174.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Esbjerg, Denmark</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03174</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2381">
+        <body>
+            <div corresp="#c2381f1">
+                <head>Esbjerg, Denmark.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><unclear>Romeyn</unclear> Wormuth</cell>
+                        <cell>Con. 8</cell>
+                        <cell><unclear>4/5/1918</unclear></cell>
+                        <cell>U.S.</cell>
+                        <cell>Port Leyden N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 7, 1918.</cell>
+                        <cell>Detailed to Copenhagen 7/8/1919</cell>
+                    </row>
+                </table>
+                <p>Consulate ordered, closed July 1, 1919. Closed July 17, 1919</p>
+            </div>
+        </body>
+    </text>
+</TEI>

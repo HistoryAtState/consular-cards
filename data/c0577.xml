@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0577" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mazagan, Morocco</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0576" type="prev"/>
+                <relatedItem target="c0578" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0577f1">
+                <graphic height="3640px" url="00784.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mazagan, Morocco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00784</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0577">
+        <body>
+            <div corresp="#c0577f1">
+                <head>Mazagan, Morocco.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Alfred Fedman</cell>
+                        <cell>Con. Agt</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 28, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Meier Coker</cell>
+                        <cell>Con. Agent Morocco</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>July 8, 1887.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Daniel Madden</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>Aug. 23, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Leon Roffe</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Apr. 3, 1894.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell>John J. De Maria</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>Nov. 5, 1896.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency abolished.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

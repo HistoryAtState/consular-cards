@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0771" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oruro, Bolivia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0770" type="prev"/>
+                <relatedItem target="c0772" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0771f1">
+                <graphic height="3640px" url="01045.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oruro, Bolivia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01045</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0771">
+        <body>
+            <div corresp="#c0771f1">
+                <head>Oruro, Bolivia:</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Port Antonio</cell>
+                        <cell>Ross Hazeltine</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/14/1917</cell>
+                        <cell>Ind.</cell>
+                        <cell>Ind.</cell>
+                        <cell>Aug. 31, 1918.</cell>
+                        <cell>Assigned to La Paz Sept. 30, 1918. <lb/> Acting Consul at La Paz Sept.
+                            5, 1919 <lb/> Did not go to Post (Oruro)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

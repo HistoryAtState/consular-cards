@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2728" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kuwait, State of Kuwait</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2727" type="prev"/>
+                <relatedItem target="c2729" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2728f1">
+                <graphic height="3600px" url="03609.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kuwait, State of Kuwait</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03609</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2728">
+        <body>
+            <div corresp="#c2728f1">
+                <head>KUWAIT, STATE OF KUWAIT (Sept. 22, 1961)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles 0. Cecil</cell>
+                        <cell>FSO 7</cell>
+                        <cell/>
+                        <cell>June 20, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel H. Wyman</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+                <row role="label">
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell/>
+                    <cell>REMARKS</cell>
+                </row>
+            </div>
+        </body>
+    </text>
+</TEI>

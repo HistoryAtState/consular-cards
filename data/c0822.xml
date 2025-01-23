@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0822" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reynosa, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0821" type="prev"/>
+                <relatedItem target="c0823" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0822f1">
+                <graphic height="3644px" url="01110.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Reynosa, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01110</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0822">
+        <body>
+            <div corresp="#c0822f1">
+                <head>Reynosa, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Matamoros</cell>
+                        <cell>Edward S. Parker</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>S. Car.</cell>
+                        <cell>S. Car</cell>
+                        <cell>April 20, 1942</cell>
+                        <cell>To Matamoros, Mel.</cell>
+                    </row>
+                    <row>
+                        <cell>Matamoros</cell>
+                        <cell>Henry S. Krousse</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jesus</cell>
+                        <cell>Jeba</cell>
+                        <cell>May 13, 1942</cell>
+                        <cell>May 13, 1942<lb/>Apptd Consul, F.S.S. 12-23-46<lb/>Assigned Consul,
+                            F.S.S., Reynosa, 1-31-47<lb/>Alre Adm. Asst.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Weston A. Hall</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Jepar</cell>
+                        <cell>"</cell>
+                        <cell>Continuing under appointment<lb/>of June 14, 1946.</cell>
+                        <cell>To Caracas as Vice Consul 7-29-47<lb/>To Barcelona as V.C.
+                            3-13-50.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>John A. Tarice</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 29, 1947</cell>
+                        <cell>Termination off. cob<lb/>9-24-53.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Norman L. Canaler</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 21, 1950</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Monterrey</cell>
+                        <cell>Owen L. Steele</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1950</cell>
+                        <cell>Designated Consul, Reynosa<lb/>10-24-51.</cell>
+                    </row>
+                    <row>
+                        <cell>Tijuana</cell>
+                        <cell>William G. Price</cell>
+                        <cell>Vice Consul U.S</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ark. Oct. 1, 1951</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Santos</cell>
+                        <cell>Cancelled</cell>
+                        <cell>Vice Cons. US</cell>
+                        <cell/>
+                        <cell>Calif. Oct. 14, 1953</cell>
+                        <cell/>
+                        <cell>To MATAMOROS as V.C. 4-19-54</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Allen P. McNeill, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 12, 1954</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Matamoros</cell>
+                        <cell>Raymond Bastianello</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed to the public July 15, 1954. Officially closed July 29, 1954.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

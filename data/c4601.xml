@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4601" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bucharest, Roumania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4600" type="prev"/>
+                <relatedItem target="c4602" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4601f1">
+                <graphic height="3638px" url="05996.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bucharest, Roumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05996</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4601f2">
+                <graphic height="3638px" url="05997.tif" width="6020px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bucharest, Roumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05997</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4601">
+        <body>
+            <div corresp="#c4601f1">
+                <head>Bucharest, Roumania.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Jumis</cell>
+                        <cell>Edwin Carl Kemp</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell>9/1/1916</cell>
+                        <cell>Mass. Fla.</cell>
+                        <cell>May 27, 1919</cell>
+                        <cell>Appt'd Consul, Class 6 Sep. 5, 1919</cell>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>Edwin Carl Kemp</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/19/19</cell>
+                        <cell>Mass Fla.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd Consul, Class 5 June 4, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Class 6</cell>
+                        <cell>Edwin Carl Kemp</cell>
+                        <cell>Con.</cell>
+                        <cell>5</cell>
+                        <cell>6/4/1920</cell>
+                        <cell>Mass. Fla.</cell>
+                        <cell>Do</cell>
+                        <cell>Detailed to Budapest Nov. 11, 1920 <lb/> Jan. 15, 1921 to</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of</cell>
+                        <cell>State</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>Mo. D.C.</cell>
+                        <cell>Nov. 20, 1920</cell>
+                        <cell>Resigns, effective Nov. 22, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>Felix Cole</cell>
+                        <cell>Con.</cell>
+                        <cell>4</cell>
+                        <cell>6/4/1920</cell>
+                        <cell>R.I. R.I.</cell>
+                        <cell>Aug. 25, 1921</cell>
+                        <cell>Appt'd Consul, Class 3 Nov. 23, 1921</cell>
+                    </row>
+                    <row>
+                        <cell>Class 4</cell>
+                        <cell>Ely E. Palmer</cell>
+                        <cell>Con.</cell>
+                        <cell>3</cell>
+                        <cell>1/23/1921</cell>
+                        <cell>R.I. R.I.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd C.G., Class 4 June 5, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul,</cell>
+                        <cell>Ely E. Palmer</cell>
+                        <cell>C.G.</cell>
+                        <cell>4</cell>
+                        <cell>6/5/1924</cell>
+                        <cell>R.I. R.I.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd F.S.O., Class 3 July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>See</cell>
+                        <cell>Ely E. Palmer</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>3</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R. Con. Gen.</cell>
+                        <cell/>
+                        <cell>Continued under assign<lb/>ment of Aug. 25, 1921. Assigned to
+                            Vancouver 8-3-29</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>above</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>6-5-24.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Alexandria</cell>
+                        <cell>Rives Childs</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Consul</cell>
+                        <cell>Va.</cell>
+                        <cell>May 14, 1925.</cell>
+                        <cell>Appt'd F.S.O. Class 7, May 23, 1929</cell>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>Rives Childs</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>5/23/1929</cell>
+                        <cell>Do</cell>
+                        <cell>Do</cell>
+                        <cell>apptd. a Secy in the dip. Serv., Feb. 17, <lb/> 1930, assigned to
+                            Cairo as 2d Secy. <lb/> Feb. 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Bagdad</cell>
+                        <cell>John Randolph</cell>
+                        <cell>Do</cell>
+                        <cell>5</cell>
+                        <cell>5/23/1929</cell>
+                        <cell>Consul</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 30, 1929.</cell>
+                        <cell>Appt'd F.S.O. Class 4, Feb. 4, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Winfield H. Scott</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>5/23/1929</cell>
+                        <cell>Consul</cell>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 18, 1930.</cell>
+                        <cell>Appt'd F.S.O. Class 7, Feb. 4, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>Harry L. Troutman</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>12/19/1929</cell>
+                        <cell>Consul</cell>
+                        <cell>Ga.</cell>
+                        <cell>Jan. 3, 1931.</cell>
+                        <cell>Appt'd F.S.O. Class 6, Dec. 17, effec. 7-1-31</cell>
+                    </row>
+                    <row>
+                        <cell>Class 5</cell>
+                        <cell>John Randolph</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>2/4/1931</cell>
+                        <cell>Consul</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Continued under assign<lb/>ment of July 30, 1929. Assigned to Quebec,
+                            Nov. 2, 1931.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4601f2">
+                <head>Bucharest, Roumania.</head>
+                <p>Edwin Carl Kemp, was left in charge of the Legation by Chargé Bailey upon his
+                    departure Sept 15, 1920.</p>
+                <p>Edward Caffery, lately F.S.O., Unclassified, also V.C., was appointed to Habana
+                    Apr 4, 1935.</p>
+                <p>John Randolph, Consul, temporarily detailed to Dept. of State for period of not
+                    to exceed 10 days from Mar. 1, 1930.</p>
+                <p>J. Rives Childs, Consul, temp. detailed to Dept. of State for period July 21 to
+                    Sept. 30, 1930, inc., July 17, 1930.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

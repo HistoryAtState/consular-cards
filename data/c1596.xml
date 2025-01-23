@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1596" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Torreon, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1595" type="prev"/>
+                <relatedItem target="c1597" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1596f1">
+                <graphic height="3632px" url="02129.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Torreon, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02129</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1596">
+        <body>
+            <div corresp="#c1596f1">
+                <head>Torreón, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul <lb/> Santiago</cell>
+                        <cell>Camden L. M. Lain</cell>
+                        <cell>755</cell>
+                        <cell/>
+                        <cell>Consul Va.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 11, 1952</cell>
+                        <cell>To Barranquilla as <lb/> Cons. 9-17-53</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to the public July 9, 1953. Officially closed July 2, 1953.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

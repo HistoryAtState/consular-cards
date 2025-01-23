@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4940" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fukuoka, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4939" type="prev"/>
+                <relatedItem target="c4941" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4940f1">
+                <graphic height="3632px" url="06413.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fukuoka, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06413</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4940">
+        <body>
+            <div corresp="#c4940f1">
+                <head>Fukuoka, Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. EDMONTON</cell>
+                        <cell>George A. Byland</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 8, 1951</cell>
+                        <cell>Resigned off. CoB 10.13.54 <lb/> To Tehran on 755 Gen. Seris. <lb/>
+                            ant-8-23-59.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur B. Corcoran</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wash.</cell>
+                        <cell>May 17, 1954</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel V. Renda</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 2, 1960</cell>
+                        <cell>To Warsaw as <lb/> Jan. 21, 1963 Attaché (FSS) 7-17-66</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Warren E. Wills</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

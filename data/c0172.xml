@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0172" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canton, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0171" type="prev"/>
+                <relatedItem target="c0173" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0172f1">
+                <graphic height="3640px" url="00250.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canton, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00250</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0172">
+        <body>
+            <div corresp="#c0172f1">
+                <head>Canton, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. + 2d secy</cell>
+                        <cell><unclear>Gerald Stryker</unclear></cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Comm.</cell>
+                        <cell>1-4-49</cell>
+                        <cell>To Bangkok as V.C. Joldey.</cell>
+                    </row>
+                    <row>
+                        <cell>Canton</cell>
+                        <cell><unclear>Kingdon W.</unclear></cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>Sinn</unclear> Oct. 29, 1948</cell>
+                        <cell>To Taipei as V.C. 9-2-49</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. and 3d secy</cell>
+                        <cell><unclear>Bruce M. Lancaster</unclear></cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Miss.</cell>
+                        <cell>January 27, 1949</cell>
+                        <cell>also 3d secy. To Hong Kong as V.C. 10-4-49.</cell>
+                    </row>
+                    <row>
+                        <cell>Nouking</cell>
+                        <cell><unclear>Gardener C.</unclear></cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Cancelled</cell>
+                        <cell>Calif</cell>
+                        <cell>July 15, 1949</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Peiping</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate General closed to public Aug. 12, 1949.</p>
+                <p>officially closed Aug. 24, 1949</p>
+            </div>
+        </body>
+    </text>
+</TEI>

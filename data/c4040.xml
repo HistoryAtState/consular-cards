@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4040" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Suva, Fiji Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4039" type="prev"/>
+                <relatedItem target="c4041" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4040f1">
+                <graphic height="3622px" url="05273.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Suva, Fiji Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05273</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4040">
+        <body>
+            <div corresp="#c4040f1">
+                <head>SUVA, FIJI ISLANDS</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Suva + New Caledonia &amp; Dependencies, etc.</cell>
+                        <cell>Robert F. Stafford</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell>also for the Territory of new Caledonia and Dependencies, the
+                            Territory of French Polynesia. Recommissioned because of chg. in
+                            consular district (see below)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert F. Stafford</cell>
+                        <cell>(certificate dated 1-18-65) Feb. 1, 1965</cell>
+                        <cell/>
+                        <cell>also VC. for the Territory of New Caledonia and Dependencies.
+                            Services. To Nicosia as General Specialist (755), the Territory of New
+                            Caledonia &amp; the Territory of French Polynesia + New Hebrides.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard S. Mann</cell>
+                        <cell>Jan. 17, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

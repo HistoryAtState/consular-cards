@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1035" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Plymouth, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1034" type="prev"/>
+                <relatedItem target="c1036" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1035f1">
+                <graphic height="3630px" url="01383.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Plymouth, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01383</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1035">
+        <body>
+            <div corresp="#c1035f1">
+                <head>Plymouth, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul. Gen'l. and Consul</cell>
+                        <cell>Bernard F. Hale</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>3</cell>
+                        <cell>5/20/1922</cell>
+                        <cell>Vt.</cell>
+                        <cell>June 23, 1922.</cell>
+                        <cell>Assigned to Dundee July 18, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul 3d Secy. London</cell>
+                        <cell>Franklin B. Atwood</cell>
+                        <cell>580</cell>
+                        <cell>6</cell>
+                        <cell><unclear>4/7/1927</unclear>
+                            <unclear>4/7/1927</unclear></cell>
+                        <cell>Mass.</cell>
+                        <cell>May 9, 1927.</cell>
+                        <cell>Assigned to Belfast July 3, 1929. (temp. Detail) To London as V.C.
+                            7-8-47</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kingdon W. Sway ne</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1947</cell>
+                        <cell>Consulate closed September 30, 1928</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

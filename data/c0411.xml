@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0411" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lambayeque, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0410" type="prev"/>
+                <relatedItem target="c0412" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0411f1">
+                <graphic height="3634px" url="00563.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lambayeque, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1859</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00563</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0411">
+        <body>
+            <div corresp="#c0411f1">
+                <head>Lambayeque, Peru.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elihu L. Mix, Jr.</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 28, 1859 recess <lb/> Jan. 10, 1860 Conf. Died</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>S.C. Montjoy</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1867 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.H. Gly</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Lambay <lb/> eque July 5, 1884 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2208" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dundee, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2207" type="prev"/>
+                <relatedItem target="c2209" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2208f1">
+                <graphic height="3640px" url="02947.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dundee, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02947</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2208">
+        <body>
+            <div corresp="#c2208f1">
+                <head>Dundee, Scotland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>I. Monroe Fisher</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>Sept. 6, 1924.</cell>
+                        <cell>Appt'd V.C. Malaga Aug. 3, 1925.<lb/>Apr. 21, 1927 to<lb/>Res.
+                            office.<lb/>1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>William A. Hickey</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Apr. 20, 1927.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>John H. Juqua</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>Marinette</unclear><lb/>Ill.</cell>
+                        <cell>Ill.</cell>
+                        <cell>May 21, 1930.</cell>
+                        <cell>Appt'd V.C. London, Mar. 5, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>L. Pittman Springs</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 26, 1930.</cell>
+                        <cell>Appt'd V.C., Glasgow, Apr. 30, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>Julian K. Smedberg</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 5, 1931.</cell>
+                        <cell>Appt'd V.C., Southampton, July 3, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>Southampton</cell>
+                        <cell>Julian K. Smedberg</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 1, 1935.</cell>
+                        <cell>Appt'd V.C., Southampton, July 2, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Southampton</cell>
+                        <cell>Julian K. Smedberg</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 5, 1937.</cell>
+                        <cell>Appt'd V.C., Southampton, Apr. 18, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Southampton</cell>
+                        <cell>Julian K. Smedberg</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 30, 1938.</cell>
+                        <cell>Appt'd V.C., Edinburgh, Nov. 10, 1938.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed February 29, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

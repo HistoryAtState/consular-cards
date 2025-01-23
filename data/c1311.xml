@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1311" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santa Fe, Argentine Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1310" type="prev"/>
+                <relatedItem target="c1312" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1311f1">
+                <graphic height="3632px" url="01741.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santa Fe, Argentine Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01741</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1311f2">
+                <graphic height="3636px" url="01742.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santa Fe, Argentine Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1911</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01742</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1311">
+        <body>
+            <div corresp="#c1311f1">
+                <head>Santa Fe, Argentine Republic.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jose Costa</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 25, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George C. Norman</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Resigned Feb. 26, 1914. effect<lb/>at close of quarter ending
+                            3/31/14</cell>
+                    </row>
+                </table>
+                <p>Agency reopened May 16, 1911 (under Rosario)</p>
+                <p>Argentina, Santa Fe</p>
+                <p>str. Uruguay Arg. Rep. Dec. 24, 1910.</p>
+                <p>Office closed June 20, 1914.</p>
+            </div>
+            <div corresp="#c1311f2">
+                <head>Santa Fe, Argentine Republic.</head>
+                <p>The Consul at Rosario reported that George Norman, the Con. Agt. was on a 6 mos.
+                    tour in Europe and that his brother, A. G. Norman, was appointed by the Consul
+                    to act in his place until his return.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

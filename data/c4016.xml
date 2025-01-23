@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4016" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stuttgart, Wurttemberg</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4015" type="prev"/>
+                <relatedItem target="c4017" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4016f1">
+                <graphic height="3638px" url="05242.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stuttgart, Wurttemberg</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05242</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4016f2">
+                <graphic height="3638px" url="05243.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stuttgart, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1925</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05243</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4016">
+        <body>
+            <div corresp="#c4016f1">
+                <head>Stuttgart, Wurtemberg.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Berne</cell>
+                        <cell>Edward Higgins</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass</cell>
+                        <cell>Dec. 10, 1907</cell>
+                        <cell>Apr. 29, 1907 recess Aug. 7, 1907 <lb/> see below</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>see above</cell>
+                        <cell>Edward Higgins</cell>
+                        <cell>Con. 5</cell>
+                        <cell/>
+                        <cell>Mass, Mass.</cell>
+                        <cell>of Apr. 29, 1907. <lb/> (arrived) Jan. 13, '22</cell>
+                        <cell>Continued under appt see above to Aug. 10, 1916. <lb/> Assigned to
+                            Bahia July 8, 1916. <lb/> Departed Feb. 17, 1917. <lb/> Aug. 15, 1916 to
+                            <lb/> Relations with Ger, severed 2/3/1917. <lb/> office re-opened Jan.
+                            16, 1922. <lb/> to June 26, 1924.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>St. Gale</cell>
+                        <cell>George N. fft</cell>
+                        <cell>"</cell>
+                        <cell>4</cell>
+                        <cell>Pa. Idaho</cell>
+                        <cell>July 8, 1916</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nanter</cell>
+                        <cell>Maxwell Moorhead</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>Pa. Pa.</cell>
+                        <cell>Dec. 23, 1921</cell>
+                        <cell/>
+                        <cell>Assigned to Dundee June 11, 1924</cell>
+                    </row>
+                    <row>
+                        <cell>Breslau</cell>
+                        <cell>John E. Kehl</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>Ohio Ohio</cell>
+                        <cell>June 11, 1924.</cell>
+                        <cell/>
+                        <cell>Appt'd F.S.O. class 4 July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>see above</cell>
+                        <cell>John E. Kehl</cell>
+                        <cell>F.B.O. 4</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Continued under assign <lb/> ment of June 11, 1924. <lb/> Appt'd
+                            F.S.O., class 3 Aug. 8, 1924.</cell>
+                        <cell>7/1/1924 R. Consul <lb/> 10-15-1897</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>class 4</cell>
+                        <cell>John E. Kehl</cell>
+                        <cell>Do 3</cell>
+                        <cell/>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>8/8/1924 R. <lb/> 12/20/1924c</cell>
+                        <cell>Assigned to Hamburg, May 4, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Havre</cell>
+                        <cell>Lester Maynard</cell>
+                        <cell>Do 4</cell>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>May 4, 1929.</cell>
+                        <cell>7/1/1924 6-26-06</cell>
+                        <cell>Appt'd F.S.O. 3, 12/19/29; also Con. Gen. 1-9-30, <lb/> assigned to
+                            Singapore Jan. 15, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell>Leon Dominian</cell>
+                        <cell>Do 7</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 19, 1929.</cell>
+                        <cell>7/1/1924 12-19-29</cell>
+                        <cell>Appt'd F.S.O. class 2 May 9, 1930</cell>
+                    </row>
+                    <row>
+                        <cell>Boxgen</cell>
+                        <cell>Maurice C. Pierce</cell>
+                        <cell>Do 3</cell>
+                        <cell/>
+                        <cell>Wisc.</cell>
+                        <cell>Feb. 13, 1930.</cell>
+                        <cell>7/1/1924 9-14-17</cell>
+                        <cell>Assigned to John N.Y. Jan. 26, 1931. <lb/> (Canceled) Sept. 18,
+                            1930.</cell>
+                    </row>
+                    <row>
+                        <cell>class 4.</cell>
+                        <cell>Leon Dominian</cell>
+                        <cell>Do 8</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 19, 1929. <lb/> Assigned to Bogota, Montevideo as F.S.O. May 6,
+                            1934.</cell>
+                        <cell>1/22/1930 12-19-29</cell>
+                        <cell>Continued under assign apptd. as Sec'y Dipl. Serv. May 30,
+                            1934.</cell>
+                    </row>
+                    <row>
+                        <cell>Kinder</cell>
+                        <cell>William Clarke Vyse</cell>
+                        <cell>Do 5</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Oct. 1, 1930.</cell>
+                        <cell>1/22/1930 1-22-30</cell>
+                        <cell>Assigned to Shanghai, Nov. 20, 1931</cell>
+                    </row>
+                    <row>
+                        <cell>Marseille</cell>
+                        <cell>James P. Moffitt</cell>
+                        <cell>Do 3</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 18, 1933</cell>
+                        <cell>579/1930 9-3-19</cell>
+                        <cell>Assig'd. to Amsterdam, May 27, 1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>Samuel H. Honaker</cell>
+                        <cell>Do 3</cell>
+                        <cell/>
+                        <cell>Lex.</cell>
+                        <cell>June 20, 1934</cell>
+                        <cell>8/15/1930R Con. Gen. <lb/> EFFECTIVE <lb/> 12/16/1930 12-17-31</cell>
+                        <cell>Appt'd F.S.O., el. 4, Mar. 23, 1939. <lb/> (See Card No. 3)</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4016f2">
+                <head>Stuttgart, Germany.</head>
+                <p>Conger Reynolds, lately F.S.O., Unclassified, was appt. F.S.O., class 8, also
+                    Consul Mar. 20, 1928<row role="label"/>, Res. 197299.</p>
+                <p>Erik W. Magnuson, of Del., lately V.C., career and F.S.O., unclassified, was
+                    appt. F.S.O., class 8 June 2, 1926; also Consul June 15, 1926.</p>
+                <p>Assigned to the libar March 30, 1927.</p>
+                <p>Leon Dominion detailed &amp; Dept. of State, temporarily, May 14, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

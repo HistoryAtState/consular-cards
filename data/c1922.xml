@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1922" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bonacca, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1921" type="prev"/>
+                <relatedItem target="c1923" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1922f1">
+                <graphic height="3624px" url="02575.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bonacca, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02575</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1922f2">
+                <graphic height="3624px" url="02576.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bonacca, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02576</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1922">
+        <body>
+            <div corresp="#c1922f1">
+                <head>Bonacca, Honduras.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Bayley</cell>
+                        <cell>Cons. Agt.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Jan. 24, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John T. Siskeld</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Dec. 3, 1884.</cell>
+                        <cell>Certificate went astray</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Bagly</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 18, 1889.</cell>
+                        <cell>Newtone rescued July 20/ 96.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Bayly</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 20, 1896.</cell>
+                        <cell>Left Post Jan. 12, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sandy Kiskennell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell>"</cell>
+                        <cell>June 20, 1906.</cell>
+                        <cell>Serv. term. afe closing agency.</cell>
+                    </row>
+                </table>
+                <p>Agency closed June 17, 1931.</p>
+            </div>
+            <div corresp="#c1922f2">
+                <head>Bonacca, Honduras</head>
+                <p>Edwin Kirkconnell, Acting Consular Agent (absence of Sandy Kirkconnell)</p>
+                <p>to 1930</p>
+            </div>
+        </body>
+    </text>
+</TEI>

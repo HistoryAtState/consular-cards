@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0419" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Latakia, Syria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0418" type="prev"/>
+                <relatedItem target="c0420" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0419f1">
+                <graphic height="3626px" url="00571.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Latakia, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00571</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0419f2">
+                <graphic height="3626px" url="00572.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Latakia, Syria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1850</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00572</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0419">
+        <body>
+            <div corresp="#c0419f1">
+                <head>Latakia, Syria. (under Beirut)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Metheny (Dr)</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 21, 1866.</cell>
+                        <cell>July 1866, ? to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Metheny (")</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 2, 1866</cell>
+                        <cell>to Sept. 1882<lb/>Cancelled Jan. 17, 1883 for<lb/>absence without
+                            leave<lb/>to May 7, 1885</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Archibald J. Dodds (con. in-law of M)</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 3, 1884.</cell>
+                        <cell>(Removed) Died 1885,<lb/>Archives at Beirut</cell>
+                    </row>
+                </table>
+                <p>Office ordered closed Feb. 8, 1889; closed Mar. 31, 1889.</p>
+            </div>
+            <div corresp="#c0419f2">
+                <head>Latakia, Syria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Spiridion Vitali</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>June 1850 to Removed Jan. 1866.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elias Saleh</cell>
+                        <cell>Acty" </cell>
+                        <cell>in Oct. 1872 to - (still in Mar. 1874)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>N. Vitale (Br. V.C.)</cell>
+                        <cell>" </cell>
+                        <cell>in chg. (dismissal of Agent) Dec. 1882 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michel Zain</cell>
+                        <cell>" </cell>
+                        <cell>May 7, 1885 to May? 1885.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Casson, city of 18 kety inchq.</cell>
+                        <cell>" </cell>
+                        <cell>May? 1885 to - (still in Dec. '85)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

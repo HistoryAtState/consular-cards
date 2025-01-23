@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3477" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Phnom Penh, Kingdom of Cambodia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3476" type="prev"/>
+                <relatedItem target="c3478" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3477f1">
+                <graphic height="3592px" url="04546.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Phnom Penh, Kingdom of Cambodia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04546</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3477">
+        <body>
+            <div corresp="#c3477f1">
+                <head>Phnom Penh, Kingdom of Cambodia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel E. Peterson</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 12, 1951</cell>
+                        <cell>Also V.C. Saigon + V.C. Vientiane</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Patsy C. Patty</cell>
+                        <cell>Vice Cons. US</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Nov. 4, 1953</cell>
+                        <cell>also V.C. Saigon + SSS officer assigned to Dept. 5-2-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Kobrin</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell/>
+                        <cell>Sept. 17, 1953</cell>
+                        <cell>also V.C. Saigon + Vientiane</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roger L. Pierre</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 27, 1954</cell>
+                        <cell>Also V.C. Saigon + VIENTIANE</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert H. Wenzel</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>July 13, 1954</cell>
+                        <cell>Cancelled</cell>
+                    </row>
+                    <row>
+                        <cell>U.Cons.</cell>
+                        <cell>Mrs. Ann Pomroy</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1956</cell>
+                        <cell>to Tokyo as V.C. 4-6-59</cell>
+                    </row>
+                </table>
+                <p>Embassy closed May 21, 1965. (FAMC #317, 6-7-65.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

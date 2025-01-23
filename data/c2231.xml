@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2231" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Eibenstock, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2230" type="prev"/>
+                <relatedItem target="c2232" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2231f1">
+                <graphic height="3628px" url="02979.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Eibenstock, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02979</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2231f2">
+                <graphic height="3628px" url="02980.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Eibenstock, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02980</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2231">
+        <body>
+            <div corresp="#c2231f1">
+                <head>Eibenstock, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Arzna.<lb/>berg</cell>
+                        <cell>Harry J. Nacon</cell>
+                        <cell>Con. Agh. Us.</cell>
+                        <cell>Me.</cell>
+                        <cell>Mass. Aug. 24, 1871</cell>
+                        <cell/>
+                        <cell>Sept. 14, 1891 to Aug. 1, 1893<lb/>Resigned to date Aug. 1,
+                            1893.<lb/>Aug. 27, 1893 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl Forngraeber</cell>
+                        <cell>" " " " Us.</cell>
+                        <cell/>
+                        <cell>Oct. 18, 1893.</cell>
+                        <cell/>
+                        <cell>to Dec. 11, 1902.<lb/>Appt'd Com'l Agh. 11/11/02.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest Harris</cell>
+                        <cell>" " " " Us.</cell>
+                        <cell/>
+                        <cell>Ill. May 10, 1898</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emil Schmidt</cell>
+                        <cell>WxD. Con.</cell>
+                        <cell/>
+                        <cell>June 30, 1906.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emil Schmidt</cell>
+                        <cell>WxD. Com'l Agh. Der. Bafony Ger.</cell>
+                        <cell/>
+                        <cell>Nov. 19, 1902</cell>
+                        <cell/>
+                        <cell>Appt'd WxD.C. June 30, 1906.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+                <p>Office abolished as above.</p>
+            </div>
+            <div corresp="#c2231f2">
+                <head>Glienstock, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Paul G. Meyer, of Glienstock, Helts. Cons. Agt.</cell>
+                        <cell>(illness of Agt.)</cell>
+                        <cell>Nov. 1891 to</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Frederick A. Becher</cell>
+                        <cell>(absence " ")</cell>
+                        <cell>Mar. 1893 to?</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Rud. E. Fricke</cell>
+                        <cell>(resig. " ")</cell>
+                        <cell>Aug. 1, 1893 to Aug. 27, 1893.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Emil Schmidt - VKD.C.A. - 1902.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

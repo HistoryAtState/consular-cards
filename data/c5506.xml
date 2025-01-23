@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5506" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sweden and Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5505" type="prev"/>
+                <relatedItem target="c5507" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5506f1">
+                <graphic height="3630px" url="07174.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sweden and Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1814</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07174</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5506">
+        <body>
+            <div corresp="#c5506f1">
+                <head>Sweden &amp; Norway</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John L. Lawrence</cell>
+                        <cell>Sec. of Leg.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 3, 1814 Conf.</cell>
+                        <cell>Left in Jan, 1816, having previously resigned.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Christopher Hughes Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>Sept. 26, 1816 Recess</cell>
+                        <cell>Appt'd Chargé Jan. 21, 1819.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward D. Winslow</cell>
+                        <cell>Sec. of Leg.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Jan. 21, 1817 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Muir(n)</cell>
+                        <cell>Do.</cell>
+                        <cell>Prussia</cell>
+                        <cell>Prussia N.Y.</cell>
+                        <cell>June 6, 1900 Conf.</cell>
+                        <cell>Resigned in U.S. Mar. 6, 1901.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward L. Adams</cell>
+                        <cell>Do.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 12, 1901 Recess</cell>
+                        <cell>Resigned in U.S. Apr. 1, effect June 1, 1902.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>The King recognized Norway as entirely separated from Sweden Oct. 26, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

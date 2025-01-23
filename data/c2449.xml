@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2449" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2448" type="prev"/>
+                <relatedItem target="c2450" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2449f1">
+                <graphic height="3598px" url="03258.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03258</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2449">
+        <body>
+            <div corresp="#c2449f1">
+                <head>French West Indies</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Da Consul Trinidad</cell>
+                        <cell>Claude H. Hall, Jr.</cell>
+                        <cell>F.S.Q.</cell>
+                        <cell>8</cell>
+                        <cell>1/18/1936 10-1-35</cell>
+                        <cell>Consul</cell>
+                        <cell>Ind.</cell>
+                        <cell>Apr. 4, 1939</cell>
+                        <cell>Apptd. F.S.Q., el. 7. June 8, 1939</cell>
+                    </row>
+                    <row>
+                        <cell>class 8</cell>
+                        <cell>Claude H. Hall, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>6-8-39</cell>
+                        <cell>Do</cell>
+                        <cell>Ind.</cell>
+                        <cell>Do</cell>
+                        <cell>assignment terminated 7-12-40</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

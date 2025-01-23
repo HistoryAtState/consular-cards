@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2444" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French Equatorial Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2443" type="prev"/>
+                <relatedItem target="c2445" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2444f1">
+                <graphic height="3640px" url="03253.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French Equatorial Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03253</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2444">
+        <body>
+            <div corresp="#c2444f1">
+                <head>French Equatorial Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Is Vib<lb/>Leopoldville</cell>
+                        <cell>David R. Newman</cell>
+                        <cell>Vice Con. 4.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 7, 1940</cell>
+                        <cell>To Port Said an VS. 5-19-42</cell>
+                    </row>
+                </table>
+                <p>French Equatorial Africa and Cameroons were transferred from the
+                    consular<lb/>jurisdiction of Leopoldville to the consular jurisdiction of
+                    Brazzaville, French<lb/>Equatorial Africa, when a Consulate General was
+                    established in Brazzaville in 1942.</p>
+                <p>Consulate General at Brazzaville was closed July 13, 1946 and French
+                    Equatorial<lb/>Africa and the Cameroons were transferred to the consular
+                    jurisdiction of Paris.</p>
+                <p>In 1950 French Equatorial Africa and the Cameroons were transferred from
+                    the<lb/>consular jurisdiction of Paris to the consular jurisdiction of
+                    Leopoldville and officers<lb/>assigned to Leopoldville in a consular capacity
+                    will receive in addition to their assignment<lb/>commission to Leopoldville a
+                    commission assigning them "for the Territory of the Cameroons<lb/>under French
+                    Administration and for French Equatorial Africa".</p>
+                <p>for subsequent entries see card marked "CAMEROONS AND FRENCH EQUATORIAL
+                    AFRICA"</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3425" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3424" type="prev"/>
+                <relatedItem target="c3426" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3425f1">
+                <graphic height="3616px" url="04484.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paris, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="14.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04484</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3425">
+        <body>
+            <div corresp="#c3425f1">
+                <head>PARIS, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE<lb/>OF ASSIGNMENT</cell>
+                        <cell>OTHER<lb/>AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Niamey</cell>
+                        <cell>Cecil S. Richard son</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 5, 1965</cell>
+                        <cell>Also 2d Sec. Resigned as F.S.O. only 7-30-66.<lb/>Continues to serve
+                            as V.C. Paris.</cell>
+                        <cell/>
+                        <cell>Appid. F.S.S.toff, 7-31-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James J. Ehrman</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 11, 1965</cell>
+                        <cell>Also 3d Sec. To Rome as V.C. and 3d<lb/>Sec., 11-21-66.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Baghdad</cell>
+                        <cell>Richard W. Bogosian</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Paul V. Ward</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bordeaux</cell>
+                        <cell>Frank P. Kelly</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Micaela A. Cella</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry C. Merson</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James N. May</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Joanna W. Witzel</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 16, 1967</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Jonathan C. Menes</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

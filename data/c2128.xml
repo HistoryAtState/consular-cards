@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2128" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Corunna, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2127" type="prev"/>
+                <relatedItem target="c2129" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2128f1">
+                <graphic height="3634px" url="02843.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Corunna, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1802</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02843</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2128f2">
+                <graphic height="3634px" url="02844.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Corunna, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02844</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2128">
+        <body>
+            <div corresp="#c2128f1">
+                <head>Corunna, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Molier</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell/>
+                        <cell>Feb. 4, 1802 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Anthony G. Fuertes</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 15, 1871 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jose Carricarte</cell>
+                        <cell/>
+                        <cell>Spain</cell>
+                        <cell>Spain</cell>
+                        <cell/>
+                        <cell>Mar. 1, 1883 Conf. Died</cell>
+                        <cell>Exequatur conceded by</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julio Harmony</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Mar. 1, 1895 Conf. war Apr. 21, 1898,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office reduced to Agency June 30, 1906.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Julio Harmony</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Oct. 18, 1899 recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 13, 1899 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office reduced to Agency June 30, 1906.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Newcastle</cell>
+                        <cell>Fred C. Slater</cell>
+                        <cell>Con. 7</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>Ger. Kans</cell>
+                        <cell>Sept. 7, 1922.</cell>
+                        <cell>Jan. 16, 1923 to</cell>
+                        <cell>Assigned to Fort William and Port Arthur Apr. 18, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office ordered closed Apr. 18, 1924. Business ceased May 26; Office
+                            closed May 31, '24</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2128f2">
+                <head>Corunna, Spain</head>
+                <p>Ralph C. Busser, Consul, Cl 4, lately at Trieste, detailed to Corunna Sept. 3,
+                    1920, took charge Nov. 4, 1920; assigned to Plymouth Sept. 7, 1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

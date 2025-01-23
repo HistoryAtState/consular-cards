@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4566" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bremen, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4565" type="prev"/>
+                <relatedItem target="c4567" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4566f1">
+                <graphic height="3626px" url="05950.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bremen, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05950</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4566">
+        <body>
+            <div corresp="#c4566f1">
+                <head>Bremen, Germany</head>
+                <p>Francis R. Stewart, Consul, C.b, lately at Hamburg, was detailed to Bremen Sept.
+                    20, 1921, arrived, Oct. 10, 1921, assigned to Bremen Nov. 15, 1921.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

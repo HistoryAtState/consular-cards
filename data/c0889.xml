@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0889" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Roubaix, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0888" type="prev"/>
+                <relatedItem target="c0890" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0889f1">
+                <graphic height="3628px" url="01193.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Roubaix, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01193</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0889f2">
+                <graphic height="3634px" url="01194.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Roubaix, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01194</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0889">
+        <body>
+            <div corresp="#c0889f1">
+                <head>Roubaix, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>César Piat</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 11, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Georges Motte</cell>
+                        <cell>U.Con. Agt. Fr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 6, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gaston Thiery</cell>
+                        <cell>" " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 26, 1894.</cell>
+                        <cell>Apptd V.C. Aug. 11, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Harrison</cell>
+                        <cell>Dep. " " Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 10, 1899.</cell>
+                        <cell>Apptd Dep. Con. Aug. 11, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gaston Thiery</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1899.</cell>
+                        <cell>Resigned Sept. 23, 1910. <lb/> Office of Deputy abolished <lb/> by Act
+                            of Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred C. Harrison</cell>
+                        <cell>Dep. " " Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1899.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Barnard Haven</cell>
+                        <cell>U.S. </cell>
+                        <cell/>
+                        <cell>Chicago, Ill.</cell>
+                        <cell/>
+                        <cell>Oct. 14, 1910.</cell>
+                        <cell>Resigned Feb. 14, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Bellamy</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>New, <lb/> Eng. France</cell>
+                        <cell/>
+                        <cell>July 19, 1913.</cell>
+                        <cell>Resigned Jan. 4, 1915.</cell>
+                    </row>
+                </table>
+                <p>Consulate Closed September 27, 1919.</p>
+            </div>
+            <div corresp="#c0889f2">
+                <head>Roubaix, France</head>
+                <p>Charles H. Bellamy, V.D.C. took over the office from Consul Haven May 1, 1914,
+                    and turned it over to Consul Watson 7/11/14</p>
+            </div>
+        </body>
+    </text>
+</TEI>

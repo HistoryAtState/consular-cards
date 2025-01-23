@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0540" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manaos, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0539" type="prev"/>
+                <relatedItem target="c0541" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0540f1">
+                <graphic height="3632px" url="00736.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manaos, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00736</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0540">
+        <body>
+            <div corresp="#c0540f1">
+                <head>Manaós, Brazil. (Sec Manaus, Anayas, Brasil)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Emery</cell>
+                        <cell><unclear>Cont</unclear> Agt U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass</cell>
+                        <cell>Feb. 21, 1880,</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed February 14, 1931.</p>
+                <p>Consulate opened July 1, 1941</p>
+                <p>Vice Consulate closed May 31 1946.</p>
+                <p>Final clowing date of Vice Consulate is June 28, 1946</p>
+                <p>Name changed from <unclear>Mander</unclear> to Manaus effective 2-28-49</p>
+                <p>See <unclear>DA</unclear> - Mailing <unclear>No</unclear>. 25</p>
+            </div>
+        </body>
+    </text>
+</TEI>

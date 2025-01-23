@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5108" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hong Kong</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5107" type="prev"/>
+                <relatedItem target="c5109" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5108f1">
+                <graphic height="3610px" url="06628.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hong Kong</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="12.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06628</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5108">
+        <body>
+            <div corresp="#c5108f1">
+                <head>HONG KONG</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. Saigon</cell>
+                        <cell>John Steven Boritas</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 22, 1965</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Amman</cell>
+                        <cell>Gordan R. Powers</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Mar. 14, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard C. Schenck</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 9, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James A. Smith</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>July 18,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell><unclear>750, Taichung/751</unclear><lb/>Taiwan</cell>
+                        <cell>M. Charles Hill</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 18,1966</cell>
+                        <cell/>
+                        <cell>cancelled</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lyon</cell>
+                        <cell>Miss Judith D. Trunzo</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Monterrey<lb/>Buenos<lb/>Aires</cell>
+                        <cell>James J. Johnston</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lawrence E. Christmas</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 20,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John H. Fincher</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 1,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Keith L. Wauchope</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct.10,1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>G. Eugene Martin</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Dec. 5, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0031" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aix la Chapelle, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0030" type="prev"/>
+                <relatedItem target="c0032" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0031f1">
+                <graphic height="3622px" url="00046.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aix la Chapelle, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00046</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0031f2">
+                <graphic height="3622px" url="00047.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aix la Chapelle, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00047</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0031">
+        <body>
+            <div corresp="#c0031f1">
+                <head>Aix la Chapelle, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>VOD.C</cell>
+                        <cell>Henry Quadflieg</cell>
+                        <cell>Vice Con. Gen.</cell>
+                        <cell>Ser.</cell>
+                        <cell>Ser.</cell>
+                        <cell>Ser.</cell>
+                        <cell>By Act of Feb. 5, 1915</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Formerly</cell>
+                        <cell>Louis F. Dilger</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Va. Nov. 18, 1916.</cell>
+                        <cell>Relations severed 7/3/17. Ordered to U.S.</cell>
+                    </row>
+                    <row>
+                        <cell>Hamburg</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed February 1917.</p>
+            </div>
+            <div corresp="#c0031f2">
+                <head>Aix la Chapelle, Germany</head>
+                <p>Henry Quadflieg, V.VD.C. in chg. of Consulate (deack King) July 31, 1913 to
+                    January 18, 1914.</p>
+                <p>Henry Quadflieg, V.D.C. took over the office from Consul Thompson Dec 21/1914 and
+                    turned, it over to Consul Damm Apr. 14, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

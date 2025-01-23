@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6432" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liberia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6431" type="prev"/>
+                <relatedItem target="c6433" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6432f1">
+                <graphic height="3606px" url="08513.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Liberia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08513</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6432">
+        <body>
+            <div corresp="#c6432f1">
+                <head>LIBERIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Ankara</cell>
+                        <cell>Charles Philip Clock</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Feb. 28, 1966</cell>
+                        <cell/>
+                        <cell>Couns.</cell>
+                        <cell>Also Consul &amp; Deputy Chief of mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>John C. Stephens</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 9, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Mon-rovia</cell>
+                        <cell>Robert E. Lamb</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Mon-rovia</cell>
+                        <cell>William B. Milam</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C. Assigned to Dept. 1-15-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Hong Kong</cell>
+                        <cell>John A. Warnock</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>John L. Loughran</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Aug. 15, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

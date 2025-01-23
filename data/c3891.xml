@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3891" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago de Los Caballeros, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3890" type="prev"/>
+                <relatedItem target="c3892" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3891f1">
+                <graphic height="3612px" url="05073.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santiago de Los Caballeros, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05073</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3891">
+        <body>
+            <div corresp="#c3891f1">
+                <head>SANTIAGO DE LOS CABALLEROS, Dominican Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.(75R) monterrey</cell>
+                        <cell>Robert L. Taylor</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 24, 1962</cell>
+                        <cell/>
+                        <cell>To Santiago as assistant attaché (75R), 6-20-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James E. Anderson</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Mar. 15, 1965</cell>
+                        <cell/>
+                        <cell>To México as Political Officer (7SR), 10-9-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Helsinki</cell>
+                        <cell>Richard C. Barkley</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                        <cell>Designated Consul, Santiago de los Caballeros 513-66</cell>
+                    </row>
+                    <row>
+                        <cell>Panama</cell>
+                        <cell>Charles B. Dickens</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell>USIA</cell>
+                        <cell>Designated Consul (PSR), Santiago de los Caballeros, 12-11-05.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph L. Marek, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Raftery</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate at Santiago de los Caballeros opened to public Sept. 4, 1962.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0910" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Christopher, West Indies- St. Christopher, Antigua</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0909" type="prev"/>
+                <relatedItem target="c0911" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0910f1">
+                <graphic height="3632px" url="01219.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Christopher, West Indies- St. Christopher, Antigua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01219</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0910f2">
+                <graphic height="3632px" url="01220.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Christopher, West Indies- St. Christopher, Antigua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1823</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01220</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0910">
+        <body>
+            <div corresp="#c0910f1">
+                <head>St. Christopher, N.I. (St Christopher and Antigua.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustave S. Delisle</cell>
+                        <cell>U.Com'l Agt. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 20, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Wise Parker</cell>
+                        <cell>" " " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ga.</cell>
+                        <cell>May 9, 1892.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis H. Percival</cell>
+                        <cell>" " " Neth.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 14, 1894</cell>
+                        <cell>Resigned 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emile S. Delisle</cell>
+                        <cell>" " " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 27, 1898.</cell>
+                        <cell>Appt'd V.C. June 30, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Emile S. Delisle</cell>
+                        <cell>Vice Con. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 30, 1906.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908,</p>
+            </div>
+            <div corresp="#c0910f2">
+                <head>St. Christopher, W.I.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Thomas Shewitt, Jr., of Phila, (affth by Coneul Harrison) UC in
+                            charge</cell>
+                        <cell/>
+                        <cell>July 1823 to April 1824.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>George M. Tapchive, of St Christopher"</cell>
+                        <cell/>
+                        <cell>Apr. 1824 to April 1831?</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>James Berridge</cell>
+                        <cell>(by Higinbothom) Agent</cell>
+                        <cell>Apr. 1831 to June 1841 Resigned</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Thomas P. Berridge</cell>
+                        <cell/>
+                        <cell>June 1841 to</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

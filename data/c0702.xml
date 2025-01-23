@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0702" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Newcastle-On-Tyne, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0701" type="prev"/>
+                <relatedItem target="c0703" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0702f1">
+                <graphic height="3638px" url="00958.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Newcastle-On-Tyne, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00958</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0702">
+        <body>
+            <div corresp="#c0702f1">
+                <head>Newcastle-on-Tyne, England</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Barcelona.</cell>
+                        <cell>Merlin E. Smith</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell><unclear/></cell>
+                        <cell>H. Va.</cell>
+                        <cell>Ohis</cell>
+                        <cell>June 30, 1931</cell>
+                        <cell>Appt'd. R.C, Curacao, July 31, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Cenacar</cell>
+                        <cell>Courtland Christiani</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind.</cell>
+                        <cell>D.C.</cell>
+                        <cell>July 31, 1936</cell>
+                        <cell>Appt'd. R.C., Glasgow, Jan. 15, 1938</cell>
+                    </row>
+                    <row>
+                        <cell>Hasgow</cell>
+                        <cell>Courtland Christiani</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind.</cell>
+                        <cell>D.C.</cell>
+                        <cell>June 25, 1938</cell>
+                        <cell>Appt'd. F.C., Surabaya, May 15/39</cell>
+                    </row>
+                    <row>
+                        <cell>Bradford</cell>
+                        <cell>John Belfort Keogh</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ill.</cell>
+                        <cell>R.Y.</cell>
+                        <cell>July 21, 1939</cell>
+                        <cell>Cancelled.</cell>
+                    </row>
+                    <row>
+                        <cell>75. Aup.</cell>
+                        <cell>Thomas A. Kelly</cell>
+                        <cell>Vice Consul</cell>
+                        <cell><unclear/></cell>
+                        <cell>Pa.</cell>
+                        <cell><unclear/></cell>
+                        <cell>Continuing under appoint- To Ottawa as K.C. 5-8-50.<lb/>ment of Sept.
+                            24, 1946</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Belize John J. Degan, Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell><unclear/></cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 9, 1950</cell>
+                        <cell><unclear/></cell>
+                        <cell>To Izmir as V.C. 12-20-51</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Port Elizabeth James O. Belden</cell>
+                        <cell>Vice Consul</cell>
+                        <cell><unclear/></cell>
+                        <cell><unclear/></cell>
+                        <cell>Feb. 18, 1953</cell>
+                        <cell>To Cardiff as V.C. 9-25-53</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 14, 1953.</cell>
+                        <cell>Officially closed Oct. 7, 1955</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

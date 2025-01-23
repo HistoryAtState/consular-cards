@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0601" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Minatitlan, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0600" type="prev"/>
+                <relatedItem target="c0602" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0601f1">
+                <graphic height="3638px" url="00814.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Minatitlan, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1853</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00814</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0601">
+        <body>
+            <div corresp="#c0601f1">
+                <head>Minatitlan, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Alexander Pleasante</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Apr. 9, 1853 Conf.</cell>
+                        <cell>Duplicate issued May 24, 1859.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. C. Allen</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>June 14, 1858 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Cyrus O. Poole</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 19, 1862 Conf. Resigned</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rollin M. Hoyt</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 10, 1862 recess</cell>
+                        <cell>Mar. 11, 1863 Conf. Died Apr. 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore D. Edwards</cell>
+                        <cell>Coml Agt</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Near Apr. 5, 1865.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hermon Bronson</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell>May 23, 1871 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Murphy</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 11, 1876 Conf. Resigned Sept. 29, 1875.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Solomon Sternberger</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 30, 1875 recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George M. Cayce</cell>
+                        <cell>Coml Agt</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 11, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. L. Catlin</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>La.</cell>
+                        <cell>May 29, 1879.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

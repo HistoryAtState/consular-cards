@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0501" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lunenburg, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0500" type="prev"/>
+                <relatedItem target="c0502" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0501f1">
+                <graphic height="3636px" url="00683.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lunenburg, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00683</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0501f2">
+                <graphic height="3636px" url="00684.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lunenburg, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1923</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00684</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0501">
+        <body>
+            <div corresp="#c0501f1">
+                <head>Lunenburg, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel M. Owen</cell>
+                        <cell>Con. Agt. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 24, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed Sept. 12, 1906; reopened June, 1907.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Rudolf</cell>
+                        <cell>Con. Agt. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 13, 1907.</cell>
+                        <cell>Died at Port Jan. 30, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles W. Lane</cell>
+                        <cell>" " Gr.Br.</cell>
+                        <cell/>
+                        <cell>Pictow N.B.</cell>
+                        <cell>N.S.</cell>
+                        <cell>Feb. 20, 1924.</cell>
+                        <cell>Serv. term. after closing Agency.</cell>
+                    </row>
+                </table>
+                <p>Agency closed July 15, 1931.</p>
+            </div>
+            <div corresp="#c0501f2">
+                <head>Lunenburg, Nova Scotia</head>
+                <p>P. Maule Smith, was placed in charge of Agency by Consul General (illness of
+                    Rudolf) May 28, 1923</p>
+                <p>R. Mogle Smith, " " " " " Consul Robertson (death of Rudolf) Jan 30, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

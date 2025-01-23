@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1727" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Waubaushene, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1726" type="prev"/>
+                <relatedItem target="c1728" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1727f1">
+                <graphic height="3612px" url="02303.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Waubaushene, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1884</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02303</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1727">
+        <body>
+            <div corresp="#c1727f1">
+                <head>Waubaushene, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles P. Fisher</cell>
+                        <cell>Con. Agt Sr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 18,1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fred G. Burton</cell>
+                        <cell>V. Comit Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles P. Fisher</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>May 13, 1892.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Genel W. Soule</cell>
+                        <cell>Cons. Agt. U.S.</cell>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 12, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles P. Fisher</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell>Oct. 31, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. J. McCallum</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell>July 15, 1895.</cell>
+                        <cell>Resigned March 1897.<lb/>Apptd Con. Agt Midland 06/1890<lb/>to Lake
+                            ffect Jan. 1, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ronald F. White</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell>May 20, 1898.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office moved to Midland January 1, 1901.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

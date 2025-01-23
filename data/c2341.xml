@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2341" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guayama, Porto Rico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2340" type="prev"/>
+                <relatedItem target="c2342" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2341f1">
+                <graphic height="3632px" url="03118.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guayama, Porto Rico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1828</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03118</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2341">
+        <body>
+            <div corresp="#c2341f1">
+                <head>Guayama, Porto Rice</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Tracy</cell>
+                        <cell>Com. Coml. U.S.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Jan. 26, 1828</cell>
+                        <cell>(by Secy)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Traky</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Feb. 19, 1837</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis M. Preston</cell>
+                        <cell>" "</cell>
+                        <cell>Me.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Oct. 5, 1849</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

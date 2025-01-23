@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2955" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maracaibo, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2954" type="prev"/>
+                <relatedItem target="c2956" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2955f1">
+                <graphic height="3630px" url="03890.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maracaibo, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03890</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2955">
+        <body>
+            <div corresp="#c2955f1">
+                <head>Maracaibo, Venezuela</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Donald E. McNertney</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 19, 1963</cell>
+                        <cell>USIA</cell>
+                        <cell>assigned to A.7. Story College, Norfolk, Va; USIA 8-17-84.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James E. Bowers</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 23, 1964</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell>John L. Griffiths</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 3, 1964</cell>
+                        <cell>FSR officer assigned to Armed Forces Staff College, Norfolk, Va;
+                            8-14-608</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>David P. Banowetz</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell>Stephen N. Sestanovich</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John F. King</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

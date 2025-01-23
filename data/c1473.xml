@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1473" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Stoke on Trent, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1472" type="prev"/>
+                <relatedItem target="c1474" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1473f1">
+                <graphic height="3628px" url="01964.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stoke on Trent, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01964</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1473f2">
+                <graphic height="3636px" url="01965.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Stoke on Trent, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01965</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1473">
+        <body>
+            <div corresp="#c1473f1">
+                <head>Stoke-on-Trent, England. (formerly Burslem)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Edwin A. Long</cell>
+                        <cell>Vice Con U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Haute</unclear> Ind.</cell>
+                        <cell>Ind. Nov. 6, 1919.</cell>
+                        <cell>Appts V.C., Cardiff Mar. 23, 1920 <lb/> to Apr. 7, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>William N. Carroll</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.C.</cell>
+                        <cell>N.C.</cell>
+                        <cell>Feb. 29, 1924.</cell>
+                        <cell>Appts V.C., London, May 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Daniel Miller</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Md.</cell>
+                        <cell>Md.</cell>
+                        <cell>Aug 21, 1925.</cell>
+                        <cell>Appts V.C. London Dec. 11, 1925 <lb/> to Sept. 20, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Bradford</cell>
+                        <cell>George L. Fleming</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ky.</cell>
+                        <cell>Mo.</cell>
+                        <cell>July 22, 1926</cell>
+                        <cell>Apptd V.C. Bradford Sept. 20, 1926.</cell>
+                    </row>
+                    <row>
+                        <cell>Swansea</cell>
+                        <cell>Clarence <unclear>Trick</unclear></cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nebr.</cell>
+                        <cell>Nebr.</cell>
+                        <cell>Feb. 25, 1927.</cell>
+                        <cell>Appts V.C. Swansea Sept. 7, 1927</cell>
+                    </row>
+                    <row>
+                        <cell>Newcastle</cell>
+                        <cell>Davis B. Levis</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mo.</cell>
+                        <cell>Ill.</cell>
+                        <cell>June 13, 1928.</cell>
+                        <cell>Apptd.V.C., Nantes, July 30, 1929.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 1, 1929.</p>
+            </div>
+            <div corresp="#c1473f2">
+                <head>Stoke-on-Trent, England.</head>
+                <p>Edwin N. Long, V.C., took over the office from Consul Asbury Mar. 27, 1920, and
+                    turned it over to Consul Doty Apr. 2, 1920</p>
+            </div>
+        </body>
+    </text>
+</TEI>

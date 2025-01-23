@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4917" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frankfurt Am Main, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4916" type="prev"/>
+                <relatedItem target="c4918" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4917f1">
+                <graphic height="3612px" url="06388.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frankfurt Am Main, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06388</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4917">
+        <body>
+            <div corresp="#c4917f1">
+                <head>FRANKFURT AM MAIN, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William D. Kralle</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Rachel C. Campbell</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <cell>REMARKS.</cell>
+            </div>
+        </body>
+    </text>
+</TEI>

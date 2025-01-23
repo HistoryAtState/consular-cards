@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5219" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Austria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5218" type="prev"/>
+                <relatedItem target="c5220" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5219f1">
+                <graphic height="3604px" url="06775.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Austria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="18.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06775</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5219">
+        <body>
+            <div corresp="#c5219f1">
+                <head>AUSTRIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Robert O. Waring</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>May 22, 1966</cell>
+                        <cell/>
+                        <cell>Counselor of<lb/>Embassy<lb/>for Economic<lb/>affairs<lb/>2d
+                            Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Jess F. Reed</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>May 22, 1966</cell>
+                        <cell/>
+                        <cell>Counselor of<lb/>Embassy<lb/>for Public<lb/>affairs<lb/>2d Sec. Also
+                            V.C. Designated Attaché<lb/>Vienna (USIA) as of 6-19-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry A. Dunlap</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>Frederick Owen Shoup</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Michael J. Habib</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Port-au-<lb/>Prince</cell>
+                        <cell>Robert W. Maule</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Aug. 15, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vienna</cell>
+                        <cell>George H. Lane</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>IAEA</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nat'l War<lb/>College, DC</cell>
+                        <cell>Paul G. Sinderson</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>July 31, 1966</cell>
+                        <cell/>
+                        <cell>Counselor of<lb/>Emb. for<lb/>Administrative Affairs</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Nat'l War<lb/>Coll, DC.</cell>
+                        <cell>Rollie H. White, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Sept. 11, 1966</cell>
+                        <cell/>
+                        <cell>Counselor<lb/>of Embassy<lb/>for Pol. Affla<lb/>3d Sec. Also
+                            V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James T. Schollaert</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

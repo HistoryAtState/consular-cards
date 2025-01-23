@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0657" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nagasaki, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0656" type="prev"/>
+                <relatedItem target="c0658" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0657f1">
+                <graphic height="3626px" url="00892.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nagasaki, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00892</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0657f2">
+                <graphic height="3626px" url="00893.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nagasaki, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00893</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0657">
+        <body>
+            <div corresp="#c0657f1"/>
+            <div corresp="#c0657f2">
+                <head>Nagasaki, Japan.</head>
+                <p>William De Neill, Vice Consul took over the office from Consul Neville Jan. 21,
+                    1920, and turning it over to Consul Curtice 3/16/1920</p>
+                <p>Irvin C. Correll, Vice Consul, reported Nov. 25, 1921 "I have this day assumed
+                    charge of the Consulate." Took over office from Consul Curtice 2/26/21</p>
+                <p>Sue. I. Davis resignation reported on FA's memo # 604, dated Jan. 25, 1941. Feb.
+                    12 to Mar. 13 approved as 30 day leave.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

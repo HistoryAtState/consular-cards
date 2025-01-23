@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2448" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French Samoli Coast and Dependencies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2447" type="prev"/>
+                <relatedItem target="c2449" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2448f1">
+                <graphic height="3634px" url="03257.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French Samoli Coast and Dependencies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03257</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2448">
+        <body>
+            <div corresp="#c2448f1">
+                <head>French Samoli Coast and dependencies</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>the also V.C. Aden</cell>
+                        <cell>Robert J. Cowan</cell>
+                        <cell>8.D.A. Unc.</cell>
+                        <cell/>
+                        <cell>7/10/1938</cell>
+                        <cell>Tex.</cell>
+                        <cell>Aug. 29, 1939</cell>
+                        <cell>assgd to Zurich, Jan. 17, 1940</cell>
+                    </row>
+                    <row>
+                        <cell>Is also V.C. Aden</cell>
+                        <cell>Clare H. Timberlake</cell>
+                        <cell>L40</cell>
+                        <cell>8</cell>
+                        <cell>8-30-38 EFFECTIVE 8-7-38</cell>
+                        <cell>Misch</cell>
+                        <cell>Jan. 12, 1940</cell>
+                        <cell>apptd. Consul Oct. 5, 1940. assgd. Con. to French Somali Coast &amp;
+                            aden, Oct. 16, 1940.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

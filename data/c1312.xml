@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1312" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santa Fe, Isle of Pines</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1311" type="prev"/>
+                <relatedItem target="c1313" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1312f1">
+                <graphic height="3626px" url="01743.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santa Fe, Isle of Pines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01743</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1312f2">
+                <graphic height="3638px" url="01744.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santa Fe, Isle of Pines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01744</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1312">
+        <body>
+            <div corresp="#c1312f1">
+                <head>Santa Fe, Isle of Pines. (Agency formerly at Nueva Gerona.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly</cell>
+                        <cell>Frank L. Tucker</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Chicago, Ill.</cell>
+                        <cell>Del. Nov. 27, 1916.</cell>
+                        <cell>Resigned about the middle of January, 1918</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Amapala.</cell>
+                        <cell>George A. Makinson (C.A.)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Calif. Calif. Jan. 26, 1918.</cell>
+                        <cell>(Arrived 2/20/18)</cell>
+                        <cell>Feb. 23, 1918 to</cell>
+                        <cell>Agency moved to Nueva Gerona 1918</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1312f2">
+                <head>Santa Fe, New Mexico.</head>
+                <p>Mr. F. B. Hervey, acting American Consular Agent (resig. - Decker) about Jan. 15,
+                    1918 <lb/> Feb. 23, 1918.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5555" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5554" type="prev"/>
+                <relatedItem target="c5556" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5555f1">
+                <graphic height="3608px" url="07243.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="19.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07243</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5555">
+        <body>
+            <div corresp="#c5555f1">
+                <head>TURKEY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                    </row>
+                    <row>
+                        <cell>Izmir</cell>
+                        <cell>Maxwell K. Berry</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Aug. 14, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of<lb/>Defense<lb/>Lourenço<lb/>Marques</cell>
+                        <cell>John H. Leavitt</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>July 31, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>LeRoy Makepeace</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>June 5, 1966</cell>
+                        <cell>(CENTO)</cell>
+                        <cell>2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Byron E. Byron</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Sept. 11, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Alexander L. Rattray</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Dec. 18, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

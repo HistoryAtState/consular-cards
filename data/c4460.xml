@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4460" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ankara, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4459" type="prev"/>
+                <relatedItem target="c4461" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4460f1">
+                <graphic height="3626px" url="05807.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ankara, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05807</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4460">
+        <body>
+            <div corresp="#c4460f1">
+                <head>ANKARA, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. V.C.</cell>
+                        <cell>Joseph A. Presel</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 28, 1963</cell>
+                        <cell>Also 3d Sec. <unclear>AO</unclear> assigned to the U.S.<lb/>Arms
+                            Control &amp; Disarmament Agency,<lb/>1-16-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Izmir</cell>
+                        <cell>Louis E. Kahn</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 25, 1963</cell>
+                        <cell>Also 3d Sec. <unclear>750</unclear> assigned to the<lb/>Dept.,
+                            2-13-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. + 2d Sec.<lb/>Beirut</cell>
+                        <cell>Robert Duncan Emmons</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 26, 1964</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Tunis</cell>
+                        <cell>Miss Sarah I. Rowley</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Mar. 29, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. Resigned COB 4-28-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert J. Blais</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 27, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To Karachi as 3d<lb/>Sec. 2-26-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter S. Maher</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. To Asmarags V.C. 11-21-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James Alan Williams</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Feb. 28, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec. Detailed to Adana as V.C. 10-31-64<lb/>Detail terminated
+                            1-31-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Adana</cell>
+                        <cell>John H. Kelly</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell/>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2016" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chungking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2015" type="prev"/>
+                <relatedItem target="c2017" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2016f1">
+                <graphic height="3624px" url="02706.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chungking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02706</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2016">
+        <body>
+            <div corresp="#c2016f1">
+                <head>Chungkings China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>VoD.C.G.<lb/>Int. at<lb/>Tientsin</cell>
+                        <cell>William Tseng Laisun</cell>
+                        <cell>Interpreter</cell>
+                        <cell/>
+                        <cell>India</cell>
+                        <cell>Calif.</cell>
+                        <cell>Apr. 21, 1897</cell>
+                        <cell>Resigned at Shanghai<lb/>Apr. 2, 1901.<lb/>Appts V.C.S. Int.
+                            at<lb/>Hankow Feb. 17, 1909.</cell>
+                    </row>
+                    <row>
+                        <cell>Tientsin</cell>
+                        <cell>Hubert G. Baugh ins</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 27, 1908.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tientsin</cell>
+                        <cell>Charles Me Rignan</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 18, 1915.</cell>
+                        <cell>Appts V.C.S. Int., Canton 7/7/1916</cell>
+                    </row>
+                    <row>
+                        <cell>Anting</cell>
+                        <cell>Samuel Sokobin</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>N.J.</cell>
+                        <cell>Aug. 21, 1919.</cell>
+                        <cell>Appts V.C.S. Int., Swatow Aug. 9, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>Shangla</cell>
+                        <cell>Norwood F. Allman</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>La.</cell>
+                        <cell>Aug. 10, 1921</cell>
+                        <cell>Appts V.C.S. Int., Nanking May 10, 1922</cell>
+                    </row>
+                    <row>
+                        <cell>Site<lb/>Int.</cell>
+                        <cell>Robert Lacy Smyth</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>China</cell>
+                        <cell>Calif.</cell>
+                        <cell>Jan. 2, 1923</cell>
+                        <cell>Appts V.C.S. Int., Hankow Jan. 26, 1923<lb/>Did not go to
+                            Chungking<lb/>Appt, canceled.</cell>
+                    </row>
+                    <row>
+                        <cell>Canton</cell>
+                        <cell>Culver B. Chamberlain</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Oct. 30, 1923.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Hankow</cell>
+                        <cell>Robert Lacy Smyth</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>China</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 13, 1924.</cell>
+                        <cell>apptd V.S.O. Une., &amp; assigned to<lb/>Tientsin, N.E. July 1,
+                            1925.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

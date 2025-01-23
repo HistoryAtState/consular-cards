@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1995" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Burtscheid, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1994" type="prev"/>
+                <relatedItem target="c1996" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1995f1">
+                <graphic height="3626px" url="02674.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Burtscheid, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02674</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1995">
+        <body>
+            <div corresp="#c1995f1">
+                <head>Burtscheid, Germany. (under Sic)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilhelm Buchholz</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 17, 1881</cell>
+                        <cell>Nom withdrawn by <lb/> Consul at sif</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Brugmann</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 22, 1882.</cell>
+                        <cell>July 1, 1882 to July 19, 1886. <lb/> Acted as V. C. at the
+                            9/23/83/5/24/98</cell>
+                    </row>
+                </table>
+                <p>Agency aboliched July 19, 1886.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

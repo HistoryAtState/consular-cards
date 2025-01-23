@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2149" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Curitiba, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2148" type="prev"/>
+                <relatedItem target="c2150" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2149f1">
+                <graphic height="3620px" url="02870.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Curitiba, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02870</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2149">
+        <body>
+            <div corresp="#c2149f1">
+                <head>Curitiba, Brazil Est. May 21, 1957</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Recife</cell>
+                        <cell>Edward M. Rowell</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 13, 1959</cell>
+                        <cell>Designated Consul, Curitiba 12-13-59</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George M. Scanlan</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 5, 1959</cell>
+                        <cell>Resigned COB Nov. 9, 1962.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Bombay</cell>
+                        <cell>Allen G. Noble</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 5, 1962</cell>
+                        <cell>To Belém as V.C., 1-21-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stewart D. Burton</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1962</cell>
+                        <cell>To Georgetown as V.C. (FSP)<lb/>7-6-64.<lb/>FSO assigned to the
+                            Dept.,<lb/>3-28-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Vancouver</cell>
+                        <cell>Gerald D. Gilbertson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 15, 1962</cell>
+                        <cell>FSR Officer assigned to U.S. Info.<lb/>Agency, D.C. 6-27-66.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Allen Brettell</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>Aug. 1, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George R. Hoover</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dale A. Morrison</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell>June 16, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Effective October 1, 1966, the functions and staff of the American Consulate at
+                    Curitiba are to be reduced. Curitiba will no longer perform any statutory
+                    consular operations. Its consular services are to be handled by the Consulate
+                    General, São Paulo.</p>
+                <p>(FAMC No. 439 of Aug. 24, 1966.)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

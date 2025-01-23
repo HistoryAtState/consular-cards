@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2318" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Guernsey, Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2317" type="prev"/>
+                <relatedItem target="c2319" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2318f1">
+                <graphic height="3632px" url="03086.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guernsey, Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03086</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2318f2">
+                <graphic height="3632px" url="03087.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Guelph, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03087</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2318">
+        <body>
+            <div corresp="#c2318f1">
+                <head>Guernsey, Island.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Carey</cell>
+                        <cell>Contgt. Br. Eng</cell>
+                        <cell>Eng</cell>
+                        <cell>Eng</cell>
+                        <cell>Apr. 8, 1880.</cell>
+                        <cell/>
+                        <cell>-to Sept. 30, 1908-</cell>
+                    </row>
+                </table>
+                <p>Agency closed September 30, 1908, by direction of Dept. (File #14344/1-2)</p>
+            </div>
+            <div corresp="#c2318f2">
+                <head>Guelph, Ontario, Canada.</head>
+                <p>George A. Otnard, V. Con. in charge from Nov. 6, 1905 to Dec. 5, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

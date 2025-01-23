@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0743" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nuevitas, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0742" type="prev"/>
+                <relatedItem target="c0744" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0743f1">
+                <graphic height="3622px" url="01010.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nuevitas, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01010</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0743f2">
+                <graphic height="3622px" url="01011.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nuevitas, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1932</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01011</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0743">
+        <body>
+            <div corresp="#c0743f1">
+                <head>Nuevitas, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>William K. Ailshie</cell>
+                        <cell>J.S.Q.</cell>
+                        <cell><unclear>Unc.</unclear></cell>
+                        <cell>11/12/1929</cell>
+                        <cell>Idaho</cell>
+                        <cell>Mar. 19, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Maracaibo</cell>
+                        <cell>Gerald G. Mokma</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/19/1929</cell>
+                        <cell>Iowa</cell>
+                        <cell>June 11, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Milton Patterson Thompson</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>3-26-1929</cell>
+                        <cell>Tenn.</cell>
+                        <cell>March 21, 1941</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Milton Patterson Thompson</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>6-26-42</cell>
+                        <cell>Tenn.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>F. Lester Sutton</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>6-1-42</cell>
+                        <cell>Tenn.</cell>
+                        <cell><unclear>Nue.</unclear> 3-20-41C <unclear>N.F.</unclear> Feb. 28,
+                            1943</cell>
+                    </row>
+                </table>
+                <p>The Consulate at Nuevitas will be moved to Camaguey, Cuba. A telegram from
+                    Nuevitas states that the office at Nuevitas will close November 30, 1947 and
+                    will open at Camaguey, December 1, 1947.</p>
+                <p>Apr. 1, 1930, to Apr. 6, 1930. Returned to Habana, without further commission,
+                    Apr. 7, 1930.</p>
+                <p>Assigned to Antwerp, Aug. 10, 1933.</p>
+                <p>Remaining at Nuevitas, 7-17-42.</p>
+                <p>Resigned 1942 - see below</p>
+                <p>Resignation eff. COB April 22, 1943 as F.S.O. Cl. 8</p>
+                <p>Canceled -</p>
+            </div>
+            <div corresp="#c0743f2"/>
+        </body>
+    </text>
+</TEI>

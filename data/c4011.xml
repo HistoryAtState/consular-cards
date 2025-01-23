@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4011" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Strasbourg, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4010" type="prev"/>
+                <relatedItem target="c4012" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4011f1">
+                <graphic height="3640px" url="05236.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Strasbourg, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05236</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4011">
+        <body>
+            <div corresp="#c4011f1">
+                <head>Strasbourg, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Toronto</cell>
+                        <cell>G. Edward Reynolds</cell>
+                        <cell>750</cell>
+                        <cell>6</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 5, 1952</cell>
+                        <cell>Assigned to Tokyo as Lang &amp; Area France 4-1-55</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Stanley D. Schiff</cell>
+                        <cell>750</cell>
+                        <cell>6</cell>
+                        <cell>H.J.</cell>
+                        <cell>Apr. 11, 1952</cell>
+                        <cell>To Liverpool as V.C. 9-30-53.</cell>
+                    </row>
+                    <row>
+                        <cell>(FSO) Lourenco Marques also 2d Sec.</cell>
+                        <cell>Arthur T. Tienken</cell>
+                        <cell>Cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 22, 1955</cell>
+                        <cell>To Remascus as V.C. &amp; 2d Sec. 9-22-56</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James E. Akins</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Ohio</cell>
+                        <cell>Sept. 10, 1955</cell>
+                        <cell>To Paris as V.C. + 2d Sec. 5-19-58</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Louis J. Link</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Kans.</cell>
+                        <cell>Aug. 27, 1956</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert A. Flaten</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>Mar. 26, 1962</cell>
+                        <cell>FSO assigned to the Dept., 1-19-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Elizabeth R. Thurston</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>May 24, 1965</cell>
+                        <cell>To Edinburgh as V.C. 11-7-66</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Consulate at Strasbourg was elevated to Consulate General
+                            status on July 18, 1966.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Michael B. Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Dec. 19, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

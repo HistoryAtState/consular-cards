@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6448" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luxembourg</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6447" type="prev"/>
+                <relatedItem target="c6449" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6448f1">
+                <graphic height="3624px" url="08532.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Luxembourg</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>08532</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6448">
+        <body>
+            <div corresp="#c6448f1">
+                <head>LUXEMBOURG</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Luxembourg 3d Sec.</cell>
+                        <cell>Joseph H. Cunningham</cell>
+                        <cell>FSO</cell>
+                        <cell>30</cell>
+                        <cell>Mar. 1, 1963</cell>
+                        <cell/>
+                        <cell>Couns.</cell>
+                        <cell>Also Consul <lb/>Dep Chief of Mission <lb/>To Army War College 8-28-66
+                            <lb/>Carlisle Barracks, Pa.</cell>
+                    </row>
+                    <row>
+                        <cell>Luxembourg</cell>
+                        <cell>Leo J. Reddy</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Apr. 12, 1964</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C. To Rangoon <lb/>as VC. 42d Sec., 9-28-64.</cell>
+                    </row>
+                    <row>
+                        <cell>FSI <lb/>Prince-</cell>
+                        <cell>Thomas D. Boyatt</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Oct. 26, 1964</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Consul <lb/>Assigned to Dept. 8-14-66.</cell>
+                    </row>
+                    <row>
+                        <cell>ton U.</cell>
+                        <cell>Walter F. X. Collopy</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>June 20, 1965</cell>
+                        <cell>USEC</cell>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Luxembourg</cell>
+                        <cell>Lucian L. Rocke, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell>USEC</cell>
+                        <cell>1st Sec.</cell>
+                        <cell><unclear>FSO</unclear> assigned to Princeton <lb/>U., Princeton, NJ.,
+                            8-29-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Luxem- <lb/>bourg</cell>
+                        <cell>James H. Morton</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Luxem- <lb/>bourg</cell>
+                        <cell>Miss Joan M. Clark</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John P. Leonard</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard W. Boehm</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell/>
+                        <cell>Couns.</cell>
+                        <cell>Also Consul <lb/>Dep Chief of Mission</cell>
+                    </row>
+                    <row>
+                        <cell>Aleppo</cell>
+                        <cell>Warren Clark, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

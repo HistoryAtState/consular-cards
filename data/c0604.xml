@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0604" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Minorca, Majorca and Yvica-Islands of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0603" type="prev"/>
+                <relatedItem target="c0605" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0604f1">
+                <graphic height="3632px" url="00817.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Minorca, Majorca and Yvica-Islands of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1803</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00817</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0604f2">
+                <graphic height="3632px" url="00818.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Minorca, Majorca and Yvica-Islands of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1808</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00818</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0604">
+        <body>
+            <div corresp="#c0604f1">
+                <head>Minorca, Majorca and Yvica Islands of) (Balearic Islands)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Martin Baker</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 1, 1803 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Theodore Ladico</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Port Mahon</cell>
+                        <cell>Mar. 2, 1820 Conf.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Obadiah Rich</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Oct. 6, 1834 recess<lb/>Dec. 30, 1834 Conf.</cell>
+                        <cell>Resignation accepted 5/28/1845</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0604f2">
+                <head>Minorea, Majorca and Yvica.</head>
+                <p>L. Theodore Ladico - Vice Consul - 1808? to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

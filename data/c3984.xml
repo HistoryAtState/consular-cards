@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3984" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Soerabaya, Java</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3983" type="prev"/>
+                <relatedItem target="c3985" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3984f1">
+                <graphic height="3638px" url="05198.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Soerabaya, Java</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05198</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3984">
+        <body>
+            <div corresp="#c3984f1">
+                <head>Loerabaya, Java.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                    </row>
+                    <row>
+                        <cell>Batavia</cell>
+                        <cell>Ralph H. Tompkins</cell>
+                        <cell>V.C. de Carrière</cell>
+                        <cell>3</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>Jowa</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Ralph H. Tompkins</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>1/17/1921</cell>
+                        <cell>Jowa</cell>
+                    </row>
+                    <row>
+                        <cell>Dientain</cell>
+                        <cell>Hugh Mc Carthy</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>5/25/1921</cell>
+                        <cell>Mont.</cell>
+                    </row>
+                    <row>
+                        <cell>Batavia</cell>
+                        <cell>Gollin R. Winslow</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>2/26/1923</cell>
+                        <cell>Mich.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 2</cell>
+                        <cell>Rollin R. Winslow</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>11/23/1923</cell>
+                        <cell>Mich.</cell>
+                    </row>
+                </table>
+                <p>See above Rollin R. Winslow F.S.O. Une. 1924 R. Mich Continued under assignment
+                    of Apr. 17, 1953.</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Apptz V.C. de carrière Class 2 Nov, 17, 1921. Left Jan. 1, 1922.
+                            Assigned to Batavia Dec. 31,1921</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Resigned effective 3/23/23</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Apptz V.C. de carrière, Class 1, Nov. 23, 1923. Appes F.S.O.,
+                            Unclassified July 1, 1924. Appto F.S.O. class 8 Feb 24, 1925, also
+                            Consul mar. 3, 1925</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Assigned to Soerabaya Mar, 18,1925. Appto F.S.O. class 8 Feb. 24,
+                            1925, also Consul mar, 3, 1925,</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

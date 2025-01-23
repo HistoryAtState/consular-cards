@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0618" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Monganui, New Zealand</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0617" type="prev"/>
+                <relatedItem target="c0619" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0618f1">
+                <graphic height="3628px" url="00837.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monganui, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00837</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0618f2">
+                <graphic height="3628px" url="00838.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monganui, New Zealand</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1849</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00838</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0618">
+        <body>
+            <div corresp="#c0618f1">
+                <head>Monganui, New Zealand.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Wyles</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell>Scotland</cell>
+                        <cell/>
+                        <cell>Sept. 5, 1878.</cell>
+                        <cell>Sept., 1878 to</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0618f2">
+                <head>Monganini, New Zealand</head>
+                <p>James Burt, Appt V.C. by Con. (at buckland June, 1849) Letter of Nov. 3, 1850
+                    says he resigned (no date)</p>
+                <p>C.W. Drury - Cons. Agt. - To Lapthala Agency closed</p>
+                <p>(elected to 1875?) 1870?</p>
+                <p>Consul at buckland says on Oct. 24, 1901, there has been no agent for years.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

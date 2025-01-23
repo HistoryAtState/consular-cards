@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4179" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Toronto, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4178" type="prev"/>
+                <relatedItem target="c4180" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4179f1">
+                <graphic height="3634px" url="05439.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Toronto, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05439</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4179">
+        <body>
+            <div corresp="#c4179f1">
+                <head>TORONTO, ONTARIO, CANADA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>v.c.</cell>
+                        <cell>Miss Margaret V. Johnson</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 24, 1955</cell>
+                        <cell><unclear>Designated</unclear> U.S. of career<lb/>Toronto.
+                            10-1-56</cell>
+                    </row>
+                    <row>
+                        <cell>v.c.</cell>
+                        <cell>George H. Strunz</cell>
+                        <cell>Vice Con</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 16, 1956</cell>
+                        <cell><unclear>Resigned</unclear> off. COB<lb/>11-20-57</cell>
+                    </row>
+                    <row>
+                        <cell>v.c. ESS</cell>
+                        <cell>Bernard E. Nadeau</cell>
+                        <cell>V. Cons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 16, 1956</cell>
+                        <cell><unclear>Designated</unclear> v.c. of career Toronto<lb/>5-6-57</cell>
+                    </row>
+                    <row>
+                        <cell>Paramaribo</cell>
+                        <cell>Miss Fannie Goldstein</cell>
+                        <cell>V.Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr.6,1957</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>v.c.</cell>
+                        <cell>Robert J. Corcoran</cell>
+                        <cell>V. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 1, 1958</cell>
+                        <cell><unclear>Designated</unclear> V.C. of career<lb/>Toronto,
+                            7-25-60</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal<lb/>V. (750)</cell>
+                        <cell>Elwin T. Vangas</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 23, 1964</cell>
+                        <cell><unclear>Designated</unclear> Consul (755) Toronto<lb/>5-24</cell>
+                    </row>
+                    <row>
+                        <cell>Joronto</cell>
+                        <cell>Miss Charlotte S. Landrum</cell>
+                        <cell>V. Cona.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

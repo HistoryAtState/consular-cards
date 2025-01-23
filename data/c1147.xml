@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1147" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Salina Cruz, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1146" type="prev"/>
+                <relatedItem target="c1148" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1147f1">
+                <graphic height="3628px" url="01525.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Salina Cruz, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01525</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1147">
+        <body>
+            <div corresp="#c1147f1">
+                <head>Salina Cruz, Mexico.</head>
+                <p>V.D.Consul Rich turned over the office to Consul Haskell Mar. 31, 1910.</p>
+                <p>Harold C. Wood, V.C. reported by tel. that he had taken charge of Consulate Nov.
+                    5, 1923. Turned it over to V.C. Horn June 21, 1974.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

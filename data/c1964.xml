@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1964" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bridgewater, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1963" type="prev"/>
+                <relatedItem target="c1965" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1964f1">
+                <graphic height="3620px" url="02632.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bridgewater, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02632</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1964">
+        <body>
+            <div corresp="#c1964f1">
+                <head>Bridgewater, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm H. Owen</cell>
+                        <cell>Con. Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 18, 1872</cell>
+                        <cell>Resigned effective Dec. 1, 1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur C. Barnaby</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nova Nova</cell>
+                        <cell>Gr.Br. Scotia Scotia</cell>
+                        <cell>Dec. 3, 1919</cell>
+                        <cell>Resigned effective Aug. 1, 1926</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed August 1, 1926.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

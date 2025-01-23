@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1401" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sierra Leone, West Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1400" type="prev"/>
+                <relatedItem target="c1402" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1401f1">
+                <graphic height="3628px" url="01865.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sierra Leone, West Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01865</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1401">
+        <body>
+            <div corresp="#c1401f1">
+                <head>Sierra Leone, West Africa.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly Vice Con.</cell>
+                        <cell>Edwin May Hursh</cell>
+                        <cell>V.S. Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Feb. 25, 1909</cell>
+                        <cell>Resigned to be relieved as earliest convenience. Consul's desp. Feb.
+                            25, 1910</cell>
+                    </row>
+                    <row>
+                        <cell>formerly Vice Con.</cell>
+                        <cell>John R. King (Minisary)</cell>
+                        <cell>V.S.D. Con.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Mar. 25, 1910.</cell>
+                        <cell>Resigned about June, 1912. Despatch lost with the Titanic"</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Raymond Dougherty (")</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Lebanon, Lebanon,</cell>
+                        <cell>Pa. Pa.</cell>
+                        <cell>July 1, 1912.</cell>
+                        <cell>Resigned May 9, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Perinaux</cell>
+                        <cell/>
+                        <cell>Fr.</cell>
+                        <cell>Sierra Leone</cell>
+                        <cell>France Leone</cell>
+                        <cell>Sept. 16, 1913</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>* Consuls despatch of Feb, 25, 1910 says Mr. King is of Pa. though he was
+                    appointed from Ohio</p>
+            </div>
+        </body>
+    </text>
+</TEI>

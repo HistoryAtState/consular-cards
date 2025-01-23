@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3863" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Luis Potosi, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3862" type="prev"/>
+                <relatedItem target="c3864" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3863f1">
+                <graphic height="3630px" url="05036.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Luis Potosi, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05036</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3863f2">
+                <graphic height="3630px" url="05037.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Luis Potosi, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05037</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3863">
+        <body>
+            <div corresp="#c3863f1">
+                <head>SAN LUIS POTOSI, Mexico (see back)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Guayaquil</cell>
+                        <cell>Alton W. Hemba</cell>
+                        <cell>FSO</cell>
+                        <cell>Cons.</cell>
+                        <cell>2</cell>
+                        <cell>May 23, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>American Consulate opened at San Luis Potosi on June 1, 1966.</p>
+                <p><unclear>Check on other assign.</unclear>
+                    <unclear>Damn may not use as a precedent</unclear></p>
+                <p>Retired COB 2-28-67.</p>
+            </div>
+            <div corresp="#c3863f2"/>
+        </body>
+    </text>
+</TEI>

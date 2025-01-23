@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2033" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Clifton-Niagara Falls, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2032" type="prev"/>
+                <relatedItem target="c2034" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2033f1">
+                <graphic height="3624px" url="02726.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Clifton-Niagara Falls, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02726</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2033">
+        <body>
+            <div corresp="#c2033f1">
+                <head>Clinton, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A.O. Pattison</cell>
+                        <cell>Con. Agt. Gr. Dr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 11, 1890.</cell>
+                        <cell>On the closing of Agency.</cell>
+                    </row>
+                </table>
+                <p>Agency closed March 31, 1909.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

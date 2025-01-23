@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0191" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cape Gracias a Dios, Nicaragua-Port Deitrick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0190" type="prev"/>
+                <relatedItem target="c0192" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0191f1">
+                <graphic height="3628px" url="00277.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cape Gracias a Dios, Nicaragua-Port Deitrick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00277</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0191">
+        <body>
+            <div corresp="#c0191f1">
+                <head>Cape Gracias a Dios Port Deitrick) Nicaragua</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Port Deitrick</cell>
+                        <cell>Edwin W. Trimmer</cell>
+                        <cell>Vice Con. US.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 8, 1905</cell>
+                        <cell>Appt'd Consul June 21, 1905</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles A. Warren</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Calif.</cell>
+                        <cell>Dec. 2, 1905</cell>
+                        <cell>Left post April 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A Deverall</cell>
+                        <cell>V.C.D.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 6, 1906.</cell>
+                        <cell>Resigned Feb. 1907</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Seat</cell>
+                        <cell>Vice</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ark.</cell>
+                        <cell>Apr. 24, 1907.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(Consulate closed by Cons. Deft. 16, 1911)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

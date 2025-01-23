@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1499" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sydney, N.J., Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1498" type="prev"/>
+                <relatedItem target="c1500" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1499f1">
+                <graphic height="3628px" url="02001.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sydney, N.J., Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02001</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1499">
+        <body>
+            <div corresp="#c1499f1">
+                <head>Sydney, N.S, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Lyon</cell>
+                        <cell>Hugh H. Hatson</cell>
+                        <cell>9.8.0.</cell>
+                        <cell>3</cell>
+                        <cell>7/24/1930R Consul 12/16/1930C 2-19-18</cell>
+                        <cell>Dr.</cell>
+                        <cell>Jan. 9, 1932.</cell>
+                        <cell>Assigned to Halifax, Aug. 1, 1935. Oct. 31, 1935, to appt'd a Sec'y in
+                            Dipl. Serv., Mar. 24, 1937. Assig'd to Ottawa, Mar. 8, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell>Edmonton</cell>
+                        <cell>Francis H. Style</cell>
+                        <cell>Do</cell>
+                        <cell>6</cell>
+                        <cell>1-22-35 Consul EFFECTIVE 8-8-24</cell>
+                        <cell>Va.</cell>
+                        <cell>Aug. 3, 1935</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Parker H. Buhrman</cell>
+                        <cell>Do</cell>
+                        <cell>4</cell>
+                        <cell>7/24/1930R Cou. Sen. EFFECTIVE 12/10/1930C 7-31-35</cell>
+                        <cell>Va.</cell>
+                        <cell>Apr. 2, 1937</cell>
+                        <cell>Assigned to Basel, Dec. 1, 1938.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed December 31, 1938.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

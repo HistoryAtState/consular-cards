@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3568" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pusan, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3567" type="prev"/>
+                <relatedItem target="c3569" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3568f1">
+                <graphic height="3614px" url="04661.tif" width="6060px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pusan, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04661</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3568">
+        <body>
+            <div corresp="#c3568f1">
+                <head>Pusan, Korea</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>vS.<lb/>Seoul<lb/>consul</cell>
+                        <cell>John Reppel</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>DC.</cell>
+                        <cell>Feb. 21, 1952</cell>
+                        <cell>also 2d Sec.<lb/>750, assigned to Dept. 4-30-52</cell>
+                    </row>
+                    <row>
+                        <cell>Bangkok<lb/>consul</cell>
+                        <cell>Golland W. Bushner</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Okla.</cell>
+                        <cell>June 6, 1952</cell>
+                        <cell>Also 2d Sec. To Tehranas<lb/>Cons. 2d Sec. 9-25-53.<lb/>To Cork, as
+                            Consul, 3-3-55.</cell>
+                    </row>
+                    <row>
+                        <cell>montreal<lb/>consul</cell>
+                        <cell>Charles B. Borell</cell>
+                        <cell>755</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>N. Y.</cell>
+                        <cell>July 21, 1952</cell>
+                        <cell>Also 1st Sec. To Seoul as<lb/>Cons. &amp; 1st Sec. 8-17-53.</cell>
+                    </row>
+                    <row>
+                        <cell>consult<lb/>Ist see.<lb/>2d sec.<lb/>mexico</cell>
+                        <cell>Sydney L. W. Mellem</cell>
+                        <cell>750</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 26, 1952</cell>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry L. Coster Cancelled</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Calif.</cell>
+                        <cell>Sept. 17, 1952</cell>
+                        <cell>Also 2d Sec. To Seoul as<lb/>Cons. &amp; 2d Sec. 8-17-53.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John A. Calhoun</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Calif.</cell>
+                        <cell>Dec. 6, 1952</cell>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Willard O. Brown Cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Texas</cell>
+                        <cell>Sept. 1, 1953</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0950" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Nazaire, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0949" type="prev"/>
+                <relatedItem target="c0951" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0950f1">
+                <graphic height="3632px" url="01270.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Nazaire, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01270</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0950">
+        <body>
+            <div corresp="#c0950f1">
+                <head>St. Nazaire, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul C. Squire</cell>
+                        <cell><unclear>P.C. de</unclear>
+                            <lb/> carrier</cell>
+                        <cell>3</cell>
+                        <cell>9/21/1919</cell>
+                        <cell>Mass.</cell>
+                        <cell>Oct. 22, 1919</cell>
+                        <cell>Assigned to Nantes Dec. 29, 1919.</cell>
+                    </row>
+                </table>
+                <p>Agency closed April 10, 1920</p>
+            </div>
+        </body>
+    </text>
+</TEI>

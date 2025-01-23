@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2253" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Godthaab, Greenland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2252" type="prev"/>
+                <relatedItem target="c2254" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2253f1">
+                <graphic height="3624px" url="03006.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Godthaab, Greenland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03006</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2253">
+        <body>
+            <div corresp="#c2253f1">
+                <head>Godthaab, Greenland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. State</cell>
+                        <cell>James K. Penfield</cell>
+                        <cell>7.D.O.</cell>
+                        <cell>7</cell>
+                        <cell>1/13/40</cell>
+                        <cell>Consul Calif. 4-22-37.</cell>
+                        <cell>Calif.</cell>
+                        <cell>May 7, 1940</cell>
+                        <cell>May 25, 1940 to Appt'd. 750 d. 6, Aug. 16, 1941.<lb/>To Chungking as
+                            2. Sect.<lb/>11-2-42<lb/>Assgd. to the Dept.<lb/>12-4-44.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 7</cell>
+                        <cell>James K. Penfield</cell>
+                        <cell>"</cell>
+                        <cell>6</cell>
+                        <cell>9-29-41</cell>
+                        <cell>do</cell>
+                        <cell>do</cell>
+                        <cell>do</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John B. Ocheltree</cell>
+                        <cell>"</cell>
+                        <cell>6</cell>
+                        <cell>11-21-42</cell>
+                        <cell>Consul 4-22-37c</cell>
+                        <cell>New.</cell>
+                        <cell>Sept. 26, 1942</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed to the public Aug. 15, 1953 Officially closed Oct. 9, 1953</p>
+            </div>
+        </body>
+    </text>
+</TEI>

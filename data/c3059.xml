@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3059" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mexico, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3058" type="prev"/>
+                <relatedItem target="c3060" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3059f1">
+                <graphic height="3606px" url="04026.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mexico, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="14.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1967</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04026</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3059">
+        <body>
+            <div corresp="#c3059f1">
+                <head>MEXICO, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John H. Curry</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Miss Mary Ann Newman</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Dec. 5, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>S. Dickson Tenney</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 16, 1967</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard H. Luchesa</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Jan. 30, 1967</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0029" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Aix la Chapelle, Prussia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0028" type="prev"/>
+                <relatedItem target="c0030" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0029f1">
+                <graphic height="3628px" url="00043.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Aix la Chapelle, Prussia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00043</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0029">
+        <body>
+            <div corresp="#c0029f1">
+                <head>Aix la Chapelle, Prussia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Auch-</cell>
+                        <cell>J. Martin Miller</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>N.J.</cell>
+                        <cell>Mar. 24, 1905</cell>
+                        <cell>recess</cell>
+                        <cell>Exequatur not granted<lb/>Apptd C.S. at trickland 9/9/1905.</cell>
+                    </row>
+                    <row>
+                        <cell>land</cell>
+                        <cell>Frank Dillingham</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Cal.</cell>
+                        <cell>Sept. 9, 1905</cell>
+                        <cell>recess</cell>
+                        <cell>Apptd C.Y. Coburg Jan. 4, 1906.<lb/>Feb. 23, 1906 to July 31,
+                            1913</cell>
+                    </row>
+                    <row>
+                        <cell>Shet-</cell>
+                        <cell>Pendleton Strings</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.C.</cell>
+                        <cell>Dec. 12, 1905</cell>
+                        <cell>conf.</cell>
+                        <cell>Died at Tiessen July 31, 1913<lb/>Jan. 19, 1914 to Dec. 21,
+                            1914.</cell>
+                    </row>
+                    <row>
+                        <cell>jicks</cell>
+                        <cell>Robert J. Thompson</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Ill.</cell>
+                        <cell>Nov. 24, 1913</cell>
+                        <cell>Conf. Resigned from New York 1/20/1915<lb/>mar. 5, 1915,<lb/>see entry
+                            below</cell>
+                    </row>
+                    <row>
+                        <cell>Stition</cell>
+                        <cell>Henry C. A. Damm</cell>
+                        <cell>(Consul)</cell>
+                        <cell>"</cell>
+                        <cell>Wisc.</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Feb. 22, 1915</cell>
+                        <cell>Apr. 15, 1915 to<lb/>directed to proceed to Harput, Turkey,<lb/>for
+                            duty in that office Feb. 14, 1917.</cell>
+                    </row>
+                    <row>
+                        <cell>Stition</cell>
+                        <cell>Henry C. A. Damm</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Closed February 1917</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

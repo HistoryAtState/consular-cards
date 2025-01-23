@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5649" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>[totals-1948]</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5648" type="prev"/>
+                <relatedItem target="c5650" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5649f1">
+                <graphic height="3002px" url="07368.tif" width="4790px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>[totals-1948]</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07368</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5649">
+        <body>
+            <div corresp="#c5649f1">
+                <head>DATE: FISCAL YEAR: 1949 - 1st half</head>
+                <head>1948 Calendar Year: 1948 - 2nd half</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell/>
+                        <cell>E</cell>
+                        <cell>L</cell>
+                        <cell>USM</cell>
+                        <cell>USP</cell>
+                        <cell>CG</cell>
+                        <cell>C</cell>
+                        <cell>CA</cell>
+                        <cell>M</cell>
+                        <cell>VC</cell>
+                        <cell>TOTAL</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Totals carried forward:</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>11/23</cell>
+                        <cell>La Guaira, Venezulea, (CA open)</cell>
+                        <cell>49</cell>
+                        <cell>17</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                        <cell>58</cell>
+                        <cell>125</cell>
+                        <cell>29</cell>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>292</cell>
+                    </row>
+                    <row>
+                        <cell>11/30</cell>
+                        <cell>Bristol, England (C closed)</cell>
+                        <cell>49</cell>
+                        <cell>17</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                        <cell>58</cell>
+                        <cell>124</cell>
+                        <cell>29</cell>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>291</cell>
+                    </row>
+                    <row>
+                        <cell>12/22</cell>
+                        <cell>Wellington, NZ (L to E)</cell>
+                        <cell>50</cell>
+                        <cell>16</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                        <cell>58</cell>
+                        <cell>124</cell>
+                        <cell>29</cell>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>291</cell>
+                    </row>
+                    <row>
+                        <cell>12/31</cell>
+                        <cell>Suva, Fiji Islands (C closed)</cell>
+                        <cell>50</cell>
+                        <cell>16</cell>
+                        <cell>2</cell>
+                        <cell>6</cell>
+                        <cell>58</cell>
+                        <cell>123</cell>
+                        <cell>29</cell>
+                        <cell>1</cell>
+                        <cell>5</cell>
+                        <cell>290</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Totals end 1948 Calendar Year</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

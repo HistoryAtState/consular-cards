@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4927" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Frankfort on the Main, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4926" type="prev"/>
+                <relatedItem target="c4928" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4927f1">
+                <graphic height="3630px" url="06398.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Frankfort on the Main, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="8.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1954</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06398</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4927">
+        <body>
+            <div corresp="#c4927f1">
+                <head>FRANKFORT on the Main, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Athens</cell>
+                        <cell>Mrs. Ruth B. Charles</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 5, 1954</cell>
+                        <cell>To Montreal as V.C. <lb/> 8-26-57</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS)</cell>
+                        <cell>Munich Lois M. Unger (Miss)</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 15, 1957</cell>
+                        <cell>to Frankfort as FSO. <lb/> Vice Consul. 3-25-57</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (FSS)</cell>
+                        <cell>Calcutta Miss Kathryn M. Geoghegan</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 16, 1956</cell>
+                        <cell>to Frankfurt as FSO Vice Consul <lb/> 4-6-59</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Myrtle J. Eckblom</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 1, 1965</cell>
+                        <cell>Designated Consul, (753) <lb/> Frankfurt, 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Bogotá</cell>
+                        <cell>Saul Moskowitz</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 31, 1965</cell>
+                        <cell>Designated Cons. (755) Frankfurt <lb/> 5-10-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

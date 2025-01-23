@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0155" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cameroons and French Equatorial, Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0154" type="prev"/>
+                <relatedItem target="c0156" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0155f1">
+                <graphic height="3626px" url="00227.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cameroons and French Equatorial, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00227</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0155f2">
+                <graphic height="3626px" url="00228.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cameroons and French Equatorial, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00228</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0155">
+        <body>
+            <div corresp="#c0155f1">
+                <head>Camereens and French Equatorial. Africa (see back)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George &amp; Belcher</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 15, 1950</cell>
+                        <cell>also V.C. Leopoldville <lb/> To Tripoli as V.C. 5-22-51 <lb/> as V.C.
+                            Leopoldville <lb/> To Athens as Personnel Asst. <lb/> 10.20-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Marjorie &amp; Canterberry</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 5, 1951</cell>
+                        <cell>also V.C. Leopoldville <lb/> FSS OFFICER assigned to the Dept. <lb/>
+                            10-6-57</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Roger M. Bearce</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Maine</cell>
+                        <cell/>
+                        <cell>June 11, 1952</cell>
+                        <cell>also V.C. Leopoldville. Desig. <lb/> U.S. (FSO) Leopoldville <lb/>
+                            Terr. of Cameroons, <lb/> 4-25-56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ralph C. Fratzke</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 27, 1954</cell>
+                        <cell>to Antwerp V.C. 2-25-56.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William J. Drew</cell>
+                        <cell>V.Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 5, 1953</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Effective 7-5-57 a Consulate was established at Yaoundé, French Cameroons</p>
+            </div>
+            <div corresp="#c0155f2">
+                <head>The Cameroons and French Equatorial Africa</head>
+                <p>The Cameroons and French Equatorial Africa were transferred from the consular
+                    jurisdiction of Paris to the consular jurisdiction of Leopoldville, Belgian
+                    Congo, in 1950. This was agreed to by both the Belgian and the French
+                    Governments. Officers assigned to Leopoldville in a consular capacity will
+                    receive*in addition to their assignment commission to Leopoldville a commission
+                    assigning them "for the Territory of the Cameroons under French Administration
+                    and for French Equatorial Africa" addressed to the French Government - delete
+                    phrase "and its prescribed district" from commission.</p>
+                <p>*when assigned by a form 349</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2143" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cucuta, Columbia-Bogota</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2142" type="prev"/>
+                <relatedItem target="c2144" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2143f1">
+                <graphic height="3628px" url="02863.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cucuta, Columbia-Bogota</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02863</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2143f2">
+                <graphic height="3628px" url="02864.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cucuta, Columbia-Bogota</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1889</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02864</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2143">
+        <body>
+            <div corresp="#c2143f1"/>
+            <div corresp="#c2143f2">
+                <head>Crassota, Colombia</head>
+                <p>• Werner Steinworth, Acty in charge (absences tgt. in U.S.) May 1889 to?</p>
+                <p>Hector Vale of Cuenta in charge of archives (death of went June 9, 1910 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

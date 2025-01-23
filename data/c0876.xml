@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0876" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rochefort, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0875" type="prev"/>
+                <relatedItem target="c0877" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0876f1">
+                <graphic height="3634px" url="01177.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rochefort, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1800</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01177</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0876">
+        <body>
+            <div corresp="#c0876f1">
+                <head>Rochefort, France.</head>
+                <p>J. A. Pelletreau, Agent (under Bordeaux)</p>
+                <p>1800 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

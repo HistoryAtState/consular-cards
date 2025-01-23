@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1334" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Savannah la Mar, Jamaica</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1333" type="prev"/>
+                <relatedItem target="c1335" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1334f1">
+                <graphic height="3626px" url="01774.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Savannah la Mar, Jamaica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01774</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1334f2">
+                <graphic height="3636px" url="01775.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Savannah la Mar, Jamaica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01775</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1334">
+        <body>
+            <div corresp="#c1334f1">
+                <head>Savannah la Mar, Jamaica.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>.</cell>
+                        <cell>Joseph H. Isaacs</cell>
+                        <cell>Con. Agh.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Seph 16, 1863,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>.</cell>
+                        <cell>James Dougall</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 22, 1868,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>.</cell>
+                        <cell>N.S. Savarian</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Och 10, 1877</cell>
+                        <cell>Canceled Dee 7, 1877.<lb/>Granted 1 mo. leave Sept. 1, 1908<lb/>Out Ye
+                            closing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell>.</cell>
+                        <cell>Ch. B. Farquharson</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jamaica Dee. 21, 1895,</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Sept. 30, 1908.</p>
+            </div>
+            <div corresp="#c1334f2">
+                <head>Savannah-la-Mar, Jamaica.</head>
+                <p>Clarence C. Farquharson, Acting Cons. Agt. absence of Agt. on leave Sept. 1, 1908
+                    to Closing of Agcy Sept. 30.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

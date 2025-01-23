@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0482" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Llanelly, Wales</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0481" type="prev"/>
+                <relatedItem target="c0483" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0482f1">
+                <graphic height="3626px" url="00657.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Llanelly, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00657</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0482f2">
+                <graphic height="3626px" url="00658.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Llanelly, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1809</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00658</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0482">
+        <body>
+            <div corresp="#c0482f1">
+                <head>Llanelly, Wales.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Dunkin</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 31, 1862.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin Jones</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 28, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Howell</cell>
+                        <cell>"</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Bowen</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 23, 1897.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed Feb. 25, 1907.</p>
+            </div>
+            <div corresp="#c0482f2">
+                <head>Llanelly, Wales.</head>
+                <p>Robert Dunkin apptd Agt. by Cons. at Bristol Oct 12, 1839 to (still June
+                    1840)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

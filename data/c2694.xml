@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2694" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kabul, Afghanistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2693" type="prev"/>
+                <relatedItem target="c2695" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2694f1">
+                <graphic height="3634px" url="03567.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kabul, Afghanistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03567</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2694">
+        <body>
+            <div corresp="#c2694f1">
+                <head>Kabul, Afghanistan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>also 1.6., Karachi</cell>
+                        <cell>Lloyd E. Liggs</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mar. 21, 1935</cell>
+                        <cell>Resigned eff. close of Mar. 1, 1938. Military leave w/o. p. beginning
+                            12-19-49.</cell>
+                    </row>
+                    <row>
+                        <cell>Momban</cell>
+                        <cell>Rallie H. White, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>A.C.</cell>
+                        <cell>June 6, 1944</cell>
+                        <cell><unclear>Antenning</unclear> under appoint - Ales Attacké &amp; Admy
+                            Aust -</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consel</cell>
+                        <cell>David L. Dilsinn</cell>
+                        <cell>Vice Consel U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Va.</cell>
+                        <cell>ment of Oct. 11, 1944</cell>
+                        <cell>In Caracas <unclear>Canselled</unclear> 6-5-47. also Cettache. To
+                            Karachi as V.C. 9-23-47</cell>
+                    </row>
+                    <row>
+                        <cell>Visa Conul</cell>
+                        <cell>George E. Palmer</cell>
+                        <cell>Vice Conul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>G.I.</cell>
+                        <cell>May 14, 1947.</cell>
+                        <cell>To Tangierus V.C. 9-29-48</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

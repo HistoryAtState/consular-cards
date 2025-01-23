@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2673" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kingston, Jamaica</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2672" type="prev"/>
+                <relatedItem target="c2674" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2673f1">
+                <graphic height="3626px" url="03543.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kingston, Jamaica</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03543</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2673">
+        <body>
+            <div corresp="#c2673f1">
+                <head>KINGSTON, JAMAICA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>2º Secy Kingston</cell>
+                        <cell>S. Morey Bell</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 24, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David Wilken</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>also 2d Secy. Also Con for Cayman Islands 7-1-66</p>
+                <p>Also Couns. of Emb. &amp; Deputy Chief of Mission. Also C.B. for the Cayman
+                    Islands</p>
+            </div>
+        </body>
+    </text>
+</TEI>

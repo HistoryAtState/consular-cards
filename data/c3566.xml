@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3566" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puerto Libertador, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3565" type="prev"/>
+                <relatedItem target="c3567" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3566f1">
+                <graphic height="3628px" url="04659.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puerto Libertador, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04659</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3566">
+        <body>
+            <div corresp="#c3566f1">
+                <head>Puerto Libertador, Dominican Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Act. Con.</cell>
+                        <cell>Victor C. Mac Millau</cell>
+                        <cell>Consular Agency established on June 26, 1947.</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>June 26, 1947</cell>
+                        <cell>Resigned eff. 10-11-56</cell>
+                    </row>
+                    <row>
+                        <cell>Agt.</cell>
+                        <cell>Nicholas Eris</cell>
+                        <cell>Cons.Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 7, 1957</cell>
+                        <cell>Resigned eff. cob. 9-12-58</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Henry Couture</cell>
+                        <cell>Cons.Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 23, 1959</cell>
+                        <cell>Resigned CoB 2-17-67.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

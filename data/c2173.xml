@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2173" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Darnstadt, Hesse Darnstadt</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2172" type="prev"/>
+                <relatedItem target="c2174" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2173f1">
+                <graphic height="3634px" url="02900.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Darnstadt, Hesse Darnstadt</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1829</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02900</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2173">
+        <body>
+            <div corresp="#c2173f1">
+                <head>Darmstadt, Hesse Darmstadt.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Kahe</cell>
+                        <cell>Consul Yer.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ser.</cell>
+                        <cell>May 14, 1829 recess<lb/>Mar. 16, 1830 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(see Hesse Darmstadt)</p>
+                <p>For Murtenburg, Hesse Darmp<lb/>stadt Baden</p>
+                <p>(see Hanover 1844<lb/>// Hesse Darmstadt 1853<lb/>Mayence</p>
+            </div>
+        </body>
+    </text>
+</TEI>

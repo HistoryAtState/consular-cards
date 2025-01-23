@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1947" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bristol, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1946" type="prev"/>
+                <relatedItem target="c1948" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1947f1">
+                <graphic height="3656px" url="02609.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bristol, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02609</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1947">
+        <body>
+            <div corresp="#c1947f1">
+                <head>Bristol, England</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Class 7</cell>
+                        <cell>Roy W. Baker</cell>
+                        <cell>7.S.O.</cell>
+                        <cell>6</cell>
+                        <cell>9-29-41</cell>
+                        <cell>Consul 7-24-30</cell>
+                        <cell>S.C.</cell>
+                        <cell>Contd. under assign.<lb/>ment of Jan. 8, 1931.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Winfield H. Scott</cell>
+                        <cell>Do.</cell>
+                        <cell>6</cell>
+                        <cell>8-16-41</cell>
+                        <cell>Consul 5-23-29C</cell>
+                        <cell>D.C.</cell>
+                        <cell>Feb. 5, 1944</cell>
+                    </row>
+                    <row>
+                        <cell>worastle-</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>on Tyne</cell>
+                        <cell>Winfield H. Scott</cell>
+                        <cell>Do.</cell>
+                        <cell>6</cell>
+                        <cell>9-29-41</cell>
+                        <cell>Consul 5-23-29C</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 24, 1944</cell>
+                    </row>
+                    <row>
+                        <cell>Cow &amp; Lo Spy.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Stockholme</cell>
+                        <cell>Facal H. Pearson</cell>
+                        <cell>7.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>6-26-42</cell>
+                        <cell>Consul 6-9-44C</cell>
+                        <cell>Java</cell>
+                        <cell>Jan. 28, 1946</cell>
+                    </row>
+                    <row>
+                        <cell>Comm. attache</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Damascus</cell>
+                        <cell>Fritz A. M. Alfsen</cell>
+                        <cell>7.8.0.</cell>
+                        <cell>4</cell>
+                        <cell>6-1-42</cell>
+                        <cell>Consul N.Y.</cell>
+                        <cell/>
+                        <cell>April 27, 1948</cell>
+                    </row>
+                </table>
+                <p>Consulate officially closed November 30, 1948</p>
+            </div>
+        </body>
+    </text>
+</TEI>

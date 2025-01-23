@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5686" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tsingtao, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5685" type="prev"/>
+                <relatedItem target="c5687" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5686f1">
+                <graphic height="3016px" url="07428.tif" width="4806px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsingtao, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07428</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5686f2">
+                <graphic height="3016px" url="07429.tif" width="4806px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsingtao, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07429</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5686">
+        <body>
+            <div corresp="#c5686f1">
+                <head>Tsingtao</head>
+                <p>Despatch No. 16 of this date from Tsingtao re Commie refusal to recognize Brit.
+                    custody of American Gov. owned property in Tsingtao, either moveable or
+                    immoveable. Former Navy barracks at 1 Kwangsi Rd. and Dept. fuel stocks stored
+                    on the premises confiscated by Commies. All U.S. Govt. immoveable propt. not
+                    previously confiscated, i.e., the buildings at 2 and 3 Lanshan Rd., 1 First
+                    Taiping Chuoh Rd. and 9 Shanhakua Rd., together with all Govt. moveable prop.
+                    situated therein, was duly taken over on Nov. 22, 1949. Consular commissary
+                    valued at some $4,100.00 turned over to Brit. ConGen. Twelve motor vehicles and
+                    certain other equipment sold through a Soviet firm for $6,600.00. Two motor
+                    vehicles left at CONGEN taken over by Commies. Property of Tsingtao Amer. School
+                    turned over to Mr. Stockwell B. Sears, representing School Board. Property of
+                    former Amer. Armed Services YMCA left to Chinese YMCA. Receipt obtained from new
+                    occupants of privately owned house formerly occupied by Carl O. Hawthorne at 2
+                    Branch Cheng Yang Kuan Rd. covering few articles of US Govt. prop. there.</p>
+                <p>Letter to Mr. Freeman from Carl Hawthorne (Tsingtao)- Commies got no
+                    cryptographic material or other classified matter when they moved in on us on
+                    Nov. 21. All archives were sent to Wash. prior to the Commie occupation and
+                    thereafter, except for routine unclassified correspondence. No file copies
+                    retained. No opportunity to destroy radio equipment (which had been reduced to
+                    minimum of one transmitter and one receiver).</p>
+            </div>
+            <div corresp="#c5686f2">
+                <head>This fell into Commie hands, but on auth. of Paul Yao, one of former radio
+                    operators, Commies burnt up set during first week of attempted use since they
+                    did not know how to operate it.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3230" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nagoya, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3229" type="prev"/>
+                <relatedItem target="c3231" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3230f1">
+                <graphic height="3632px" url="04237.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nagoya, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04237</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3230">
+        <body>
+            <div corresp="#c3230f1">
+                <head>Nagoya, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Yokohama</cell>
+                        <cell>Harvey J. Goodier</cell>
+                        <cell>Interpreter U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 3, 1920</cell>
+                        <cell>Did not go to Nagoya, <lb/> remained at Yokohama. canceled</cell>
+                    </row>
+                    <row>
+                        <cell>Yokohama</cell>
+                        <cell>Harvey J. Goodier</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 20, 1921</cell>
+                        <cell>Appt'd V.C. Int. at Yokohama Apr. 1, '22</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

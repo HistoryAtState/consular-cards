@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4757" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cochabamba, Bolivia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4756" type="prev"/>
+                <relatedItem target="c4758" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4757f1">
+                <graphic height="3630px" url="06194.tif" width="6022px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cochabamba, Bolivia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06194</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4757">
+        <body>
+            <div corresp="#c4757f1">
+                <head>Cochabamba, Bolivia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>La Paz</cell>
+                        <cell>J. Allard Sasque</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>S.C.</cell>
+                        <cell>March 1, 1943</cell>
+                        <cell>See Foreign Service <lb/>Sufilliary card. <lb/>La Paz as V.C.
+                            10-6-48</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Robert H. Fraser</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 6, 1948</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate officially closed Nov. 18, 1958</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate established Jan. 1, 1959. Opened to public Jan. 23,
+                            1959</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald H. Gould</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>August 1, 1961</cell>
+                        <cell>Converted to F.S. Reserve, <lb/>eff. 7-23-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael A. Kristula <unclear/>cancelled</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell>March 5, 1962</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

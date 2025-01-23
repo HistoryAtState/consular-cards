@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3928" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sapporo, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3927" type="prev"/>
+                <relatedItem target="c3929" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3928f1">
+                <graphic height="3600px" url="05121.tif" width="6058px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sapporo, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05121</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3928">
+        <body>
+            <div corresp="#c3928f1">
+                <head>Sapporo, Japan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Sapporo William L. Magistretti</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Calif.</cell>
+                        <cell>May 23, 1950</cell>
+                        <cell>To Tokyo as Consul 2-6-51</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Sapporo David L. Osborn</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Ark.</cell>
+                        <cell>Feb. 21, 1952</cell>
+                        <cell>To Kobe as Cons. 6-9-53.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Sapporo Harry 7. Pfeiffer, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul Ind.</cell>
+                        <cell>July 26, 1954</cell>
+                        <cell>To Nagoya as Cons. 8-30-54</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Sapporo Daniel J. Theloy</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul Md.</cell>
+                        <cell>Nov. 1, 1954</cell>
+                        <cell>FSO assigned to the Dept. 7-29-56</cell>
+                    </row>
+                    <row>
+                        <cell>Lang. Off</cell>
+                        <cell>Tokyo Kingdon H. Swayne</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Penn.</cell>
+                        <cell>mar. 24, 1956</cell>
+                        <cell>750 assigned to Dept. 12-14-58</cell>
+                    </row>
+                    <row>
+                        <cell>Traiffree</cell>
+                        <cell>Tokyo John 7. Knowles</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Aug. 25, 1958</cell>
+                        <cell>750 assigned to the Dept. 9-4-60</cell>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Tokyo Ronald A. Gaiduk</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>June 27, 1960</cell>
+                        <cell>FSO asgd. to Dept. 10-27-63.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.</cell>
+                        <cell>Tokyo John Sylvester, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>April 1, 1963</cell>
+                        <cell>750 assigned to the Dept., 8-29-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kobe William Clark, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Tokyo William L. Dutton, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Cons. USIA</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

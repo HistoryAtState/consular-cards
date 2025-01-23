@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1962" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brest, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1961" type="prev"/>
+                <relatedItem target="c1963" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1962f1">
+                <graphic height="3632px" url="02629.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brest, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02629</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1962">
+        <body>
+            <div corresp="#c1962f1">
+                <head>Brest, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                    </row>
+                    <row>
+                        <cell>Dakar</cell>
+                        <cell>Joseph T. Gurk</cell>
+                        <cell>V. e, de Carrière</cell>
+                        <cell>2</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>N.J.</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>May 12, 1921</cell>
+                        <cell/>
+                        <cell>Assigned, to Dunkirk July 6, 1921.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed November 15, 1922.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

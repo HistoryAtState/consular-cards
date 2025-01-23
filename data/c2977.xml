@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2977" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Martinique, French West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2976" type="prev"/>
+                <relatedItem target="c2978" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2977f1">
+                <graphic height="3598px" url="03921.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Martinique, French West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03921</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2977">
+        <body>
+            <div corresp="#c2977f1">
+                <head>MARTINIQUE, FRENCH WEST INDIES</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert W. Holliday</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 30, 1961</cell>
+                        <cell/>
+                        <cell>FSO assigned to the Dept., 4-14-63.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James K. Welsh, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 25, 1961</cell>
+                        <cell>USIA</cell>
+                        <cell>To Bangui as Public Affrs. Officer (FSR), 8-18-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William B. Milam</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 20, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>To monrovia as V.C. and 3d sec., 2-7-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James H. DeCou</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Aug. 1, 1963</cell>
+                        <cell/>
+                        <cell>To saigon USIA as assistant Information officer (FSR), 4-11-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>alexandria</cell>
+                        <cell>Glenn Richard Cella</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell/>
+                        <cell>To Tangier as V.C., 3-14-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Denis Lamb</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell>To Paris as 3 sec. 9-25-66 (OECCD)</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>A. Joseph Williams, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1047" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Porsgrund, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1046" type="prev"/>
+                <relatedItem target="c1048" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1047f1">
+                <graphic height="3634px" url="01397.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Porsgrund, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1845</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01397</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1047f2">
+                <graphic height="3634px" url="01398.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Porsgrund, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1843</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01398</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1047">
+        <body>
+            <div corresp="#c1047f1">
+                <head>Porsgrund, Norway. (see Skien, same Dist.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jorgen Flood</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>Porsgrund</cell>
+                        <cell>Porsgrund</cell>
+                        <cell>Jan. 23, 1845 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jorgen A. Flood</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 8, 1846 Conf. Did not accept.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl J. Kraby</cell>
+                        <cell>""</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Wien</cell>
+                        <cell>Jan. 22, 1862 Conf.</cell>
+                        <cell>May 27, 1862 to</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1047f2">
+                <head>Porsgrund, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Soren Munk</cell>
+                        <cell/>
+                        <cell>July 20, 1848.</cell>
+                        <cell>Died Apr. 14, 1847.</cell>
+                    </row>
+                    <row>
+                        <cell>J. Gasman</cell>
+                        <cell>Afpts V.0.</cell>
+                        <cell>July 22, 1847.</cell>
+                        <cell>Did not accept.</cell>
+                    </row>
+                    <row>
+                        <cell>J. Miller</cell>
+                        <cell/>
+                        <cell>Octo. 20, 1847</cell>
+                        <cell>Canceled Mar. 15, 1849.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

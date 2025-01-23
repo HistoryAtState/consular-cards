@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1481" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Summerside, Prince Edward Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1480" type="prev"/>
+                <relatedItem target="c1482" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1481f1">
+                <graphic height="3628px" url="01976.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Summerside, Prince Edward Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01976</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1481f2">
+                <graphic height="3628px" url="01977.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Summerside, P.E.I.</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1899</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01977</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1481">
+        <body>
+            <div corresp="#c1481f1">
+                <head>Summerside, Prince Edward Island.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Fairlay McNeill</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Haffney</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>Nov. 27, 1888.</cell>
+                        <cell>Died Nov. 1, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Hunt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 21, 1899.</cell>
+                        <cell>Died Sept. 2, 1907. <lb/> Oct. 17, 1907 to July 25, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Neil Sinclair</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 8, 1907.</cell>
+                        <cell>Died July 25, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald O. Stewart</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>PEI. P.ED.</cell>
+                        <cell>Nov. 12, 1925.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed May 11, 1931.</p>
+            </div>
+            <div corresp="#c1481f2">
+                <head>Summerside, P.O. Brd.</head>
+                <p>Richard Hunt, Acting Con. Agt., designated by Consul at Charlottetown Nov. 6,
+                    1899,</p>
+                <p>Louis Hunt, " " " (death of father) Sept. 2, 1907 to Oct. 17, 1907.</p>
+                <p>Donald O. Stewart, " " " Oct. 5, 1925 to.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

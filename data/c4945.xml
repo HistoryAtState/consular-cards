@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4945" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gaberones, Bechuanaland-Republic of Botswana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4944" type="prev"/>
+                <relatedItem target="c4946" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4945f1">
+                <graphic height="3630px" url="06418.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gaberones, Bechuanaland-Republic of Botswana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06418</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4945">
+        <body>
+            <div corresp="#c4945f1">
+                <head>GABERONES, BECHUANALAND Republic of Botswana (as of 9-30-66)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Genoa</cell>
+                        <cell>Charles H. Pletcher</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell/>
+                        <cell>Feb. 14, 1966</cell>
+                    </row>
+                </table>
+                <p>Consulate elevated to rank of Embassy Sept. 30, 1966.</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate opened April 6, 1966.</cell>
+                        <cell>Designated Chargé d'Affaires ad interim <lb/> Also Counselor of Embt +
+                            Ucp Chief of <lb/> Mission 9-30-66</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

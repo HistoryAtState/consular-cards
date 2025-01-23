@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1307" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chiclayo, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1306" type="prev"/>
+                <relatedItem target="c1308" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1307f1">
+                <graphic height="3630px" url="01736.tif" width="5940px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chiclayo, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1888</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01736</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1307">
+        <body>
+            <div corresp="#c1307f1">
+                <head>Chiclayo, Peru.</head>
+                <table>
+                    <row role="label">
+                        <cell>EV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Lapoint</cell>
+                        <cell>Con.Sgt.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>June 29, 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Solf</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ger.</cell>
+                        <cell>"</cell>
+                        <cell>Jan. 8, 1889.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Stichmann</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Aug. 14, 1899</cell>
+                        <cell>superseded.</cell>
+                    </row>
+                </table>
+                <p>Aug. 29/04 from Callas. The office has for years been located at Glen instead of
+                    Chiclayo.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

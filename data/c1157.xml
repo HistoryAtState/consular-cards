@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1157" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Samana, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1156" type="prev"/>
+                <relatedItem target="c1158" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1157f1">
+                <graphic height="3634px" url="01540.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Samana, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01540</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1157f2">
+                <graphic height="3634px" url="01541.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Samana, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01541</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1157">
+        <body>
+            <div corresp="#c1157f1">
+                <head>Samana, Dominican Republic.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Conard</cell>
+                        <cell>V. Comil</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 4, 1873.</cell>
+                        <cell>Died at his post Feb. 7, 1877.<lb/>Resigned Mar. 9, 1877<lb/>Accepted
+                            July 30, 1877.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin F. Clark</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 12, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Bostwick</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Aug 21, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob P. James</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 6, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gregorio Rivas</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Samana</cell>
+                        <cell>Dec. 13, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jean M. Villain</cell>
+                        <cell>" "</cell>
+                        <cell>Denmark</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 16, 1885.</cell>
+                        <cell>Resigned Apr. 24, 1904.<lb/>Apr. 18, 1905 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Federico Lample</cell>
+                        <cell>Constgt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 26, 1904</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed June 18, 1918; Closed July 6, 1918.</p>
+            </div>
+            <div corresp="#c1157f2">
+                <head>Samaná, Dominican Republic.</head>
+                <p>Poncio F. Buso, appears to have been in charge prior to Mr. Abrew, in chy of
+                    agency (absence of sample on leave) July 15, 1917 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

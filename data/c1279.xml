@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1279" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Charlottetown, Prince Edward Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1278" type="prev"/>
+                <relatedItem target="c1280" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1279f1">
+                <graphic height="3628px" url="01702.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Charlottetown, Prince Edward Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01702</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1279">
+        <body>
+            <div corresp="#c1279f1">
+                <head>Charlottetown, P.E.I.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Consulate</cell>
+                        <cell>Robert J. Cavanaugh</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>All.</cell>
+                        <cell>July 21, 1931.</cell>
+                        <cell>Apptd. V.C., Montreal 1933. May 22, 1933.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed June 30, 1935.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

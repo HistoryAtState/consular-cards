@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4583" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brunei</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4582" type="prev"/>
+                <relatedItem target="c4584" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4583f1">
+                <graphic height="3618px" url="05972.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunei</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05972</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4583f2">
+                <graphic height="3618px" url="05973.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunei</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05973</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4583">
+        <body>
+            <div corresp="#c4583f1"/>
+            <div corresp="#c4583f2">
+                <head>Singapore</head>
+                <p>Singapore has become a part of Malaysia as of September 16, 1963. Brunei is
+                    within the consular jurisdiction of Singapore but is a British protectorate and,
+                    therefore, those officers assigned to Singapore would receive two commissions,
+                    one addressed to the Government of Malaysia and the other addressed to Her
+                    Majesty, Queen of Great Britain, etc.</p>
+                <p>Singapore gained independence Aug. 9, 1965, recognized by U.S. Aug. 11, 1965, and
+                    U.S. Embassy established April 4, 1966. Henceforth Brunei falls within the
+                    consular jurisdiction of Kuching, Malaysia. (not all officers assigned to
+                    Kuching will be accredited to Brunei)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

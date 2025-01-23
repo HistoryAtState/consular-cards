@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0216" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hartlepool, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0215" type="prev"/>
+                <relatedItem target="c0217" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0216f1">
+                <graphic height="3630px" url="00311.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hartlepool, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1869</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00311</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0216f2">
+                <graphic height="3630px" url="00312.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hartlepool, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00312</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0216">
+        <body>
+            <div corresp="#c0216f1">
+                <head>Heartlepool, England. (See Old Hartlepool)<lb/>" West Hartlepool)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Horan</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 13, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hans C. Nielsen</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 12, 1897.</cell>
+                        <cell>To West Hartlepool<lb/>May 15, 1899.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0216f2">
+                <head>Hartlepool, Eng.</head>
+                <p>Christian Neilson - Cons. Agt - Feb. 3, 1866 - Died Dec. 1896.</p>
+                <p>(Old Hartlepool and West Hartlepool)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

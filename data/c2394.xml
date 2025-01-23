@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2394" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fayal, Azores</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2393" type="prev"/>
+                <relatedItem target="c2395" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2394f1">
+                <graphic height="3636px" url="03190.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fayal, Azores</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1790</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03190</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2394">
+        <body>
+            <div corresp="#c2394f1">
+                <head>Payal Azores. (see Azores)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Street</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Fayal</cell>
+                        <cell>Aug. 5, 1790 Conf.</cell>
+                        <cell>Died May 1, 1807.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. C. Cover</cell>
+                        <cell>Consul US.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wise</cell>
+                        <cell>June, 1869 recess</cell>
+                        <cell>to June 22, 1872. Resigned June 16, 1872. Did a season way to US July
+                            4, 1872.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel W. Dabney</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass</cell>
+                        <cell>July 23, 1872 recess</cell>
+                        <cell>Resigned Sept. 1, 1891.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis Dexter</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>P.J.</cell>
+                        <cell>Jan. 26, 1892 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Colin C. Manning</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>So. Car.</cell>
+                        <cell>May 11, 1894 Conf. see page 392 list of Consuls</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George H. Pickerell</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Sept. 16, 1898 recess</cell>
+                        <cell>Nov. 16, 1898 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 13, 1898 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>on detail</cell>
+                        <cell>Robert L. Keiser</cell>
+                        <cell>Con. 8 Conf. Ill. Ind.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 31, 1918</cell>
+                        <cell>Did not go to Payal<lb/>Detailed to St. Michael's Feb. 1,
+                            1919.<lb/>assigned</cell>
+                    </row>
+                    <row>
+                        <cell>São Paulo</cell>
+                        <cell>Agency Closed Jan. 24, 1918.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

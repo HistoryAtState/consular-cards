@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2380" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Erzerim, Armenia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2379" type="prev"/>
+                <relatedItem target="c2381" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2380f1">
+                <graphic height="3632px" url="03173.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Erzerim, Armenia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1895</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03173</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2380">
+        <body>
+            <div corresp="#c2380f1">
+                <head>Erzerum, Armenia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert S. Chilton, Jr.</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C. June 21, 1895</cell>
+                        <cell>Returned to Dep. <lb/> Did not reach his Post. <lb/> Apptd V.C. at
+                            Trebizond <lb/> July 19, 1904.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Vital Ojalvo (n)</cell>
+                        <cell>〃 〃</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif. Sept 22, 1899.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

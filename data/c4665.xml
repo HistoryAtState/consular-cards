@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4665" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Calcutta, India</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4664" type="prev"/>
+                <relatedItem target="c4666" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4665f1">
+                <graphic height="3626px" url="06082.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Calcutta, India</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06082</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4665">
+        <body>
+            <div corresp="#c4665f1">
+                <head>CALCUTTA, India</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Marvin E. Brenner</cell>
+                        <cell>FSR</cell>
+                        <cell>Consul</cell>
+                        <cell>Oct. 8, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Justin Sloane</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 8, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Karachi</cell>
+                        <cell>Herbert Donald Gelber</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>Rogers B. Horgan</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul R. Brown</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell>Assigned to Dept 7-31-66</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Monroe E. Aderhold</cell>
+                        <cell>FSR</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert J. Boylan</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 11, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

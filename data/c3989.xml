@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3989" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sofia, Bulgaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3988" type="prev"/>
+                <relatedItem target="c3990" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3989f1">
+                <graphic height="3626px" url="05204.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sofia, Bulgaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05204</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3989f2">
+                <graphic height="3626px" url="05205.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sofia, Bulgaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05205</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3989">
+        <body>
+            <div corresp="#c3989f1"/>
+            <div corresp="#c3989f2">
+                <head>Sofia, Bulgaria</head>
+                <p>George Wadswoich zd V.C., took over the office from Consul Kemper July 31,
+                    1920</p>
+                <p>Theodore D. Palmer Jr., V.C. de carrière, detailed to Sofia Aug. 2, 1920.
+                    Resigned from 88 Washington St., East Orange, N.J. June 15, 1921. Accepted
+                    6/20/21</p>
+                <p>F. Le Roy Spangler, V.C. de carrière took over the office from Consul Kemper Jan.
+                    4, 1924, and turned it over to Consul Lupton Aug. 27, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

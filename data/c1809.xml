@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1809" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Christiania, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1808" type="prev"/>
+                <relatedItem target="c1810" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1809f1">
+                <graphic height="3632px" url="02414.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Christiania, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02414</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1809f2">
+                <graphic height="3632px" url="02415.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Christiania, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1832</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02415</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1809">
+        <body>
+            <div corresp="#c1809f1">
+                <head>Christiania, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kristian Christophersen</cell>
+                        <cell>Dep. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 28, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Christian Christophersen</cell>
+                        <cell>Vice " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec 24, 1875</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lauritz Fuge Brown</cell>
+                        <cell>" " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 5, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lauritz Fuge Brown</cell>
+                        <cell>V. Con. Sen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 12, 1900</cell>
+                        <cell>Superseded<lb/>Resigned to change of residence<lb/>Reported: July 6,
+                            1909.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael Alger (n)</cell>
+                        <cell>" " " </cell>
+                        <cell>U.S.</cell>
+                        <cell>Christiania</cell>
+                        <cell/>
+                        <cell>Dec. 8, 1905.</cell>
+                        <cell>Recommissioned as V.C. 2/6/15</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Haakon E. Dahr, Jr.</cell>
+                        <cell>V.D. C.G. Norway</cell>
+                        <cell>Norway Norway Norway</cell>
+                        <cell/>
+                        <cell>Oct. 12, 1909.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Martin E. Guttormsen</cell>
+                        <cell>Dep. C.G.</cell>
+                        <cell>Norway Norway Norway</cell>
+                        <cell/>
+                        <cell>Feb. 27, 1912.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.D.C.G.</cell>
+                        <cell>Haakon E. Dahr, Jr.</cell>
+                        <cell>Vice Con. Norway</cell>
+                        <cell>Norway Norway Norway</cell>
+                        <cell/>
+                        <cell>Feb. 6, 1915.</cell>
+                        <cell>Superseded by Gade<lb/>Consul reported 2/12/18 that Gade<lb/>had been
+                            commissioned a lieutenant<lb/>in the U.S. Naval Reserve, out as
+                            V.C.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace U. Gade</cell>
+                        <cell>" " " </cell>
+                        <cell>U.S.</cell>
+                        <cell>Cambridge<lb/>Mass. Mass.</cell>
+                        <cell>Nov. 28, 1916.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Frank-<lb/>fort</cell>
+                        <cell>Harry Edwin Carlson</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>Ill. Ill.</cell>
+                        <cell>June 11, 1917</cell>
+                        <cell>Appt'd V.C. de Carrière Class 3<lb/>Sep. 7, 1920 and assigned to
+                            Christiania.</cell>
+                    </row>
+                    <row>
+                        <cell>Fiume</cell>
+                        <cell>Ralph A. Boernstein</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>D.C. D.C.</cell>
+                        <cell>June 11, 1917</cell>
+                        <cell>Appt'd V.C. Port-au-Prince " /5/1919</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Einar L. Dieserud</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>D.C. D.C.</cell>
+                        <cell>Dec. 5, 1917</cell>
+                        <cell>Appt'd V.C. Paris Jan. 6, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles C. Marvin</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>Cleveland<lb/>Ohio Ohio</cell>
+                        <cell>Nov. 15, 1918</cell>
+                        <cell>Resigned Oct. 5, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Frazier</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>N. Car.</cell>
+                        <cell>Apr. 22, 1920</cell>
+                        <cell>Resigned effective Aug. 11, 1920.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Fred Fuller</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 3, 1920</cell>
+                        <cell>Appt'd V.C. Drondhjem 2/25/1921</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James J. Foley</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 14, 1922.</cell>
+                        <cell>Resigned Jan. 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Patras</cell>
+                        <cell>Manson Gilbert</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>Ind. Ind.</cell>
+                        <cell>Feb. 13, 1924.</cell>
+                        <cell>Appt'd V.C., Cobh Aug. 15, 1924.</cell>
+                    </row>
+                </table>
+                <p>(Continued on card #2)</p>
+            </div>
+            <div corresp="#c1809f2">
+                <head>Christiania, Norway</head>
+                <p>Chr. Hackjar - apptd V.C. by Cons. at Bergen Mar. 1832 to July 1840</p>
+                <p>S. C. Anderson // // // // May 1844 to ?</p>
+                <p>J. Edm² de Coninck was reported by Cons. at Bergen as V.C. in June 1850 to Jan.
+                    1854.</p>
+                <p>John (H.?) Andresen writes as Cons. at Christiania in Mar. 1862.</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Haakon E. Dahr, Jr.</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Took over the office from Con. Sen. Folder Dec. 10, 1913 &amp; turned
+                            it over to B. Hendrick Dec. 23, 1913. (Death of Bordewich Mar. 1912 to
+                            Sept. 3, 1912.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Haakon E. Dahr, Jr., V.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1915</cell>
+                        <cell>Took over the office from Con. Sen. Hendrick Mar. 19, 1915</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace U. Gade, V.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1917</cell>
+                        <cell>Took over the office from Consul Denison June 1, 1917 and turned it
+                            over to Con. Sen. Coffin June 7, 1917.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

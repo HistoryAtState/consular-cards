@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1323" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago, Cape Verde Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1322" type="prev"/>
+                <relatedItem target="c1324" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1323f1">
+                <graphic height="3640px" url="01759.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santiago, Cape Verde Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1852</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01759</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1323">
+        <body>
+            <div corresp="#c1323f1">
+                <head>Santiago, Cape Verde Islands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Z. Forney</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Aug. 31, 1852 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>M. A. Daven</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1855 Conf. Resigned June 1, 1855.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. H. Morse</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Mar. 30, 1858 Conf. Died</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin Trippie, Jr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>July 20, 1867 Conf. Resigned</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clarimundo Martins.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Santiago</cell>
+                        <cell/>
+                        <cell>Oct 4, 1869 recens</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Andrew S. Onderdonk</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1871 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Franklin I. Ferguson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Jan. 27, 1873 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph G. Hester</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>No Car.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1873 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Francisco Monteiro</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>June 22, 1874 Conf</cell>
+                        <cell>June 9, 1875 to July 13, 1876?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. M Post</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell/>
+                        <cell>Feb. 3, 1875 Conf</cell>
+                        <cell>Oct. 24, 1876 to July 29, 1882?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas M Derry</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell/>
+                        <cell>Aug. 15, 1876 Conf</cell>
+                        <cell>Nov. 28, 1882 to Aug. 23, 1892?</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Peace Office abolished</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Aug. 7, 1882 Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

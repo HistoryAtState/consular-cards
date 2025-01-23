@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2126" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Coronel, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2125" type="prev"/>
+                <relatedItem target="c2127" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2126f1">
+                <graphic height="3622px" url="02840.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Coronel, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02840</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2126f2">
+                <graphic height="3622px" url="02841.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Coronel, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1898</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02841</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2126">
+        <body>
+            <div corresp="#c2126f1">
+                <head>Coronel, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Con. St. Gen.</cell>
+                        <cell>William Taylor</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Dee. 8, 1893,</cell>
+                        <cell>Resigned Dec. 28, 1898,<lb/>Dee. 29, 1898 to Sept. 30,
+                            1903<lb/>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell>" "</cell>
+                        <cell>J. Henry Downs</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Feb. 8, 1899</cell>
+                        <cell>Oct. 1, 1903 to<lb/>Died Nov. 25, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell>" "</cell>
+                        <cell>Benjamin R. Robertson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Aug. 3, 1903.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed June 14, 1907.</p>
+            </div>
+            <div corresp="#c2126f2">
+                <head>Coronel, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Henry Downe</cell>
+                        <cell>in charge</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 29, 1898</cell>
+                        <cell>continued as Agent.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. W. Cirnows</cell>
+                        <cell>in charge (temp)</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 1906</cell>
+                        <cell>(closed Janek, 07)</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

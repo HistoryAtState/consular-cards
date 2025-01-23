@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6024" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>El Salvador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6023" type="prev"/>
+                <relatedItem target="c6025" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6024f1">
+                <graphic height="3626px" url="07891.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>El Salvador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1937</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07891</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6024">
+        <body>
+            <div corresp="#c6024f1">
+                <head>San Salvador</head>
+                <p>Dorsey Gassaway Fisher detailed to Sept. State, temp., June 18, 1937.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

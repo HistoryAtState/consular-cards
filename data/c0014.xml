@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0014" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agean Sea, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0013" type="prev"/>
+                <relatedItem target="c0015" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0014f1">
+                <graphic height="3632px" url="00022.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Agean Sea, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00022</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0014">
+        <body>
+            <div corresp="#c0014f1">
+                <head>Aegean Sea (for the Islands in the Aegean Sea under the sovereignty of the
+                    Kingdom of Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Is also<lb/>V.C., Smir</cell>
+                        <cell>Leonard G. Bradford</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Mich.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Dec. 10, 1935</cell>
+                        <cell>Cancelled.</cell>
+                    </row>
+                    <row>
+                        <cell>Is also<lb/>V.C., Smir</cell>
+                        <cell>William C. Young</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell><unclear>My</unclear>.</cell>
+                        <cell><unclear>My</unclear>.</cell>
+                        <cell>Nov. 18, 1936</cell>
+                        <cell><unclear>functioning as V.C. for Italian Islands in Aegean Sea ceased
+                                by Depts. instr. of Sept. 26, 1938.</unclear></cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

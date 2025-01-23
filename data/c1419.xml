@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1419" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Solingen, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1418" type="prev"/>
+                <relatedItem target="c1420" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1419f1">
+                <graphic height="3634px" url="01889.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Solingen, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01889</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1419">
+        <body>
+            <div corresp="#c1419f1">
+                <head>Solingen, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>St. Leger A. Touhay</cell>
+                        <cell>Consul. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Dec. 3, 1891.</cell>
+                        <cell>To Turin Jan. 7, 1892. <lb/> U.C. at Barmen Feb. 9, 1892</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Ewing Moore</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Feb. 6, 1892.</cell>
+                        <cell>(not accepted?)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edmund Z. Brodowski Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell><unclear>effect</unclear> July 1, 1898 <lb/> May 27, 1898 Conf.</cell>
+                        <cell>Died in Eberswalde, Ger.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Langer(n)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Austria Neb.</cell>
+                        <cell>Sept. 2, 1901 <lb/> Dec. 11, 1901 Conf.</cell>
+                        <cell>Aug. 11, 1901. <lb/> Oct. 15, 1901 to Mar. 1, 1905?</cell>
+                    </row>
+                    <row>
+                        <cell>Antigua</cell>
+                        <cell>William R. Betes</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>Mar. 17, 1905 Conf.</cell>
+                        <cell>Resigned by order Feb. 3, 1905 <lb/> Appt'd Consul at Zittau Nov. 8/05
+                            <lb/> Died at Post Nov. 14, 1905.</cell>
+                    </row>
+                </table>
+                <p>Office closed Nov. 30, 1905.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

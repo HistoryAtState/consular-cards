@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0862" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rio Grande, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0861" type="prev"/>
+                <relatedItem target="c0863" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0862f1">
+                <graphic height="3630px" url="01160.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rio Grande, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01160</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0862">
+        <body>
+            <div corresp="#c0862f1">
+                <head>Rio Grande, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Clayton H. Page</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 29, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George F. Upton</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 21, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William August Preller</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joaquim Martina Garcia</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 11, 1895.</cell>
+                        <cell>Did not qualify <lb/> Could not furnish bond</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jorge Vezeker</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 28, 1897.</cell>
+                        <cell>Out Closing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency ordered, closed Sept. 26, 1911; closed Sept. 30, 1911.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustav Freddersen</cell>
+                        <cell>Con. Agt. Rio <lb/> do Sul do Sul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 8, 1913</cell>
+                        <cell>Apr. 1, 1913 t</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency ordered, closed, temporarily, Mar 4, 1915</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <head>Rio Grande, Rio Grande do Sul, Brazil.</head>
+                <p>See despatch from Con. Gen Gottschalk dated Mar. 5, 1917 File 125,769</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>Anthony Sherman</cell>
+                        <cell>Vice Con. U.S. Waltham, Minn.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 2, 1917</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>See next card. Office reduced to Agency</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate moved to Porto Alegre June 30, 1918.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

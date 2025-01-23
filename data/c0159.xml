@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0159" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Campeachy, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0158" type="prev"/>
+                <relatedItem target="c0160" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0159f1">
+                <graphic height="3630px" url="00233.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Campeachy, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00233</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0159">
+        <body>
+            <div corresp="#c0159f1">
+                <head>Campeachy, Mexico (Cam)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Rafael Preciat Estrado</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 25, 1880</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Manuel Campos Diaz</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 18, 1881</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Gaspar Trueba</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 22, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>George J. Gaumer</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N. Mex</cell>
+                        <cell>Nov, 14, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Gaspar Trueba</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1885</cell>
+                        <cell>Died Feb. 1, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell>Rafael Preciat</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 3, 1897.</cell>
+                        <cell>Resigned June 1902.</cell>
+                    </row>
+                    <row>
+                        <cell>Joseph Espinola</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S. La.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 24, 1902</cell>
+                        <cell>Superceded</cell>
+                    </row>
+                    <row>
+                        <cell>Rafael Ramirez</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mex. Mex.</cell>
+                        <cell>May 7, 1907</cell>
+                        <cell>Resigned about Oct. 24, 1912.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Theodore Jones</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S. Mexico</cell>
+                        <cell>Juspam,</cell>
+                        <cell>N.Y. Nov, 11, 1912.</cell>
+                        <cell>Jan. 1, 1913 to</cell>
+                        <cell>Resigned about Sept. 3, 1913</cell>
+                    </row>
+                </table>
+                <p>Closed September 17, 1913</p>
+            </div>
+        </body>
+    </text>
+</TEI>

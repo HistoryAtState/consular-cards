@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1938" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brantford, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1937" type="prev"/>
+                <relatedItem target="c1939" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1938f1">
+                <graphic height="3624px" url="02598.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brantford, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02598</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1938">
+        <body>
+            <div corresp="#c1938f1">
+                <head>Brantford, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George C. Baker</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 13, 1867</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank B. Pollard</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Ill. May 23, 1895.</cell>
+                        <cell>Resigned Nov. 16, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harold S. Hewitt</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>Nov. 29, 1898.</cell>
+                        <cell>Resigned Nov. 7, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur C. Hardy</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell>Dec. 1, 1899.</cell>
+                        <cell>Resigned Aug. 24, 1904.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Martin W. M. Beven</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 6, 1904</cell>
+                        <cell>Out &amp; Closing of Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1911.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

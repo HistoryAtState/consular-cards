@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1616" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trondhjem, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1615" type="prev"/>
+                <relatedItem target="c1617" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1616f1">
+                <graphic height="3630px" url="02160.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trondhjem, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02160</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1616">
+        <body>
+            <div corresp="#c1616f1">
+                <head>Trondhjem, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly<lb/>Kehl<lb/>Sandane<lb/>C.R.</cell>
+                        <cell>Milo A. Jewett<lb/>Benjamin F. Chase</cell>
+                        <cell>Con. 6<lb/>Con. 5</cell>
+                        <cell>3/2/1915<lb/>6/4/1920</cell>
+                        <cell>Turkey Mass<lb/>Pa.</cell>
+                        <cell>Sept27, 1917<lb/>Pa.</cell>
+                        <cell>Mar. 6, 1921</cell>
+                        <cell>Jan. 1, 1918 to Feb. 25, 1921<lb/>Died at his Post Feb. 25,
+                            1921.<lb/>Apr. 1, 1921 to<lb/>Assigned to Messina Nov,10,1921.</cell>
+                    </row>
+                </table>
+                <p>Consulate ordered closed Nov,10,1921.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

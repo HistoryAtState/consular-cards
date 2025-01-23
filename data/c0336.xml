@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0336" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Kempt, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0335" type="prev"/>
+                <relatedItem target="c0337" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0336f1">
+                <graphic height="3638px" url="00464.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Kempt, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1873</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00464</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0336">
+        <body>
+            <div corresp="#c0336f1">
+                <head>Kempt, Nova Scotia. (see Cheverie)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Henry H. Grant</cell>
+                        <cell>Com. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 24, 1873.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Charles E. Hobart</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 14, 1877</cell>
+                        <cell>U.S.D.C. at Windsor, N.S. May 10/82</cell>
+                    </row>
+                    <row>
+                        <cell>Fred A. Hobart</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 10, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>John S. Burgess</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1888</cell>
+                        <cell>Appt'd Agt. at Cheverie 7/26/1889.</cell>
+                    </row>
+                </table>
+                <p>Office changed to Cheverie July, 1899.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

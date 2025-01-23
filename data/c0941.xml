@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0941" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Lucia, British West Indies</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0940" type="prev"/>
+                <relatedItem target="c0942" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0941f1">
+                <graphic height="3644px" url="01258.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Lucia, British West Indies</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01258</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0941">
+        <body>
+            <div corresp="#c0941f1">
+                <head>St. Lucia, British West Indies.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Calcutta</cell>
+                        <cell>Harvey Lee Milbourne</cell>
+                        <cell>F.D.O.</cell>
+                        <cell>6</cell>
+                        <cell>5-9-41<lb/>eff.<lb/>5-1-410</cell>
+                        <cell>Consul<lb/>5-17-28</cell>
+                        <cell>N.Ya.</cell>
+                        <cell>Dec 26, 1941</cell>
+                        <cell>To Chungking, Nov. 3, 1943.</cell>
+                    </row>
+                </table>
+                <p>American Consulate, closed November 20, 1943.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

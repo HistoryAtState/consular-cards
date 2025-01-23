@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4241" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valletta, Malta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4240" type="prev"/>
+                <relatedItem target="c4242" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4241f1">
+                <graphic height="3612px" url="05520.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valletta, Malta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05520</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4241">
+        <body>
+            <div corresp="#c4241f1">
+                <head>Valletta, Malta</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Richard B. Andrews</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 23, 1950</cell>
+                        <cell>Officially opened to the Public<lb/>Mar. 6, 1950<lb/>To Haifa as C.
+                            11-28-52.<lb/>To Stuttgart as Gen. Serv. Off. 5-20-53</cell>
+                    </row>
+                </table>
+                <p>Consulate established November 15, 1949.</p>
+                <p>Consulate elevated to Embassy status Sept. 21, 1964.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0094" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antung, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0093" type="prev"/>
+                <relatedItem target="c0095" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0094f1">
+                <graphic height="3636px" url="00138.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antung, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00138</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0094">
+        <body>
+            <div corresp="#c0094f1">
+                <head>Antung, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Aan-<lb/>Row</cell>
+                        <cell>George F. Bicfeford</cell>
+                        <cell>Interpreter</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wash. Wash.</cell>
+                        <cell>May 8, 1914.</cell>
+                        <cell>Appt'd V.C.D. and Int.<lb/>at Hankow Oct. 8, 1914.</cell>
+                    </row>
+                    <row>
+                        <cell>Nanking</cell>
+                        <cell>Samuel Sokolin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J. N.J.</cell>
+                        <cell>Mar. 8, 1919</cell>
+                        <cell>Appt'd V.C.Int., Chungking 8/21/1919</cell>
+                    </row>
+                    <row>
+                        <cell>Shanghai</cell>
+                        <cell>Clarence J. Spiker</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C. D.C.</cell>
+                        <cell>Aug. 21, 1919</cell>
+                        <cell>Appt'd V.C. de carrière class May 4, 1920<lb/>and assigned to
+                            Peking.</cell>
+                    </row>
+                    <row>
+                        <cell>Dientain</cell>
+                        <cell>Dillard B. Lasseter</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ga. Ga.</cell>
+                        <cell>Jan. 15, 1921</cell>
+                        <cell>Appt'd V.C.S.Int., Nanking 7/10/1922.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

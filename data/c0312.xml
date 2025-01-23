@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0312" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Jeremie, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0311" type="prev"/>
+                <relatedItem target="c0313" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0312f1">
+                <graphic height="3624px" url="00431.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jeremie, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00431</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0312f2">
+                <graphic height="3624px" url="00432.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Jeremie, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1852</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00432</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0312">
+        <body>
+            <div corresp="#c0312f1">
+                <head>Jeremie, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene Weiner</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 2, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene Wiener, Jr.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 28, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L. Tryband Jouzier</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1878</cell>
+                        <cell>Superseded to July 13, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>St. Charles Villerovin</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 15, 1903.</cell>
+                        <cell>July 14, 1903 to</cell>
+                    </row>
+                </table>
+                <p>Agency closed (F.A. Memo 8/23/32)</p>
+                <p>Records &amp; Archives stored in Consulate at Port au Prince.</p>
+            </div>
+            <div corresp="#c0312f2">
+                <head>Jeremie, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur Folsom</cell>
+                        <cell>V.C. (appt'd by C. Agent at tux Cayes)</cell>
+                        <cell>Mar. 25. 1852 to Resigned March 1858.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. A. Blanchet</cell>
+                        <cell>Acty V.C.</cell>
+                        <cell>June 1857 to Oct. 1857.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene Wiener, a nat'd. citiz. of U.S., Acty V.C.</cell>
+                        <cell>" "</cell>
+                        <cell>Mar. 1858 to Feb? 1859.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. A. Blanchet</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>P.S. Vigoureux, Acting Consular Agent (absence of Vieledronin)</cell>
+                        <cell/>
+                        <cell>Mar. 15, 1850, to closing of Agency.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

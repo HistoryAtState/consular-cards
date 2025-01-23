@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2499" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gijon, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2498" type="prev"/>
+                <relatedItem target="c2500" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2499f1">
+                <graphic height="3642px" url="03320.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gijon, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03320</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2499">
+        <body>
+            <div corresp="#c2499f1">
+                <head>Gijon, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>see<lb/>above</cell>
+                        <cell>George G. Duffer</cell>
+                        <cell>Con. 9</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>July 17, 1917</cell>
+                        <cell>(Arrived 9/1/17) Sept. 1, 1917 to<lb/>Appt Consul Class 8 Sept. 14,
+                            1917<lb/>Left July 7, 1919.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George G. Duffer</cell>
+                        <cell>Con. 8</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ala.</cell>
+                        <cell>Ala.</cell>
+                        <cell>July 17, 1917</cell>
+                        <cell>Detailed to Cadiz June 19, 1919<lb/>Left Gijon July 7, 1919</cell>
+                    </row>
+                </table>
+                <p>Consulate ordered closed June 19, 1919 Mr. Duffer left Gijon July 7, 1919</p>
+            </div>
+        </body>
+    </text>
+</TEI>

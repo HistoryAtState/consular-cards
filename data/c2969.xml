@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2969" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Marseille, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2968" type="prev"/>
+                <relatedItem target="c2970" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2969f1">
+                <graphic height="3626px" url="03911.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Marseille, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1940</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03911</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2969f2">
+                <graphic height="3626px" url="03912.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Marseille, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03912</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2969">
+        <body>
+            <div corresp="#c2969f1"/>
+            <div corresp="#c2969f2">
+                <head>Edward Macauley 3 d Vice Consul, Marseille, France, Feb 18, 1941 (Special
+                    appointment)</head>
+                <table>
+                    <row role="label">
+                        <cell>Terminated off</cell>
+                        <cell>7-26-49.</cell>
+                    </row>
+                </table>
+                <p>John H. Boyd - Vice Consul, Marseille, France, July 3, 1947 (Special
+                    appointment)</p>
+                <table>
+                    <row role="label">
+                        <cell>Terminated off</cell>
+                        <cell>11-30-49.</cell>
+                    </row>
+                </table>
+                <p>Francis G. Coleman - Vice Consul, Marseille, France, Dec 27, 1948 (Special
+                    appointment)</p>
+                <table>
+                    <row role="label">
+                        <cell>Terminated off</cell>
+                        <cell>12-3-52.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

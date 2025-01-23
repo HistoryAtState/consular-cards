@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0489" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>L'orient</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0488" type="prev"/>
+                <relatedItem target="c0490" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0489f1">
+                <graphic height="3636px" url="00668.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>L'orient</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1801</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00668</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0489">
+        <body>
+            <div corresp="#c0489f1">
+                <head>L'Orient</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Patterson</cell>
+                        <cell>Com'l Agt. U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 16, 1801 recess<lb/>Jan. 26, 1802 Conf.</cell>
+                        <cell>Apptt Com'l Agt at<lb/>Nantes Mar. 1, 1803,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Aaron Vale (<unclear>?</unclear>)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 1, 1803 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Aaron Vale (<unclear>?</unclear>)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 15, 1805 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Drayton</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell>So. Car.</cell>
+                        <cell>Mar. 3, 1815 Conf.</cell>
+                        <cell>Apptt Consul at Nantes<lb/>Jan. 31, 1817.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Wilson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>Apr. 1, 1816 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Church</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>Jan. 31, 1817 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed March 2, 1907.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

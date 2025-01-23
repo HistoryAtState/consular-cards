@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4581" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brunei</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4580" type="prev"/>
+                <relatedItem target="c4582" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4581f1">
+                <graphic height="3632px" url="05969.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunei</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05969</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4581">
+        <body>
+            <div corresp="#c4581f1">
+                <head>BRUNEI</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Kuala Lumpur</cell>
+                        <cell>John P. Heimann</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell/>
+                        <cell>June 20, 1966</cell>
+                        <cell/>
+                        <cell>Also Cons., Kuching.</cell>
+                    </row>
+                    <row>
+                        <cell>r.c. Singapore</cell>
+                        <cell>John J. Sullivan</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell/>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>Also Cons., Singapore <lb/> recommissioned to Singapore 4-4-66 -
+                            ceased to <lb/> be accredited to Brunei</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

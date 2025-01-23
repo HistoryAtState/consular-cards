@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0859" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rio Grande, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0858" type="prev"/>
+                <relatedItem target="c0860" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0859f1">
+                <graphic height="3636px" url="01156.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Rio Grande, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01156</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0859">
+        <body>
+            <div corresp="#c0859f1">
+                <head>Rio Grande, Brazil.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Beckford Mackey</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell>So. Car. Dec. 9, 1883 recess</cell>
+                        <cell>Oct. 9, 1883</cell>
+                        <cell>Conf.</cell>
+                        <cell>To Nuevo Laredo May 5, 1886.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rule Letcher</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Saline Co., Marshall, Mo.</cell>
+                        <cell>Mo. Mar. 18, 1886</cell>
+                        <cell>Conf.</cell>
+                        <cell>Appt'd Cons. &amp;amp; Sec. Mar. 15, 1887.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lebbeus S. Bennington</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>W. Va.</cell>
+                        <cell>Jan. 30, 1888</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Negley</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Md.</cell>
+                        <cell>May 17, 1890</cell>
+                        <cell>Conf.</cell>
+                        <cell>to Sept. 2, 1892<lb/>Resigned Aug. 26, 1892.</cell>
+                    </row>
+                </table>
+                <head>Rio Grande, Rio Grande do Sul, Brazil.</head>
+                <table>
+                    <row role="label">
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt, to Class.</cell>
+                        <cell>Date of assignment.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Con. 4</cell>
+                        <cell>7/24/1916</cell>
+                        <cell>Mich July 24, 1916.</cell>
+                        <cell>See Despatch from Con. Jen Lottechalk<lb/>dated Mar. 5, 1917. File
+                            125.769</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Arrived<lb/>Jan. 18, 1917.</cell>
+                        <cell>Assigned Porto Alegre June 18, 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul instructed June 18, 1918 to transfer office Porto Alegre</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Transfer effected at close of June 30, 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

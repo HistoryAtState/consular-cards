@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1044" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ponce, Porto Rico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1043" type="prev"/>
+                <relatedItem target="c1045" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1044f1">
+                <graphic height="3630px" url="01394.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ponce, Porto Rico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1828</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01394</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1044">
+        <body>
+            <div corresp="#c1044f1">
+                <head>Ponce, Porto Rico,</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Davidson</cell>
+                        <cell>Cons. Com'l Agt.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Jan. 26, 1828. by Sec'y</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gillies Thompson</cell>
+                        <cell>"</cell>
+                        <cell>"U.S.</cell>
+                        <cell>La.</cell>
+                        <cell/>
+                        <cell>Jan. 21, 1832. " " </cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hopeful Toler</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>June 26, 1832. Conf. Appt'd to Buenos Ayres.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James O. Gallaher</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Phila.</cell>
+                        <cell/>
+                        <cell>Mar. 8, 1837. Conf. Died at Post May 28, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Russell</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell/>
+                        <cell>Sept. 29, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward E. White</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>Dec. 4, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward E. White</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>Feb. 20, 1880. Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward E. White</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell/>
+                        <cell>July 1, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. G. Wilson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J.</cell>
+                        <cell/>
+                        <cell>Dec. 15, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Felix W. Preston</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 16, 1884.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3931" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sarajevo, Yugoslavia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3930" type="prev"/>
+                <relatedItem target="c3932" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3931f1">
+                <graphic height="3610px" url="05125.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sarajevo, Yugoslavia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05125</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3931f2">
+                <graphic height="3610px" url="05126.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sarajevo, Yugoslavia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05126</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3931">
+        <body>
+            <div corresp="#c3931f1">
+                <head>Sarajevo, Yugoslavia, for the People's Republics of Bosnia-Herzegovina and
+                    Montenegro</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Thomas D. Quinn</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Apr. 22, 1957</cell>
+                        <cell>FSO assigned to the Dept. 9-6-59.</cell>
+                    </row>
+                    <row>
+                        <cell>Salzburg</cell>
+                        <cell>Robert Gerald Livingston</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1959</cell>
+                        <cell>To Pretoria as 2d Sec, 10-29-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore C. Nelson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 1, 1959</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Kimball</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 10, 1961</cell>
+                        <cell>FSO assigned to the Dept., 10-27-63.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to the public July 31, 1963.</p>
+            </div>
+            <div corresp="#c3931f2">
+                <head>Sarajevo Officially opened April 23, 1937 per Mr Miller EE</head>
+            </div>
+        </body>
+    </text>
+</TEI>

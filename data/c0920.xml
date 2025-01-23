@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0920" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Gall, Switzerland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0919" type="prev"/>
+                <relatedItem target="c0921" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0920f1">
+                <graphic height="3644px" url="01232.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Gall, Switzerland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01232</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0920">
+        <body>
+            <div corresp="#c0920f1">
+                <head>St. Gall, Switzerland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of<lb/>State.</cell>
+                        <cell>Gebhard Willrich</cell>
+                        <cell>Con.</cell>
+                        <cell>4</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>Sex. Wise.</cell>
+                        <cell>Apr. 16, 1920</cell>
+                        <cell>Appt'd F.S.O. class 5 July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>See<lb/>above</cell>
+                        <cell>Gebhard Willrich</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>5</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>(<unclear>Dief</unclear> Dec. 1, 1925)</cell>
+                        <cell>Continued assignment of <unclear>ander</unclear> sign</cell>
+                        <cell>Retired July 1, 1924. Act of May 24, 24<lb/><unclear>Dee</unclear>. 3,
+                            1924 to Mar. 31, 1925.<lb/>Assigned to Berlin Mar. 23, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell>Constan-<lb/>tinople</cell>
+                        <cell>Maynard B. Barnes</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>8/8/1924</cell>
+                        <cell>R. Consul</cell>
+                        <cell>Iowa. Now. 17, 1924.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed March 31, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4844" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dhahran, Saudi Arabia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4843" type="prev"/>
+                <relatedItem target="c4845" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4844f1">
+                <graphic height="3628px" url="06300.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dhahran, Saudi Arabia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1953</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06300</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4844">
+        <body>
+            <div corresp="#c4844f1">
+                <head>DHAHRAN, SAUDI ARABIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kenneth P. Ferguson</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 4, 1953</cell>
+                        <cell>Termination RIF off-<lb/>CoB10-9-53</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel L. O'Connell</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 20, 1953</cell>
+                        <cell>To Vienna as V.C. 10-12-54</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Charles J. Cusick</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 12, 1955</cell>
+                        <cell>FSS to Cairo as Asst. AH. 12-29-57</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Tokyo</cell>
+                        <cell>James R. Connelly</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 28, 1956</cell>
+                        <cell>to Port-au-Prince as V.C, 1-26-59</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Helen C. Strickland</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 22, 1956</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Gwendolyn L. Quarterman</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>William A. Colwell</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

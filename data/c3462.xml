@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3462" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pernambuco, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3461" type="prev"/>
+                <relatedItem target="c3463" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3462f1">
+                <graphic height="3630px" url="04529.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pernambuco, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04529</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3462">
+        <body>
+            <div corresp="#c3462f1">
+                <head>Pernambuco, Brazil. (See Recife, Pernambuco, Brazil)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Martinique</cell>
+                        <cell>Laurence I. Catie</cell>
+                        <cell>Vice Con. </cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 5, 1935</cell>
+                        <cell>Retired on annuity, June 30, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Ff. Wm. Sand</cell>
+                        <cell>Harold Sims</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 20, 1937</cell>
+                        <cell>apptd. V.C., Natal, Feb. 28, 1941</cell>
+                    </row>
+                    <row>
+                        <cell>Pr. Arthur</cell>
+                        <cell>Robert B. Harley</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Penn.</cell>
+                        <cell/>
+                        <cell>May 18, 1948</cell>
+                        <cell><unclear>Signed off</unclear>
+                            <unclear>CoB</unclear> 5-7-49.</cell>
+                    </row>
+                </table>
+                <p>Name changed from Pernambuco to Recife <unclear>ff</unclear> 2/28/49</p>
+                <p>See DA. Mailing Notice 25</p>
+            </div>
+        </body>
+    </text>
+</TEI>

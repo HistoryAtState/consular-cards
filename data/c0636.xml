@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0636" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mukden, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0635" type="prev"/>
+                <relatedItem target="c0637" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0636f1">
+                <graphic height="3640px" url="00863.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mukden, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00863</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0636">
+        <body>
+            <div corresp="#c0636f1">
+                <head>Mukden, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>Wept.</cell>
+                        <cell>William N. Stoher</cell>
+                        <cell>180 Une.</cell>
+                        <cell>Several</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 2, 1946.</cell>
+                    </row>
+                    <row>
+                        <cell>Canberra</cell>
+                        <cell>Melano me Kelvey</cell>
+                        <cell>180</cell>
+                        <cell>5</cell>
+                        <cell>Ne</cell>
+                        <cell>July 9, 1947</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Philip W. Manhard Cancelled</cell>
+                        <cell>180</cell>
+                        <cell>6</cell>
+                        <cell>Calif.</cell>
+                        <cell>Nov 7, 1948.</cell>
+                    </row>
+                    <row>
+                        <cell>Peiping</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 6, 1949</cell>
+                    </row>
+                </table>
+                <p>Consulate General officially closed Dec. 6, 1949</p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>withrank of 3d Secy.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>To Tokyo as V.C. 4-1-50.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulat Mukden 2-23-48</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

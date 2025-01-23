@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5144" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Isfahan, Iran</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5143" type="prev"/>
+                <relatedItem target="c5145" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5144f1">
+                <graphic height="3602px" url="06672.tif" width="6064px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Isfahan, Iran</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06672</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5144">
+        <body>
+            <div corresp="#c5144f1">
+                <head>Isfahan, Iran</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>consul &amp; 1st decy. Tehran</cell>
+                        <cell>John Ordway</cell>
+                        <cell>750</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul D.C.</cell>
+                        <cell>Oct. 18, 1950</cell>
+                        <cell>FSO assigned to Army war College 7-27-57</cell>
+                    </row>
+                    <row>
+                        <cell>Consul &amp; 2d decy. Tehran</cell>
+                        <cell>Mrs. Katherine W. Bracker</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Fla.</cell>
+                        <cell>Mar. 7, 1951</cell>
+                        <cell>FSO, assigned to Dept. 8-16-57</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Conbul</cell>
+                        <cell>J. Hall Paxton</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell/>
+                        <cell>Consul Va.</cell>
+                        <cell>July 18, 1951</cell>
+                        <cell>Died 6-23-52.</cell>
+                    </row>
+                    <row>
+                        <cell>Conbul Berlin</cell>
+                        <cell>Bryant Buckingham</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell/>
+                        <cell>Consul Ill</cell>
+                        <cell>Aug. 12, 1952</cell>
+                        <cell>To Rome as Consul 1-21-55</cell>
+                    </row>
+                    <row>
+                        <cell>Conbul (FSS)</cell>
+                        <cell>Hordon D. Kuing</cell>
+                        <cell>FSS</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell>Consul Texas</cell>
+                        <cell>Mar. 24, 1955</cell>
+                        <cell>To Lahore as Cons. 9-21-57</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. &amp; 2d Sec. Tehran</cell>
+                        <cell>Franklin J. Crawford</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul Ohio</cell>
+                        <cell>Sept. 7, 1957</cell>
+                        <cell>to Tehran as 2d Sec. 5-29-60</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. 2d Sec. Cons. Tehran</cell>
+                        <cell>Victor Wolf, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Oct. 31, 1960</cell>
+                        <cell>To Tehran as 2d Sec., 2-3-63</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis Hugh Thomes</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Oct. 1, 1962</cell>
+                        <cell>To Madras as Consul, 12-20-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Harvard Univ. Cambridge</cell>
+                        <cell>Collin E. Ostrander</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>USIA Consul</cell>
+                        <cell>June 3, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph. P. Lorenz</cell>
+                        <cell>750</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

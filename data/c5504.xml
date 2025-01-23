@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5504" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sweden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5503" type="prev"/>
+                <relatedItem target="c5505" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5504f1">
+                <graphic height="3630px" url="07170.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07170</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5504f2">
+                <graphic height="3630px" url="07171.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07171</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5504">
+        <body>
+            <div corresp="#c5504f1">
+                <head>Sweden.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Secretary</cell>
+                        <cell>Post Wheeler</cell>
+                        <cell>Counselor</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Wash.</cell>
+                        <cell>Oct. 13, 1917.</cell>
+                        <cell>Did not go to Stockholm<lb/>Assigned to Madrid, Dec. 23, 1918.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Sheldon Whitehouse</cell>
+                        <cell>Do</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 30, 1918.</cell>
+                        <cell>Assigned to Paris Dec. 30, 1918.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Post Wheeler</cell>
+                        <cell>Do</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Wash.</cell>
+                        <cell>Jan. 18, 1919.</cell>
+                        <cell>Assigned to London, Mar. 2, 1921.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>F.S.O.</cell>
+                        <cell>Alexander R. Magruder</cell>
+                        <cell>Counselor<lb/>of Legation</cell>
+                        <cell>Md.</cell>
+                        <cell/>
+                        <cell>Feb. 10, 1925.</cell>
+                        <cell>Assigned to Lisbon, May 17, 1929.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Class 2</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5504f2">
+                <head>Note. For authority, see reverse side of Counselor" card, under Austrian
+                    Hungary</head>
+            </div>
+        </body>
+    </text>
+</TEI>

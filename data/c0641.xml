@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0641" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mukden, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0640" type="prev"/>
+                <relatedItem target="c0642" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0641f1">
+                <graphic height="3628px" url="00870.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mukden, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00870</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0641f2">
+                <graphic height="3628px" url="00871.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mukden, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1908</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00871</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0641">
+        <body>
+            <div corresp="#c0641f1">
+                <head>Mukden, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Marvin</cell>
+                        <cell>Marshal U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Mercer, Mass.</cell>
+                        <cell>Aug. 9, 1907</cell>
+                        <cell/>
+                        <cell>Resigned Dec. 31, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>M. Faulkner</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo. Mo.</cell>
+                        <cell>Mar. 27, 1908</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugh Gunn (n)</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ottawa<lb/>Canada Calif.</cell>
+                        <cell>Jan. 15, 1908,</cell>
+                        <cell/>
+                        <cell>Jan. 15, 1908 to Apr. 11, 1908.<lb/>(Temporary appt.)</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0641f2">
+                <head>Mukden, China.</head>
+                <p>Hugh Gunn, apptt temp. Marshal by O. S. at Mukden Jan. 15, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

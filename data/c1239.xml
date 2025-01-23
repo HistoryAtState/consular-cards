@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1239" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Carthagena, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1238" type="prev"/>
+                <relatedItem target="c1240" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1239f1">
+                <graphic height="3628px" url="01648.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Carthagena, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01648</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1239">
+        <body>
+            <div corresp="#c1239f1">
+                <head>Carthagena, Spain.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Cirilo Molina</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 25, 1862</cell>
+                        <cell>recess Resigned by telegram 4/4/98</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Bowron</cell>
+                        <cell>"</cell>
+                        <cell>Sr. Br. Ong, Spain</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 12, 1863</cell>
+                        <cell>Conf. accepted Apr. 4, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 5, 1899</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 6, 1900</cell>
+                        <cell>Conf. Reegd effect June 30, 1906.</cell>
+                    </row>
+                </table>
+                <p>Office closed August 31, 1910.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

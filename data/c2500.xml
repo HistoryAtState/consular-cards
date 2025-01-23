@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2500" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gijon, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2499" type="prev"/>
+                <relatedItem target="c2501" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2500f1">
+                <graphic height="3628px" url="03321.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gijon, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1870</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03321</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2500f2">
+                <graphic height="3628px" url="03322.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gijon, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1845</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03322</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2500">
+        <body>
+            <div corresp="#c2500f1"/>
+            <div corresp="#c2500f2">
+                <head>Bilbao, Spain</head>
+                <p>Dr. Dinicio Acebal, Appt'd V.C. by Consul at Bilbao Nov. 1845 to (still in -
+                    1857)</p>
+                <p>Arthur Lovelace, sety Consular Agent by Consul at Barcelona, Mar. 22 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

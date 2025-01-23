@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1963" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brest, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1962" type="prev"/>
+                <relatedItem target="c1964" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1963f1">
+                <graphic height="3628px" url="02630.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brest, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02630</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1963f2">
+                <graphic height="3628px" url="02631.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brest, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1799</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02631</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1963">
+        <body>
+            <div corresp="#c1963f1"/>
+            <div corresp="#c1963f2">
+                <head>Brest, France</head>
+                <p>Mr. Aubrée – Actz in charge (Barnet at Bordeaux) July 1799 to (still in -Jame
+                    1802)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

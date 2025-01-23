@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1550" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Teleajen, Roumania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1549" type="prev"/>
+                <relatedItem target="c1551" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1550f1">
+                <graphic height="3630px" url="02068.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Teleajen, Roumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02068</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1550f2">
+                <graphic height="3630px" url="02069.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Teleajen, Roumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02069</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1550">
+        <body>
+            <div corresp="#c1550f1">
+                <head>Teleajen, Roumania.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1550f2">
+                <head>Teleajen, Roumania.</head>
+                <p>Everit Jay Sadler, Director of the Roumanian Branch of the Standard Oil Co. was
+                    appointed Vice Consul by Minister Vopicka subject to Department's approval.
+                    Reported in note dated Nov. 7, 1916. Mr. Sadler resigned Dec. 8, 1916, business
+                    considerations necessitating his return to the U.S.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

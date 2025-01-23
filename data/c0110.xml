@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0110" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Arica, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0109" type="prev"/>
+                <relatedItem target="c0111" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0110f1">
+                <graphic height="3606px" url="00160.tif" width="6066px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arica, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1929</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00160</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0110f2">
+                <graphic height="3606px" url="00161.tif" width="6066px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Arica, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00161</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0110">
+        <body>
+            <div corresp="#c0110f1">
+                <head>Arica, Chile</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. of caret</cell>
+                        <cell>Edwin Schoenrich</cell>
+                        <cell>28.0</cell>
+                        <cell>8</cell>
+                        <cell>5/23/1929</cell>
+                        <cell>Consul 5-23-29</cell>
+                        <cell>Md.</cell>
+                        <cell>May 23, 1929</cell>
+                        <cell>Assigned to Sarina, Oct. 29, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Emory</cell>
+                        <cell>H.S.O.</cell>
+                        <cell>6 7-1-39 1-13-408</cell>
+                        <cell>Consul December 7, 1943.</cell>
+                        <cell>Fila Nov. 20, 1943.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Assigned to the Dept. 1-18-44</cell>
+                    </row>
+                </table>
+                <p>Office closed.</p>
+                <p>View Consulate Opened to Public December 7, 1943.</p>
+                <p>Vice Consulate closed to the public eff. March 9, 1946. (room)</p>
+            </div>
+            <div corresp="#c0110f2">
+                <head>Arica, Chile</head>
+                <p>Edwin Schoenrich, Consul af Arica, detailedts Dept. of State for period not to
+                    exceed one week from Feb. 17, 1930.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

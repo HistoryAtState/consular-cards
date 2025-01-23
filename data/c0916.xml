@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0916" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Etienne, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0915" type="prev"/>
+                <relatedItem target="c0917" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0916f1">
+                <graphic height="3630px" url="01227.tif" width="5976px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Etienne, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01227</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0916">
+        <body>
+            <div corresp="#c0916f1">
+                <head>St. Etienne, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Nancy</cell>
+                        <cell>Howard O. Pulver</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Conn</cell>
+                        <cell>Conn.</cell>
+                        <cell>Sept. 30, 1922.</cell>
+                        <cell>Resigned, effective Feb. 28, 1923</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis B. Moriarty</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Dec. 6, 1923.</cell>
+                        <cell>Apptd V.C. Marseilles Nov. 29, 1926.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed March 31, 1927.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

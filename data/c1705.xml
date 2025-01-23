@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1705" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vigo, Spain</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1704" type="prev"/>
+                <relatedItem target="c1706" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1705f1">
+                <graphic height="3630px" url="02276.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vigo, Spain</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02276</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1705">
+        <body>
+            <div corresp="#c1705f1">
+                <head>Vigo, Spain</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>F.S. Aut.</cell>
+                        <cell>Allen J. McLean, Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Del.</cell>
+                        <cell>Continuing under assign-<lb/>ment of Feb. 24, 1945.</cell>
+                        <cell>To Manila as V.C. 11-20-47<lb/>To Kuala Lumpur as U.C.
+                            12-31-47<lb/>also Adm. Yer. Apptol, Consul,<lb/>F.S.S. 12-23-465 asoqud
+                            Consul, F.S.S.,<lb/>Vigo, 1-31-47</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.<lb/>hubhic</cell>
+                        <cell>Charles M. Gerity.</cell>
+                        <cell>Vice Cau.<lb/>N.S.</cell>
+                        <cell>N.S.</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>July 25, 1946</cell>
+                        <cell>FS.S. 1-21-470</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>F.S. Aut.</cell>
+                        <cell>Donald C. Maselius</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>Clipping under appointment -<lb/>ment of Nav. 17, 1942</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Mexicali</cell>
+                        <cell>Reguls Rivera</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 26, 1948</cell>
+                        <cell>To Valencia as VC. 12-17-51</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Amsterdam</cell>
+                        <cell><unclear>Y</unclear>orette L. Damron</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 15, 1951</cell>
+                        <cell>To Naples as V.C. 9-26-53.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Tienken</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 7, 1961</cell>
+                        <cell>To San Salvador as V.C.<lb/>10.25. 65</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rudolph L. Rivera</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell>To Seville as V.C.,<lb/>12-20-65.</cell>
+                    </row>
+                </table>
+                <p>American Consulate at Vigo, Spain, was closed effective Dec. 31, 1965.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

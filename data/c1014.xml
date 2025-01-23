@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1014" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pesth, Hungary</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1013" type="prev"/>
+                <relatedItem target="c1015" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1014f1">
+                <graphic height="3638px" url="01355.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pesth, Hungary</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1840</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01355</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1014">
+        <body>
+            <div corresp="#c1014f1">
+                <head>Pesth, Hungary, Cunder Austria) (see Budapest)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Kappel</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 29, 1840 Conf.</cell>
+                        <cell>No despatch</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maurice Faber</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pesth Dec. 21, 1874 Conf.</cell>
+                        <cell>Declined Apr. 29, 1876 because of delay in notice reaching him</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene J. Ball</cell>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>Tippecanoe Lafayette, Aug. 6, 1878 receded Dec. 1, 1878 to Nov. 14,
+                            1879.</cell>
+                        <cell>Co, Ind, Ind a</cell>
+                        <cell>Dec. 17, 1878 Conf.</cell>
+                        <cell>Removed for drunkenness, Resigned Nov. 28, 1879.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Sterne</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Wurttemberg Peru, Ger, Ind a</cell>
+                        <cell>Mar. 6, 1880 Conf.</cell>
+                        <cell>May 11, 1880 to Apr. 2, 1888.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

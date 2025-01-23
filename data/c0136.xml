@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0136" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Calais, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0135" type="prev"/>
+                <relatedItem target="c0137" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0136f1">
+                <graphic height="3640px" url="00197.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Calais, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1930</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00197</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0136">
+        <body>
+            <div corresp="#c0136f1">
+                <head>Calais, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Taylor H. Gannett</cell>
+                        <cell>2.1.0</cell>
+                        <cell><unclear>Unc</unclear>.</cell>
+                        <cell>6/4/1930</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 14, 1936</cell>
+                    </row>
+                    <row>
+                        <cell>Marseille</cell>
+                        <cell>Richard H. Byrd</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/1/1955R</cell>
+                        <cell>Da.</cell>
+                        <cell>June 10, 1957</cell>
+                    </row>
+                    <row>
+                        <cell>Lille</cell>
+                        <cell>Franklin Hawley</cell>
+                        <cell>2.1.0</cell>
+                        <cell><unclear>Unc</unclear>.</cell>
+                        <cell>7-6-38R</cell>
+                        <cell>Mich.</cell>
+                        <cell>July 30, 1938</cell>
+                    </row>
+                </table>
+                <p>Consulate closed temporarily May 20, 1940.</p>
+                <p>Recognition of the French de facto authority established for Paris under the
+                    leadership of General de Gaulle as the Provisional Government of the French
+                    Republic 10-23-44.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1898" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Biarritz, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1897" type="prev"/>
+                <relatedItem target="c1899" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1898f1">
+                <graphic height="3636px" url="02541.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Biarritz, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02541</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1898">
+        <body>
+            <div corresp="#c1898f1">
+                <head>Biarritz, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE OF CLASS</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Bordeaux</cell>
+                        <cell>S. Bertrand Jacobson</cell>
+                        <cell>V.C.de Cariere</cell>
+                        <cell>2</cell>
+                        <cell>5/24/1920</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 18, 1920</cell>
+                        <cell>Appt. canceled. Did not go to Biarritz</cell>
+                    </row>
+                    <row>
+                        <cell>Strasbourg</cell>
+                        <cell>Leslie E. Woods</cell>
+                        <cell>FBQ. Une</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924 R.</cell>
+                        <cell>Mass. Dec. 12, 1924.</cell>
+                        <cell>to Jan. 6, 1925. Assigned to Strasbourg Jan. 7, 1925.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paria</cell>
+                        <cell>Randolph Harrison, Jr.</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/13/1928</cell>
+                        <cell>Va. Mar. 21, 1931.</cell>
+                        <cell>Assigned to Paris, Apr. 7, 1931.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Dice Consulate closed June 30, 1938</p>
+            </div>
+        </body>
+    </text>
+</TEI>

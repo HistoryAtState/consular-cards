@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2222" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dyreford, Iceland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2221" type="prev"/>
+                <relatedItem target="c2223" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2222f1">
+                <graphic height="3628px" url="02966.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dyreford, Iceland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1887</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02966</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2222f2">
+                <graphic height="3628px" url="02967.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dyreford, Iceland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1899</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02967</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2222">
+        <body>
+            <div corresp="#c2222f1">
+                <head>Dyreford, Iceland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>N. Chr. Gran</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1887.</cell>
+                        <cell>Died Sept. 30, 1898.</cell>
+                    </row>
+                </table>
+                <p>Agency closed April 7, 1889.</p>
+            </div>
+            <div corresp="#c2222f2">
+                <head>Lyreford, Seeland.</head>
+                <p>F.R. Wendel in chg. (death of Agent – to Apr. 7, 1879.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

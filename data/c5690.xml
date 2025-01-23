@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5690" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Noumea, New Caledonia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5689" type="prev"/>
+                <relatedItem target="c5691" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5690f1">
+                <graphic height="3014px" url="07436.tif" width="4802px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Noumea, New Caledonia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07436</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5690f2">
+                <graphic height="3014px" url="07437.tif" width="4802px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Noumea, New Caledonia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1958</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07437</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5690">
+        <body>
+            <div corresp="#c5690f1">
+                <head>NOUMEA, New Caledonia (French Colonial Possession)</head>
+                <table>
+                    <row role="label">
+                        <cell>3/23/41</cell>
+                        <cell>Vice Consulate established.</cell>
+                    </row>
+                    <row>
+                        <cell>4/7/41</cell>
+                        <cell>Vice Consulate opened.</cell>
+                    </row>
+                    <row>
+                        <cell>3/16/42</cell>
+                        <cell>Vice Consulate raised to Consulate.</cell>
+                    </row>
+                </table>
+                <p>Chronological Record</p>
+                <table>
+                    <row role="label">
+                        <cell>3/23/41</cell>
+                        <cell>Vice Consulate established and opened to the public on 4/7/41. It is
+                            an independent office performing all consular functions, and not under
+                            supervision of any other office. Consular district consists of all New
+                            Caledonia and dependencies.</cell>
+                    </row>
+                    <row>
+                        <cell>3/16/42</cell>
+                        <cell>Vice Consulate raised to Consulate (See DEPTEL to Noumea drafted
+                            3/9/42 file 125.668/13).</cell>
+                    </row>
+                    <row>
+                        <cell>4/11/49</cell>
+                        <cell>Memo from FEA to OFS re transferring former Suva and Tahiti consular
+                            districts from Wellington to Noumea since headquarters of South Pacific
+                            Commission is at Noumea.</cell>
+                    </row>
+                    <row>
+                        <cell>5/9/49</cell>
+                        <cell>DEPTEL to London re FONOFF approval transfer former Suva &amp; Tahiti
+                            districts to Noumea about 7/1/49. Repeated to Paris, Wellington &amp;
+                            Noumea. 7/1/49 DEPTEL to London repeating above request transfer to be
+                            effective 7/15 if no objection.</cell>
+                    </row>
+                    <row>
+                        <cell>7/6/49</cell>
+                        <cell>London's tgm 2619 states no objection. 7/11/49 Wellington's tgm 117
+                            states no objection. 7/19/49 Paris tgm 2951 states no objection.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5690f2">
+                <head>Noumea, New Caledonia</head>
+                <p>10-6-58 Post closed to public</p>
+                <p>10-8-58 Post officially closed upon departure Principal Office Shackleton</p>
+                <p>10-10-58 Personnel and files transferred to Suva, Fiji Islands, which takes over
+                    Noumea District. Department mailing notices issued, CA-3597 ... 10-16-58
+                    world-wide. Buildings, vehicles and furniture sold in noumer. (See A-2 files
+                    FY-1958-59)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

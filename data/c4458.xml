@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4458" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ankara, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4457" type="prev"/>
+                <relatedItem target="c4459" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4458f1">
+                <graphic height="3632px" url="05805.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ankara, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05805</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4458">
+        <body>
+            <div corresp="#c4458f1">
+                <head>ANKARA, TURKEY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>POLAD<lb/>CINC PAC<lb/>Honolulu</cell>
+                        <cell>Edwin M. Martin</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons.<lb/>Gen.</cell>
+                        <cell>Mar. 2, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>v.c.<lb/>Ankara</cell>
+                        <cell>Martin Polstein</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>New<lb/>Delhi</cell>
+                        <cell>E. Paul Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Feb. 14, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also Counselor of Embassy and<lb/>Deputy Chief of mission with pers. rank of
+                    Min.</p>
+                <p>Also 2d Sec. 750 assigned<lb/>to the Dept., 9-12-65.</p>
+                <p>Also 2d Sec.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

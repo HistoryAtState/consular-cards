@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1268" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Changchun, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1267" type="prev"/>
+                <relatedItem target="c1269" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1268f1">
+                <graphic height="3636px" url="01686.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Changchun, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01686</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1268">
+        <body>
+            <div corresp="#c1268f1">
+                <head>Changchun, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPT. TO CLASS</cell>
+                        <cell>RANK AND DATE OF RANK</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Schwa</cell>
+                        <cell>Robert S. Ward</cell>
+                        <cell><unclear>Cancelled</unclear> $80</cell>
+                        <cell>4</cell>
+                        <cell>4-15-47;</cell>
+                        <cell>Consul<lb/>Ohio</cell>
+                        <cell>Aug. 5, 1947</cell>
+                        <cell>Resigned eff: COB 3-20-48</cell>
+                    </row>
+                    <row>
+                        <cell>Con. Gen.<lb/>Harbin</cell>
+                        <cell>Oliver Edmund Clubb</cell>
+                        <cell>F.S.O. 2</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Consul<lb/>General Minn.</cell>
+                        <cell>May 29, 1947.</cell>
+                        <cell>To Peijing as Consul General<lb/>9-23-47.</cell>
+                    </row>
+                </table>
+                <p>Consulate General closed Feb. 3, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

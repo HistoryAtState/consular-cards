@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4805" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dacca, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4804" type="prev"/>
+                <relatedItem target="c4806" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4805f1">
+                <graphic height="3626px" url="06256.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dacca, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06256</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4805">
+        <body>
+            <div corresp="#c4805f1">
+                <head>DACCA, Pakistan</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Willard W. Angel</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Arthur F. Rall</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Apr. 11, 1966</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Duncan Miller</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Kathleen O'Malley</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald C. Weaver</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lahore</cell>
+                        <cell>Lee E. Metcalf</cell>
+                        <cell>FSO</cell>
+                        <cell>Cons.</cell>
+                        <cell>1</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

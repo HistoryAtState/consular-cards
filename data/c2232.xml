@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2232" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ekaterinburg, Russia-Uladivostok</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2231" type="prev"/>
+                <relatedItem target="c2233" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2232f1">
+                <graphic height="3630px" url="02981.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ekaterinburg, Russia-Uladivostok</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1918</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02981</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2232">
+        <body>
+            <div corresp="#c2232f1">
+                <head>Ekaterinburg, Russia, under Vladivostok.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Palmer</cell>
+                        <cell>Vice Con. U. S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>U.S.A.</cell>
+                        <cell>Apr. 3, 1918.</cell>
+                        <cell>Resigned Sept. 5, 1919.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

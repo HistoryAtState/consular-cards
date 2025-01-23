@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3104" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Monaco</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3103" type="prev"/>
+                <relatedItem target="c3105" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3104f1">
+                <graphic height="3634px" url="04081.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monaco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04081</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3104">
+        <body>
+            <div corresp="#c3104f1">
+                <head>Monaco</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Is also U.C. Nice</cell>
+                        <cell>George Alexander Armstrong</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une.</cell>
+                        <cell>1/4/1924</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 9, 1928</cell>
+                        <cell>Apptd F.S.O. class 8, May 23, 1929; also Consul and assigned to
+                            Monaco-Nice, May 28, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Do</cell>
+                        <cell>Randolph Robinson</cell>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>8/24/1927</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 29, 1929.</cell>
+                        <cell>Assigned to Naples, Nov. 1, 1929. also U.C. Nice - 3-21-46. To
+                            Martinique as V.C. 11-9-48</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. x 3d. Secto Rio de Janeiro</cell>
+                        <cell>Sheldon B. Vance</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une.</cell>
+                        <cell/>
+                        <cell>Minn.</cell>
+                        <cell>March 21, 1946</cell>
+                        <cell>Also V.C., Nice F.S.O. assigned to the Dept. 10-2-60. Also V.C.
+                            Nice</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Thomas McAndrew</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell>(comm. cated 9-8-59)</cell>
+                        <cell/>
+                        <cell>Apr. 18, 1959</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick Z. Brown</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>August 1, 1960</cell>
+                        <cell>To Bangkok as 3d Sec. &amp; V.C. Also V.C. Nice.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Furness</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 24, 1963</cell>
+                        <cell>Also V.C., Nice. F.S.O. assigned to the Dept. 7-12-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Cornelius D. Scully Ⅲ</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 20, 1964</cell>
+                        <cell>Also V.C. Nice. To Montreal as V.C. 9-26-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald J. Walsh</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell>Also V.C. Nice.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

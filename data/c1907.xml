@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1907" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bizerta, Tunis</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1906" type="prev"/>
+                <relatedItem target="c1908" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1907f1">
+                <graphic height="3630px" url="02554.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bizerta, Tunis</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02554</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1907">
+        <body>
+            <div corresp="#c1907f1">
+                <head>Bizerta, Tunis.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Queens-town.</cell>
+                        <cell>Peter H. W. Flood</cell>
+                        <cell>V.C. de carrière</cell>
+                        <cell>3</cell>
+                        <cell>9/7/1920</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Nov. 5, 1921.</cell>
+                        <cell>Jan. 2, 1922 to see below</cell>
+                    </row>
+                    <row>
+                        <cell>Kobe</cell>
+                        <cell>George P. Waller</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Ala.</cell>
+                        <cell>June 15, 1922.</cell>
+                        <cell>Sept. 21, 1923. <lb/> See above to Aug. 18, 1922. <lb/> Assigned to
+                            Singapore June 7, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>Class 3</cell>
+                        <cell>Peter H. W. Flood</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Continued under assignment of Nov. 5, 1921.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed Dec. 4, 1923.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

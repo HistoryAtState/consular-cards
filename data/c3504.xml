@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3504" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Elizabeth, Cape Province, Union-Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3503" type="prev"/>
+                <relatedItem target="c3505" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3504f1">
+                <graphic height="3628px" url="04585.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Elizabeth, Cape Province, Union-Republic of South
+                            Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1949</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04585</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3504">
+        <body>
+            <div corresp="#c3504f1">
+                <head>Port Elizabeth, Cape Province, Union of South Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Dakar Charles M. Kidner Cancelled Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 21, 1949</cell>
+                        <cell>Resigned COB, Nov. 12, 1949</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Calgary Augustus C. Owen</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>S.C. Jan. 17, 1951</cell>
+                        <cell>To Capetown as V.C. 10-31-51</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>James O. Belden</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 3, 1951</cell>
+                        <cell>To Newcastle-on-Tyne as V.C. 2-18-53</cell>
+                    </row>
+                    <row>
+                        <cell>Daru-Salaam</cell>
+                        <cell>Michael Smolik</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 12, 1953</cell>
+                        <cell><unclear>Clarence</unclear>
+                            <unclear>bel</unclear> V.C. <unclear>1921</unclear>
+                            <unclear>besta</unclear>.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

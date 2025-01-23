@@ -4,12 +4,7 @@
         <lucene>
             <analyzer class="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
             <text qname="tei:string"/>
+            <text qname="tei:div"/>
         </lucene>
-        <range>
-            <create match="f">
-                <field name="f-name" match="@name" type="xs:string"/>
-                <field name="f-string" match="tei:string" type="xs:string"/>
-            </create>
-        </range>
     </index>
 </collection>

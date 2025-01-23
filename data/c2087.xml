@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2087" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Constantza, Rumania</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2086" type="prev"/>
+                <relatedItem target="c2088" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2087f1">
+                <graphic height="3630px" url="02792.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Constantza, Rumania</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02792</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2087">
+        <body>
+            <div corresp="#c2087f1">
+                <head>Constantza, Rumania.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Richard B. Haven</cell>
+                        <cell>V.C.de Carriere</cell>
+                        <cell>3</cell>
+                        <cell>5/26/1922</cell>
+                        <cell>Del.</cell>
+                        <cell>June 23, 1922.</cell>
+                        <cell>Appt'd V.C.de carrière, class 2, Fel. 26, 1923.</cell>
+                    </row>
+                    <row>
+                        <cell>class 3</cell>
+                        <cell>Richard B. Haven</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>2/26/1923</cell>
+                        <cell>Del.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd V.C.de carrière, Class 1, Nov. 23/923.</cell>
+                    </row>
+                    <row>
+                        <cell>class 2</cell>
+                        <cell>Richard B. Haven</cell>
+                        <cell>"</cell>
+                        <cell>1</cell>
+                        <cell>1/23/1923</cell>
+                        <cell>Del.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd F.S.O., Unclassified, July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>See above</cell>
+                        <cell>Richard B. Haven</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Del.</cell>
+                        <cell>Continued under assignment of June 23, 1922.</cell>
+                        <cell>Appt'd F.S.O. class 5 Feb 24/1925. Also Consul 3/3/1925.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Office ordered closed May 3, 1926. Closed June 30, 1926.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

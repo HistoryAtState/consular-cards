@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2074" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Concepcion, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2073" type="prev"/>
+                <relatedItem target="c2075" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2074f1">
+                <graphic height="3640px" url="02775.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Concepcion, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02775</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2074">
+        <body>
+            <div corresp="#c2074f1">
+                <head>Concepción, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Valparaiso</cell>
+                        <cell>Dayle C. McDonough</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell>9/1/1919.</cell>
+                        <cell>Cameron Mo.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Octo. 21, 1919</cell>
+                        <cell>(arines, 2/6/1920) Mar. 9, 1920 to July 11, 1922 <lb/> Assigned to La
+                            Paz, Bolivia 6/22/22 <lb/> July 12, 1922 to <lb/> Appt'd Consul, class 6
+                            June 3, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>raiso</cell>
+                        <cell>Samuel R. Thompson</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell>6/22/1922</cell>
+                        <cell>Dll.</cell>
+                        <cell>Calif.</cell>
+                        <cell>June 26, 1922</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>class 7</cell>
+                        <cell>Samuel R. Thompson</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>6/3/1924</cell>
+                        <cell>Dll.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd F.S.O., class 7 July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>See <lb/> above</cell>
+                        <cell>Samuel R. Thompson F.S.O.</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R.</cell>
+                        <cell>Consul</cell>
+                        <cell>Calif.</cell>
+                        <cell>Continued under assign- <lb/> ment of June 26, 1922. Assigned to
+                            Bristol July 23, 1924.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed October 31, 1930.</p>
+                <p>Archives stored at Valparaiso.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

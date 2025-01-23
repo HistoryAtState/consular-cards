@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4936" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Freetown, Sierra Leone</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4935" type="prev"/>
+                <relatedItem target="c4937" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4936f1">
+                <graphic height="3610px" url="06409.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Freetown, Sierra Leone</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06409</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4936">
+        <body>
+            <div corresp="#c4936f1">
+                <head>FREETOWN, SIERRA LEONE</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William Clark, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>May 4, 1959</cell>
+                        <cell/>
+                        <cell>Feb. 9, 1959</cell>
+                        <cell>Also 3d see. 4-27-61. FSO assigned to Tokyo/751, as Language Trainee,
+                            9-3-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. Lamar King</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell>June 23, 1960</cell>
+                        <cell>Consulate at Freetown, Sierra Leone elevated to rank of Consulate
+                            General eff. Dec. 1, 1960</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Larry C. Williamson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 3, 1961</cell>
+                        <cell>Also 3d Sec. 4-27-61. Also 2d Sec., as V.C., 3-1-63. 70 Salisbury.
+                            Also 2d Sec. 9-13-65. To Rabat as V.C. + 2d Sec. 9-13-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Guido C. Fenzi</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1962</cell>
+                        <cell>Also 2d Sec. 750 assigned to Texas U., Austin, Tex., 8-29-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Vie</cell>
+                        <cell>San Pedro Sula Arnold M. Isaacs</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 4, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raymond H. Collins</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 30, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>Leonard J. Shurtleff</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James L. Barnes</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 15, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

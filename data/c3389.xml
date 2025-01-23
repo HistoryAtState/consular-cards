@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3389" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Panama, Panama</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3388" type="prev"/>
+                <relatedItem target="c3390" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3389f1">
+                <graphic height="3642px" url="04436.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Panama, Panama</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04436</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3389">
+        <body>
+            <div corresp="#c3389f1">
+                <head>PANAMA, Panama</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Port-of-<lb/>Spain</cell>
+                        <cell>Edward B. Rosenthal</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell>Also 2d Sec. Assigned to Dept<lb/>11-20-66</cell>
+                        <cell>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Bogotá</cell>
+                        <cell>William B. Miler</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell>Also 2d Sec., 1-30-66.<lb/>FSR. Officer assigned to the
+                            Dept.,<lb/>9-11-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Monte-<lb/>video</cell>
+                        <cell>Gerald D. O'Grady, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Panamá</cell>
+                        <cell>Miss Evelyn M. Schwarztrauber</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 30, 1965</cell>
+                        <cell>Also 1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Panama</cell>
+                        <cell>J. Foster Collins</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>May 10, 1966</cell>
+                        <cell>Also Counselor of Emb. +<lb/>Deputy Chief of Mission.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald P. Downs</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Attaché<lb/>Panamá</cell>
+                        <cell>Allen Cooper</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

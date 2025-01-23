@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0960" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paita, Peru</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0959" type="prev"/>
+                <relatedItem target="c0961" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0960f1">
+                <graphic height="3626px" url="01284.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paita, Peru</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1833</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01284</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0960">
+        <body>
+            <div corresp="#c0960f1">
+                <head>Paita, Peru.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Obed Folger</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 8, 1833</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Higginson</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Paita</cell>
+                        <cell>May 5, 1834</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Girdon, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Jan. 20, 1835</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Ruden, Jr.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 12, 1837</cell>
+                        <cell>Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Layette M. Ringgold</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Aug. 20, 1853</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles F. Winslow</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>D.C.</cell>
+                        <cell>Jan. 31, 1854</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James M. Hood</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Mass</cell>
+                        <cell>Jan. 22, 1862</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry S. Wetmore</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ill.</cell>
+                        <cell>May 18, 1864</cell>
+                        <cell>Conf Declined</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><unclear>Sept</unclear> 29, 1864, recess</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Feb. 14, 1865</cell>
+                        <cell>Conf, Declined</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rafael M. Columbus</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 18, 1865</cell>
+                        <cell>recess</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Murphy</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>July 13, 1866</cell>
+                        <cell>Conf. Died at Guayagnil Apr. 19, 1905.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Jan. 23, 1871</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>See further entries on consular agency cards for Paita</p>
+            </div>
+        </body>
+    </text>
+</TEI>

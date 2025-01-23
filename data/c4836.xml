@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4836" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dar-es Salaam, Tanganyika, East Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4835" type="prev"/>
+                <relatedItem target="c4837" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4836f1">
+                <graphic height="3630px" url="06292.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dar-es Salaam, Tanganyika, East Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06292</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4836">
+        <body>
+            <div corresp="#c4836f1">
+                <head>Dar-es-Salaam, Tanganyika, East Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul Nairobi</cell>
+                        <cell>William J. Buchwaller</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>July 12, 1948</cell>
+                        <cell>Sept. 14, 1947</cell>
+                        <cell>To Nairobi as V.C. 12-1-47</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul Hamburg</cell>
+                        <cell>William J. Buchwaller</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>April 15, 1948</cell>
+                        <cell>To Strasbourg as V.C. 1-25-50. <lb/> F.S.S. officer assigned to Dept.
+                            5-5/50 <lb/> To Jadda as V.C. 4-22-50</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert L. Addis</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 19, 1950</cell>
+                        <cell>To Port Elizabeth as V.C.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Michael Smolik</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 13, 1950</cell>
+                        <cell>2-12-53. F.S.S. officer terminates <lb/> appt. as F.S.S. officer
+                            (career) 7-23-01. <lb/> 2. COB 7-22-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Stella E. Savis</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 22, 1958</cell>
+                        <cell>Raised to rank of Embassy <lb/> Dec. 9, 1961.</cell>
+                    </row>
+                </table>
+                <p>Dar-es-Salaam, Tanganyika</p>
+                <p>DAR-ES-SALAAM, United Republic of Tanganyika and Zanzibar - eff. Apr. 27, 1964 -
+                    Date the Union was ratified</p>
+                <p>Albert F. Barbieri <lb/> V. Cons. <lb/> Oct. 13, 1965</p>
+            </div>
+        </body>
+    </text>
+</TEI>

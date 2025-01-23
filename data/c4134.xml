@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4134" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Thessaloniki, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4133" type="prev"/>
+                <relatedItem target="c4135" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4134f1">
+                <graphic height="3614px" url="05388.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Thessaloniki, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05388</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4134">
+        <body>
+            <div corresp="#c4134f1">
+                <head>Thessaloniki, Greece</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John Patrick Owens</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 27, 1960</cell>
+                        <cell>Designated Consul Thessalonikis 11-21-60</cell>
+                    </row>
+                    <row>
+                        <cell>V-C.+3d Sec.</cell>
+                        <cell>Athens</cell>
+                        <cell>Miss Mary L. Eysenbach</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell>Sept. 18, 1961</cell>
+                        <cell>To Athens as 2d Sec., 9-16-62.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William J. Waller</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1962</cell>
+                        <cell>To Naples as V.C., 3-16-64.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas J. Gunning</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>USIA</cell>
+                        <cell>May 1, 1962</cell>
+                        <cell>FSR officer assigned to Northwestern Univ., Evanston, Ill. (USIA),
+                            8-17-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert O'Neil</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1962</cell>
+                        <cell><unclear>Regd.</unclear> to Dept. 9-13-64.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.+3d Sec.</cell>
+                        <cell>Athens</cell>
+                        <cell>William W. McGrew</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell>Oct. 15, 1962</cell>
+                        <cell>To Izmir as V.C., 2-1-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John K. Jessup, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 6, 1964</cell>
+                        <cell>FSO assigned to the Dept., 10-9-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Peter Collins</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Stephen L. Lande</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Luxem-</cell>
+                        <cell>bourg</cell>
+                        <cell>James H. Morton</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Sept. 26, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

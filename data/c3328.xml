@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3328" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ouagadougou, Republic of Upper Volta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3327" type="prev"/>
+                <relatedItem target="c3329" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3328f1">
+                <graphic height="3636px" url="04360.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ouagadougou, Republic of Upper Volta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04360</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3328f2">
+                <graphic height="3636px" url="04361.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ouagadougou, Republic of Upper Volta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04361</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3328">
+        <body>
+            <div corresp="#c3328f1">
+                <head>Cuagadougou, Republic of Upper Volta</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.<lb/>Brussels<lb/>2d Sec +<lb/>Consul</cell>
+                        <cell>Robert A. McKinnon</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 24, 1960</cell>
+                        <cell>Also 1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Prague</cell>
+                        <cell>George W. Small</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Jan. 23, 1961</cell>
+                        <cell>Also 2d Sec.<lb/>To Tangier as Consul, 2-5-62.<lb/>Also Counselor of
+                            Emb. Deputy Chief<lb/>of Mission assigned to the<lb/>Department July 19,
+                            1964.<lb/>Also Couns. of Emb. &amp; Deputy<lb/>Chief of Mission.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Thomas J. Corcoran</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 11, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Anthony Clinton Swezeycancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 26, 1961</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard A. Poole</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 20, 1964</cell>
+                        <cell>Also 1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lagos</cell>
+                        <cell>Owen W. Roberts</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 6, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3328f2">
+                <head>Consular mission officially established in the new Republic of Upper Volta, at
+                    Ouagadougou, on December 31, 1960.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

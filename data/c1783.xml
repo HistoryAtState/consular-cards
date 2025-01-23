@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1783" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zante-Island, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1782" type="prev"/>
+                <relatedItem target="c1784" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1783f1">
+                <graphic height="3638px" url="02376.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Zante-Island, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1853</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02376</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1783">
+        <body>
+            <div corresp="#c1783f1">
+                <head>Zante Island Greece.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Amos S. York</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 22, 1553 Conf. Resigned</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William B. Parker</cell>
+                        <cell><unclear>"</unclear></cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 23, 157, Conf Died</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered closed Oct. 5, 1899</p>
+            </div>
+        </body>
+    </text>
+</TEI>

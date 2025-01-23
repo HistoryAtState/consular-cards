@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0646" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maskat, Oman</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0645" type="prev"/>
+                <relatedItem target="c0647" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0646f1">
+                <graphic height="3634px" url="00877.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maskat, Oman</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00877</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0646f2">
+                <graphic height="3634px" url="00878.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maskat, Oman</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1911</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00878</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0646">
+        <body>
+            <div corresp="#c0646f1">
+                <head>Maskat, Oman.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Archibald Mackirdy</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 6, 1881</cell>
+                        <cell>Resigned Sept. 3, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mahomed Fazel T.</cell>
+                        <cell>Dep. " G. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 10, 1893.</cell>
+                        <cell>Appt'd V.C. June 26, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mahomed Fazel</cell>
+                        <cell>V.C.D. " </cell>
+                        <cell/>
+                        <cell>(Dies at Maskat Aug. 3, 1916)</cell>
+                        <cell/>
+                        <cell>June 26, 1907.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office ordered to be closed on Mar. 6, 1915 (tel. 3/5/15 to Maskat)</p>
+            </div>
+            <div corresp="#c0646f2">
+                <head>Maskat, Oman.</head>
+                <p>Mahomed Fazel, V.D.C. took over the Consulate from Consul Ray (who left on leave
+                    and did not return) April 26, 1911 and turned it over to Codoul Brett Dec. 23,
+                    1911.</p>
+                <p>Mahomed Fazel, V.D.C. took over the office from Consul Brett Sept. 30, 1913</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1300" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Chengtu, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1299" type="prev"/>
+                <relatedItem target="c1301" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1300f1">
+                <graphic height="3640px" url="01727.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chengtu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01727</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1300f2">
+                <graphic height="3640px" url="01728.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Chengtu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01728</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1300">
+        <body>
+            <div corresp="#c1300f1">
+                <head>Chengtu, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Running</cell>
+                        <cell>Richard M. Service</cell>
+                        <cell>Vicebou. U.S.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Jan. 4, 1945</cell>
+                        <cell>Honarary title of attache, but serving as Vice Consul) appld. 750 Vice
+                            Con. + Secy ive Dip serv. 12-22-45c to Tsingtas as VC. of cher
+                            12-29-45</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1300f2">
+                <head>Richard M. Service - attachi - Ching to, China - 1-4-45. (honorary title
+                    only)</head>
+            </div>
+        </body>
+    </text>
+</TEI>

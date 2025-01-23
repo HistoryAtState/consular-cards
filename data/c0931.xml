@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0931" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Helen's, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0930" type="prev"/>
+                <relatedItem target="c0932" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0931f1">
+                <graphic height="3634px" url="01246.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Helen's, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01246</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0931">
+        <body>
+            <div corresp="#c0931f1">
+                <head>St. Helen's, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Williams</cell>
+                        <cell>Comb Agt. U.D.</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Minn</cell>
+                        <cell>June 26, 1878,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Agency ordered closed</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March 31, 1916: closed</cell>
+                        <cell>June 10, 1916</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

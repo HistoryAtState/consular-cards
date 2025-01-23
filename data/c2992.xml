@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2992" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Louis, Mauritius</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2991" type="prev"/>
+                <relatedItem target="c2993" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2992f1">
+                <graphic height="3622px" url="03942.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Louis, Mauritius</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03942</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2992">
+        <body>
+            <div corresp="#c2992f1">
+                <head>Port Louis, Mauritius. <unclear/> see Isle of France <unclear/>
+                    Mauritius</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederic O. Robinson</cell>
+                        <cell>Vice Con. US.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass July 5, 1866.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph W. Holfway</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 13, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert William Chambrey</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 27, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Povah Ambrose</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mauri</cell>
+                        <cell>tie</cell>
+                        <cell>May 4, 1880.</cell>
+                        <cell>Died Aug. 28, 1901. <lb/> to Dec. 30, 1904.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John W. Hollway</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Dr.</cell>
+                        <cell/>
+                        <cell>Oct. 23, 1901.</cell>
+                        <cell>Resigned Sept 29, 1904. <lb/> Dec. 30, 1904 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry M Blyth</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Nov. 14, 1904.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert E. Streeden</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Dec. 7, 1906.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate closed Mar. 10, 1911</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1937" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brake, Oldenburg, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1936" type="prev"/>
+                <relatedItem target="c1938" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1937f1">
+                <graphic height="3624px" url="02596.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brake, Oldenburg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1864</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02596</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1937f2">
+                <graphic height="3624px" url="02597.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brake, Oldenburg, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1885</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02597</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1937">
+        <body>
+            <div corresp="#c1937f1">
+                <head>Brake, Oldenburg, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bernhard Muller</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 5, 1864</cell>
+                        <cell>to May 1871</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John G. Gross (Br. Vice Con)</cell>
+                        <cell>Brake Nordinham</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 13, 1877</cell>
+                        <cell>Died July 13, 1885. <lb/> Nov. 1885 to <lb/> Went out upon closing of
+                            Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilhelm Clemene</cell>
+                        <cell>Brake Nordinham Ger.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 13, 1885</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed March 1, 1916.</p>
+            </div>
+            <div corresp="#c1937f2">
+                <head>Brake, Oldenburg, Germany.</head>
+                <p>Karl Grose (Br. of dead tgt) in charge – (death of tgt) July 14,1885 to Nov
+                    1885?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0888" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Roubaix, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0887" type="prev"/>
+                <relatedItem target="c0889" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0888f1">
+                <graphic height="3642px" url="01192.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Roubaix, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01192</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0888">
+        <body>
+            <div corresp="#c0888f1">
+                <head>Roubaix, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert H. Washburne</cell>
+                        <cell>ComilAzt.</cell>
+                        <cell>US.</cell>
+                        <cell>Mass.</cell>
+                        <cell>June 24, 1890</cell>
+                        <cell>Canceled<lb/>To Magdeburg June 27, 1890.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Atwell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>June 27, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Stephen H. Angell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Staten dal<lb/>N.Y. D.C.</cell>
+                        <cell>May 5, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Atwell</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 28, 1897.</cell>
+                        <cell>Appt'd Consul May 31, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Atwell</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>May 31, 1899</cell>
+                        <cell>recess Aug. 21, 1899 to Aug. 23, 1906</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Chapman Coleman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Jan. 8, 1900</cell>
+                        <cell>Conf. Appt'd to Ghent June 22, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell>Crepes</cell>
+                        <cell>Joseph E. Haven</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>See</cell>
+                        <cell>Apr. 24, 1906 Conf. Appt Cons. Rome 6/10/1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Watson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>See</cell>
+                        <cell>June 10, 1908 recess July 1, 1908 to May 11, 1914.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Watson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Frankfort<lb/>Ky.</cell>
+                        <cell>Dec. 14, 1908 Conf. Appt Consul, Catania 4/24/14</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Watson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ky.</cell>
+                        <cell>Apr. 24, 1914</cell>
+                        <cell>July 12, 1914 to<lb/>see below</cell>
+                    </row>
+                    <row>
+                        <cell>see<lb/>above</cell>
+                        <cell>John J. C. Watson</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell>Ky.</cell>
+                        <cell>Ky.</cell>
+                        <cell>Apr. 24, 1914.</cell>
+                        <cell>Continued under appt<lb/>Assigned to Saint Pierre-<lb/>Misfunction,
+                            July 17, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Watson instructed to close Consulate, temporarily (Tel. to Emb.,
+                            Berlin July 17, 1915.)<lb/>Consulate Closed September 27, 1919.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

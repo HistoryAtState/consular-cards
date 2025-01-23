@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5576" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Uganda</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5575" type="prev"/>
+                <relatedItem target="c5577" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5576f1">
+                <graphic height="3608px" url="07272.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Uganda</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07272</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5576">
+        <body>
+            <div corresp="#c5576f1">
+                <head>UGANDA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                    </row>
+                    <row>
+                        <cell>Tokyo</cell>
+                        <cell>Earle J. Richey</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                        <cell>Couns. of Emb. 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John A. Unumb</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>July 3, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Andrew D. Sens</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                    </row>
+                </table>
+                <p>Also Consul &amp; Deputy Chief of Mission</p>
+                <p>Also V.C.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0669" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nanking, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0668" type="prev"/>
+                <relatedItem target="c0670" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0669f1">
+                <graphic height="3630px" url="00912.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nanking, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00912</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0669">
+        <body>
+            <div corresp="#c0669f1">
+                <head>Nanking, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept</cell>
+                        <cell>Hendrik van Oss Cancelled</cell>
+                        <cell>F.S.O. 4</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.J.</cell>
+                        <cell>May 22, 1947</cell>
+                        <cell>Also 3d Secy...</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Canton Gerald Stryker</cell>
+                        <cell>F.S.O. 5</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>June 17, 1948</cell>
+                        <cell>Also 2d Secy. To Canton and 2d Secy</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Berbuc Thomas J. Wennigan Cancelled</cell>
+                        <cell>F.S.O. 6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>March 15, 1949</cell>
+                        <cell>Also 3d Secy. To Hong Kong as V.C. 8-1-49</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Berlin Robert M. Berry Cancelled</cell>
+                        <cell>F.S.O. 6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>April 25, 1949</cell>
+                        <cell>Also 3d Secy</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Chungking Philip H. Walden Cancelled</cell>
+                        <cell>F.S.O. 6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>April 29, 1949</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>To be closed</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

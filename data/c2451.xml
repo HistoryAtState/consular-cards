@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2451" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French West Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2450" type="prev"/>
+                <relatedItem target="c2452" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2451f1">
+                <graphic height="3648px" url="03260.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French West Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1943</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03260</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2451">
+        <body>
+            <div corresp="#c2451f1">
+                <head>French West Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Admiral William Glassford</cell>
+                        <cell>Personal Rep. of the Pres. of the US with rank of Minister</cell>
+                        <cell/>
+                        <cell>Ariz.</cell>
+                        <cell>Ariz.</cell>
+                        <cell>May 17, 1943</cell>
+                        <cell>Stationed at Dakar</cell>
+                    </row>
+                </table>
+                <p>Diplomatic Mission at Dakar ceased to function c.o.b. June 30, 1944, and that
+                    post reverted to rank of Consulate General effective July 1, 1944.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

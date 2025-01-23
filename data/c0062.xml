@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0062" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amiens, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0061" type="prev"/>
+                <relatedItem target="c0063" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0062f1">
+                <graphic height="3630px" url="00090.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Amiens, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00090</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0062">
+        <body>
+            <div corresp="#c0062f1">
+                <head>Amiens, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Tassencourt</cell>
+                        <cell>Con. Azt Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Fr. Jan. 8, 1904</cell>
+                        <cell/>
+                        <cell>Office opened Feb. 9, 1904.</cell>
+                    </row>
+                </table>
+                <p>Agency closed. May 14, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

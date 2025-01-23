@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1168" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sanchez, Santo Domingo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1167" type="prev"/>
+                <relatedItem target="c1169" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1168f1">
+                <graphic height="3640px" url="01557.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sanchez, Santo Domingo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1895</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01557</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1168f2">
+                <graphic height="3640px" url="01558.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sanchez, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01558</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1168">
+        <body>
+            <div corresp="#c1168f1">
+                <head>Sanchez, Santo Domingo, under Santo Domingo " " Puerto Plata 7/1/1903 to
+                    6/30/1913</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis L. Wille</cell>
+                        <cell>Com. tgh U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>June 4, 1895.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José A. Puente</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 9, 1897.</cell>
+                        <cell>Resigned Nov. 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>José C. Ariza</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 16, 1901.</cell>
+                        <cell>Resigned May 28, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Enrique Leroux</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell><unclear>Pamana</unclear>, D. Rep.</cell>
+                        <cell><unclear>Jotun</unclear>
+                            <unclear>proments</unclear> Dan. Rep.</cell>
+                        <cell>Aug. 29, 1908.</cell>
+                        <cell>Serv. <unclear>teren</unclear>., June 30, 1938.</cell>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1938.</p>
+            </div>
+            <div corresp="#c1168f2">
+                <head>Sanchez, Dominican Republic</head>
+                <p>C. R. Meskus, designated Acting Consular Agent (absence of Leroux for 10 days) on
+                    or about Oct. 3, 1931.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

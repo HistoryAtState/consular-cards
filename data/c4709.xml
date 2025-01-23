@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4709" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caracas, Venezuela</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4708" type="prev"/>
+                <relatedItem target="c4710" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4709f1">
+                <graphic height="3618px" url="06137.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Caracas, Venezuela</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06137</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4709">
+        <body>
+            <div corresp="#c4709f1">
+                <head>CARACAS VENEZUELA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell/>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edwin Ho</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 20, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell>Detailed to Tijuana as V.C., 9-20-65. Detail terminated
+                            10-19-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Miss Sarah D. Wilkinson</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell>Also 2d Secy 9-1-66. To Huayaquil as V.C., 1-30-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>F. Allen Harris</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 18, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell>To Guatemala as V.C. + 3d Sec. 9-26-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Robert Stephen Pastorino</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Jan. 2, 1967</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

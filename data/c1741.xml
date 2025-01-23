@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1741" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Windsor, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1740" type="prev"/>
+                <relatedItem target="c1742" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1741f1">
+                <graphic height="3628px" url="02320.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Windsor, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02320</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1741">
+        <body>
+            <div corresp="#c1741f1">
+                <head>Windsor, Nova Scotia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter S. Burnham</cell>
+                        <cell>Vice Com</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 11, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles E. Hobart</cell>
+                        <cell>Urd. " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 10, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Nalders</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 9, 1897.</cell>
+                        <cell>Died Feb 22, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph H. Sargent</cell>
+                        <cell>" " " Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 5, 1905.</cell>
+                        <cell>Resigned effect Apr. 1, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William C. Robinson</cell>
+                        <cell>" " " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 12, 1907.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

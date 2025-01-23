@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1871" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bathurst, Gambia, Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1870" type="prev"/>
+                <relatedItem target="c1872" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1871f1">
+                <graphic height="3632px" url="02501.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bathurst, Gambia, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02501</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1871f2">
+                <graphic height="3632px" url="02502.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bathurst, Gambia, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1859</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02502</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1871">
+        <body>
+            <div corresp="#c1871f1">
+                <head>Bathurst, Gambia, Africa. (British)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David W. E. Brown</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 23, 1868</cell>
+                        <cell>Nov. 6, 1868 to Dec. 1, 1878 <lb/> Died Dec. 1, 1878</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 20, 1879</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry C. Goddard</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr.Br.</cell>
+                        <cell>Nov. 10, 1880.</cell>
+                        <cell>Jan. 19, 1881 to <lb/> Despatches end Feb. 2, 1889.</cell>
+                    </row>
+                </table>
+                <p>(Office ordered closed Apr. 14, 1900.)</p>
+            </div>
+            <div corresp="#c1871f2">
+                <head>Bathurst, Gambia, Africa (Br.)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard Charles Lloyd</cell>
+                        <cell>Sets in charge (absence of Consul)</cell>
+                        <cell>Aug. 26, 1859 to Oct. 8, 1859.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mr. Marion French Consul</cell>
+                        <cell>" "</cell>
+                        <cell>June 30, 1860 to Sept 30, 1860.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown</cell>
+                        <cell>" "</cell>
+                        <cell>July 9, 1861 to July 1862</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>R. G. Lloyd</cell>
+                        <cell>" "</cell>
+                        <cell>July 1862 to 1865</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown</cell>
+                        <cell>(no Consul)</cell>
+                        <cell>1865 to (Continued as Com'il Agent</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David W. E. Brown</cell>
+                        <cell>" "</cell>
+                        <cell>July 1867 to Nov. 1867</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David W. E. Brown</cell>
+                        <cell>(absence of Consul) Sets in Chg. (absence of Consul)</cell>
+                        <cell>June 1870 to Nov. 25, 1870</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Calvert Hulton</cell>
+                        <cell>" "</cell>
+                        <cell>June 1872 to Nov. 12, 1872.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David W. E. Brown, V. C</cell>
+                        <cell>" "</cell>
+                        <cell>- Nov. 13, 1872 to </cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David W. E. Brown, V. C. was absent ill from Aug. 1869 to Nov. 13,
+                            1872)</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David W. E. Brown</cell>
+                        <cell>" "</cell>
+                        <cell>Jan. 28, 1874 to Nov. 1877.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown (late Consul) signed for David W. E. Brown</cell>
+                        <cell>" "</cell>
+                        <cell>Apr. 1878 to Jan. 1879.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brown</cell>
+                        <cell>" "</cell>
+                        <cell>Dec. 1878 to Jan. 19, 1881</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Yes. Wm Le Brun Corrie</cell>
+                        <cell>" "</cell>
+                        <cell>May 31, 1882 to Dec. 26, 1882.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Jackson</cell>
+                        <cell>" "</cell>
+                        <cell>July 25, 1884 to Dec. 31, 1884</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>July 16, 1885 to Dec. 1, 1885</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Aug. 25, 1886 to Nov. 21, 1886.</cell>
+                    </row>
+                </table>
+                <p>Thomas Brown (late Consul) signed for David W. E. Brown, </p>
+                <p>Thomas Brown, " " Sets in Chg. (no Consul or V.C.)</p>
+                <p>Yes. Wm Le Brun Corrie, " " (absence of V.C.)</p>
+                <p>Edward Jackson " " ( " " )</p>
+            </div>
+        </body>
+    </text>
+</TEI>

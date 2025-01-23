@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1160" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Samsun, Asia Minor</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1159" type="prev"/>
+                <relatedItem target="c1161" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1160f1">
+                <graphic height="3646px" url="01546.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Samsun, Asia Minor</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01546</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1160f2">
+                <graphic height="3638px" url="01547.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Samsoun</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01547</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1160">
+        <body>
+            <div corresp="#c1160f1">
+                <head>Lamsoun</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Date of assignment.</cell>
+                    </row>
+                </table>
+                <p>REMARKS.</p>
+            </div>
+            <div corresp="#c1160f2">
+                <head>Samsoun</head>
+                <p>S. Pinkney Tuck, Consul Cl. 7, lately on detail Alexandria, detailed as Consul in
+                    Charge, Samsoun Jan. 2, 1920; reported arrival 3/6/1920. Constantinople Jan. 14,
+                    1921. </p>
+            </div>
+        </body>
+    </text>
+</TEI>

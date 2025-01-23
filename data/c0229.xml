@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0229" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Helsingborg, Sweden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0228" type="prev"/>
+                <relatedItem target="c0230" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0229f1">
+                <graphic height="3628px" url="00329.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Helsingborg, Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00329</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0229">
+        <body>
+            <div corresp="#c0229f1">
+                <head>Helsingborg, Sweden.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Palmborg<lb/>Lars Virgin</cell>
+                        <cell>Con. Agh Suveden</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 8, 1893</cell>
+                        <cell>Died June 5, 1896.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 22, 1896.</cell>
+                        <cell>Died Apr. 28, 1906.</cell>
+                    </row>
+                    <row>
+                        <cell>Clinton S. Pierce</cell>
+                        <cell>Office closed April 28, 1906.<lb/>(Cousin of
+                                Congress<lb/><unclear>Brodhead</unclear> Wis.<lb/>Via Jan. 10,
+                            1918.</cell>
+                        <cell>Vice Con, U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>(Proceeded to Goteborg for<lb/>temporary assignment)</cell>
+                        <cell>Reported for duty Feb. 9, 1918.<lb/>Did not serve at
+                            Helsingborg<lb/>Appt'd U.S.C. Malmo Jan. 10, 1918.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

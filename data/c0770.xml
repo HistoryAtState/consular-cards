@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0770" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Orillia, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0769" type="prev"/>
+                <relatedItem target="c0771" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0770f1">
+                <graphic height="3630px" url="01044.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Orillia, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01044</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0770">
+        <body>
+            <div corresp="#c0770f1">
+                <head>Orillia, Ontario.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(w) Revel W. Soule</cell>
+                        <cell>Comiltgh US.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>July 14, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry P. Dill</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 23, 1892</cell>
+                        <cell>Palmerston Aug. 16, 1892.<lb/>to Feb. 11,1898,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James M. Rosse</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>July 12, 1873.</cell>
+                        <cell>To Chandicry June, Dec 24, 1897</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(w) Revel W. Soule</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>Oct 4, 1897.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest A. Wakefield</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>Jan. 27, 1898.</cell>
+                        <cell>Feb. 12, 1898 to see below<lb/>Apped Consul May 21, 1900<lb/>see above
+                            to June 30, 1908.<lb/>Conf. Apptd Cons. Rangoon 6/10/1908.</cell>
+                    </row>
+                    <row>
+                        <cell>Port<lb/>Hope</cell>
+                        <cell>Harry P. Dill</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>May 21, 1900</cell>
+                        <cell>May 21, 1900 Conf. Apptd Cons. Rangoon 6/10/1908.<lb/>recess July,
+                            1908 to Jan. 16, 1915<lb/>Left Chillia Oct 20, 1915 to take up
+                            permanent<lb/>residence in Lewiston, Maine.</cell>
+                    </row>
+                    <row>
+                        <cell>St. John's</cell>
+                        <cell>Milton B. Kirk</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>June 10, 1908</cell>
+                        <cell>Jan. 17, 1915 to<lb/>see below</cell>
+                    </row>
+                    <row>
+                        <cell>Quebec</cell>
+                        <cell>Ernest A. Wakefield</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 14, 1908</cell>
+                        <cell>Ill. Ill. Dec. 29, 1914 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt, to Class.</cell>
+                        <cell>By Act of</cell>
+                        <cell>Date of assignment.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Continued under appt<lb/>Dec. 29, 1914.</cell>
+                    </row>
+                    <row>
+                        <cell>Con. 8 2/5/1915</cell>
+                        <cell>Ill. Ill.</cell>
+                        <cell/>
+                        <cell>Assigned to Nantes July 8, 1916.</cell>
+                    </row>
+                </table>
+                <p>above Milton B. Kirk</p>
+                <p>Consulate ordered closed July 13, 1916; closed July 26, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

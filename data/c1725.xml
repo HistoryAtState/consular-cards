@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1725" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Waterloo, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1724" type="prev"/>
+                <relatedItem target="c1726" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1725f1">
+                <graphic height="3620px" url="02301.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Waterloo, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02301</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1725">
+        <body>
+            <div corresp="#c1725f1">
+                <head>Waterloo, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Malcolm Johnston</cell>
+                        <cell>Con. Agt. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 26, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur S. Newell</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Morris, Sel.</cell>
+                        <cell>Sel.</cell>
+                        <cell>Jan. 12, 1886.</cell>
+                        <cell>Resigard Jan. 22, 1891 to date Jan. 28, 1901</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles M. Eastman</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Vt.</cell>
+                        <cell>Vt.</cell>
+                        <cell>Apr. 17, 1901.</cell>
+                        <cell>Died at fort July 16, 1910. <lb/> Oct. 1, 1910 to <lb/> Out of closing
+                            Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur B. Newell</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Morris, Sel.</cell>
+                        <cell>Sel.</cell>
+                        <cell>Aug. 29, 1910.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed March 20, 1914.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

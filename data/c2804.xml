@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2804" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lome, Republic of Togo</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2803" type="prev"/>
+                <relatedItem target="c2805" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2804f1">
+                <graphic height="3598px" url="03701.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lome, Republic of Togo</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03701</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2804">
+        <body>
+            <div corresp="#c2804f1">
+                <head>LOME, REPUBLIC OF TOGO</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gerald Schwab</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 21, 1959</cell>
+                        <cell>Designated Consul 3-18-60 Lome</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>George W. Ogg</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 11, 1960</cell>
+                        <cell>Also 3d Sec, <lb/>To Tangier as KC, 11-12-62.</cell>
+                    </row>
+                    <row>
+                        <cell>VC. <lb/>2d Sec. <lb/>Addis Ababa</cell>
+                        <cell>Edward J. Streator, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 8, 1960</cell>
+                        <cell>Also 2d Sec. Designated <lb/>Consul, Lomé, 2-2-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Charles H. Hallock</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 25, 1962</cell>
+                        <cell>Also 2d Sec. Designated <lb/>(consul) home, 3-1-63.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Edward P. Allen</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell>Also 3d Sec. <unclear>750</unclear> assigned to <lb/>the Dept. of
+                            Commerce, 6-19-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Boston Univ. <lb/>Boston, <lb/>Mass.</cell>
+                        <cell>Michael G. Wygant</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>David M. Lowrey</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

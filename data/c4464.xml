@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4464" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antofagasta, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4463" type="prev"/>
+                <relatedItem target="c4465" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4464f1">
+                <graphic height="3614px" url="05813.tif" width="5982px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antofagasta, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05813</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4464">
+        <body>
+            <div corresp="#c4464f1">
+                <head>Antofagasta, Chile</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Buenos Aires</cell>
+                        <cell>Samuel H. Young</cell>
+                        <cell>Cancelled</cell>
+                        <cell>Vice Consul N.S.</cell>
+                        <cell>Fla.</cell>
+                        <cell>Dec. 13, 1950</cell>
+                        <cell>To Habana as V.C. 2-11-53</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Valparaiso</cell>
+                        <cell>Louis N. De Armas</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell>Feb. 8, 1951</cell>
+                        <cell>Retirement off. coB 6-30-53.</cell>
+                    </row>
+                    <row>
+                        <cell>V.S!</cell>
+                        <cell>Nagoya</cell>
+                        <cell>Mansfield M<sup>c</sup> Mahan</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell>July 16, 1951</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Rio de Janeiro</cell>
+                        <cell>Henry J. Krause</cell>
+                        <cell>CANCELLED</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>Jan. 12, 1953</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Jyuan</cell>
+                        <cell>John L. Hagan</cell>
+                        <cell>Vice Consul N.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Jan. 24, 1953</cell>
+                        <cell>Designated Consul Antofagasta 7-26-54</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Jyuan</cell>
+                        <cell>Wallace Clarke</cell>
+                        <cell>Vice Consul US</cell>
+                        <cell>Calif.</cell>
+                        <cell>Apr. 15, 1955</cell>
+                        <cell><unclear>hlesignated</unclear> v. c. (FSB), Antofagasta
+                            4-25-55.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

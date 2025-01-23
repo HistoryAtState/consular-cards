@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1397" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sialy, Island of</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1396" type="prev"/>
+                <relatedItem target="c1398" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1397f1">
+                <graphic height="3976px" url="01860.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sialy, Island of</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01860</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1397">
+        <body>
+            <div corresp="#c1397f1">
+                <head>Sicily, Island of</head>
+                <p>see</p>
+                <p>Two Sicilies</p>
+            </div>
+        </body>
+    </text>
+</TEI>

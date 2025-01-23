@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0456" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Levuka, Fiji Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0455" type="prev"/>
+                <relatedItem target="c0457" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0456f1">
+                <graphic height="3628px" url="00625.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Levuka, Fiji Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00625</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0456">
+        <body>
+            <div corresp="#c0456f1">
+                <head>Levuka, Fiji Islands. (see Lauchata re)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Bruce</cell>
+                        <cell><unclear>Wombtzt</unclear>. Ud. Me</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 2, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin Morris</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif. Sept. 8, 1893</cell>
+                        <cell><unclear>Resigned</unclear> Apr. 1, 1884?</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0559" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Markneukirchen, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0558" type="prev"/>
+                <relatedItem target="c0560" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0559f1">
+                <graphic height="3628px" url="00761.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Markneukirchen, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00761</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0559">
+        <body>
+            <div corresp="#c0559f1">
+                <head>Markneukirchen, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar Gottschalk</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Aug. 19, 1893.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William C. Dreyer</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>So. Cart. Oct. 11, 1897.</cell>
+                        <cell>Did not qualify<lb/>Assigned Sept. 24, 1900 to<lb/>take effect Oct. 8,
+                            1900.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar Malmros</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Minn. June 15, 1898.</cell>
+                        <cell>Resigned June 17 to date<lb/>June 30, 1901.<lb/>to July 1, 1908</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph G. Fox</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>R.S. Dec. 17, 1900.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell>Han.</cell>
+                        <cell>William F. L. Fiedler</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>July 16, 1901.</cell>
+                        <cell>Did not reach his post<lb/>Ret'd to the U.S.<lb/>July 2, 1908 to Mar.
+                            21, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles H. Talbott, Jr.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Richmond<lb/>Va.</cell>
+                        <cell>Richmond<lb/>Va.</cell>
+                        <cell>Feb. 25, 1908.</cell>
+                        <cell>Appt'd V.C., Magdeburg 11/19/16</cell>
+                    </row>
+                    <row>
+                        <cell>Crefeld</cell>
+                        <cell>W. Bruce Wallace</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>June 18, 1905.</cell>
+                        <cell>Mar. 21, 1916.</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed April 3, 1916; closed Mar. 21, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

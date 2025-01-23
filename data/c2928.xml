@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2928" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manchester, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2927" type="prev"/>
+                <relatedItem target="c2929" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2928f1">
+                <graphic height="3626px" url="03857.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manchester, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03857</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2928">
+        <body>
+            <div corresp="#c2928f1">
+                <head>Manchester, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in Consulate</cell>
+                        <cell>Edwin B. Earnest</cell>
+                        <cell>Vice Con, U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Iowa</cell>
+                        <cell>Iowa</cell>
+                        <cell>Mar. 8, 1928.</cell>
+                        <cell>Appt'd V.C., Edinburgh, Apr. 9, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Antilla</cell>
+                        <cell>Myles Standish</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 1, 1934</cell>
+                        <cell>Appt'd 3.D.O. and V.C. of career to London in Dipl. Serv., N.Y., 1936;
+                            assigned to Manchester as V.C., Nov. 16, 1936. To far diff as V.C.
+                            6-8-44.</cell>
+                    </row>
+                    <row>
+                        <cell>Sheffield</cell>
+                        <cell>Henry A. Ramsey</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Colo.</cell>
+                        <cell>S.D.</cell>
+                        <cell>Sep. 12, 1940.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Plymouth</cell>
+                        <cell>Fred H. Houck</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 27, 1941.</cell>
+                        <cell>To Plymouth, Sept. 22, 1941.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul J.S. Cup.</cell>
+                        <cell>W. Millburne Neighbors</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell><unclear>Contistiring</unclear> under <unclear>da asian</unclear> Alio
+                            Adm. act. eff off 7-1-46.</cell>
+                        <cell><unclear>ment of</unclear> Oct. 19, 1945.</cell>
+                        <cell>To London as V.C. 10-5-48.</cell>
+                    </row>
+                    <row>
+                        <cell>Ottawa</cell>
+                        <cell>Girvan Teall</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Feb. 27, 1948</cell>
+                        <cell>To Ciudad Trujillo as V.C. 10-6-50.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>John W. Haigh</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>N.H.</cell>
+                        <cell>Nov. 18, 1957</cell>
+                        <cell>Designated V.C. of career, Manchester, 9-8-59</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Milan</cell>
+                        <cell>Weldon W. Sandfort</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 6, 1962</cell>
+                        <cell>To Liverpool as V.C. (785), 9-16-68.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed to the public August 30, 1963.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

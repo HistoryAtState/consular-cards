@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4978" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Georgetown, British Guiana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4977" type="prev"/>
+                <relatedItem target="c4979" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4978f1">
+                <graphic height="3636px" url="06463.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Georgetown, British Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06463</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4978">
+        <body>
+            <div corresp="#c4978f1">
+                <head>GEORGETOWN, British Guiana</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Everett K. Melby</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 25, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Everett K. Melby</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Gen.</cell>
+                        <cell>March 5, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Georgetown</cell>
+                        <cell>Edward B. Rosenthal</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 7, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Delmar R. Carlson</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 2, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Consul</cell>
+                        <cell>Delmar R. Carlson</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Gen.</cell>
+                        <cell>Sept. 10, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Georgetown</cell>
+                        <cell>Kenneth Bache</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 19, 1963</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Delmar R. Carlson</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Gen.</cell>
+                        <cell>Mar. 2, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>George W. Ogg</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Georgetown</cell>
+                        <cell>Miss Alison Palmer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Vincent P. Wilber</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James L. Gorman</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Barbara A. Hutchison</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James R. Graham</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Consul</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell>USIA</cell>
+                    </row>
+                </table>
+                <p>Changed name from British Guiana, to Georgetown, Guyana, May 26, 1966, and
+                    Consulate General elevated to Embassy status, on same date.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

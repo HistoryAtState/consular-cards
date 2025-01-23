@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3688" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belize, British Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3687" type="prev"/>
+                <relatedItem target="c3689" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3688f1">
+                <graphic height="3626px" url="04821.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belize, British Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04821</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3688">
+        <body>
+            <div corresp="#c3688f1">
+                <head>Belize, British Honduras</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>La Paz.</cell>
+                        <cell>Morton Comeranz</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 1, 1948</cell>
+                        <cell>Resigned off COB 7-17-48</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Rome</cell>
+                        <cell>John J. Degan, Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>March 25, 1949</cell>
+                        <cell>To Newcastle-on-Tyne, 5-9-50</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Martiinique</cell>
+                        <cell>John F. K. Barlett, Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Mass</cell>
+                        <cell>Mass</cell>
+                        <cell>May 28, 1949</cell>
+                        <cell>To Habakkuk, P.C. 6-8-51<lb/>To Accra as V.C. 8-21-51</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Amsterdam</cell>
+                        <cell>Arthur Y. Reeder</cell>
+                        <cell>Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 9, 1950</cell>
+                        <cell>To Rotterdam as V.C.<lb/>12-28-51.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Hamilton</cell>
+                        <cell>Emory B. Wasemon, Jr.</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 1, 1950</cell>
+                        <cell>To Berlin as Prison Warden<lb/>+5-54. To Munich as V.C. 1-5-54</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John H. Straight</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 2, 1952</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

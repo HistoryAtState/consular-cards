@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2248" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Glauchau, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2247" type="prev"/>
+                <relatedItem target="c2249" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2248f1">
+                <graphic height="3628px" url="02999.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Glauchau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02999</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2248">
+        <body>
+            <div corresp="#c2248f1">
+                <head>Glauchau, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sidney P. Townshend</cell>
+                        <cell>Com'l Agt. U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Md.</cell>
+                        <cell>Nov. 7, 1891.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Sawter</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Conn.</cell>
+                        <cell>Sept. 21, 1893</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Antigua</cell>
+                        <cell>George Sawter</cell>
+                        <cell>Consul</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>June 29, 1896 recess</cell>
+                        <cell>Jan. 7, 1897 Conf.</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward A. Creevey</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Conn.</cell>
+                        <cell>July 9, 1901 recess</cell>
+                        <cell>Dec. 9, 1901 Conf.</cell>
+                        <cell>Apptd Consul at Yarmouth</cell>
+                    </row>
+                    <row>
+                        <cell>Zittau</cell>
+                        <cell>William Bike</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Pa.</cell>
+                        <cell>Nov. 3, 1905 recess</cell>
+                        <cell>Sept. 3, 1906 to</cell>
+                        <cell>Octo, 14, 1905, <lb/> Commission canceled. <lb/> Continued at
+                            Zittau</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George A. Bucklin Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Okla.</cell>
+                        <cell>July 16, 1906</cell>
+                        <cell>Dec. 6, 1906 Conf.</cell>
+                        <cell>Apptd Cons. San Luis Potosi 1/4/1908</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1983" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brusa, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1982" type="prev"/>
+                <relatedItem target="c1984" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1983f1">
+                <graphic height="3620px" url="02657.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brusa, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1915</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02657</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1983">
+        <body>
+            <div corresp="#c1983f1">
+                <head>Brusa, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Is a<lb/>Stdg. Int.<lb/>Interpreter<lb/>Constantinople</cell>
+                        <cell>Erwin F. Lange<lb/>Erwin F. Lange</cell>
+                        <cell>Con. Agt. U.S.<lb/>(authorizing in act. of 3/5/15)<lb/>Vice
+                            Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y. Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 3, 1915.</cell>
+                        <cell>Oct. 1, 1915 15<lb/>Appt'd Vice Consul, Brusa 8/22/16.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Mass.</cell>
+                        <cell/>
+                        <cell>Aug. 22, 1916.</cell>
+                        <cell>Resigned in U.S. 8/18/ effect 8/19/1917.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

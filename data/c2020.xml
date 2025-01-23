@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2020" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cienfuegos, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2019" type="prev"/>
+                <relatedItem target="c2021" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2020f1">
+                <graphic height="3636px" url="02711.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cienfuegos, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02711</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2020">
+        <body>
+            <div corresp="#c2020f1">
+                <head>Cienfuegos, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Cou<lb/>career<lb/>Tijuana</cell>
+                        <cell>A. John Cope, Jr.<lb/>American Consulate at Cienfuegos, Cuba, will be
+                            closed to the<lb/>public on August 31, 1945.</cell>
+                        <cell>5.S.O.</cell>
+                        <cell>une.</cell>
+                        <cell>12-7-44cltah</cell>
+                        <cell>Dec. 16, 1944.</cell>
+                    </row>
+                </table>
+                <cell>REMARKS</cell>
+                <cell>To Habana as 3rd Sec'y and Vice Canoul 8-28-45</cell>
+            </div>
+        </body>
+    </text>
+</TEI>

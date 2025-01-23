@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3874" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Salvador, El Salvador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3873" type="prev"/>
+                <relatedItem target="c3875" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3874f1">
+                <graphic height="3622px" url="05051.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Salvador, El Salvador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05051</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3874f2">
+                <graphic height="3622px" url="05052.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Salvador, El Salvador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05052</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3874">
+        <body>
+            <div corresp="#c3874f1">
+                <head>San Salvador, El Salvador</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>17.5. Aux</cell>
+                        <cell>Jack R. Johnstaur</cell>
+                        <cell>Vice Consul NS</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wash.</cell>
+                        <cell>continuing under assign- also Adm. Assist 7-1-46<lb/>ment of ling. 22,
+                            1945 To Habana as V. C. 6-22-48</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.G.<lb/>Accra</cell>
+                        <cell>Frederichs Boyt</cell>
+                        <cell>Vice Consul US</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wisc.</cell>
+                        <cell>Apr 9, 1957</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Bartelt, Jr.</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 25, 1953</cell>
+                        <cell/>
+                        <cell>DESIGNATED Consul, SAN<lb/>SALVADOR, 2-11-55.<lb/>To Naples asU.C.
+                            6-3-57</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Elsie C. Bell</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Aug. 2, 1955</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Vigo</cell>
+                        <cell>William H. Tienken</cell>
+                        <cell>V.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Cynthia J. Worf</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3874f2">
+                <head>Donald E. Marelins, Vice Consul, San Salvador, El Salvador, March 28, 1947,
+                    (Special appont mail)</head>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2439" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fremantle, West Austrailia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2438" type="prev"/>
+                <relatedItem target="c2440" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2439f1">
+                <graphic height="3624px" url="03247.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fremantle, West Austrailia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1886</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03247</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2439f2">
+                <graphic height="3624px" url="03248.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fremantle, Austrailia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03248</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2439">
+        <body>
+            <div corresp="#c2439f1">
+                <head>Fremantle, West Australia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Sandover</cell>
+                        <cell>Con. Azt. Gr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 3, 1886.</cell>
+                        <cell>to Jan. 1, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Mayhew</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 4, 1892.</cell>
+                        <cell>Resigned Jan. 1, 1899.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred D. Allan</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 24, 1899</cell>
+                        <cell>Resigned Mar. 31, 1904. Left Jan. 2, 1911, without requesting leave,
+                            was not considered a proper person for the office.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank R. Perrot</cell>
+                        <cell>" " " </cell>
+                        <cell>U.S.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 29, 1904.</cell>
+                        <cell>Superseded by Burke Jan. 5, 1911 to Jan. 31, 1921.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Udolph W. Burke</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>New York Weston City Australia</cell>
+                        <cell>Jan. 10, 1911.</cell>
+                        <cell>Resigned effective Feb. 1, 1921. Feb. 1, 1921 to Dec. 31, 1930, afc
+                            illness or closing of Agency.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred E. Morgans</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell>Monmouthshire</cell>
+                        <cell>Dr. Wales Aust. Apr. 29, 1921.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed December 31, 1930.</p>
+            </div>
+            <div corresp="#c2439f2">
+                <head>Fremantle, Australia</head>
+                <table>
+                    <row role="label">
+                        <cell>A. E. Morgans, Acting Cons. Agent</cell>
+                        <cell>turned over office to Noble Jan. 23, 1920</cell>
+                    </row>
+                    <row>
+                        <cell>John H. Noble, Hon. Con. Consul, In chg of Agency (absence Morgans)
+                            Jan. 25, 1920 to</cell>
+                        <cell>Alfred E. Morgans, a Br. subject, In chg of Agency (resig. of Burke)
+                            Feb. 1, 1921 to</cell>
+                    </row>
+                    <row>
+                        <cell>Percy Lorrigan, Acting Consular Agent (absence of Morgans, on
+                            leave),</cell>
+                        <cell>afeptos agt. Apr. 29, 1921</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>1930</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

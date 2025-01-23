@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1825" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ballina, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1824" type="prev"/>
+                <relatedItem target="c1826" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1825f1">
+                <graphic height="3626px" url="02437.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ballina, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1900</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02437</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1825">
+        <body>
+            <div corresp="#c1825f1">
+                <head>Ballina, Ireland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert A. Kerr</cell>
+                        <cell>Con. Agt. Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 10, 1900.</cell>
+                        <cell>Kerr will make noreport <lb/> ordered closed Feb. 1, 1902.</cell>
+                    </row>
+                </table>
+                <p>Agency closed Feb. 15, 1902.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3514" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Porto Alegre, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3513" type="prev"/>
+                <relatedItem target="c3515" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3514f1">
+                <graphic height="3602px" url="04597.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Porto Alegre, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1952</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04597</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3514">
+        <body>
+            <div corresp="#c3514f1">
+                <head>Porto Alegre, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Rio de Janeiro</cell>
+                        <cell>Robert S. Hoard</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 19, 1952</cell>
+                        <cell>Designated Consul, Ports Alegre<lb/>4-10-52.</cell>
+                    </row>
+                    <row>
+                        <cell>VC.<lb/>Quito</cell>
+                        <cell>Edward T. Purcell</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1, 1952</cell>
+                        <cell>To montevideo as cultural<lb/>affs. officer 9-7-57.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C. Harlow Duffin</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Utah</cell>
+                        <cell/>
+                        <cell>July 13, 1957</cell>
+                        <cell>F.S.S. off. assigned to the<lb/>Dept. 11-2-58</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Howard E. Shetterly</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell>USIA</cell>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Oct. 9, 1957</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jack B. Fawcett</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 28, 1959</cell>
+                        <cell>Converted from F.S.S. to F.S.R.O. (officer<lb/>career) USIA,
+                            7-24-60</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

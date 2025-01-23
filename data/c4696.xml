@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4696" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Canberra, Australia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4695" type="prev"/>
+                <relatedItem target="c4697" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4696f1">
+                <graphic height="3634px" url="06121.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Canberra, Australia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06121</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4696">
+        <body>
+            <div corresp="#c4696f1">
+                <head>Canberra, Australia</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Bogota</cell>
+                        <cell>Thomas C. Smith</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Ky.</cell>
+                        <cell>June 7, 1946</cell>
+                        <cell>also Disbursing Officer</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Sydney</cell>
+                        <cell>Robert C. Arnold</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.L.</cell>
+                        <cell>June 7, 1946</cell>
+                        <cell><unclear>Antencing</unclear> and also Agric. Attache</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Shing Llewellyn Joyne</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Colo</cell>
+                        <cell>Feb. 7, 1946</cell>
+                        <cell>Resigned: eff. c.o.b. 1-21-49</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>Doyle V. Martin</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 2, 1949</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

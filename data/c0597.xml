@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0597" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Milford Haven, Wales</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0596" type="prev"/>
+                <relatedItem target="c0598" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0597f1">
+                <graphic height="3628px" url="00808.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milford Haven, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00808</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0597f2">
+                <graphic height="3628px" url="00809.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Milford Haven, Wales</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1798</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00809</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0597">
+        <body>
+            <div corresp="#c0597f1">
+                <head>Milford Haven, Wales.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur B. Harries</cell>
+                        <cell>Comlgt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 17, 1862.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. J. Jackson</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 2, 1873,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Kelway</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov, 11, 1881,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Stuart Kelway</cell>
+                        <cell>" "</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 6, 1892.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p><unclear>Agendly</unclear> alased, Feb. 25, 1907.</p>
+            </div>
+            <div corresp="#c0597f2">
+                <head>Milford Haven, Wales.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell/>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Hugh Falconer</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 1798 to Died Sept. 1798.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Timothy Folger</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct., 1798 to Resigned May, 1809.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Benjamin Rotch</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May, 1809 to</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Starbuck</cell>
+                        <cell/>
+                        <cell>reported as Agt by Consul at Bristol in April 1835 to</cell>
+                        <cell>Feb. 1849 to Sept. 1856.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Robertson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 1857 to Nov. 1859 Resigned.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur B. Harries</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 4, 1859 to (still in Feb. 1861)</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walford H. Harries</cell>
+                        <cell>Apptd Agt by Consul at Cardiff</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4761" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Colombo, Ceylon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4760" type="prev"/>
+                <relatedItem target="c4762" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4761f1">
+                <graphic height="3630px" url="06199.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Colombo, Ceylon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06199</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4761">
+        <body>
+            <div corresp="#c4761f1">
+                <head>Colombo, Ceylon</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>LaRue R. Lutkins</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 25, 1962</cell>
+                        <cell/>
+                        <cell>Also Couns. of Emb.<lb/>and Deputy Chief of Mission.<lb/>Desig. Cons.
+                            Gen. Colombo 5-26-65<lb/>Also 2d Sec. F.S.O. assigned to<lb/>Dept.
+                            7-31-66<lb/>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>John M. Powell</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 26, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>U. of Calif.<lb/>Berkeley,<lb/>Calif.</cell>
+                        <cell>Michael Calingaert</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 6, 1964</cell>
+                        <cell/>
+                        <cell>Also Couns. of Emb. + Dep. Chief of<lb/>mission<lb/>F.S.O. assigned to
+                            the Dept.<lb/>5-26-65<lb/>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons.<lb/>Colombo</cell>
+                        <cell>LaRue R. Lutkins</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. +<lb/>Deputy Chief of Mission</cell>
+                    </row>
+                    <row>
+                        <cell>New Delhi</cell>
+                        <cell>John Eaves, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 2, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Garrett H. Soulen</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 27, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0836" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Reval, Esthonia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0835" type="prev"/>
+                <relatedItem target="c0837" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0836f1">
+                <graphic height="3608px" url="01127.tif" width="6066px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Reval, Esthonia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01127</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0836">
+        <body>
+            <div corresp="#c0836f1">
+                <head>Reval, Esthonia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                    </row>
+                    <row>
+                        <cell>See card#1</cell>
+                        <cell>Harold B. Quarton</cell>
+                        <cell>FS0.</cell>
+                        <cell>6</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R. Consul 2-19-18</cell>
+                        <cell>Jowa</cell>
+                        <cell>Continued under assign- See card #1-to<lb/>ment of Oct. 14, 1922. See
+                            Tallinn card after Dec 3, 1924.</cell>
+                    </row>
+                </table>
+                <p>Name "Reval" changed to "Tallinn" Geographic Board decision Dec 3, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

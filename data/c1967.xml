@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1967" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brindisi, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1966" type="prev"/>
+                <relatedItem target="c1968" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1967f1">
+                <graphic height="3622px" url="02637.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brindisi, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02637</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1967f2">
+                <graphic height="3622px" url="02638.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brindisi, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02638</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1967">
+        <body>
+            <div corresp="#c1967f1">
+                <head>Brindisi, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Titi (Cons. &amp; Fiti)</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 1, 1866.</cell>
+                        <cell>Apr. 1, 1866 to Mar. 1874</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Titi</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1867</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Bedloe</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 16, 1880.</cell>
+                        <cell>No despatches.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1967f2">
+                <head>Brindisi, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Theodore Titi, V.C.</cell>
+                        <cell>in charge (resig. of Consul) (Epegnatur) Apr. 12, 1866 to Oct. 21,
+                            1866.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>(absence " " ) April 1867. to Jerly 12, 1867.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>( " " " " ) April 1869 to June 11, 1869.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>(No Consul) May 10, 1870 to Jame 16, 1871</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>(death of Consul) Jan. 28, 1872 to May 7, 1872.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>(absence o-death of Con.) June 11, 1873 to Fel. 5, 1874.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

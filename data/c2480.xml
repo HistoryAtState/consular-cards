@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2480" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Gdansk, Poland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2479" type="prev"/>
+                <relatedItem target="c2481" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2480f1">
+                <graphic height="3634px" url="03298.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Gdansk, Poland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03298</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2480">
+        <body>
+            <div corresp="#c2480f1">
+                <head>Gdansk, Poland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Consulate opened to the public eff May 1, 1946.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>3d. Secty. Treasur</cell>
+                        <cell>Malcolm Joon</cell>
+                        <cell>180</cell>
+                        <cell>6</cell>
+                        <cell>Mau</cell>
+                        <cell>Dec. 20, 1946.</cell>
+                        <cell>To Warsaw</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John F. Leich</cell>
+                        <cell>FSD</cell>
+                        <cell>6</cell>
+                        <cell>Ind.</cell>
+                        <cell>Aug. 14, 1947</cell>
+                        <cell>To Warsaw as 3d Secy VC. 528-48</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

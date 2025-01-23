@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2848" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lourenco Marques, Mozambique-Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2847" type="prev"/>
+                <relatedItem target="c2849" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2848f1">
+                <graphic height="3626px" url="03754.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Lourenco Marques, Mozambique-Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03754</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2848">
+        <body>
+            <div corresp="#c2848f1">
+                <head>LOURENÇO MARQUES, MOZAMBIQUE, AFRICA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Johannesburg</cell>
+                        <cell>N. Hunt Heubeck</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>June 24, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cons. Oporto</cell>
+                        <cell>J. Alfred LaFrenière</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Jan. 6, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Salvador</cell>
+                        <cell>Wade H. B. Matthews</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 9, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Salem</cell>
+                        <cell>Louis V. Ebert III</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 21, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Luanda</cell>
+                        <cell>Henry Clinton Reed</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons. Gen.</cell>
+                        <cell>Mar. 29, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>2dSee &amp; Portville</cell>
+                        <cell>Byron E. Byron</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Con.</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Resigned as 750 COB 9-29-65.</p>
+                <p>To Brasilia as Consul and 1st Sec., 10-11-65.</p>
+                <p>To Ankara as 2d Sec., 9-11-66.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

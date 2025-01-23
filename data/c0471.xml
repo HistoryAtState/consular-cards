@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0471" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Limerick, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0470" type="prev"/>
+                <relatedItem target="c0472" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0471f1">
+                <graphic height="3636px" url="00643.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Limerick, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00643</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0471">
+        <body>
+            <div corresp="#c0471f1">
+                <head>Limerick, Ireland (see Bayonne, Ireland)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Manson Gilbert</cell>
+                        <cell>Cancelled</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ind.</cell>
+                        <cell>Oct. 5, 1946.</cell>
+                        <cell>also Adm. Offcr.</cell>
+                    </row>
+                    <row>
+                        <cell>Toronto</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Asst.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Limerick</cell>
+                        <cell>Leonidas M. Parker</cell>
+                        <cell>Viceconsul</cell>
+                        <cell>V.S.</cell>
+                        <cell/>
+                        <cell>J.C.</cell>
+                        <cell>Oct 28,1946</cell>
+                        <cell>To Bangkok as V.C. 3-16-48</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Anthony J. Juraska</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 19, 1948</cell>
+                        <cell>To Gdansk as V.C. 1-27-49.</cell>
+                    </row>
+                    <row>
+                        <cell>Bangkok</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate officials closed January 22, 1949.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

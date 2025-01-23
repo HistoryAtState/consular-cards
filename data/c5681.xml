@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5681" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tientsin, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5680" type="prev"/>
+                <relatedItem target="c5682" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5681f1">
+                <graphic height="2996px" url="07418.tif" width="4786px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tientsin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07418</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5681f2">
+                <graphic height="2996px" url="07419.tif" width="4786px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tientsin, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07419</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5681">
+        <body>
+            <div corresp="#c5681f1">
+                <head>TIENTSIN: China</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>CG est. - CG closed 12/7/41 - CG est. 10/7/45, open 12/17/45<lb/>Closed to Public
+                    2/25/50. Closed officially 4/14/50.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>12/7/41 US</cell>
+                        <cell>CG closed on declaration of war on US by Japan. Non-conf.records &amp;
+                            archives<lb/>ordered stored locally. Conf. codes burned, contents of
+                            locked cash box<lb/>destroyed.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5681f2">
+                <head>Tientsin</head>
+                <table>
+                    <row role="label">
+                        <cell>10/7/45</cell>
+                        <cell>CG est. Opened to public on 12/17/45. Ref. desp. 11/18/45 from
+                            Tientsin (125.937/11.1845) giving detailed info re services actually
+                            performed prior to formal opening to public --Performing most services,
+                            but have not formally taken over records from Swiss.</cell>
+                    </row>
+                    <row>
+                        <cell>7/23/49</cell>
+                        <cell>Tgm 538 from Tientsin quotes let. from Military Control Committee
+                            ordering USIS activities terminated. USIS closed date of tgm.</cell>
+                    </row>
+                    <row>
+                        <cell>1/24/50</cell>
+                        <cell>DA Mailing Notice No. 11 - Tientsin instructed on January 14, 1950 to
+                            close as soon as transportation could be arranged. Brit. to handle
+                            American interests. Mail should be sent in accordance with Dept. Regs.,
+                            Dept. Announcement No. 221 and DA Mailing Notice No. 1.</cell>
+                    </row>
+                    <row>
+                        <cell>2/17/50</cell>
+                        <cell>Tel. to Tientsin #124 of this date re auth. ship 10 cases records
+                            direct to DEPT. Classified portion via pouch, unclassified portion via
+                            U.S. Despatch Agent and via safe means.</cell>
+                    </row>
+                    <row>
+                        <cell>2/18/50</cell>
+                        <cell>Tel. 186 from Tientsin of this date re closing Congen 2/25/50.
+                            Cryptographic material retained until 3/10/50 then burned. Alien staff
+                            terminated 2/25/50. More valuable items office furniture and equipment
+                            and certain files moved to office of British Congen. Brit. not wish
+                            license US real properties. Congen has two leased quarters FA-33 and
+                            office quarters FA-34</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

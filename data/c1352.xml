@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1352" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Schiedam, Netherlands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1351" type="prev"/>
+                <relatedItem target="c1353" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1352f1">
+                <graphic height="3632px" url="01797.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Schiedam, Netherlands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01797</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1352">
+        <body>
+            <div corresp="#c1352f1">
+                <head>Schiedam, Netherlands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Prins (also at<lb/>Vlardingen)</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 25, 1866.</cell>
+                        <cell>Sept. 1866 to<lb/>Resigned Mar. 8, 1870.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wilhelmus Hendric Cornelis Tansen</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 22, 1870.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William P. Stivell</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 14, 1883.</cell>
+                        <cell>June 1, 1883 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Hayden Edwards</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 24, 1885.</cell>
+                        <cell>Resigned Aug. 5, 1885.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Louis D. Hoener</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>See</unclear>. Sept. 29, 1885.</cell>
+                        <cell>Resigned Dec. 1887.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Josephus B. M. Timmerhaus</cell>
+                        <cell>" "</cell>
+                        <cell>Neth.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 13, 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Josephus B. M. Timmerhaus Con. Agt. Neth.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>May 3, 1889.</cell>
+                        <cell>Died Jan. 31, 1891.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Moot</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 28, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest A. Man</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Fla. Oct. 27, 1898.</cell>
+                        <cell>Appt'd Cons. Breslau 3/8/1901.<lb/>Did not go to his post.<lb/>Reagd
+                            in U.S. June 26, 1901.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Laurence C. Hodgson</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Minn. June 12, 1901.</cell>
+                        <cell>Sept. 19, 1901 to Apr. 6, 1910<lb/>Appt'd Agt. at The Hague
+                            9/9/1910</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Anders O. Nelson(n)</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell><unclear>See</unclear>. Aug. 13, 1901.</cell>
+                        <cell>Appt'd Cons. The Hague 7/8/1910</cell>
+                    </row>
+                </table>
+                <p>Agency transferred to The Hague, effective April 1, 1910.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

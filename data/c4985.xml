@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4985" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Goteborg, Sweden</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4984" type="prev"/>
+                <relatedItem target="c4986" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4985f1">
+                <graphic height="3632px" url="06473.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Goteborg, Sweden</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06473</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4985">
+        <body>
+            <div corresp="#c4985f1">
+                <head>GÖTEBORG, Sweden</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Perth</cell>
+                        <cell>Sverre M. Backe</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 14, 1962</cell>
+                        <cell/>
+                        <cell>Designated Consul General, Göteborg, 7-5-62.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Göteborg</cell>
+                        <cell>Sverre M. Backe</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Gen.</cell>
+                        <cell>July 5, 1962</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Mrs. Inez L. Pulver</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 9, 1962</cell>
+                        <cell/>
+                        <cell>To Izmir as Consul, 2-14-66.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

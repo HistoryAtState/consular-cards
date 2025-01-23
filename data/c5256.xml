@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5256" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bolivia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5255" type="prev"/>
+                <relatedItem target="c5257" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5256f1">
+                <graphic height="3638px" url="06832.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bolivia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="13.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06832</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5256">
+        <body>
+            <div corresp="#c5256f1">
+                <head>BOLIVIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                    </row>
+                    <row>
+                        <cell>Caracas</cell>
+                        <cell>John L. Mills</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Sept. 12, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec. Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Madrid</cell>
+                        <cell>Raymond J. Barrett cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Nov. 20, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Anthony G. Freeman</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Feb. 26, 1967</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3419" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paris, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3418" type="prev"/>
+                <relatedItem target="c3420" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3419f1">
+                <graphic height="3636px" url="04476.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paris, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04476</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3419f2">
+                <graphic height="3636px" url="04477.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paris, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1936</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04477</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3419">
+        <body>
+            <div corresp="#c3419f1">
+                <head>Paris, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dakar</cell>
+                        <cell>John J. Coyle</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Sept. 28, 1931</cell>
+                        <cell>Oct. 20, 1931, to<lb/>Apptd. VC, Bristol, Nov. 25, 1932.</cell>
+                    </row>
+                    <row>
+                        <cell>Mexico</cell>
+                        <cell>Victor M. Lenzer</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ala.</cell>
+                        <cell>Hise.</cell>
+                        <cell>Mar. 17, 1932.</cell>
+                        <cell>Services terminated July 15/35</cell>
+                    </row>
+                    <row>
+                        <cell>Cherbourg</cell>
+                        <cell>V. Hinthrop Burr</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 6, 1932</cell>
+                        <cell>Resigned Aug. 5, 1935.</cell>
+                    </row>
+                    <row>
+                        <cell>Cologne</cell>
+                        <cell>George C. Minor</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Va.</cell>
+                        <cell>May 21, 1932.</cell>
+                        <cell>Apptd. VC. Moscow, Dec. 10, 1934</cell>
+                    </row>
+                    <row>
+                        <cell>Lausanne</cell>
+                        <cell>Clifford H. M. Plasson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>D.C.</cell>
+                        <cell>Aug. 20, 1932.</cell>
+                        <cell>Apptd. Clerk in Leg., Born, Oct. 12/137</cell>
+                    </row>
+                    <row>
+                        <cell>Calais</cell>
+                        <cell>David B. Levis</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Ill.</cell>
+                        <cell>July 20, 1932.</cell>
+                        <cell>Apptd. VC, Calais, May 7, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Nantes</cell>
+                        <cell>Horthington E. Hagerman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ind. Md.</cell>
+                        <cell>Dec. 9, 1932.</cell>
+                        <cell>Apptd. VC. Bordeaux, Oct. 31, 1940.</cell>
+                    </row>
+                    <row>
+                        <cell>Calais</cell>
+                        <cell>Davis B. Levis</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Ill.</cell>
+                        <cell>July 23, 1933</cell>
+                        <cell>Apptd. VC., Dec. 7, 1933</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell>Leonard G. Bradford</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mich. Mass.</cell>
+                        <cell>Aug. 26, 1933.</cell>
+                        <cell>Apptd. VC, Budapest, May 19, 1934</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Davis B. Levis</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Oct. 25, 1933.</cell>
+                        <cell>Apptd. VC, Biarritz, Dec. 29, 1934.</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>John H. Duqua</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Fisc.</cell>
+                        <cell>Ill.</cell>
+                        <cell>June 8, 1934.</cell>
+                        <cell>Resigned June 15, 1934.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk Dist<lb/>office, Paris</cell>
+                        <cell>William F. Snow</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Me.</cell>
+                        <cell>Oct. 17, 1934</cell>
+                        <cell>Apptd. Asst. Dist. Atty. &amp; Dist. Off. alas,<lb/>Career, Detl.
+                            1935, assgd to Paris, VC. 10/1/35</cell>
+                    </row>
+                    <row>
+                        <cell>Biarrits<lb/>also Ass<lb/>Dist. Acct.<lb/>Dist. Off., Paris</cell>
+                        <cell>Davis B. Levis</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Mar. 1, 1935</cell>
+                        <cell>Apptd. VC, Calais, Aug. 10, 1935<lb/>Apptd. Special Disburcing
+                            Officer<lb/>Trans. to Lag. Born Switz.
+                            <unclear>12-17-41</unclear></cell>
+                    </row>
+                    <row>
+                        <cell>Calais</cell>
+                        <cell>Davis B. Levis</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Ill.</cell>
+                        <cell>Sep. 10, 1935</cell>
+                        <cell>Retired Nov. 30, 1937, Act. 5/29/36</cell>
+                    </row>
+                    <row>
+                        <cell>Cler, Legn,<lb/>Addn. Abata</cell>
+                        <cell>Jones R. Trowbridge</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ga.</cell>
+                        <cell>Feb. 29, 1936.</cell>
+                        <cell>Cancelled.</cell>
+                    </row>
+                    <row>
+                        <cell>Cherbourg</cell>
+                        <cell>Paul C. Betta</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 19, 1935.</cell>
+                        <cell>Apptd. VC. Cherbourg, Feb. 24/36<lb/>Desig. Clerk at Marseille</cell>
+                    </row>
+                    <row>
+                        <cell>Cherbourg</cell>
+                        <cell>Paul C. Betts</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>July 48, 1936</cell>
+                        <cell>10-1-49. See Card # 7.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3419f2">
+                <head>Paris</head>
+                <p>Jones C. Trowbridge instructed to report to Login at Sofia to serve temp. as
+                    Clerk.</p>
+                <p>V.C. at Sofia, June 9, 1936.</p>
+                <p>M. Glasson designated Cash. Dist. Acaly &amp; Disbursing Offr., Paris, France,
+                    Jan. 28, 1938</p>
+                <p>Laurence J. Daymont appointed Special Disbursing Officer effective Jan. 21, 1941.
+                    (FA's memo #478, dated Jan. 14, 1941)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

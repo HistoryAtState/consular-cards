@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0449" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leith, Scotland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0448" type="prev"/>
+                <relatedItem target="c0450" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0449f1">
+                <graphic height="3620px" url="00614.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leith, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1866</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00614</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0449f2">
+                <graphic height="3620px" url="00615.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leith, Scotland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1818</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00615</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0449">
+        <body>
+            <div corresp="#c0449f1">
+                <head>Leith, Scotland.</head>
+                <table>
+                    <row role="label">
+                        <cell>OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Con</cell>
+                        <cell>William M. Gould</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 28, 1866.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>" "</cell>
+                        <cell>James Galloway</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 16, 1867.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>" "</cell>
+                        <cell>George Smith</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 25, 1871</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>" "</cell>
+                        <cell>Allan M. Maskie</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 28, 1873.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>" "</cell>
+                        <cell>Hugh C. Peacock</cell>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 10, 1884.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>UkD. " "</cell>
+                        <cell>Hugh C. Peacock</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 25, 1891.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>" " " " U.S.</cell>
+                        <cell>Frederick P. Piatt</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 5, 1894.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>see Edinburgh</p>
+            </div>
+            <div corresp="#c0449f2">
+                <head>Leith, Scotland.</head>
+                <p>Robert Grieve, of Leith apptd V.C. in 1818 by Consul Hart who then went to London
+                    &amp; never performed duties of Consul at Leith</p>
+            </div>
+        </body>
+    </text>
+</TEI>

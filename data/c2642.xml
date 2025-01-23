@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2642" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Karachi, Pakistan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2641" type="prev"/>
+                <relatedItem target="c2643" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2642f1">
+                <graphic height="3628px" url="03509.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Karachi, Pakistan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03509</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2642">
+        <body>
+            <div corresp="#c2642f1">
+                <head>KARACHI, PAKISTAN</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Richard F. Nyrop</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James D. Hataway, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 7, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Herbert Gilman Wing cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Gen.<lb/>Geneva</cell>
+                        <cell>William M. Gibson</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Gen.</cell>
+                        <cell>Nov. 22, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Karachi</cell>
+                        <cell>Richard C. Scissors</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Katmandu</cell>
+                        <cell>Alexander S. C. Fuller</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 4, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>On June 9, 1966, the American Embassy in Karachi was redesignated American
+                    Embassy<lb/>Branch Office.</p>
+                <p>Also 2d Sec. 780 assigned<lb/>to the Dept., 1-17-65.</p>
+                <p>Also 2d Sec. To Rawalpindi<lb/>as 2d Sec., 11-6-66.</p>
+                <p>Also 2d Sec.</p>
+                <p>Also Couns.of Emb. and Cons<lb/>Offr.</p>
+                <p>Also 2d Sec.</p>
+                <p>Also 2d Sec.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

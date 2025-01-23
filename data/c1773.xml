@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1773" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Yokkaichi, Japan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1772" type="prev"/>
+                <relatedItem target="c1774" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1773f1">
+                <graphic height="3630px" url="02361.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yokkaichi, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02361</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1773f2">
+                <graphic height="3630px" url="02362.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Yokkaichi, Japan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02362</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1773">
+        <body>
+            <div corresp="#c1773f1">
+                <head>Yokkaichi, Japan.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Willard</unclear> de Lamater Kingsbury</cell>
+                        <cell><unclear>C</unclear>op. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Cal.</cell>
+                        <cell>Cal.</cell>
+                        <cell>Aug. 11, 1909,</cell>
+                        <cell>Oct. 8, 1909 to</cell>
+                    </row>
+                    <row>
+                        <cell>Lloy &amp; B. Emery</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>" "</cell>
+                        <cell>Ore.</cell>
+                        <cell>Jan. 4, 1919</cell>
+                        <cell>Did not go to Nagoya <lb/> Services ceased Dec. 31, 1918 <lb/> Appt'd
+                            V.C. Nagoya Mar. 12, 1919</cell>
+                    </row>
+                </table>
+                <p>Office transferred to Nagoya May 1, 1919.</p>
+            </div>
+            <div corresp="#c1773f2">
+                <head>Yokkaichi, Japan.</head>
+                <p>Lloyd B. Emery, Acting Agent, (absence of Roger Salisbury on leave in U.S.) Nov.
+                    1917 to</p>
+            </div>
+        </body>
+    </text>
+</TEI>

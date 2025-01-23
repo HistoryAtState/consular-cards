@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1037" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Plymouth, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1036" type="prev"/>
+                <relatedItem target="c1038" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1037f1">
+                <graphic height="3640px" url="01386.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Plymouth, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01386</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1037">
+        <body>
+            <div corresp="#c1037f1">
+                <head>Plymouth, England</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Bristol</cell>
+                        <cell>Fred. H. Houck</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>April 27, 1942.</cell>
+                        <cell>Apptd. V. con. Bristol</cell>
+                    </row>
+                    <row>
+                        <cell>Bristol</cell>
+                        <cell>Fred H. Hauck</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Sept. 5, 1942</cell>
+                        <cell>Apptd Consul, F.S.S., 12-23-46<lb/> assgnd Consul, F.S.S., Plymouth
+                            1-31-47</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Birmingham</cell>
+                        <cell>Hugh E. Qusell</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell>Ky</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 8, 1947</cell>
+                        <cell>To Paris as V.C. 4-8-48</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>Cardiff</cell>
+                        <cell>Raymond E. Kolk</cell>
+                        <cell>Vice Consul U. S.</cell>
+                        <cell>Md</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 6, 1947</cell>
+                        <cell>To London as K.C. 4-19-48</cell>
+                    </row>
+                </table>
+                <p>Consulate closed September 30, 1948.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

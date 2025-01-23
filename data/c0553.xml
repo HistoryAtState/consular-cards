@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0553" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manzanillo, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0552" type="prev"/>
+                <relatedItem target="c0554" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0553f1">
+                <graphic height="3634px" url="00751.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manzanillo, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00751</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0553f2">
+                <graphic height="3634px" url="00752.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Manzanillo, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00752</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0553">
+        <body>
+            <div corresp="#c0553f1">
+                <head>Manzanillo, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE. CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice<lb/>Consul</cell>
+                        <cell>Austin C. Brady</cell>
+                        <cell>Consul</cell>
+                        <cell>8</cell>
+                        <cell>2/18/1918</cell>
+                        <cell>Kans. n.Mex</cell>
+                        <cell>Mar. 6, 1918.</cell>
+                        <cell>To Dec. 10, 1918<lb/>Detailed to Dept. of State<lb/>Assigned to Punta
+                            Arenas Mar. 15, 1919.<lb/>Dec. 11, 1918 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry L. Walch</cell>
+                        <cell>"</cell>
+                        <cell>8</cell>
+                        <cell>2/5/1918</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>Aug. 31, 1918.</cell>
+                        <cell>Appt'd Consul Class 7 Sep. 5, 1919</cell>
+                    </row>
+                    <row>
+                        <cell>Class</cell>
+                        <cell>Harry L. Walsh</cell>
+                        <cell>"</cell>
+                        <cell>7</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd Consul Class 6 Nov. 23, 1921</cell>
+                    </row>
+                    <row>
+                        <cell>Class</cell>
+                        <cell>Harry L. Walsh</cell>
+                        <cell>"</cell>
+                        <cell>6</cell>
+                        <cell>1/23/1921</cell>
+                        <cell>Md. Md.</cell>
+                        <cell>Do</cell>
+                        <cell>Detailed to Nuevo Laredo, Aug. 6, 1921</cell>
+                    </row>
+                </table>
+                <p>Office closed January 11, 1930.</p>
+                <p>Vice Consulate closed to the Public May 31, 1946</p>
+                <p>Final closing date of the Vice Consulate was June 6, 1946.</p>
+            </div>
+            <div corresp="#c0553f2">
+                <head>Manzanillo, Mexico.</head>
+                <p>Consul Harry L. Walsh was detailed to Nuevo Laredo as Consul in Charge Aug. 6.
+                    1921</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0782" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Owen Sound, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0781" type="prev"/>
+                <relatedItem target="c0783" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0782f1">
+                <graphic height="3630px" url="01058.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Owen Sound, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1879</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01058</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0782f2">
+                <graphic height="3630px" url="01059.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Owen Sound, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01059</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0782">
+        <body>
+            <div corresp="#c0782f1">
+                <head>Owen Sound, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edward Todd</cell>
+                        <cell>Con. Agt. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 11, 1879.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolphe Lemoy</cell>
+                        <cell>" " " " U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Oct. 2, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Taylor</cell>
+                        <cell>" " " " Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 17, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm. Tate Robertson</cell>
+                        <cell>" " " " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 11, 1894.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Agent</cell>
+                        <cell>William J. Robertson</cell>
+                        <cell>Vice.Con.</cell>
+                        <cell/>
+                        <cell>Chatham, Avens.</cell>
+                        <cell>Canada Canada July 27, 1908.</cell>
+                        <cell/>
+                        <cell>Appt'd U.S.C. July 27, 1908. <lb/> Superseded by J. B. Hunt <lb/> his
+                            physical &amp; mental disability</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph B. Hunt</cell>
+                        <cell>" " " " " </cell>
+                        <cell/>
+                        <cell>Guelph, Owen Sound <lb/> Ontario Canada</cell>
+                        <cell>Nov. 13, 1911.</cell>
+                        <cell>Superseded by Baskette</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John A. Baskette, Jr.</cell>
+                        <cell>" " " " " U.S.</cell>
+                        <cell>Nashville Tenn. Tenn.</cell>
+                        <cell>Feb. 2, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Consulate closed March 22, 1915. Moved to Fort William and Fort
+                            Arthur</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0782f2">
+                <head>Owen Sound, Ontario, Canada.</head>
+                <p>Joseph B. Hunt, V. &amp;D.C. took over the office from Connd Beyfert Oct. 31,
+                    1912, and turned it over to Coneul Winship Sept. 3, 1913.</p>
+                <p>John W. Baskette, Jr, VrD.C. " " " " " " Winship Apr. 29, 1914</p>
+            </div>
+        </body>
+    </text>
+</TEI>

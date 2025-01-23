@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1415" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Smyrna, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1414" type="prev"/>
+                <relatedItem target="c1416" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1415f1">
+                <graphic height="3636px" url="01883.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Smyrna, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01883</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1415f2">
+                <graphic height="3630px" url="01884.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Smyrna, Smyrna District</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01884</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1415">
+        <body>
+            <div corresp="#c1415f1">
+                <head>Smyrna, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Wallace Treat</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>Dee. Ohio</cell>
+                        <cell/>
+                        <cell>Mar. 8, 1920</cell>
+                        <cell>Appto V. C. de carrière May 24, 1920<lb/>absigned to Smyrna May 24,
+                            1920</cell>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>James L. Park<lb/>Frederick O. Bird</cell>
+                        <cell>Vice Con. US.<lb/>"<lb/>"<lb/>" </cell>
+                        <cell>"</cell>
+                        <cell>Pa.<lb/>N.Y. N. J.</cell>
+                        <cell>June 7, 1922,<lb/>Apr. 4, 1923.</cell>
+                        <cell>appto clerk in Con. Len at Con-<lb/>stantinople Dee.
+                            1922.<lb/>Arrived<lb/>4-27-23.<lb/>Resigned affective<lb/>1926</cell>
+                    </row>
+                </table>
+                <p>Name changed to Izmir, January 8, 1930.</p>
+            </div>
+            <div corresp="#c1415f2">
+                <head>Smyrna, Smyrna District.</head>
+                <p>Frederick O. Bird, U.S. Consul, reported Jan. 11, 1924 that he had assumed
+                    charge. Took over from Consul A.W. Treat. Turned over the office to Consul
+                    Sonaker Nov. 18, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

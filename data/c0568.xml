@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0568" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Matanzas, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0567" type="prev"/>
+                <relatedItem target="c0569" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0568f1">
+                <graphic height="3640px" url="00773.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Matanzas, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1927</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00773</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0568">
+        <body>
+            <div corresp="#c0568f1">
+                <head>Mpatanzas, Cuba</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>Charles F. Payne</cell>
+                        <cell>Vice Con</cell>
+                        <cell>U.S.</cell>
+                        <cell>Va.</cell>
+                        <cell>Ohio</cell>
+                        <cell>Nov. 28, 1927</cell>
+                        <cell>Appt'd V.C. Habana Dec. 21, 1927. <lb/> to Dec. 22, 1927.</cell>
+                    </row>
+                    <row>
+                        <cell>Winnipeg</cell>
+                        <cell>Hartwell Johnson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>S.C.</cell>
+                        <cell>S.C.</cell>
+                        <cell>June 18, 1932.</cell>
+                        <cell>Appt'd V.C. Montreal June 27/32</cell>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>William B. Murray</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Iowa</cell>
+                        <cell>Oct. 26, 1934</cell>
+                        <cell>Appt'd V.C., Habana Oct. 10, 1935. <lb/> to Nuevitas, Cuba,
+                            7-5-43</cell>
+                    </row>
+                    <row>
+                        <cell>Cienfuegos</cell>
+                        <cell>Edward D. Benet</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Aug. 11, 1936</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Habana</cell>
+                        <cell>John H. Marvin</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Fla.</cell>
+                        <cell>Fla.</cell>
+                        <cell>Sept. 17, 1938</cell>
+                        <cell>Appt'd V.C, Habana Sept. 17, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Nuevitas</cell>
+                        <cell>Thomas J. Cole</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>Oct. 22, 1942.</cell>
+                        <cell>To Habana as V.C 11-8-42</cell>
+                    </row>
+                </table>
+                <p>Clared July 3, 1943.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

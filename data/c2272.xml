@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2272" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Grand Bassa, Liberia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2271" type="prev"/>
+                <relatedItem target="c2273" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2272f1">
+                <graphic height="3632px" url="03028.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Grand Bassa, Liberia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03028</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2272">
+        <body>
+            <div corresp="#c2272f1">
+                <head>Grand Bassa, Liberia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>L.F. Richardson</cell>
+                        <cell>Conl. Agt. U.S.</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Feb. 28, 1868.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H. Lafayette Crusoe</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 9, 1874</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Augustus Williams.</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 21, 1878.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

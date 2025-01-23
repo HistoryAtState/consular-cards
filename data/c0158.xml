@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0158" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Campeachy, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0157" type="prev"/>
+                <relatedItem target="c0159" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0158f1">
+                <graphic height="3640px" url="00232.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Campeachy, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1820</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00232</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0158">
+        <body>
+            <div corresp="#c0158f1">
+                <head>Campeachy, Mexico.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph M. Espada</cell>
+                        <cell><unclear>Sgt. for</unclear> Com.</cell>
+                        <cell><unclear>Toteamen</unclear> U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 4, 1820</cell>
+                        <cell>by Secy. Resigned Jan 25, 1821</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Perrine,</cell>
+                        <cell>Consul</cell>
+                        <cell>" "</cell>
+                        <cell>N.J.</cell>
+                        <cell>Jan. 10, 1827</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Haight</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Pa.</cell>
+                        <cell>Jan. 24, 1835</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Payton Say</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Pa.</cell>
+                        <cell>Jan. 26, 1836</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Byrd Brandon</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mar 3, 1837</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Louis McGregor</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ala.</cell>
+                        <cell>June 1, 1838</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter A. Carnes</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Jan. 31, 1839</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John H. Peebles</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 23, 1841</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John F. McGregor</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Sept 2, 1842</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis Morris</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Feb 6, 1849</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rafael Preciat</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 17, 1858</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell><unclear>O</unclear>kpar H. Stibolt</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Sova.</cell>
+                        <cell>July 1, 1878</cell>
+                        <cell>recess</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry W. Leonard</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.J.</cell>
+                        <cell>Feb. 5, 1880</cell>
+                        <cell>Conf.</cell>
+                    </row>
+                </table>
+                <p>Closed September 17, 1913.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

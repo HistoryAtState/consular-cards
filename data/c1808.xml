@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1808" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Christiania, Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1807" type="prev"/>
+                <relatedItem target="c1809" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1808f1">
+                <graphic height="3634px" url="02413.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Christiania, Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02413</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1808">
+        <body>
+            <div corresp="#c1808f1">
+                <head>Christiania, Norway.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Fiume</cell>
+                        <cell>Sigurd E. Roll</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>Sel.</cell>
+                        <cell>Sel.</cell>
+                        <cell>Sel.</cell>
+                        <cell>Aug. 15, 1924.</cell>
+                        <cell>See "Oslo" card after Jan. 1, 1925.</cell>
+                    </row>
+                </table>
+                <p>Name "Christiania" changed to "Oslo" Jan. 1, 1925.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

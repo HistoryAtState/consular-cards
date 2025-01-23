@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1992" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Burslem, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1991" type="prev"/>
+                <relatedItem target="c1993" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1992f1">
+                <graphic height="3624px" url="02670.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Burslem, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02670</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1992f2">
+                <graphic height="3624px" url="02671.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Burslem, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1911</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02671</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1992">
+        <body>
+            <div corresp="#c1992f1">
+                <head>Burslem, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>tall</cell>
+                        <cell>John H. Copertake</cell>
+                        <cell>V/v D.Com. Gr. Dr.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Wilmington,</cell>
+                        <cell>Aug, 21, 1905</cell>
+                        <cell>Apptd Dep. Con. Nov. 9, 1908.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Preston Boughten</cell>
+                        <cell>V.&amp;D.C. U.S.</cell>
+                        <cell>Del.</cell>
+                        <cell>Del.</cell>
+                        <cell>Nov, 9, 1908.</cell>
+                        <cell>Appth Dep. Cons, Kobé Aug 23, 1910.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>John H. Coplstake</cell>
+                        <cell>Dep. Con. Gr. Br.</cell>
+                        <cell>England</cell>
+                        <cell>Nor. 9, 1905.</cell>
+                        <cell>ApptV.D.C. Jan. 22, 1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>DCS</cell>
+                        <cell>Roger Cilver Tredwell(CA)</cell>
+                        <cell>V.D.C.</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Ind. Sept. 8, 1911.</cell>
+                        <cell>Appts Dep. Conder, London /21/1712</cell>
+                        <cell>Made Vice Conoul by Act</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>John H. Copestake</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Eng</cell>
+                        <cell>Eng</cell>
+                        <cell>Jan. 22,1913</cell>
+                        <cell>approved Feb. 5, 1915.</cell>
+                        <cell>Services as Vice Consul clases 6/30/19</cell>
+                    </row>
+                    <row>
+                        <cell>dep.com.</cell>
+                        <cell>John H. Copestake</cell>
+                        <cell>Vice Com.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>By Act of Feb. 5., 1915</cell>
+                        <cell/>
+                        <cell>because not American citizen.</cell>
+                    </row>
+                </table>
+                <p>Changed to Stoke on Trent</p>
+            </div>
+            <div corresp="#c1992f2">
+                <head>Duretem, England.</head>
+                <p>Roger C. Predwell, V.D.C. took over the office from Consul Walker Sept. 23, 1911
+                    and turned it over to Con. Bergh Mar. 20, 1912</p>
+            </div>
+        </body>
+    </text>
+</TEI>

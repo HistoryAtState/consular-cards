@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0603" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Minich, Egypt</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0602" type="prev"/>
+                <relatedItem target="c0604" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0603f1">
+                <graphic height="3626px" url="00816.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Minich, Egypt</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00816</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0603">
+        <body>
+            <div corresp="#c0603f1">
+                <head>Meinich, Egypt.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Raffaeller Hazzard</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 13, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Wissa Boctor</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct 14, 1901</cell>
+                        <cell>Superseded</cell>
+                    </row>
+                    <row>
+                        <cell>Wissa H. Ebeid</cell>
+                        <cell>//</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 5, 1903.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed July 11, 1904; closed Aug. 4, 1904.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

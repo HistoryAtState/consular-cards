@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0716" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Niagara Falls, Ontario, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0715" type="prev"/>
+                <relatedItem target="c0717" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0716f1">
+                <graphic height="3632px" url="00976.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Niagara Falls, Ontario, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1938</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00976</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0716">
+        <body>
+            <div corresp="#c0716f1">
+                <head>Niagara Falls Ontario, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Vera<lb/>Cruz</cell>
+                        <cell>William B. Murray</cell>
+                        <cell>Vice Con. U.D.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mo.</cell>
+                        <cell>Iowa</cell>
+                        <cell>Apr. 14, 1938</cell>
+                        <cell>to Ciudad Juarez 5-25-43<lb/>To Florine-11-15-44</cell>
+                    </row>
+                    <row>
+                        <cell>milan</cell>
+                        <cell>Frank C. Niccoll</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Colo.</cell>
+                        <cell>Colo.</cell>
+                        <cell>Dec. 6, 1940.</cell>
+                        <cell>To Hancillare</cell>
+                    </row>
+                    <row>
+                        <cell>Hamilton</cell>
+                        <cell>Edward J. Lawler</cell>
+                        <cell>Vice Con. N.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 14, 1946.</cell>
+                        <cell>To Torreón as VC. 3-26-53.</cell>
+                    </row>
+                    <row>
+                        <cell>VC.</cell>
+                        <cell>Ralph G. Saucedo</cell>
+                        <cell>Vice Consul 1.8.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Calif.</cell>
+                        <cell>June 30, 1950</cell>
+                        <cell>To Dakaras VC. 8-8,50</cell>
+                    </row>
+                    <row>
+                        <cell>Brussels</cell>
+                        <cell>Hardy W. Croxton</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 12, 1950</cell>
+                        <cell>Jo Istanbeel as V.C-5-5-56</cell>
+                    </row>
+                    <row>
+                        <cell>Frankfort</cell>
+                        <cell>Jean E. Zimmermann</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 2, 1953</cell>
+                        <cell>assigned to Niagara Falls as<lb/>V.C. <unclear>Career</unclear>.
+                            8-29-55.</cell>
+                    </row>
+                    <row>
+                        <cell>VC<lb/>Curacao</cell>
+                        <cell>George R. Phelan, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 15, 1953</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>U.C.<lb/>Frankfort</cell>
+                        <cell>Miss Hazel E. Gordon</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1956</cell>
+                        <cell>Designated V.C. of <unclear>career</unclear>,<lb/>Niagara Falls,
+                            9-8-59.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to public Nov. 27, 1959</p>
+                <p>Consulate officially closed Dec. 26, 1959</p>
+            </div>
+        </body>
+    </text>
+</TEI>

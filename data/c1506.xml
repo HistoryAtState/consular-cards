@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1506" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tacna, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1505" type="prev"/>
+                <relatedItem target="c1507" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1506f1">
+                <graphic height="3644px" url="02010.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tacna, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02010</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1506">
+        <body>
+            <div corresp="#c1506f1">
+                <head>Tacna, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly<lb/>Agt.<lb/>Caracas</cell>
+                        <cell>Charles R. Cameron</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell>9/5/1919</cell>
+                        <cell>York,<lb/>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 21, 1919</cell>
+                        <cell>Dec. 22, 1919 to Aug<sup>2</sup> 1920<lb/>Assigned to Pernambuco July
+                            1, 1920<lb/>Aug. 13, 1920 to Nov. 30, 1920.<lb/>Assigned to Arica Oct.
+                            9, 1920</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Homer Brett</cell>
+                        <cell>Con.</cell>
+                        <cell>7</cell>
+                        <cell>7/8/1920</cell>
+                        <cell>Miss. Miss.</cell>
+                        <cell>Miss. Miss.</cell>
+                        <cell>July 1, 1920</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed Nov. 30, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

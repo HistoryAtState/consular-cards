@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1054" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Deitrick, Nicaragua</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1053" type="prev"/>
+                <relatedItem target="c1055" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1054f1">
+                <graphic height="3632px" url="01408.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Deitrick, Nicaragua</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1905</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01408</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1054">
+        <body>
+            <div corresp="#c1054f1">
+                <head>Port Deitrick, Nicaragua.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Cape<lb/>Gracias<lb/>a Dios</cell>
+                        <cell>William P. Henley</cell>
+                        <cell>Coml. Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind. Jan. 13, 1905.</cell>
+                        <cell>Feb. 1, 1905 to<lb/>Superseded<lb/>Declined,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John B. Richardson</cell>
+                        <cell>Consul " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Kans. Mar. 8, 1905</cell>
+                        <cell>Conf. Apptd Jalapa Mar. 23, 05.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Transferred to Cape Gracias a Dios (Port Deitrick) Nicaragua.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

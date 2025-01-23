@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0911" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>St. Croix, Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0910" type="prev"/>
+                <relatedItem target="c0912" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0911f1">
+                <graphic height="3646px" url="01221.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Croix, Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1815</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01221</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0911f2">
+                <graphic height="3630px" url="01222.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>St. Croix, Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1893</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01222</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0911">
+        <body>
+            <div corresp="#c0911f1">
+                <head>St Croix, (Island) (see Santa Cruz)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Robert Mullany</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>July 24, 1815 recess<lb/>Jan. 16, 1816 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Donald Fraser</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>June 14, 1816 recess Declined</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Jaques</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Seph 6, 1816 recess<lb/>Dec. 11, 1816 Conf</cell>
+                        <cell>Commin is not signed.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Ridgeway</cell>
+                        <cell>Cons Comly</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 11, 1829 by Secy</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Ridgeway</cell>
+                        <cell>Consul</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 19, 1824 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Roger</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 3, 1837 Conf</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>See Card for consular agents. Agency closed Dec. 30, 1912.</p>
+            </div>
+            <div corresp="#c0911f2">
+                <head>St. Croix, (Island)) (see Santa Cruz)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>(see Christianated)</cell>
+                        <cell>Andrew J. Blackwood</cell>
+                        <cell>(at Christiansted)<lb/>Con. Agent U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me Jan. 31, 1873.</cell>
+                        <cell>Out Yeclosing Agency</cell>
+                    </row>
+                </table>
+                <p>Agency closed Dec. 30, 1912.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

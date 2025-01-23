@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1696" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Victoria, British Columbia, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1695" type="prev"/>
+                <relatedItem target="c1697" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1696f1">
+                <graphic height="3632px" url="02264.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Victoria, British Columbia, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02264</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1696">
+        <body>
+            <div corresp="#c1696f1">
+                <head>Victoria, British Columbia, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con. 7.8.</cell>
+                        <cell>Marcel E. Malige</cell>
+                        <cell>V.C. de Carriere</cell>
+                        <cell>3</cell>
+                        <cell>7/26/1922</cell>
+                        <cell>Idaho</cell>
+                        <cell>June 23, 1922.</cell>
+                        <cell>Assigned to Callao-Lima July 18, 1922.</cell>
+                    </row>
+                    <row>
+                        <cell>Victoria</cell>
+                        <cell>Robert J. Mac Quaid</cell>
+                        <cell>7.8.0.</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell>March 8, 1948</cell>
+                        <cell>To Montreal as V.C. 1-12-49.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed to the Public May 29, 1953</p>
+                <p>Officially closed June 16, 1953</p>
+            </div>
+        </body>
+    </text>
+</TEI>

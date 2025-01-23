@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1946" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bremerhaven, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1945" type="prev"/>
+                <relatedItem target="c1947" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1946f1">
+                <graphic height="3646px" url="02607.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bremerhaven, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02607</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1946f2">
+                <graphic height="3646px" url="02608.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bremerhaven, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1923</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02608</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1946">
+        <body>
+            <div corresp="#c1946f1">
+                <head>Bremerhaven, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>(<unclear>youcareer</unclear>)<lb/>Vice Consul</cell>
+                        <cell>Culver E. Gidden</cell>
+                        <cell>7.5.5.</cell>
+                        <cell>Consul Texas</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan 31, 1947</cell>
+                        <cell>To Bremen as Consul 3-27-47.<lb/>Raised to rank of Consulate effective
+                            May 1, 1949</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1946f2">
+                <head>Bremerhaven, Germany</head>
+                <p>Albert H. Gerberich, V. C. de Carrière, consul, class of Dec. 19, 1923.
+                    Appetizededd, class 8, July 1924. Assigned,<lb/>Maracaibo Oct.23, 1924.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

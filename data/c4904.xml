@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4904" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Florence, Italy</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4903" type="prev"/>
+                <relatedItem target="c4905" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4904f1">
+                <graphic height="3622px" url="06372.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Florence, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06372</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4904f2">
+                <graphic height="3622px" url="06373.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Florence, Italy</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06373</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4904">
+        <body>
+            <div corresp="#c4904f1">
+                <head>Florence, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph C. Matteini</cell>
+                        <cell>Vice Gen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ May 4, 1863.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph C. Matteini</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Dec. 23, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry J. Huntington</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Feb. 14, 1877.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Jackson Jarves</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Sept. 17, 1880.</cell>
+                        <cell>Sent in resignation under<lb/>date of Dec. 17, 1882.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Spirito Bernardi</cell>
+                        <cell>Dep.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>√ May 25, 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Spirito Bernardi</cell>
+                        <cell>VKD.</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 3, 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Val. Jackson</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Dr. Italy</cell>
+                        <cell>Italy</cell>
+                        <cell>Apr. 8, 1908.</cell>
+                        <cell>Resigned Sept. 30, 1907.<lb/>Dismissed Nov. 4, 1909 by
+                                (<unclear>Consul</unclear>)<lb/>for misuse of funds.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Wright Burt</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>Milan, Italy<lb/>of American<lb/>Paints</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 3, 1910.</cell>
+                        <cell>Made U.C. by Act of Feb. 5, 1915.<lb/>Relignation
+                                <unclear>accept</unclear> Mar. 30, 1915</cell>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>William Wright Burt</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>By Act of Feb. 5, 1915.</cell>
+                        <cell>Resigned <unclear>left</unclear> for his home in<lb/>Buffalo, N.Y.
+                            Mar. 27, 1916</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Sylvis C. Leoni</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell>New York<lb/>City</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 18, 1915.</cell>
+                        <cell>Resigned effective Aug. 1, 1920.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frederick W. Baldwin</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell>Conn. N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Oct. 1, 1920</cell>
+                        <cell>Appt'd V.C. de carrière class 3 June 13, 1924<lb/>Assigned to Florence
+                            June 23, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Earl Brennan</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell>N.H.</cell>
+                        <cell>N.H.</cell>
+                        <cell>Apr. 29, 1922.</cell>
+                        <cell>Appt'd V.C., Stettin July 17, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk in<lb/>Consulate</cell>
+                        <cell>Edgar H. Slaughter</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell>Mo.</cell>
+                        <cell>Del.</cell>
+                        <cell>Dec. 28, 1927.</cell>
+                        <cell>Res. office. May 12, 1930.<lb/>Oct. 16, 1931 to</cell>
+                    </row>
+                    <row>
+                        <cell>Luxemburg<lb/>Clerk in<lb/>Consulate</cell>
+                        <cell>Frederick L. Hashbourne</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 12, 1931.</cell>
+                        <cell>Appt'd V.C., Venice, Aug. 13, 1937.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis M. Withey</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 17, 1937</cell>
+                        <cell>Appt'd V.C., Naples, Dec. 17, 1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Venice</cell>
+                        <cell>Frederick L. Hashbourne</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Dec. 17, 1937</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Naples</cell>
+                        <cell>Francis M. Withey</cell>
+                        <cell>" "</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 29, 1939</cell>
+                        <cell>Appt'd V.C., Palermo, Oct. 18, 1939.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4904f2">
+                <head>Florence, Italy</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm W. Burt</cell>
+                        <cell>VoD.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept 24, 1910</cell>
+                        <cell><unclear>Conz</unclear>
+                            <lb/> Reena Feb. 4, 1911.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wm W. Burt</cell>
+                        <cell>VoD.C.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 5, 1914</cell>
+                        <cell><unclear>Conaul</unclear> Dumont July 17, 1914, <lb/> Dorsey Jan. 24,
+                            1920</cell>
+                    </row>
+                </table>
+                <p>In chg. Consulate (death of Quay)</p>
+                <p>took over the office from Consul Kehl</p>
+                <p>and turned it over</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4905" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fort Lamy, Republic of Chad</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4904" type="prev"/>
+                <relatedItem target="c4906" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4905f1">
+                <graphic height="3634px" url="06374.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fort Lamy, Republic of Chad</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06374</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4905">
+        <body>
+            <div corresp="#c4905f1">
+                <head>FORT LAMY, REPUBLIC OF CHAD</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec Managua</cell>
+                        <cell>Frederic L. Chapin</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Jan. 23, 1961</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.<lb/>FSO assigned to the Dept., 9-16-62.</cell>
+                    </row>
+                    <row>
+                        <cell>FSO Ind. For. &amp; Armed Forces, Wash. D.C. 1st Sec. Cons.
+                            Léopoldville</cell>
+                        <cell>Robert J. Redington</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>June 25, 1962</cell>
+                        <cell/>
+                        <cell>Also Depty chief of Missing<lb/>Arroys of Emb. FSO assigned<lb/>to the
+                            Dept. 11-8-64.<lb/>Also 1st Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Fort Lemy Cons</cell>
+                        <cell>Robert Whitcomb Heavey</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 24, 1962</cell>
+                        <cell/>
+                        <cell>Retired COB 6-30-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons Munich</cell>
+                        <cell>Walter John Silva</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 1, 1963</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.<lb/>FSO assigned to the Dept.,<lb/>also Counselor of Emb.
+                            &amp;<lb/>Deputy Chief of Mission.<lb/>Assigned to Dept 1-15-67.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James F. Relph, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 31, 1964</cell>
+                        <cell/>
+                        <cell>Also Counselor of Emb. &amp; Deputy<lb/>Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Julius W. Walker, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

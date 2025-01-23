@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5238" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belgium</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5237" type="prev"/>
+                <relatedItem target="c5239" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5238f1">
+                <graphic height="3622px" url="06805.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belgium</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="17.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06805</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5238">
+        <body>
+            <div corresp="#c5238f1">
+                <head>BELGIUM</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Saigon</cell>
+                        <cell>James Dew. Perry</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 21,1966</cell>
+                        <cell/>
+                        <cell>3d Sec. Also V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Valleta</cell>
+                        <cell>Miss Alta F. Fowler</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Oct. 10, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec. Also Cons.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Brussels</cell>
+                        <cell>Kenneth W. Linde</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Sept. 25,1966</cell>
+                        <cell>*exceptional basis<lb/>duration this assignment<lb/>only</cell>
+                        <cell>1st Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lagos</cell>
+                        <cell>G. Huntington Damon</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 4, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell>Counselor of<lb/>mission for<lb/>Public Affairs<lb/>2d Sec. Also
+                            V.C.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Bukavu</cell>
+                        <cell>Jerrold M. North</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Melvin L. Manfull</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Jan. 1, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Couns. Also Deputy Chief of<lb/>of Emb. mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Ralph Scarritt</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Jan. 29, 1967</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Counselor of<lb/>Embassy for<lb/>administrative<lb/>affairs</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

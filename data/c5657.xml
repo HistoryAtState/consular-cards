@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5657" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Changchun, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5656" type="prev"/>
+                <relatedItem target="c5658" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5657f1">
+                <graphic height="3006px" url="07380.tif" width="4788px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Changchun, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1947</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07380</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5657f2">
+                <graphic height="3006px" url="07381.tif" width="4788px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Changchun, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07381</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5657">
+        <body>
+            <div corresp="#c5657f1">
+                <head>CHANGCHUN, CHINA</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>CG</cell>
+                        <cell>SUPERVISION (over or under)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Established April 15, 1947. Opened to Public 5/5/47. Closed 2/3/48. -</p>
+                <p>Changchun's tel unnumbered 2/3/48</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>1/23/48</cell>
+                        <cell>Tel. 14. Siebens departure scheduled between 2/3 and 2/5/48. Archives
+                            to be burned except those dealing with administrative matters which
+                            Siebens would take with him, and correspondence dealing with protension
+                            and other matters which would be transferred to Mukden. Cryptographic
+                            material burned except certain (named) material which would be returned
+                            to the Dept.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>2/7/50</cell>
+                        <cell>Tel. from Peiping 2/7/50 No. 302 re following official seals destroyed
+                            at Peiping which were turned over to CONGEN on closure of office 2/21/48
+                            - 1 metal impression, 2 rubber</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5657f2">
+                <head>Changchun, Manchuria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>AMCONGEN</cell>
+                        <cell><unclear>Wm.</unclear>
+                            <unclear>H.</unclear>
+                            <unclear>H.</unclear>
+                            <unclear>Smith</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>N.Y.</unclear></cell>
+                        <cell><unclear>N.Y.</unclear></cell>
+                        <cell><unclear>Aug.</unclear>
+                            <unclear>19,</unclear>
+                            <unclear>1920.</unclear></cell>
+                        <cell><unclear>Appt'd</unclear>
+                            <unclear>Consul</unclear>
+                            <unclear>Class</unclear>
+                            <unclear>3</unclear>
+                            <lb/>
+                            <unclear>June</unclear>
+                            <unclear>4,</unclear>
+                            <unclear>1920.</unclear></cell>
+                    </row>
+                </table>
+                <p>1 metal wax impression AMCONGEN Changchun; 2 rubber stamps,xxxxxxxxwxxxxmpx AMCON
+                    Changchun.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

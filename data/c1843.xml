@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1843" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Barnstable, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1842" type="prev"/>
+                <relatedItem target="c1844" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1843f1">
+                <graphic height="3616px" url="02461.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Barnstable, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02461</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1843f2">
+                <graphic height="3616px" url="02462.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Barnstable, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1835</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02462</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1843">
+        <body>
+            <div corresp="#c1843f1">
+                <head>Barnstable, England.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <p>over</p>
+            </div>
+            <div corresp="#c1843f2">
+                <head>Barnstable, England. (under Bristol)</head>
+                <p>Richard Bremridge reported as agent by Cons. at Bristol April 1835 to (not
+                    afterwards)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0666" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Murmansk, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0665" type="prev"/>
+                <relatedItem target="c0667" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0666f1">
+                <graphic height="3650px" url="00907.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Murmansk, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00907</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0666f2">
+                <graphic height="3650px" url="00908.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Murmansk, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00908</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0666">
+        <body>
+            <div corresp="#c0666f1"/>
+            <div corresp="#c0666f2">
+                <head>Murmansk</head>
+                <p>Maurice C. Pierce Consul ele, lately at Archangel, reported on Jan. 1, 1919, that
+                    he had entered on duty at Murmansk Nov. 15, 1919 and proceeded to Christiania,
+                    arriving Nov. 22, 1919. Awaiting instructions from Dept.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

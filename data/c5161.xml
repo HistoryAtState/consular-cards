@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5161" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Izmir, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5160" type="prev"/>
+                <relatedItem target="c5162" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5161f1">
+                <graphic height="3614px" url="06692.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Izmir, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1964</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06692</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5161">
+        <body>
+            <div corresp="#c5161f1">
+                <head>IZMIR, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Brunei +<lb/>Singapore</cell>
+                        <cell>Edwin L. Barber III</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Nov. 9, 1964</cell>
+                        <cell>To Djakarta as V.C. + 3d Sec.,<lb/>2-14-66</cell>
+                    </row>
+                    <row>
+                        <cell>Thessaloniki</cell>
+                        <cell>William W. McGrew</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 1, 1965</cell>
+                        <cell>To Nicosia as V.C., 8-13-66.</cell>
+                    </row>
+                </table>
+                <p>REMARKS</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3412" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paramaribo, Surinam, Dutch Guiana</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3411" type="prev"/>
+                <relatedItem target="c3413" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3412f1">
+                <graphic height="3622px" url="04465.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paramaribo, Surinam, Dutch Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1842</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04465</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3412f2">
+                <graphic height="6012px" url="04466.tif" width="3622px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paramaribo, Surinam, Dutch Guiana</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1845</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04466</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3412">
+        <body>
+            <div corresp="#c3412f1">
+                <head>Paramaribe, Surinam, Dutch Guiana (see Surinam)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Levi Bixby</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Vt.</cell>
+                        <cell>Sept. 2, 1842 Conf</cell>
+                        <cell>(1842 to 1852.) Recognition refused by the Netherlands Govt. Comm'n
+                            revoked Mar. 10, 1843.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis D. Cragin</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.H.</cell>
+                        <cell>Aug. 8, 1846 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry Sawyer</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass</cell>
+                        <cell>June 14, 1858 Conf. Died</cell>
+                        <cell>1852 to 1875</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eli Ivan Praag</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 30, 1879 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas Brotone</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mont.</cell>
+                        <cell>May 15, 1888 Conf</cell>
+                        <cell>A. Consutate established at Paramaribo Surinam 1-11-41</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c3412f2">
+                <head>Paramaribo.</head>
+                <table>
+                    <row role="label">
+                        <cell>Consul</cell>
+                        <cell>Bisby</cell>
+                        <cell>1845 to 1852.</cell>
+                    </row>
+                    <row>
+                        <cell>Henry</cell>
+                        <cell>Bawyer</cell>
+                        <cell>1852 to 1875 Died</cell>
+                    </row>
+                </table>
+                <p>Mr. Bakert appointed and left soom after taking charge.</p>
+                <p>A. Barnett in charge; afterwards appointed Vice Consul; served until appointment
+                    of Thomas Browne, succeeded by W<unclear>y</unclear>ndham, British Consul, who
+                    acted until his departure.</p>
+                <p>J. Fennelly placed in charge by W<unclear>y</unclear>ndham.</p>
+                <p>H. Lovejoy, Vice Consul, 1893 and left in charge.</p>
+                <p>Eli Van Praag who was afterwards appointed Vice Consul</p>
+            </div>
+        </body>
+    </text>
+</TEI>

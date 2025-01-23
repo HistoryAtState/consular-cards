@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2440" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>French Equatorial Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2439" type="prev"/>
+                <relatedItem target="c2441" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2440f1">
+                <graphic height="3642px" url="03249.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>French Equatorial Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1957</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03249</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2440">
+        <body>
+            <div corresp="#c2440f1">
+                <head>French Equatorial Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Consult<lb/>3d Sec.<lb/>Brussels</cell>
+                        <cell>Henry H. Stephen</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Consul n.J.</cell>
+                        <cell>Mar. 11, 1957</cell>
+                        <cell>also com. Leopardville-also Corz.<lb/>angola<lb/>JSS Tehran as Pub.
+                            Off. 2-23-58</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gilbert E. Bursley</cell>
+                        <cell>FSS</cell>
+                        <cell>USIA</cell>
+                        <cell>Consul mich.</cell>
+                        <cell>Mar. 11, 1957</cell>
+                        <cell>also cono Léopold ville &amp; Cons. Angola :<lb/>Resigned Aug. 9,
+                            1957</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Francis n. magliozzi</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul mass.</cell>
+                        <cell>June 1, 1957</cell>
+                        <cell>also cove. L'éopolduille<lb/>To Brazzaville as CONS, 12-29-58</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul L. Springer</cell>
+                        <cell>FSR</cell>
+                        <cell>4</cell>
+                        <cell>Consul Va.</cell>
+                        <cell>Sept. 27, 1957</cell>
+                        <cell>also cons. Le'opoldoille<lb/>FSR to Leopoldville as Political
+                            Officer<lb/>6-30-60</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>Consul (FSS)<lb/>USTA<lb/>Barcelona</cell>
+                        <cell>James Frederick Green</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Consul General Md.</cell>
+                        <cell>Oct. 30, 1956</cell>
+                        <cell>Also Consul General héopoldrille<lb/>10-20-56. F.S.O. assigned to the
+                            Dept.<lb/>3-8-59</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William M. Hart</cell>
+                        <cell>FSS</cell>
+                        <cell>USIA</cell>
+                        <cell>Consul N.C.</cell>
+                        <cell>Feb. 10, 1958</cell>
+                        <cell>AISO Consul<lb/>To Rabat as Deputy Public<lb/>Affairs off.
+                            11-29-59.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Sec<lb/>Tanger</cell>
+                        <cell>Jerome R. Lavallee</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 22, 1958</cell>
+                        <cell>Also consul Leopoldville<lb/>to Leopoldville as 1st
+                            Sec.<lb/>6-30-60</cell>
+                    </row>
+                    <row>
+                        <cell>consul<lb/>Pont<lb/>Lipstich</cell>
+                        <cell>John D. Tomlinson</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 8, 1958</cell>
+                        <cell>Also Consul to Leopoldille<lb/>To Léopoldville as Cons. Gen.
+                            3-9-59</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1886" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beni Saf, Algeria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1885" type="prev"/>
+                <relatedItem target="c1887" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1886f1">
+                <graphic height="3632px" url="02522.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Beni Saf, Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1883</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02522</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1886f2">
+                <graphic height="3632px" url="02523.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Beni Saf, Algeria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1884</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02523</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1886">
+        <body>
+            <div corresp="#c1886f1">
+                <head>Beni-saf, Algeria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace G. Heathcote</cell>
+                        <cell>Con. Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 27, 1883</cell>
+                        <cell>Dec. 30, 1883 to <lb/> Died Oct. ?, 1884.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Oliphant Stewart</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 2, 1885</cell>
+                        <cell>Died Feb. 21, 1891</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene L. G. Milsom</cell>
+                        <cell>" " Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 27, 1891.</cell>
+                        <cell>see Benisonef</cell>
+                    </row>
+                </table>
+                <p>Agency ordered closed Feb. 14, 1903; Closed April 1903,</p>
+            </div>
+            <div corresp="#c1886f2">
+                <head>Beni-raf, Algeria</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Isidore Castel</cell>
+                        <cell><unclear>Agh</unclear>. at Oran</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 1891 to</cell>
+                        <cell>in charge (illness of Weatherte) <lb/> (deart of agent) - Feb. 21,
+                            1891 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Eugene L. G. Milion</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

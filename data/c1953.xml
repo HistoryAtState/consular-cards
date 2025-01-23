@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1953" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>British North American Provinces</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1952" type="prev"/>
+                <relatedItem target="c1954" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1953f1">
+                <graphic height="3638px" url="02617.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>British North American Provinces</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1855</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02617</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1953">
+        <body>
+            <div corresp="#c1953f1">
+                <head>British North American Provinces (su Montreal and) Toronto</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>St John, N.B.</cell>
+                        <cell>Israel D. Andrews</cell>
+                        <cell>Con. Gen. U.S.</cell>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Mar. 3, 1855 Conf.</cell>
+                        <cell>Reigned in U.S. July 1, 1857.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wyman B. S. Moor</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell/>
+                        <cell>Aug 31, 1857 recdes</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joshua R. Giddings (ex M.C.)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Athens</cell>
+                        <cell>Ohio</cell>
+                        <cell>Jan. 11, 1858 Conf.</cell>
+                        <cell>Died in Montreal May 27/1864 age 69 years.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John F. Potter</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa.</cell>
+                        <cell/>
+                        <cell>Mar. 25, 1861 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William W. Averell</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Wise</cell>
+                        <cell>June 20, 1864 Conf.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William A. Dart</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Sept. 29, 1866 relea</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Jan. 22, 1867</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Apr. 16, 1869 Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

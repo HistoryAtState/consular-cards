@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0199" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Capri, Italy-Stabia-Naples</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0198" type="prev"/>
+                <relatedItem target="c0200" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0199f1">
+                <graphic height="3638px" url="00287.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Capri, Italy-Stabia-Naples</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1901</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00287</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0199f2">
+                <graphic height="3638px" url="00288.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Capri, Italy-Stabia-Naples</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00288</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0199">
+        <body>
+            <div corresp="#c0199f1">
+                <head>Capri, Italy.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Sor-<lb/>rento</cell>
+                        <cell>Thomas Spencer Jerome</cell>
+                        <cell>Con. U.S.</cell>
+                        <cell/>
+                        <cell>Mich.</cell>
+                        <cell>Jan. 23, 1901.</cell>
+                        <cell>Died at post Apr. 12, 1914.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed upon the death of Ayst. Jerome Apr. 13, 1914</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Note: Morgan Heichele acted as custodian of the Capri Agency</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>from Apr. 13, 1914 to Dec. 31, 1914, Archives sent to Naples.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0199f2">
+                <head>Capri, Italy.</head>
+                <p>Herschell, in chg of agency temporary (death of Jerome)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

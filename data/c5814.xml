@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5814" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Paraguay</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5813" type="prev"/>
+                <relatedItem target="c5815" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5814f1">
+                <graphic height="3624px" url="07608.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Paraguay</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1914</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07608</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5814">
+        <body>
+            <div corresp="#c5814f1">
+                <head>Paraguay.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN. WHENCY APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sutherland R. Haxtun</cell>
+                        <cell>Clerk</cell>
+                        <cell>Data re aleks prior to 1914 not obtainable</cell>
+                        <cell>May 3, 1914</cell>
+                        <cell>Dual Mission with Uruguay prior to <lb/> Resigned Dec. 1, 1914.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>Frank Patterson</cell>
+                        <cell>"</cell>
+                        <cell>My. D.Y.</cell>
+                        <cell>Dec. 1, 1914.</cell>
+                        <cell>Resigned Apr. 1, 1915. Reappointing 6/20/15 <lb/> Successor appt'd May
+                            11, 1916.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>Francis E. Egan</cell>
+                        <cell>"</cell>
+                        <cell>Mass D.Y.</cell>
+                        <cell>May 11, 1916.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>*</cell>
+                        <cell>Leo Monroe Cheney</cell>
+                        <cell>Clerk</cell>
+                        <cell>n.y. n.y.</cell>
+                        <cell>april 1915 <lb/> temporary</cell>
+                        <cell>Resigned 6/19/1915.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

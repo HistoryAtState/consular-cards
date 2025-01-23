@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1529" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tansui, Taiwan (formerly Tamsui, Formosa)</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1528" type="prev"/>
+                <relatedItem target="c1530" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1529f1">
+                <graphic height="3634px" url="02040.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tansui, Taiwan (formerly Tamsui, Formosa)</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02040</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1529">
+        <body>
+            <div corresp="#c1529f1">
+                <head>Tansui, Taiwan, (formerly Tamaris, Formoea)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Fort Louis</cell>
+                        <cell>Samuel Reat</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Del.</cell>
+                        <cell>Del.</cell>
+                        <cell>May 31, 1909</cell>
+                        <cell>to Aug. 24, 1913.</cell>
+                    </row>
+                    <row>
+                        <cell>Antung</cell>
+                        <cell>Adolph A. Williamson</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>D.C.</cell>
+                        <cell>D.C.</cell>
+                        <cell>Sept. 18, 1913</cell>
+                        <cell>Conf. Apptd Cons. Calgary, 7/18/1913<lb/>Nov. 10, 1913 to July 6,
+                            1914.</cell>
+                    </row>
+                    <row>
+                        <cell>Antung</cell>
+                        <cell>Edwin L. Neville</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Ohio</cell>
+                        <cell>May 5, 1914</cell>
+                        <cell>Conf. Apptd Consul Dalny 2/5/1914.<lb/>July 7, 1914 to<lb/>Conf. see
+                            below</cell>
+                    </row>
+                </table>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>DATE OF<lb/>Appt. to Class.</cell>
+                        <cell>By Net of<lb/>2/5/1915</cell>
+                        <cell>Date of assignment.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>see above</cell>
+                        <cell>Edwin L. Neville Con. 7</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Continued under appt<lb/>of May 5, 1914.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Name of Consulate changed to Taihoku, Taivan 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

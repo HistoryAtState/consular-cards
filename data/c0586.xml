@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0586" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maranhao, Brazil-Island</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0585" type="prev"/>
+                <relatedItem target="c0587" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0586f1">
+                <graphic height="3630px" url="00795.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maranhao, Brazil-Island</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1816</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00795</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0586">
+        <body>
+            <div corresp="#c0586f1">
+                <head>Maranhão, Brazil.<lb/>(Island)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jose dos Santos Monteiro</cell>
+                        <cell>Consul Brazil</cell>
+                        <cell/>
+                        <cell>Brazil</cell>
+                        <cell>Brazil</cell>
+                        <cell>Oct. 30, 1816 recess<lb/>Jan. 2, 1817 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Corning</cell>
+                        <cell>" (Maranhão) U.S.</cell>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>Mar. 7, 1825 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles B. Allen</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>May 18, 1830 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John U. Petit</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell>Sept. 24, 1850 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alexander Thomson</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 7, 1853 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. McGrath</cell>
+                        <cell>" " U.S.</cell>
+                        <cell/>
+                        <cell>N.Y</cell>
+                        <cell>July 31, 1858 recess<lb/>Dec. 22, 1858 Conf</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James C. Patterson</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Iowa</cell>
+                        <cell>Oct 23, 1861 recess Died</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Evans</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell>Mar. 26, 1862 Conf. Died</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Josiah Turtle</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Del.</cell>
+                        <cell>May 6, 1874 Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Silverman</cell>
+                        <cell>Com'l Agt.</cell>
+                        <cell/>
+                        <cell>Ark.</cell>
+                        <cell>Apr. 1, 1878</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>See Consular agent card for further entries.</p>
+                <p>Agency ordered closed March 30, 1927 closed May 12, 1927</p>
+            </div>
+        </body>
+    </text>
+</TEI>

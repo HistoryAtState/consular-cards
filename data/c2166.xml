@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2166" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dalny, Manchuria, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2165" type="prev"/>
+                <relatedItem target="c2167" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2166f1">
+                <graphic height="3622px" url="02890.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Dalny, Manchuria, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02890</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2166">
+        <body>
+            <div corresp="#c2166f1">
+                <head>Dalny, Manchuria, China. (see Dairen)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud<lb/>Ind.</cell>
+                        <cell>Raymond S. Curtice</cell>
+                        <cell>Interpreter U.S. Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Dec. 18, 1912.</cell>
+                        <cell>Apft'd Int., Yokohama 3/1/1913.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Chefoo</cell>
+                        <cell>George C. Hanson</cell>
+                        <cell>" "</cell>
+                        <cell>Conn.</cell>
+                        <cell>Conn.</cell>
+                        <cell>Nov. 25, 1913.</cell>
+                        <cell>Apft'd U.S. Int., Newchwang 3/1/14</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Name of Post changed to Dairen (1915)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3890" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Santiago de Los Caballeros, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3889" type="prev"/>
+                <relatedItem target="c3891" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3890f1">
+                <graphic height="3630px" url="05072.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Santiago de Los Caballeros, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05072</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3890">
+        <body>
+            <div corresp="#c3890f1">
+                <head>SANTIAGO DE LOS CABALLEROS, Dominican Republic</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>1st Sec. Consul Guatemala</cell>
+                        <cell>Benjamin J. Ruyle</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons. Oct. 15, 1962</cell>
+                        <cell>USIA</cell>
+                        <cell>To Santo Domingo as Consul and 2d Sec., 3-30-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul + 2d Sec. Santo Domingo</cell>
+                        <cell>Robert B. Sandin</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. May 16, 1963</cell>
+                        <cell/>
+                        <cell>To Saigon AID as Provincial Representative, 7-4-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Consul + 2d Sec. Santo Domingo</cell>
+                        <cell>Francis M. Withey</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons. Apr. 25, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Manila</cell>
+                        <cell>Leslie Andrew Scott</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul July 5, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Santiago de los Caballeros, Dom. Rep.</cell>
+                        <cell>Charles B. Dickens</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Cons. Dec. 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Santiago de los Caballeros</cell>
+                        <cell>Richard C. Barkley</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons. May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

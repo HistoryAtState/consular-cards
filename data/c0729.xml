@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0729" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>North Portal, Assiniboia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0728" type="prev"/>
+                <relatedItem target="c0730" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0729f1">
+                <graphic height="3632px" url="00991.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>North Portal, Assiniboia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1895</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00991</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0729">
+        <body>
+            <div corresp="#c0729f1">
+                <head>North Portal, Assiniboia. (Saskatchewan)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W.H. Dorsey</cell>
+                        <cell>Con. Agt</cell>
+                        <cell/>
+                        <cell><unclear>Sep.</unclear> 31, 1907</cell>
+                        <cell><unclear>May</unclear> 1, 1895.</cell>
+                        <cell>Agency closed <unclear>May</unclear> (287) 1908.</cell>
+                        <cell><unclear>ale</unclear> #45 from <unclear>winnipeg</unclear>
+                            9/2/05</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

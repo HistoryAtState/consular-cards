@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5665" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Hankow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5664" type="prev"/>
+                <relatedItem target="c5666" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5665f1">
+                <graphic height="3002px" url="07392.tif" width="4796px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hankow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07392</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5665f2">
+                <graphic height="3002px" url="07393.tif" width="4796px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Hankow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07393</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5665">
+        <body>
+            <div corresp="#c5665f1">
+                <head>HANKOW, China</head>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>CG closed 12/7/41 - CG est. 11/15/45, Open 12/10/45 - Closed to Public 10/1/49
+                    and<lb/>officially 12/5/49.</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>12/7/41</cell>
+                        <cell>Upon declaration of war by Japan Consulate closed. Non-conf.records
+                            &amp; archives<lb/>&amp; Govt. property ordered stored locally. Tgm
+                            5/1/42 stated archives had<lb/>been turned over to Swiss Representative.
+                            Office closed 12/8/41(Jap time)<lb/>7:00 a.m. Conf.codes and archives
+                            destroyed.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5665f2">
+                <head>Hankow, China</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Hankow</cell>
+                        <cell><unclear>John Kehl</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>Ohio</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 13, 1918.</cell>
+                        <cell>Appt'd Consul Class 3 <lb/> June 4, 1920</cell>
+                    </row>
+                </table>
+                <p>Consulate opened on Jan. 9, 1918.</p>
+                <p>Office ordered closed Sept. 7, 1920.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

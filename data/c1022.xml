@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1022" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Petropaulovski, Kamchatka, Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1021" type="prev"/>
+                <relatedItem target="c1023" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1022f1">
+                <graphic height="3628px" url="01366.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Petropaulovski, Kamchatka, Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1875</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01366</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1022">
+        <body>
+            <div corresp="#c1022f1">
+                <head>Petropaulovski, Kamchatka, Russia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Amoor River</cell>
+                        <cell>Harrison G. O. Chase</cell>
+                        <cell>Consul U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Boston Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mar. 11, 1875 Conf</cell>
+                        <cell>Never qualified nor acted officially, Office discontinued</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

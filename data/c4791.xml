@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4791" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cotonou, Republic of Dahomey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4790" type="prev"/>
+                <relatedItem target="c4792" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4791f1">
+                <graphic height="3634px" url="06236.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cotonou, Republic of Dahomey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06236</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4791">
+        <body>
+            <div corresp="#c4791f1">
+                <head>COTONOU, REPUBLIC OF DAHOMEY</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.<lb/>Consul<lb/>Asunción</cell>
+                        <cell>John P. Call</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 12, 1960</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.<lb/>To Canberra as 2d Sec., 12-10-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.<lb/>Consul +<lb/>2d sec<lb/>Abidjan</cell>
+                        <cell>Converse Hettinger</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Jan. 23, 1961</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.<lb/>FSO assigned to the Dept., 5-27-62.<lb/>Now Dep.
+                            Chief of Mission</cell>
+                    </row>
+                    <row>
+                        <cell>Consul +<lb/>2d Sec.<lb/>Saigon</cell>
+                        <cell>James L. Carson</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 26, 1961</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.<lb/>To Berlin as Cons., 9-14-64.<lb/>Deputy Chief<lb/>of
+                            Mission</cell>
+                    </row>
+                    <row>
+                        <cell>Consul &amp;<lb/>Ld Sec.<lb/>Saigon<lb/>U. of Paris<lb/>Paris</cell>
+                        <cell>Harland H. Eastman</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell/>
+                        <cell>Also 1st Sec.<lb/>Assigned to Dept 7-17-66</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John R. Clingerman</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell/>
+                        <cell>Also 1st Sec. + Dep. Chief of Mission</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

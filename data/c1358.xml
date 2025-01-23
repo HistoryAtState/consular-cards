@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1358" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sevastopol, Krimea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1357" type="prev"/>
+                <relatedItem target="c1359" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1358f1">
+                <graphic height="3636px" url="01804.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sevastopol, Krimea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01804</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1358f2">
+                <graphic height="3630px" url="01805.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sevastopol, Krimea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01805</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1358">
+        <body>
+            <div corresp="#c1358f1"/>
+            <div corresp="#c1358f2">
+                <head>Sevastopol, Krimea.</head>
+                <p>Alfred T. Burri, Vice Consul, Tiflis, was instructed May 16, 1920 by U.S. High
+                    Commissioner in Constantinople, Mark L. Bristol to proceed to Sevastopol and
+                    establish an office as Consul.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

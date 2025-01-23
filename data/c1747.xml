@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1747" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Woodstock, New Brunswick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1746" type="prev"/>
+                <relatedItem target="c1748" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1747f1">
+                <graphic height="3626px" url="02327.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Woodstock, New Brunswick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1882</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02327</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1747">
+        <body>
+            <div corresp="#c1747f1">
+                <head>Woodstock, New Brunswick.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Walter T. Townshend</cell>
+                        <cell>Comillah U.S.</cell>
+                        <cell>Md.</cell>
+                        <cell>Nov 15, 1882.</cell>
+                        <cell/>
+                        <cell>to Aug. 18, 1897</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Grenville James</cell>
+                        <cell>Condul</cell>
+                        <cell>" "</cell>
+                        <cell>N.Y.</cell>
+                        <cell>June 29, 1893 recess</cell>
+                        <cell>Sept 19, 1893 Conf to Stephen</cell>
+                        <cell>July 17, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Denison</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Vt.</cell>
+                        <cell>June 28, 1897 Conf</cell>
+                        <cell>Aug, 19, 1897 to</cell>
+                        <cell>Appt'd Cons. Fernie 6/10/1908.</cell>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1908, Act of May 1, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

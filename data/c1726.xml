@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1726" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Waubaushene, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1725" type="prev"/>
+                <relatedItem target="c1727" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1726f1">
+                <graphic height="3638px" url="02302.tif" width="6008px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Waubaushene, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02302</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1726">
+        <body>
+            <div corresp="#c1726f1">
+                <head>Naubaushene, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Genel W. Soule</cell>
+                        <cell>Comillgh Us.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>Apr. 11, 1890</cell>
+                        <cell>To Orillia July 14, 1890.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James M. Rosse</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>June 22, 1893.</cell>
+                        <cell>To Orillia July 12, 1893.</cell>
+                    </row>
+                </table>
+                <p>Office moved to Midland January 1, 1901</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5927" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5926" type="prev"/>
+                <relatedItem target="c5928" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5927f1">
+                <graphic height="3636px" url="07767.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07767</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5927f2">
+                <graphic height="3636px" url="07768.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07768</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5927">
+        <body>
+            <div corresp="#c5927f1">
+                <head>China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Secretary<lb/>Class 1<lb/>" </cell>
+                        <cell>Charles D. Tenney<lb/>Edward Bell</cell>
+                        <cell>(see over)<lb/>Counselor<lb/>With the rank<lb/>of Counselor<lb/>of
+                            Embassy</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>July 21, 1919<lb/>Ny.<lb/>Ny.</cell>
+                        <cell>Sept. 30, 1922</cell>
+                        <cell>Resigned from 100 Cowper St, Palo Alto, Calif.,<lb/>Feb. 14, 1922
+                            effective upon expiration of leave 3/28/22<lb/>Granted leave for a
+                            period not in excess of<lb/>one year from Feb. 28, 1921.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5927f2">
+                <head>Note. For authority, see reverse side of "Counselor" card, under
+                    Austria-Hungary.</head>
+            </div>
+        </body>
+    </text>
+</TEI>

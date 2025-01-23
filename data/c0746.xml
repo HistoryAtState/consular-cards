@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0746" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nukualofa, Tonga</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0745" type="prev"/>
+                <relatedItem target="c0747" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0746f1">
+                <graphic height="3630px" url="01014.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Nukualofa, Tonga</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1897</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01014</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0746">
+        <body>
+            <div corresp="#c0746f1">
+                <head>Nukualofa, Tonga. (also Apia)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>also C.S., <lb/> apia <lb/> also C.S., <lb/> apia</cell>
+                        <cell>Luther W. Osborn <lb/> Church Howe</cell>
+                        <cell>Con.Sen. U.S. <lb/> " " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nebr. Dec. 18, 1897 Conf. <lb/> Nebr. June 30, 1897 Conf.</cell>
+                        <cell>July 26, 1897 <lb/> Nov. 4, 1897</cell>
+                        <cell>Died at Apia Oct. 27, 1901.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

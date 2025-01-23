@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0572" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mathew Town, Inagua, Bahamas</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0571" type="prev"/>
+                <relatedItem target="c0573" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0572f1">
+                <graphic height="3626px" url="00779.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mathew Town, Inagua, Bahamas</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1909</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00779</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0572">
+        <body>
+            <div corresp="#c0572f1">
+                <head>(see Mathurtown) Matthew Town, Inagua, Bahamas.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly<lb/>Con. Agt. 1897-</cell>
+                        <cell>John Phifbrick</cell>
+                        <cell>Con. Agt. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Seabrook<lb/>N.H.</cell>
+                        <cell>N.H.</cell>
+                        <cell>Oct. 2, 1909</cell>
+                        <cell>Dec. 3, 1909 to Sept. 30, 1910<lb/>supsurseded (reported to be
+                            destitute)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John J. Sargent</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Nassau<lb/>Bahamas</cell>
+                        <cell>Baha.</cell>
+                        <cell>Dec. 7, 1910.</cell>
+                        <cell>Out ye closing Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1915.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

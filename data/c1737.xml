@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1737" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>White Horse, Yukon Territory, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1736" type="prev"/>
+                <relatedItem target="c1738" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1737f1">
+                <graphic height="3632px" url="02314.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>White Horse, Yukon Territory, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1910</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02314</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1737f2">
+                <graphic height="3632px" url="02315.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>White Horse, Yukon Territory, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02315</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1737">
+        <body>
+            <div corresp="#c1737f1">
+                <head>White Horse, Yukon Territory, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Printon Edwards</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Cambridge, Ill.</cell>
+                        <cell>Dec. July 22, 1910.</cell>
+                        <cell>Aug. 29, 1910 to Mar. 31, 1911 <lb/> Resigned effect Mar. 31,
+                            1911</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elmer J. White</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio.</cell>
+                        <cell>Wash. April 7, 1911.</cell>
+                        <cell>Apr. 1, 1911 to <lb/> Resigned effect Mar. 15, 1916.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Albert Miller Roussean</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Near <lb/> Knoville</cell>
+                        <cell>Iowa Alaska May 1, 1916.</cell>
+                        <cell>May 28, 1916 to Nov. 8, 1920. <lb/> Died at his post Nov. 8,
+                            1920</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>D. August Muirhead</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ft. Wayne</cell>
+                        <cell>Ind. Wash. Mar. 31, 1921</cell>
+                        <cell>Dec. 31, 1920 to <lb/> Resigned about Jan. 1, 1925</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William D. MacBride</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>British, Butte</cell>
+                        <cell>British <lb/> Yukon</cell>
+                        <cell>Monk Alaska Sept. 23, 1926.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed (memo 2-26-27)</p>
+            </div>
+            <div corresp="#c1737f2">
+                <head>White Horse, Yukon Dy.</head>
+                <p>A. M. Rousseau, citizen of U.S., in chg. Agency (Presig. of White) Mar. 13, 1916
+                    to appt'd Agent May 1, 1916.</p>
+                <p>W. D. Mac Bride, Acting Consular Agent (absence of Muirhead on leave) 1924?
+                    1925?</p>
+                <p>W. D. Mac Bride, designated Acting Consular Agent from Jan. 1, 1926 vice Muirhead
+                    resigned</p>
+            </div>
+        </body>
+    </text>
+</TEI>

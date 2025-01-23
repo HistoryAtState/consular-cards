@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0752" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ocos, Guatemala</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0751" type="prev"/>
+                <relatedItem target="c0753" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0752f1">
+                <graphic height="3630px" url="01023.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ocos, Guatemala</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1891</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01023</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0752">
+        <body>
+            <div corresp="#c0752f1">
+                <head>Ocos, Guatemala.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Shield</cell>
+                        <cell>Con.Sgt. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Oct. 28, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lawrence F. Cadogan</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Calift. Apr. 21, 1892.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Dawson Mezal</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Feb. 20, 1895.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernesto Engel</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Feb. 9, 1898.</cell>
+                        <cell>Resigned Apr. 27, 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Wolford</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Calif. May 14, 1898.</cell>
+                        <cell>Out closing of Agency</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. A. Roze</cell>
+                        <cell>Agency closed Sept. 30, 1910.</cell>
+                        <cell>U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Apr. 28, 1914.</cell>
+                        <cell>July 5, 1914 to <lb/> Resigned effect Apr. 1, 1915</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Agency ordered to be closed on April 1, 1915; Closed Mar. 19,
+                            1915</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

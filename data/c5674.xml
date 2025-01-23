@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5674" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Shanghai, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5673" type="prev"/>
+                <relatedItem target="c5675" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5674f1">
+                <graphic height="3008px" url="07407.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07407</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5674f2">
+                <graphic height="3008px" url="07408.tif" width="4792px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Shanghai, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1950</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07408</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5674">
+        <body>
+            <div corresp="#c5674f1">
+                <head>SHANGHAI #2</head>
+                <table>
+                    <row role="label">
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                        <cell>HISTORY (established, opened, closed, etc.)</cell>
+                        <cell>SUPERVISION (over or under)</cell>
+                    </row>
+                    <row>
+                        <cell>CG</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>5.</cell>
+                        <cell>Closed to the public 3/15/50.<lb/>Closed officially</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>CHRONOLOGICAL RECORD</cell>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                    </row>
+                    <row>
+                        <cell>2/1/50</cell>
+                        <cell>Question raised in telegram to Shanghai of this date
+                            whether<lb/>destruction of wwwxxmateriał all material, unclassified
+                            as<lb/>well as classified would not create more suspicion of
+                            CONGENS<lb/>activities than preservation of normal routine econ.
+                            reports.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>1/27/50</cell>
+                        <cell>Tel. 445 from Shanghai<lb/>most biographic data collected<lb/>since
+                            Shanghai takeover already cabled Dept. Remaining are<lb/>numerous items
+                            which would under normal conditions have been<lb/>sent
+                            andrxnormaxxconditions on cards via diplomatic pouch.<lb/>Before closure
+                            will attempt sift out and cable more significant</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5674f2">
+                <head>Shanghai</head>
+                <table>
+                    <row role="label">
+                        <cell>2/2/50</cell>
+                        <cell>Dept. tel to Shanghai 173 of this date instructing post to cable brief
+                            summaries most significant Biographic data classified above Restricted.
+                            Evacuate rest if possible. Usual post sources being screened.</cell>
+                    </row>
+                    <row>
+                        <cell>1/18/50</cell>
+                        <cell>Tel. 291 of this date from Shanghai stating visa issuance will cease
+                            Feb. 1 with exception non-quota wives and known non-immi-grants not
+                            requiring security screening. Reply drafted by VD-Cavenaugh 1/20/50
+                            stating no DEPT objection. Suggest con-sider statutory preference cases
+                            if possible in addition to non-quota wives and non-immigrants not
+                            requiring security sereening until closing. Individual requests quota
+                            nos. will be filled if nos. available.</cell>
+                    </row>
+                    <row>
+                        <cell>1/31/50</cell>
+                        <cell>Tel. from Shanghai of this date 483 re evacuating with staff quota
+                            book and alphabetical registrant card file.</cell>
+                    </row>
+                    <row>
+                        <cell>2/6/50</cell>
+                        <cell>Tel. 190 of this date auth. destroy TREAS archives Shanghai.</cell>
+                    </row>
+                    <row>
+                        <cell>2/9/50</cell>
+                        <cell>Tel to Shanghai of this date #216 advising if feasible deposit quota
+                            registration book and card file Manila or Tokyo. Advise DEPT re
+                            disposition of dossiers.</cell>
+                    </row>
+                    <row>
+                        <cell>2/18/50</cell>
+                        <cell>Tel. from Tokyo #168 of this date to Dept. Because of inadequacy of
+                            mission present office space recommend no additional files be sent here
+                            from closing China offices.</cell>
+                    </row>
+                    <row>
+                        <cell>2/24/50</cell>
+                        <cell>Tel. #824 from Shanghai re discontinuation of preparation of Chinese
+                            press review in mimeographed form as of 2/18/50. Continuing reduced
+                            informal translation service and will endeavor cable daily press
+                            summary, important news items, until complete suspension operations this
+                            office.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1392" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Sherbrooke, Quebec, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1391" type="prev"/>
+                <relatedItem target="c1393" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1392f1">
+                <graphic height="3632px" url="01853.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Sherbrooke, Quebec, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01853</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1392">
+        <body>
+            <div corresp="#c1392f1">
+                <head>Sherbrooke, Quebec, Canada.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Montreal</cell>
+                        <cell>James G. Finley</cell>
+                        <cell>SF...</cell>
+                        <cell>Une</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>D.C.</cell>
+                        <cell>May 29, 1925.</cell>
+                        <cell>June 7, 1925 to June 30, 1925. <lb/>Assigned to Montreal July 1,
+                            1925.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed Apr. 30, 1933, archives &amp; records at Montreal</p>
+                <p>Consulate closed September 30, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

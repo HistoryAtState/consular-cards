@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4477" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Berlin, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4476" type="prev"/>
+                <relatedItem target="c4478" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4477f1">
+                <graphic height="3636px" url="05833.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Berlin, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05833</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4477">
+        <body>
+            <div corresp="#c4477f1">
+                <head>BERLIN, Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Everett E. Briggs</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>April 7, 1962</cell>
+                        <cell/>
+                        <cell>To Lisbon as Consult<lb/>2d Sec., 3-18-63.<lb/>To Saigon as 2d Sec.,
+                            8-16-<lb/>64.</cell>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>William R. Smyser</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>June 8, 1962</cell>
+                        <cell/>
+                        <cell>Resigned as FSO eff. 9-25-65.<lb/>Apptd. 755, 9-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Berlin</cell>
+                        <cell>Sidney L. Woollons</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Roland F. Moores</cell>
+                        <cell>FSO</cell>
+                        <cell>3 Cons.</cell>
+                        <cell>June 6, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Prague</cell>
+                        <cell>C. Norman Hanley</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Cons.</cell>
+                        <cell>Sept. 28, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cotonou</cell>
+                        <cell>James L. Carson</cell>
+                        <cell>FSO</cell>
+                        <cell>3. Cons.</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel R. Sanders, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell>Cons.</cell>
+                        <cell>Oct. 8, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Sidney L. Woollons</cell>
+                        <cell>FSS</cell>
+                        <cell>Cons.</cell>
+                        <cell>Dec. 11, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Frankfurt</cell>
+                        <cell>Miss Alice W. Clement</cell>
+                        <cell>FSO</cell>
+                        <cell>4 Consul</cell>
+                        <cell>Jan. 3, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>Alan R. Thompson</cell>
+                        <cell>FSO</cell>
+                        <cell>5 Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

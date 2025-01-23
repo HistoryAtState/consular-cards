@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1094" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prince Rupert, British Columbia, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1093" type="prev"/>
+                <relatedItem target="c1095" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1094f1">
+                <graphic height="3636px" url="01454.tif" width="5986px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Prince Rupert, British Columbia, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01454</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1094">
+        <body>
+            <div corresp="#c1094f1">
+                <head>Prince Rupert, British Columbia, Canada</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Durango</cell>
+                        <cell>Granville Oury Jackson</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mexico</cell>
+                        <cell>Mich.</cell>
+                        <cell>June 11, 1935</cell>
+                        <cell>Appt'd. V.C., Tala, July 30, 1935</cell>
+                    </row>
+                </table>
+                <p>Office Closed July 31, 1935.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

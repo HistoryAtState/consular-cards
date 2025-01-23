@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4263" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Vera Cruz, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4262" type="prev"/>
+                <relatedItem target="c4264" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4263f1">
+                <graphic height="3606px" url="05549.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Vera Cruz, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05549</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4263">
+        <body>
+            <div corresp="#c4263f1">
+                <head>VERACRUZ, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. V.C. México</cell>
+                        <cell>Ernest H. S. Holm</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Sept. 17, 1962</cell>
+                        <cell>FSO assigned to Saigon / ATD as Assist. Development officer,
+                            8-16-64.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. V.C. Caracas</cell>
+                        <cell>Jack R. Binns cancelled</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 18, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Donald P. Swisher</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 20, 1964</cell>
+                        <cell>FSO assigned to the Passport Office, Seattle, Washington,
+                            5-23-65.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Monterrey</cell>
+                        <cell>Richard Thomas Booth</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Apr. 26, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

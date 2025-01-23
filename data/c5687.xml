@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5687" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Harbin, Manchuria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5686" type="prev"/>
+                <relatedItem target="c5688" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5687f1">
+                <graphic height="3012px" url="07430.tif" width="4800px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harbin, Manchuria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07430</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5687f2">
+                <graphic height="3012px" url="07431.tif" width="4800px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Harbin, Manchuria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1946</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07431</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5687">
+        <body>
+            <div corresp="#c5687f1">
+                <head>HARBIN, MANCHURIA</head>
+                <table>
+                    <row role="label">
+                        <cell>POST</cell>
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>CG</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>HISTORY (established, opened, closed, etc.)</p>
+                <p>Closed Dec. 9, 1941 Jap. Time (Dec. 8 US time)</p>
+                <p>REMARKS:</p>
+                <p>PB MEMO NOS.</p>
+                <p>DEPT.CONTACTS</p>
+                <table>
+                    <row role="label">
+                        <cell>DATE</cell>
+                        <cell>CHRONOLOGICAL RECORD</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>ACTION, COMMUNICATIONS, REMARKS, ETC.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>12/9/41</cell>
+                        <cell>Confidential files all destroyed. Non-confidential files stored with
+                            Bryner and Co. Harbin</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>10/15/46</cell>
+                        <cell>Staff at Changchun ready to move to Harbin. It will probably be some
+                            time after the arrival of officer before this office can open to public,
+                            but after such opening it is authorized to perform all consular services
+                            including the issuance of passports and all visa services. Note: ADF had
+                            outpost at Harbin prior to est. CG according to list July 10, 1946 from
+                            Mr. Guarce. (notify when opened Mr. A. Rocklin,</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5687f2">
+                <head>3434 Broadway, Chicago 13, Illinois. His letter 11/17/46.</head>
+                <p>2/7/50 - Tel. no. 302 2/7/50 re following official seals destroyed at Peiping
+                    <lb/>1 metal impression, 1 rubber stamp, (CONT 374 F) 1 metal wax<lb/>impression
+                    AMCONGEN Harbin - above were turned over to CONGEN<lb/>on closure Changchun
+                    office 2/21/48.</p>
+                <p>6/30/50 - Information from Records Branch - Classified files from
+                    Harbin<lb/>destroyed. Unclassified files stored but looted by Japs.<lb/>Rest
+                    burned. Only thing from Harbin that Records has <unclear>dae</unclear><lb/>files
+                    up to 1912.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

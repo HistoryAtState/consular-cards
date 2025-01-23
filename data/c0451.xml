@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0451" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Leone, Tutuila, Samoa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0450" type="prev"/>
+                <relatedItem target="c0452" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0451f1">
+                <graphic height="3632px" url="00617.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leone, Tutuila, Samoa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1879</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00617</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0451f2">
+                <graphic height="3632px" url="00618.tif" width="5978px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Leone, Tutuila, Samoa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1878</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00618</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0451">
+        <body>
+            <div corresp="#c0451f1">
+                <head>Leone, Tutuila, Samon. (see Tutuila<lb/>Pago Pago)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Matthew Hunkin</cell>
+                        <cell>Con. Ayt. Gen.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 18, 1879.</cell>
+                        <cell>Aug 27, 1878 to<lb/>Pago Pago Oct. 25, 1879.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c0451f2"/>
+        </body>
+    </text>
+</TEI>

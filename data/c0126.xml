@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0126" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Augsburg, Bavaria</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0125" type="prev"/>
+                <relatedItem target="c0127" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0126f1">
+                <graphic height="3626px" url="00184.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Augsburg, Bavaria</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1846</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00184</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0126">
+        <body>
+            <div corresp="#c0126f1">
+                <head>Augsburg, Bavaria.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Obermayer</cell>
+                        <cell>Consul Bavaria</cell>
+                        <cell>Bavaria</cell>
+                        <cell>Bavaria</cell>
+                        <cell>June 26/846</cell>
+                        <cell>Conf</cell>
+                        <cell>Nov. 24, 1846 to<lb/>Recalled</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C.O. Gerberding</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 11, 1863</cell>
+                        <cell>Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Swan</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Ohio</cell>
+                        <cell>Jan. 16, 1865</cell>
+                        <cell>Conf.</cell>
+                        <cell>Declined</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>W. Colvin Brown</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>N.J</cell>
+                        <cell>July 17, 1865.<lb/>May 14, 1866</cell>
+                        <cell>Recess<lb/>Conf.</cell>
+                        <cell>Resigned Oct. 21, 1872</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustave Jarecki</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa</cell>
+                        <cell>Oct. 4, 1869 rec'd<lb/>Mar. 15, 1870</cell>
+                        <cell>Conf.</cell>
+                        <cell>Accepted Nov. 9, 1872.</cell>
+                    </row>
+                </table>
+                <p>Agency clared June 30, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

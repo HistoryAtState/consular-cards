@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0509" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Magallanes, Chile-Punta Arenas</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0508" type="prev"/>
+                <relatedItem target="c0510" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0509f1">
+                <graphic height="3628px" url="00695.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Magallanes, Chile-Punta Arenas</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1928</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00695</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0509">
+        <body>
+            <div corresp="#c0509f1">
+                <head>Magallanes, Chile. formerly Punta Arenas)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Punta Arenas</cell>
+                        <cell>John J. Farvin</cell>
+                        <cell>Vice Con U.S.</cell>
+                        <cell>Chile</cell>
+                        <cell>Ohio</cell>
+                        <cell>Apr. 9, 1928.</cell>
+                        <cell>Apptd. V.C. Valparaiso Sept. 11, 1928. <lb/> Atrided. (resigned duties
+                            <lb/> 10-12-28) Oct. 13, 1928; <lb/> Apptd. V.C. Porto Alegre Apr. 7,
+                            1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk, Punta Arenas</cell>
+                        <cell>Alfred W. Magnitzky</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>La.</cell>
+                        <cell>La.</cell>
+                        <cell>Sept. 11, 1928.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office closed May 27, 1930, at 4:00 P.M.</p>
+                <p>Archives turned over to office at Valparaiso</p>
+                <table>
+                    <row role="label">
+                        <cell>Clerk, Punta Arenas.</cell>
+                        <cell>Kenneth S. Barker</cell>
+                        <cell>Vice. Con, U.S.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Calif.</cell>
+                        <cell>Nov. 7, 1940.</cell>
+                        <cell>(See Punta Arenas, Chile)</cell>
+                        <cell>To Santiago 3-5-43</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

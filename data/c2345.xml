@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2345" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Haida, Bohemia, Austria Hungary</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2344" type="prev"/>
+                <relatedItem target="c2346" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2345f1">
+                <graphic height="3630px" url="03122.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Haida, Bohemia, Austria Hungary</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1892</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03122</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2345">
+        <body>
+            <div corresp="#c2345f1">
+                <head>Haida, Bohemia, Austria Hungary.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William L. Dunham</cell>
+                        <cell>Con. Agt. US</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Pa.</cell>
+                        <cell>Feb. 15, 1892.</cell>
+                        <cell>Sept. 8, 1893 to July 31, 1898 <lb/> Removed</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Anton Schlessing</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell>Feb. 16, 1894.</cell>
+                        <cell>Resigned Mar. 31, effect <lb/> June 30, 1908 (73 yrs of age)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Frank Siller</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Wixey</cell>
+                        <cell>July 8, 1898.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency closed June 30, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

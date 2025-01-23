@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1787" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Zittau, Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1786" type="prev"/>
+                <relatedItem target="c1788" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1787f1">
+                <graphic height="3618px" url="02382.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Zittau, Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1890</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02382</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1787">
+        <body>
+            <div corresp="#c1787f1">
+                <head>Zittau, Germany.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul Enrich</cell>
+                        <cell>Con. Agt Ger.</cell>
+                        <cell>Ger.</cell>
+                        <cell>Villae</cell>
+                        <cell>Oct. 21, 1890.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Alfred Krause</cell>
+                        <cell>" " U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mans.</cell>
+                        <cell>Aug. 11, 1893.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rudolph Könecke</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 29, 1898.</cell>
+                        <cell>Appt'd V. &amp; D. C. July 9, 1901.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Rudolph Könecke</cell>
+                        <cell>V.D. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 9, 1901.</cell>
+                        <cell>superseded</cell>
+                        <cell>Did not qualify Nov. 10, 1901 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul E. Schilling</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 29, 1901.</cell>
+                        <cell>Appt'd V. &amp; D. C. Dresden June 12, 1902</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Chemnitz H. Schilling</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 2, 1902.</cell>
+                        <cell>Resigned Aug 15, 1904.</cell>
+                        <cell>Sept. 2, 1904 to</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Herbert Smith</cell>
+                        <cell>" " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 31, 1904.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Office abolished June 30, 1905, Act of May 11, 1908.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

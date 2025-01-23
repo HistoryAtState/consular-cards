@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3557" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pretoria, Union of South Africa-Republic of South Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3556" type="prev"/>
+                <relatedItem target="c3558" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3557f1">
+                <graphic height="3634px" url="04650.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Pretoria, Union of South Africa-Republic of South Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04650</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3557">
+        <body>
+            <div corresp="#c3557f1">
+                <head>Pretoria, Union of South Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>APPOINTMENT<lb/>TO CLASS</cell>
+                        <cell>WHENCE<lb/>APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>3d Secy &amp; V.C.<lb/>Rangoon<lb/>v..<lb/>CAPETOWN<lb/>asst.
+                            Attache<lb/>(FSS)<lb/>Pretoria</cell>
+                        <cell>Martin P. Setels, Jr. Cancelled F.S.O. 16</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>April 16, 1948</cell>
+                        <cell>Also 3d Sec. also 2d sec.<lb/>3-24-55<lb/>To Alexandria as VC.
+                            8.25.56</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard H. Adams</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Tex.</cell>
+                        <cell>Mar. 1, 1955</cell>
+                        <cell>Also 2d Sec. Desegrated<lb/>cons. Pretoria 1-24-57</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Kenneth F. Rose</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Fla.</cell>
+                        <cell>June 4, 1956</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>PRETORIA, Republic of South Africa</cell>
+                        <cell/>
+                        <cell>- May 31, 1961.<lb/>Also 3d Sec. Detailed to Cape Town as<lb/>VC
+                            3-1-66, Detail terminated 7-15-66 Assigned<lb/>as 3d sec. only, Pretoria
+                            as of 7-16-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Marion V. Creekmore, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

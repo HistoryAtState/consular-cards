@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3946" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Seoul, Korea</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3945" type="prev"/>
+                <relatedItem target="c3947" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3946f1">
+                <graphic height="3610px" url="05145.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Seoul, Korea</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05145</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3946">
+        <body>
+            <div corresp="#c3946f1">
+                <head>SEOUL, Korea</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Veracruz Lang. Trainee Yonsei Univ. Seoul</cell>
+                        <cell>Josiah H. Brownell</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell>(commn. dated 9-11-61)</cell>
+                        <cell>Nov. 12, 1960</cell>
+                        <cell>Also 3d Sec. Also 2d Sec. 3-1-63. To La Paz as V.C. + 2d Sec.,
+                            8-31-64</cell>
+                    </row>
+                    <row>
+                        <cell>Seoul</cell>
+                        <cell>Daniel A. O'Donohue</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 29, 1963</cell>
+                        <cell>Also 2d Sec. Designated Consul Seoul 4-13-64</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Fso assigned to Harvard u. Cambridge, Mass.</cell>
+                        <cell>Ronald Peter Myers</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 8, 1963</cell>
+                        <cell>Also 3d Sec. Assigned only as 3d Sec., Seoul, as of 7-18-65.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James Sartorius</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 8, 1963</cell>
+                        <cell>Also 2d Sec. Designated Consul, Seoul, 5-26-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Lang. Trainee Yonsei Univ. Seoul</cell>
+                        <cell>Leroy E. Debold, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 16, 1963</cell>
+                        <cell>Also 3d Sec. Also 2d Sec. 9-5-64. Designated Consul, Seoul,
+                            6-20-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Seoul</cell>
+                        <cell>Robert T. Willner</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 23, 1963</cell>
+                        <cell>Also 3d Sec. Also 2d Sec., 4-12-64. FSO assigned to Dept.,
+                            2-14-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Yonsei U. Seoul</cell>
+                        <cell>Edmund H. Kelly</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 3, 1964</cell>
+                        <cell>Also 3d Sec. Also 2d Sec. 5-26-65. To Yonsei Univ. as Long. + Area
+                            Trainee 9-11-66. Detail terminated 9-10-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Seoul</cell>
+                        <cell>William F. Kingsbury (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Hong Kong</cell>
+                        <cell>Peter G. Smith</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 24, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

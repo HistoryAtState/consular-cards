@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2855" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Luanda, Angola, Africa</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2854" type="prev"/>
+                <relatedItem target="c2856" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2855f1">
+                <graphic height="3626px" url="03764.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Luanda, Angola, Africa</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1945</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03764</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2855">
+        <body>
+            <div corresp="#c2855f1">
+                <head>Luanda, Angola, Africa</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Marcelino H. Da Costa</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Colof.</cell>
+                        <cell>Nov. 9, 1942</cell>
+                        <cell>See Foreign Service<lb/>Auxiliary card.</cell>
+                    </row>
+                    <row>
+                        <cell>Natal</cell>
+                        <cell>Harold Sims</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Lenn.</cell>
+                        <cell>Feb. 12, 1945.</cell>
+                        <cell>Made F.S.O. Telegraphed<lb/>&amp; assigned to Luanda 4/16/45</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul<lb/>J.S. Aug.</cell>
+                        <cell>Robert E. Giordan</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>Kans.</cell>
+                        <cell>Continuing under assignment<lb/>To Wellington as Vice Con.
+                            10-29-47<lb/>ment of Oct. 22, 1945.</cell>
+                        <cell>To Wellington as Vice Con. 10-29-47</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter R. Chase Cancelled</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 11, 1947</cell>
+                        <cell>To Bordeaux as V.C. 3-20-50.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Edwin P. Dyer, Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell>R.I.</cell>
+                        <cell>Nov. 17, 1947</cell>
+                        <cell>To Amsterdam as V.C. 7-3-52</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Helen Biggane</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 17, 1950</cell>
+                        <cell><unclear>designated</unclear> vice consul (FS)<lb/>Luanda, Angola,
+                            6-6-55.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>NAPLES</cell>
+                        <cell>Hugh D. Kessler</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 1, 1954</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate elevated to the status of Consulate General, eff. Jan. 1, 1962.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

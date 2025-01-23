@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4788" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cordoba, Argentina</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4787" type="prev"/>
+                <relatedItem target="c4789" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4788f1">
+                <graphic height="3610px" url="06233.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cordoba, Argentina</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06233</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4788">
+        <body>
+            <div corresp="#c4788f1">
+                <head>CORDOBA, Argentina</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Consulate established eff. Sept. 8, 1962.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Wayne W. Taylor</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 28, 1962</cell>
+                        <cell>USIA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul A. Arsenault</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Dec. 13, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl E. Trettin</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>May 26, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Terminated FSR limited appt. Close of. 1-15-66. F.S.R. Officer, assigned to the
+                    Dept., 1-1-67.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

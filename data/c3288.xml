@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3288" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Niamey, Republic of Niger</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3287" type="prev"/>
+                <relatedItem target="c3289" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3288f1">
+                <graphic height="3632px" url="04309.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Niamey, Republic of Niger</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04309</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3288f2">
+                <graphic height="3632px" url="04310.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Niamey, Republic of Niger</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04310</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3288">
+        <body>
+            <div corresp="#c3288f1">
+                <head>NIAMEY, Republic of Niger</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.&amp; Consul Nicosia</cell>
+                        <cell>Lyle R. Piepenburg</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Dec. 24, 1960</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>1st Sec. Bangui Cons. 1st Sec.</cell>
+                        <cell>Joseph W. Schutz</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Feb. 19, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lomé Sec.</cell>
+                        <cell>Harry R. Melone, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Mar. 4, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raymond L. Perkins, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>July 20, 1964</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dakar</cell>
+                        <cell>Donald B. Easum</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 11, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also 2d Secty.</p>
+                <p>Also Counselor of Embs + Deputy Chief of Mission. To Tangier as Consul,
+                    4-1-63.</p>
+                <p>Also 1st Sec. Also Dep. Chief of Mission &amp; Couns. of Emb. 4-12-64. Assigned
+                    to Dept., 9-13-64.</p>
+                <p>Also Counselor of Emb. &amp; Deputy Chief of Mission. Assigned to Army War
+                    College, Penn 8-14-66</p>
+            </div>
+            <div corresp="#c3288f2">
+                <head>Niamey, Republic of Niger.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell><unclear>Dakar</unclear></cell>
+                        <cell><unclear>John</unclear>
+                            <unclear>H.</unclear>
+                            <unclear>Holloway</unclear></cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>N.C.</unclear></cell>
+                        <cell><unclear>Dakar</unclear></cell>
+                        <cell><unclear>Feb.</unclear>
+                            <unclear>3</unclear>, <unclear>1961</unclear>.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>The first Consular mission was/established at Niamey, Republic of Niger, February
+                    3, 1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3877" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>San Salvador, El Salvador</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3876" type="prev"/>
+                <relatedItem target="c3878" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3877f1">
+                <graphic height="3634px" url="05057.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>San Salvador, El Salvador</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05057</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3877">
+        <body>
+            <div corresp="#c3877f1">
+                <head>SAN SALVADOR, El Salvador</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec. &amp; V.C.</cell>
+                        <cell>James A. McNamara</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 6, 1961</cell>
+                        <cell>Also 3d Sec. Also 2d Sec; 3-1-63.<lb/>To Cebu as V.C., 5-13-63.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Patrick E. FitzGerald</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 25, 1962</cell>
+                        <cell>Also 3d Sec. To London as V.C.,<lb/>8-17-64.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>750 assigned to<lb/>U. of Florida,<lb/>Gainesville</cell>
+                        <cell>Michele C. Bozzelli</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 21, 1963</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.<lb/>Munich</cell>
+                        <cell>Donald Kreisberg</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>July 8, 1963</cell>
+                        <cell>To Tegucigalpa as v.c.<lb/>Also 3d Sec. 2-15-1965 (Detail)
+                            Detail<lb/>terminated 4-21-65. To Paramaribo as V.C. 15-11-65.<lb/>To
+                            Manila as Secy 11-6-66<lb/>Also 2d Sec., 6-16-66.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Nathaniel Wilson, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Feb. 1, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Munich</cell>
+                        <cell>Garrett C. Burke</cell>
+                        <cell>cancelle FSO</cell>
+                        <cell>7</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald J. Yellman</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell>Also 3d Sec.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

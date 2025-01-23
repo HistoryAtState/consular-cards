@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0506" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Maceio, Brazil</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0505" type="prev"/>
+                <relatedItem target="c0507" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0506f1">
+                <graphic height="3634px" url="00690.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maceio, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00690</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0506f2">
+                <graphic height="3634px" url="00691.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Maceio, Brazil</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1907</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00691</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0506">
+        <body>
+            <div corresp="#c0506f1">
+                <head>Maceio, Brazil</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Theodore Broder Braasch</cell>
+                        <cell>Const. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Oct. 21, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Edward M. Legene</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Oct. 28, 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Charles Goble</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Aug. 2, 1892.</cell>
+                        <cell>Resigned</cell>
+                    </row>
+                    <row>
+                        <cell>Oscar Falcão</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Brazil</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ July 1, 1902.</cell>
+                        <cell>Resigned June, 1905,<lb/>on leave for 6 months<lb/>Prior to
+                            resignation.</cell>
+                    </row>
+                    <row>
+                        <cell>Walter I. Neafie</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>N.J. Nov. 14, 1905.</cell>
+                        <cell>Resigned Oct. 24, 1907.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>George Simpson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Gr.Br.</cell>
+                        <cell/>
+                        <cell>Kinross,<lb/>Dr. Scotland, Brazil Feb. 21, 1908.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed, temporarily, July 3, 1913; Closed June 30, 1913.</p>
+            </div>
+            <div corresp="#c0506f2">
+                <head>Maceio, Brazil.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Simpson</cell>
+                        <cell>Acting in chg. (absence of Agt.)</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>April 24, 1907 to Oct. 24, 1907.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Simpson</cell>
+                        <cell>Asty. Con. Agt. (Resig. of Agt.)</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 24, 1907 to April Agt. Feb. 21, 1908.</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

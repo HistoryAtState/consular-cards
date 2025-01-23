@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0090" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antilla, Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0089" type="prev"/>
+                <relatedItem target="c0091" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0090f1">
+                <graphic height="3628px" url="00132.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antilla, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00132</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0090f2">
+                <graphic height="3628px" url="00133.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antilla, Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00133</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0090">
+        <body>
+            <div corresp="#c0090f1">
+                <head>Antilla, Cuba.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>La<lb/>Guaira<lb/>On detail<lb/>Singa-<lb/>port</cell>
+                        <cell>Henry C. von Struve</cell>
+                        <cell>Con.</cell>
+                        <cell>6</cell>
+                        <cell>6/4/1920</cell>
+                        <cell>Tex.</cell>
+                        <cell>Tex.</cell>
+                        <cell>Oct. 9, 1920</cell>
+                        <cell>to Mar. 10, 1922.<lb/>Details to Mexicali Feb. 7, 1922.<lb/>Mar. 11,
+                            1922 to<lb/>Appt'd F.S.O. Unclassified July 1924.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Horace J. Dickinson</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell>9/14/1917</cell>
+                        <cell>Ark.</cell>
+                        <cell>Ark.</cell>
+                        <cell>Feb. 7, 1922.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>See<lb/>above</cell>
+                        <cell>Horace Dickinson</cell>
+                        <cell>F.S.O.</cell>
+                        <cell>Une</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>R. Consul</cell>
+                        <cell>Ark.</cell>
+                        <cell>Continued under assign-<lb/>ment of Feb. 7, 1925.</cell>
+                    </row>
+                    <row>
+                        <cell>Unc.</cell>
+                        <cell>Horace J. Dickinson</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>1/22/1935<lb/>EFFECTIVE</cell>
+                        <cell>4-19-17</cell>
+                        <cell>Ark.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd F.S.O. el. 8, Jan. 2/25 eff. July 1934</cell>
+                    </row>
+                    <row>
+                        <cell>Class 8</cell>
+                        <cell>Horace J. Dickinson</cell>
+                        <cell>Do</cell>
+                        <cell>7</cell>
+                        <cell>7/1/1934<lb/>6-8-39<lb/>EFFECTIVE</cell>
+                        <cell/>
+                        <cell>Ark.</cell>
+                        <cell>Do</cell>
+                        <cell>Appt'd F.S.O. el. 7. June 8, 1939<lb/>Retired eff. 3-31-46.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell>Do</cell>
+                        <cell/>
+                        <cell>4-1-39</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Do</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Closed February 1, 1946</p>
+            </div>
+            <div corresp="#c0090f2">
+                <head>Antilla Cuba.</head>
+                <p>Frederick W. Stinke, Con. Ast V.C. was appth F.B.O., Unclaseified, @$2500 July 1,
+                    1924, Served, as such July 1 to 26, 1924 ine. Detaited to Dept of State</p>
+            </div>
+        </body>
+    </text>
+</TEI>

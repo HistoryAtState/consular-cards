@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3122" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Monterrey, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3121" type="prev"/>
+                <relatedItem target="c3123" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3122f1">
+                <graphic height="3618px" url="04103.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Monterrey, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04103</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3122">
+        <body>
+            <div corresp="#c3122f1">
+                <head>MONTERREY, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sueo Morimoto</cell>
+                        <cell>Jan. 21, 1963</cell>
+                        <cell/>
+                        <cell>Designated Consul (FSS), Monterrey<lb/>5-10-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Matamoros</cell>
+                        <cell>Ralph G. Saucedo</cell>
+                        <cell>Sept. 14, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paris<lb/>Consular off.</cell>
+                        <cell>Jack W. Ronto</cell>
+                        <cell>Aug. 16, 1965</cell>
+                        <cell/>
+                        <cell>Designated Consul (FSS), Monterrey,<lb/>12-11-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Spain</cell>
+                        <cell>Leroy C. Aycock</cell>
+                        <cell>Oct. 25, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

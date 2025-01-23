@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1625" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tsinanfu, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1624" type="prev"/>
+                <relatedItem target="c1626" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1625f1">
+                <graphic height="3632px" url="02172.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsinanfu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02172</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1625f2">
+                <graphic height="3632px" url="02173.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tsinanfu, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02173</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1625">
+        <body>
+            <div corresp="#c1625f1"/>
+            <div corresp="#c1625f2">
+                <head>Tsinan, China.</head>
+                <p>Thomas M. Wilson, Consul Cl 7, lately at Tientsin, detailed temporarily to Tsinan
+                    July 16, 1921 for 3 weeks in August.</p>
+                <p>Edwin J. Stanton, F. B. O. Unclassified, was appt'd F. B. O., class 8 &amp; June
+                    30, 1927; also Consul July 16, 1927. Assigned to Tsinan July 16, 1927.</p>
+                <p>Edwin J. Stanton, Consul, took charge from Consul Ernest B. Price, Nov. 30,
+                    1928.</p>
+                <p>Ernest B. Price, Consul, took charge from Consul Stanton, Apr. 26, 1928.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

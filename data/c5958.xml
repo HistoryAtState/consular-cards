@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5958" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cuba</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5957" type="prev"/>
+                <relatedItem target="c5959" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5958f1">
+                <graphic height="3628px" url="07807.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cuba</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="17.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1960</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07807</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5958">
+        <body>
+            <div corresp="#c5958f1">
+                <head>CUBA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.<lb/>Consul<lb/>Buenos Aires</cell>
+                        <cell>Miss Alma M. Armstrong</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>July 11, 1960</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Cons. Detailed<lb/>to Kingston as Consul, 2-27-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gerald M. Sutton</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Aug.10, 1960</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.<lb/>detailed to Kingston as V.C., 2-27-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Gerald Lamberty</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Sept. 5, 1960</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C. Designated<lb/>Habana, 2-2-61.</cell>
+                    </row>
+                    <row>
+                        <cell>Couns. of<lb/>Embassy<lb/>0310</cell>
+                        <cell>Harvey R. Wellman</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Sept. 5, 1960</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also Cons. 750 assigned<lb/>to the Dept. 4-2-61.</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.<lb/>Rio de Janeiro</cell>
+                        <cell>Anthony L. Sileo</cell>
+                        <cell>FSR</cell>
+                        <cell>7</cell>
+                        <cell>Oct. 10, 1960</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>750 assigned to the<lb/>Dept. 3-5-61.</cell>
+                    </row>
+                    <row>
+                        <cell>3d Sec.<lb/>Hatana</cell>
+                        <cell>LeRoy E. Colby</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Aug. 7, 1960</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.<lb/>750 assigned to the Dept.<lb/>3-5-61.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gerald Lamberty</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Feb. 2, 1961</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

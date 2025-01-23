@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1965" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bridgewater, Nova Scotia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1964" type="prev"/>
+                <relatedItem target="c1966" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1965f1">
+                <graphic height="3640px" url="02633.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bridgewater, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02633</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1965f2">
+                <graphic height="3640px" url="02634.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bridgewater, Nova Scotia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1835</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02634</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1965">
+        <body>
+            <div corresp="#c1965f1">
+                <head>Bridport, England (under Bristol)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1965f2">
+                <head>Bridsport, Eng. (under Bristol)</head>
+                <p>Edwin Nicholetts reported, as high by Consul at Bristol Apr. 1885 to Feb.
+                    1849.</p>
+                <p>Fred W. Gundy // " " " " Mar. 1868 to (not afterwards)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

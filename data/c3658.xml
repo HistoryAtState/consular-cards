@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3658" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beirut, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3657" type="prev"/>
+                <relatedItem target="c3659" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3658f1">
+                <graphic height="3632px" url="04782.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Beirut, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1913</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04782</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3658">
+        <body>
+            <div corresp="#c3658f1">
+                <head>Beirut, Turkey. (<unclear>Lebanon</unclear>)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Stud</cell>
+                        <cell>Ralph F. Chesbrough</cell>
+                        <cell>Intaputer</cell>
+                        <cell>U.S.</cell>
+                        <cell><unclear>Wise</unclear></cell>
+                        <cell>Sept. 13, 1913</cell>
+                        <cell>Remaines at Beirut on detail. Apptd. Con. Class 9. Apr. 24, 1917;
+                            Appt'd V.C. and Int. at Aleppo Nov. 30, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>Ink</cell>
+                        <cell>George W. Young</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Iowa</cell>
+                        <cell>Md.</cell>
+                        <cell>Nov. 18, 1914</cell>
+                        <cell>Resigned V.C. Geneva Aug. "2/8/1917. Resignation accepted tel.
+                            2/10/1917. assigned V.C. at Damascus</cell>
+                    </row>
+                    <row>
+                        <cell>Ink.</cell>
+                        <cell>Samuel Edelman</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Pa.</cell>
+                        <cell>Pa.</cell>
+                        <cell>Nov. 30, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Harput</cell>
+                        <cell>William J. Potter</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>March 13, 1941.</cell>
+                        <cell>2/15/43</cell>
+                    </row>
+                    <row>
+                        <cell>Aleppo</cell>
+                        <cell>Hubert E. Ferrell</cell>
+                        <cell>Vice Con.</cell>
+                        <cell>"</cell>
+                        <cell>Va.</cell>
+                        <cell>Apr. 27, 1944</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

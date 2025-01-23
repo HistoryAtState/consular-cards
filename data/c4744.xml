@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4744" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Ciudad Juarez, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4743" type="prev"/>
+                <relatedItem target="c4745" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4744f1">
+                <graphic height="3634px" url="06180.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Ciudad Juarez, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06180</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4744">
+        <body>
+            <div corresp="#c4744f1">
+                <head>Ciudad Juárez, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Joseph E. Gross CANCELLED</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 15, 1955</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>George W. Phillips, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Fla.</cell>
+                        <cell/>
+                        <cell>Mar. 30, 1955</cell>
+                        <cell>Designated V.C. of area<lb/>at Ciudad Juárez, 10-1-56</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Samuel Karp</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 6, 1958</cell>
+                        <cell>Designated V.C. of Career,<lb/>Ciudad Juárez, 9-8-59</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. (755)</cell>
+                        <cell>Joseph Radford, Jr.</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 5, 1962</cell>
+                        <cell>Designated Cons. (755)<lb/>Ciudad Juárez, 12-19-63.<lb/>To Tijuana
+                            (predecessor),<lb/>6-11-65. (Detail) To Santo<lb/>Domingo as V.C. (7ss),
+                            2-28-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Barranquilla</cell>
+                        <cell>Miss M. June Dohse</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 29, 1962</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Santiago de<lb/>los Caballeros</cell>
+                        <cell>Mrs. Beatrice King</cell>
+                        <cell>Vice Consul</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 19, 1963</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>VC (FSS)</cell>
+                        <cell>Richard C. Dunbar</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cordoba</cell>
+                        <cell>Edward E. Martinez</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 19, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William F. Finnegan, Jr. v. Consul Cancelled</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Aug. 30, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss M. Cordelia Sanborn V. Cons</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Dec. 6, 1965</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

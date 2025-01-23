@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2835" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>London, England</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2834" type="prev"/>
+                <relatedItem target="c2836" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2835f1">
+                <graphic height="3618px" url="03737.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>London, England</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="10.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03737</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2835">
+        <body>
+            <div corresp="#c2835f1">
+                <head>LONDON, ENGLAND</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>DATE OF APPOINTMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Miss Roberta McKay</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell>Designated Consul (755), London, 10-30-65.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>London</cell>
+                        <cell>Gordon R. Firth</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell>Designated Consul (755), London 10-30-65,</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

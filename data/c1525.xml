@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1525" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tamatave, Madagascar</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1524" type="prev"/>
+                <relatedItem target="c1526" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1525f1">
+                <graphic height="3628px" url="02036.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tamatave, Madagascar</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1871</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02036</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1525">
+        <body>
+            <div corresp="#c1525f1">
+                <head>Tamatave, Madagascar.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Finkelmeier</cell>
+                        <cell><unclear>Genl</unclear> Sgt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 14, 1871.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Finkelmeier</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan 7, 1875.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J. Orne Ryder</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 15, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard M. Whitney</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. July 7, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Richard W. Geldart</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 8, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joshua O. Ryder</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mass. Mar. 16, 1894.</cell>
+                        <cell>Did not serve, Left Tamatave as consul Dec. 31, 1906</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William H. Hunt</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y. Mar. 20, 1899.</cell>
+                        <cell>Appt'd Consul Aug. 23, 1901. Nomination withdrawn</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Dorab F. Byramjee</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 4, 1902.</cell>
+                        <cell>Did not qualify</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph de Lanta-de Floris</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Jan. 17, 1903.</cell>
+                        <cell>Reigned effect Jan. 1, 1905.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oscar d'E. de Charmoy</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 13, 1905.</cell>
+                        <cell>Reigned effect Sept. 1, 1911. Made Vice Consul by Act approved Feb. 5,
+                            1915.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gustave Streuli</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell><unclear>Sevitzer</unclear> Zurich, Jama-land, Switz. tave</cell>
+                        <cell/>
+                        <cell>Apr. 3, 1912.</cell>
+                        <cell>V.C., Tananarivo</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Gustave Streuli</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>By Act of Feb. 5, 1915 Aug. 15, 1916.</cell>
+                        <cell>Consulate moved to Tananarivo. Consulate closed Dec. 31, 1916.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

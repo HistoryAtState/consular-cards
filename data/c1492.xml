@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1492" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Swatow, China</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1491" type="prev"/>
+                <relatedItem target="c1493" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1492f1">
+                <graphic height="3634px" url="01991.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Swatow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01991</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1492f2">
+                <graphic height="3626px" url="01992.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Swatow, China</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1920</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01992</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1492">
+        <body>
+            <div corresp="#c1492f1">
+                <head>Swatow, China.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                    </row>
+                    <row>
+                        <cell>Canton</cell>
+                        <cell>Walter A. Adams</cell>
+                        <cell>U.C. de carrière</cell>
+                        <cell>2</cell>
+                        <cell>7/24/1920</cell>
+                        <cell>S. Car</cell>
+                    </row>
+                    <row>
+                        <cell>Tientsin</cell>
+                        <cell>Culver B. Chamberlain</cell>
+                        <cell>F.B.O.</cell>
+                        <cell>Une.</cell>
+                        <cell>11/1924</cell>
+                        <cell>Mo.</cell>
+                    </row>
+                    <row>
+                        <cell>Hankow</cell>
+                        <cell>John Carter Vincent</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>5/12/1925</cell>
+                        <cell>Ga.</cell>
+                    </row>
+                    <row>
+                        <cell>Shanghai</cell>
+                        <cell>Everett F. Drumright</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/25</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Shanghai</cell>
+                        <cell>Everett F. Drumright</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/16/1930</cell>
+                        <cell>Okla.</cell>
+                    </row>
+                </table>
+                <row role="label">
+                    <cell>DATE OF ASSIGNMENT</cell>
+                    <cell>REMARKS</cell>
+                </row>
+                <row>
+                    <cell>Nov. 15, 1920</cell>
+                    <cell>Assigned to Changsha Feb. 24, 1921.</cell>
+                </row>
+                <row>
+                    <cell>July 27, 1925.</cell>
+                    <cell>Assigned to Shanghai Nov. 7, 1927.</cell>
+                </row>
+                <row>
+                    <cell>May 28, 1927.</cell>
+                    <cell>Assigned to Hankow Feb. 7, 1928.</cell>
+                </row>
+                <row>
+                    <cell>May 14, 1935</cell>
+                    <cell>Assigned to Shanghai, June 27, 1925.</cell>
+                </row>
+                <row>
+                    <cell>Oct. 25, 1935</cell>
+                    <cell>Assigned to Shanghai, Dec. 9, 1935.</cell>
+                </row>
+            </div>
+            <div corresp="#c1492f2">
+                <head>Sewatow, China.</head>
+                <p>Walter A. Adams, V. C. dec. took over the office from Vice Con Milbourne Dec. 7,
+                    1920</p>
+                <p>John Carter Vincent V. C. was detailed to the Dept. of State Oct. 10, 1927 for a
+                    period to exered 60 days for training</p>
+                <p>On Dec 17.1927 detail was benessed for a period of entity days to terminate Jan.
+                    20, 1928. Jan 22,1928</p>
+                <p>Mr. Vincent departed from Washington en route Hankow to besume his duties as Vice
+                    Consul there.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

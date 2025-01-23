@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3488" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Port Au Prince, Haiti</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3487" type="prev"/>
+                <relatedItem target="c3489" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3488f1">
+                <graphic height="3632px" url="04563.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Au Prince, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1799</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04563</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c3488f2">
+                <graphic height="3632px" url="04564.tif" width="6018px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Port Au Prince, Haiti</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04564</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3488">
+        <body>
+            <div corresp="#c3488f1"/>
+            <div corresp="#c3488f2">
+                <head>Port-au-Prince, Haiti.</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles E. Clarke, Jr.</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell>N.Y.</cell>
+                        <cell/>
+                        <cell>Mar. 7, 1863</cell>
+                        <cell>not confirmed</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas J. Smith</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell/>
+                        <cell>Dec. 7, 1864</cell>
+                        <cell>withdrawn Jan. 3, 1865,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David Letto</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Mich</cell>
+                        <cell/>
+                        <cell>Jan. 3, 1865</cell>
+                        <cell>Jan. 25, 1865,</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

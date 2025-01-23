@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1007" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Penong, Straits Settlements</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1006" type="prev"/>
+                <relatedItem target="c1008" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1007f1">
+                <graphic height="3638px" url="01345.tif" width="5990px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Penong, Straits Settlements</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1922</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01345</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1007">
+        <body>
+            <div corresp="#c1007f1">
+                <head>Penang, Straits Settlements.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Singa-<lb/>fore</cell>
+                        <cell>John H. Lord</cell>
+                        <cell>Vice Con, U.S.</cell>
+                        <cell>U.S.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Oct. 9, 1922.</cell>
+                        <cell>Remained at Singapore<lb/>Did not go to Penang</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George F. Dickins</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>N.H.</cell>
+                        <cell>N.H.</cell>
+                        <cell>Dec. 18, 1923.</cell>
+                        <cell>Appt'd U.C., Singapore Mar. 10, 1925<lb/>Died at Kuala Lumpur <lb/>
+                            about <lb/><lb/>Sept. 1927</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Carl Henking</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ohio</cell>
+                        <cell>Calif.</cell>
+                        <cell>Mar. 4, 1926</cell>
+                        <cell>Resigned. Accepted Dec. 1, 1927</cell>
+                    </row>
+                    <row>
+                        <cell>Milan</cell>
+                        <cell>Reginald B. Jumstein</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Ind</cell>
+                        <cell>Ind.</cell>
+                        <cell>May 3, 1928.</cell>
+                        <cell>Res. office. Oct. 21, 1930.</cell>
+                    </row>
+                    <row>
+                        <cell>Wicken</cell>
+                        <cell><unclear>Winston</unclear> Cook</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Colo.</cell>
+                        <cell>Colo.</cell>
+                        <cell>June 26, 1931.</cell>
+                        <cell>Appt'd to Santo Domingo Nov. 17, 1934<lb/>Assg'd to Manila July 8,
+                            1936 Cons.<lb/>Assg'd to Singapore, June 20, 1938</cell>
+                    </row>
+                    <row>
+                        <cell>Adelaide</cell>
+                        <cell>Forrest K. Geerken</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Iowa</cell>
+                        <cell>Minn.</cell>
+                        <cell>Dec. 8, 1934.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed Dec. 16, 1942 upon occupation<lb/>by Japanese forces.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

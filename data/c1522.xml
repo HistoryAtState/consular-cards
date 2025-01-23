@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1522" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tallinn, Esthonia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1521" type="prev"/>
+                <relatedItem target="c1523" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1522f1">
+                <graphic height="3640px" url="02032.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tallinn, Esthonia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1924</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02032</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1522f2">
+                <graphic height="3640px" url="02033.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tallinn, Esthonia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1931</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02033</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1522">
+        <body>
+            <div corresp="#c1522f1">
+                <head>Tallinn, Esthonia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Reval</cell>
+                        <cell>William L. Peck</cell>
+                        <cell>F.S.O. Une.</cell>
+                        <cell>1/1/1924 R.</cell>
+                        <cell>Conn.</cell>
+                        <cell>May 19, 1923.</cell>
+                        <cell>Assigned to Leipzig Mar. 9, 1925. Did not proceed to Tallinn. Remained
+                            at Helsingfors. Returned to Helsingfors under old assignment. Designed
+                            as 3d Secy. of Legn. to Riga, Lithuania &amp; Estonia, June 5,
+                            1929.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Helsingfors</cell>
+                        <cell>Frank B. Glassey</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1924</cell>
+                        <cell>Pa.</cell>
+                        <cell>Apr. 15, 1925.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Berlin</cell>
+                        <cell>George F. Kennan</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>9/1/1926</cell>
+                        <cell>Wise.</cell>
+                        <cell>Apr. 7, 1928.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>William M. Gwynn</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>5/28/1926</cell>
+                        <cell>Calif.</cell>
+                        <cell>June 20, 1929.</cell>
+                        <cell>Assigned to Paris, Nov. 17, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Norris B. Chipman</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/24/1928</cell>
+                        <cell>D.C.</cell>
+                        <cell>July 10, 1929.</cell>
+                        <cell>Canceled. Unsigned instead to Riga Oct. 7, 1929.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>Frederick P. Latimer Jr.,</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>10/24/1928</cell>
+                        <cell>Conn.</cell>
+                        <cell>Oct. 17, 1931.</cell>
+                        <cell>also 3d Secy. of Legn. Tallinn (assigned to Helsingfors as 3d Secy.,
+                            June 21, 1933. assigned as 3d Secy. of Legn., Tallinn (Canceled) July
+                            15, 1933.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Bertel E. Kuniholm</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>5/17/1928</cell>
+                        <cell>Mass.</cell>
+                        <cell>June 21, 1933.</cell>
+                        <cell>Is also 3d Secy. of Riga, Tallinn. Assigned to Salonika, June 10,
+                            1936.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of State</cell>
+                        <cell>James E. Henderson</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>12/17/1931</cell>
+                        <cell>Ge.</cell>
+                        <cell>Jan. 17, 1934.</cell>
+                        <cell>Is also 3d Secy. of Riga, Tallinn. Assigned to Dept. State, June 17,
+                            1938.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>William C. Drimble</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>1/17/1931</cell>
+                        <cell>Md.</cell>
+                        <cell>June 10, 1936.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. State</cell>
+                        <cell>G. Frederick Reinhardt</cell>
+                        <cell>Do</cell>
+                        <cell>"</cell>
+                        <cell>7/1/1937c</cell>
+                        <cell>Calif.</cell>
+                        <cell>Sept. 15, 1939.</cell>
+                        <cell>Assigned also as 3d Secy. of Legn. assigned to Riga, May 20,
+                            1940.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1522f2">
+                <head>Tallinn Estonia</head>
+                <p>Frederick P. Latimer, Jr, assigned to Dept. of State, temp., Oct. 5, 1921</p>
+            </div>
+        </body>
+    </text>
+</TEI>

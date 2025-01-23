@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2071" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Colonia, Uruguay</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2070" type="prev"/>
+                <relatedItem target="c2072" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2071f1">
+                <graphic height="3626px" url="02772.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Colonia, Uruguay</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1872</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02772</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2071">
+        <body>
+            <div corresp="#c2071f1">
+                <head>Colonia, Uruguay.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Samuel Darton</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Me.</cell>
+                        <cell>May 23, 1872,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Abraham Barker Davis</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 26, 1875</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Gifford</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 14, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Oliver C. James</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Feb. 27, 1885.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Caballero</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Uru-<lb/>guay</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>May 1, 1888,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Caballero</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Spain</cell>
+                        <cell/>
+                        <cell>Dec. 7, 1893.</cell>
+                        <cell>Resigned Apr. 30, 1898,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Garrett T. Ryan</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Pa. June 29, 1898.</cell>
+                        <cell>Resigned Apr. 1, 1900,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Manuel Caballero</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 15, 1902.</cell>
+                        <cell>Did not qualify</cell>
+                    </row>
+                </table>
+                <p>Consulate abolished June 30, 1906.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

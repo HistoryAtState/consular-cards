@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5700" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Davao, Philippines</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5699" type="prev"/>
+                <relatedItem target="c5701" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5700f1">
+                <graphic height="3020px" url="07451.tif" width="4804px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Davao, Philippines</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07451</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5700">
+        <body>
+            <div corresp="#c5700f1">
+                <head>DAVAO, PHILIPPINES</head>
+                <table>
+                    <row role="label">
+                        <cell>POST</cell>
+                        <cell>CLASS</cell>
+                        <cell>TYPE</cell>
+                        <cell>POL. DESK</cell>
+                        <cell>FA-AREA</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>C</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>HISTORY (established, opened, closed, etc.)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>REMARKS:</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>PB MEMO NOS.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>DEPT CONTACTS</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>DATE</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>7/19/48</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>CHRONOLOGICAL RECORD</p>
+                <p>ACTION, COMMUNICATIONS, REMARKS, ETC.</p>
+                <p>Recommended by Embassy at Manila that a cons. be established at Davao. Circulated
+                    to interested divisions with Dept. 3/10/48. Memo to FS. Not recommended that an
+                    office be established at this time but that proposal be reconsidered on Jan. 1,
+                    1949. HNW. Memo ret. approved.</p>
+                <p>Included in 1949 budget for pos. opening. USIE office only opened. FS office
+                    opening held in abeyance.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1024" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Picton, Ontario</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1023" type="prev"/>
+                <relatedItem target="c1025" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1024f1">
+                <graphic height="3634px" url="01368.tif" width="5988px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Picton, Ontario</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1867</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01368</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1024">
+        <body>
+            <div corresp="#c1024f1">
+                <head>Picton, Ontario. (under Belleville from 1885)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Clapp</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 11, 1867.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>F. H. Case</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 27, 1867</cell>
+                        <cell>Commin' revoked</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Z. Sullivan</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 11, 1878.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Clapp</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Dutchess Co,<lb/>N.Y.</cell>
+                        <cell/>
+                        <cell>Aug. 26, 1878.</cell>
+                        <cell>Died Aug. 1888.<lb/>Aug 24, 1888 to May 23, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacob F. Beringer</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>b. Bir N.Y.</cell>
+                        <cell/>
+                        <cell>Sept. 25, 1888.</cell>
+                        <cell>Died of pneumonia May 23, 1908.<lb/>June 16, 1908<lb/>says Agency
+                            closed</cell>
+                    </row>
+                </table>
+                <p>Agency closed May 23, 1908. (Note of 6/30/08/5/160/10 says Agency closed)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

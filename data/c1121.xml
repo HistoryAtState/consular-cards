@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1121" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Puerto Plata, Dominican Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1120" type="prev"/>
+                <relatedItem target="c1122" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1121f1">
+                <graphic height="3642px" url="01494.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Puerto Plata, Dominican Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01494</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1121">
+        <body>
+            <div corresp="#c1121f1">
+                <head>Puerto Plata, Dominican Republic.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>ALLEGIANGE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>On detail<lb/>Halifax<lb/>see<lb/>above</cell>
+                        <cell>Arthur M. Lean</cell>
+                        <cell>Con.</cell>
+                        <cell>9</cell>
+                        <cell>9/4/1916</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 20, 1917</cell>
+                        <cell>(Arrived 1/27/17) May 1, 1917 to<lb/>Appt'd Consul Class 8 Sept. 14,
+                            1917</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Arthur M. Lean</cell>
+                        <cell>Con.</cell>
+                        <cell>8</cell>
+                        <cell>9/14/1917</cell>
+                        <cell>N.Y.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Mar. 20, 1917.</cell>
+                        <cell>Assigned to Cadiz Aug. 31, 1918<lb/>Feb. 1, 1919 to<lb/>Appt'd F.S.O.
+                            Unclassified July 1, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Adelaide</cell>
+                        <cell>William A. Bickers</cell>
+                        <cell>"</cell>
+                        <cell>9</cell>
+                        <cell>9/5/1915</cell>
+                        <cell>Va.</cell>
+                        <cell>Va.</cell>
+                        <cell>May 25, 1918.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>See<lb/>above</cell>
+                        <cell>William A. Bickers @F.S.O. Une.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>7/1/19</cell>
+                        <cell>R. Consul</cell>
+                        <cell>Va.</cell>
+                        <cell>Continued under assign-<lb/>ment of May 25, 1918. Appt'd F.S.O. Class
+                            8, Apr. 15, 1930</cell>
+                    </row>
+                    <row>
+                        <cell>Une.</cell>
+                        <cell>William A. Bickers</cell>
+                        <cell>Do</cell>
+                        <cell>8</cell>
+                        <cell>4/15/1930</cell>
+                        <cell>Do</cell>
+                        <cell>Va.</cell>
+                        <cell>Do</cell>
+                        <cell>Assigned to Charlottetown, 7-1-30.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed Aug. 31, 1932.</p>
+                <p>Records &amp; archives stored at San Domingo</p>
+            </div>
+        </body>
+    </text>
+</TEI>

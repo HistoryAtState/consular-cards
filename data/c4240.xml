@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4240" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valletta, Malta</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4239" type="prev"/>
+                <relatedItem target="c4241" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4240f1">
+                <graphic height="3628px" url="05519.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valletta, Malta</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05519</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4240">
+        <body>
+            <div corresp="#c4240f1">
+                <head>VALLETTA, Malta</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Valletta</cell>
+                        <cell>B. Winfred Ruffner</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 28, 1962</cell>
+                        <cell/>
+                        <cell>FSO assigned to AID, Washington, D.C., 12-20-64. Asgde. Chargé
+                            d'affaires a. i., also Counselor of the Embassy, Valletta 9-21-64. FSO
+                            assigned to the Dept., 7-18-65. Also 1st Sec. To Paris. USRO as 2d Sec.,
+                            6-20-65. Also Couns. of Emb. and Dep. Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. Consult Ist Sec. Monrovia</cell>
+                        <cell>Harrison Lewis</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons</cell>
+                        <cell>Oct. 14, 1963</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>David J. Carpenter</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 17, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Valletta elevated to rank of Embassy</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 21, 1964.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. Con.</cell>
+                        <cell>John J. Conroy</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 24, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Glasgow</cell>
+                        <cell>John 0. Grimes</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. To Brussels. Is Cons. + 2d Secy 10-10-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Valletta</cell>
+                        <cell>Miss Alta F. Fowler</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Milan</cell>
+                        <cell>Miss Dorothy E. Weihrauch</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Aug. 15, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

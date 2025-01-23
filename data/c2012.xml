@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2012" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Calais, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2011" type="prev"/>
+                <relatedItem target="c2013" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2012f1">
+                <graphic height="3628px" url="02699.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Calais, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1863</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02699</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c2012f2">
+                <graphic height="3628px" url="02700.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Calais, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1806</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02700</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2012">
+        <body>
+            <div corresp="#c2012f1">
+                <head>Calais, France. (see Dumkick)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>J.P. Vendrous</cell>
+                        <cell>(under Rouen)<lb/>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Mar. 21, 18603.</cell>
+                        <cell>Died Sept 3, 1894,<lb/>superseded on ac of<lb/>insanity.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jacques Phillipe Vendroux</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ May 8, 1867.</cell>
+                        <cell>Reapptd July 16, 1914.<lb/>Resigned July 16, 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Robert Richardson</cell>
+                        <cell>V.D.C. Gr. Dr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Oct. 12, 1900.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Adolphe C. Lunings</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Fr. Ger.</cell>
+                        <cell>√ May 16, 1901</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Henry L.A. Lubinga</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 30, 1903.</cell>
+                        <cell>Resigned Dec. 31, 1907.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Herbert Hall</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>U.S.</cell>
+                        <cell>Mich. Dec. 31, 1907.</cell>
+                        <cell>Resigned Nov. 13, to take<lb/>effect evening of Nov. 14, 1908.</cell>
+                    </row>
+                    <row>
+                        <cell>formerly<lb/>V.D.C.</cell>
+                        <cell>William McKone Milner (son of Consul)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Lafayette,<lb/>Ind. Ind.</cell>
+                        <cell/>
+                        <cell>Dec. 8, 1908.</cell>
+                        <cell>Resigned effech June 10, 1914</cell>
+                    </row>
+                    <row>
+                        <cell>Moscow</cell>
+                        <cell>Adolphe C. Lunings</cell>
+                        <cell>V.D.Con. Fr.</cell>
+                        <cell/>
+                        <cell>Emden, Calais,<lb/>zers. Fr.</cell>
+                        <cell/>
+                        <cell>July 16, 1914.</cell>
+                        <cell>Died at post Feb. 1, 1915<lb/>Left for Russia June 9,
+                            1915,<lb/>without having resigned. Out</cell>
+                    </row>
+                    <row>
+                        <cell>Moscow</cell>
+                        <cell>Alfred W. Smith</cell>
+                        <cell>Vice Con. U.S. Russia</cell>
+                        <cell/>
+                        <cell>Vt.</cell>
+                        <cell/>
+                        <cell>Mar. 23, 1915.</cell>
+                        <cell>Recognition refused (Financial rep.<lb/>stations bad).</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Henry King</cell>
+                        <cell>Gr. Dr. France France</cell>
+                        <cell/>
+                        <cell>Calais</cell>
+                        <cell/>
+                        <cell>Oct. 18, 1915.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Harry Van der Weyden</cell>
+                        <cell>U.S. Mass. Mass.</cell>
+                        <cell/>
+                        <cell>Boston,<lb/>Mass.</cell>
+                        <cell/>
+                        <cell>Apr. 17, 1916.</cell>
+                        <cell>Recognition refused by Fr. Govt.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Milner</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind.</cell>
+                        <cell>Apr. 16, 1918.</cell>
+                        <cell>Resignation accepted 4/28/22.</cell>
+                    </row>
+                    <row>
+                        <cell>Lyon</cell>
+                        <cell>Ayrus B. Hollmer</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa. Pa.</cell>
+                        <cell/>
+                        <cell>Apr. 19, 1924.</cell>
+                        <cell>Appt'd V.C. Lyon Sept. 8, 1924.</cell>
+                    </row>
+                    <row>
+                        <cell>Nantes</cell>
+                        <cell>Worthington E. Hagerman</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind. Md.</cell>
+                        <cell/>
+                        <cell>Oct. 30, 1926.</cell>
+                        <cell>Appt'd V.C. Nantes Dec. 3, 1926</cell>
+                    </row>
+                    <row>
+                        <cell>Nantes</cell>
+                        <cell>Worthington &amp; Hagerman</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ind. Md.</cell>
+                        <cell/>
+                        <cell>Aug. 4, 1928.</cell>
+                        <cell>Appt'd V.C. Nantes Sept. 19, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Jaul C. Betts</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pa. Pa.</cell>
+                        <cell/>
+                        <cell>Dec. 8, 1928.</cell>
+                        <cell>Appt'd V.C. Paris Dec. 31, 1928.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris</cell>
+                        <cell>Paul Dean Thompson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Nash. Calif.</cell>
+                        <cell/>
+                        <cell>Oct. 30, 1929.</cell>
+                        <cell>Appt'd V.C. Paris Jan. 20, 1930.</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c2012f2">
+                <head>Calais, France</head>
+                <p>Jacques Levues, Act. in charge - (absence of Agent) Autumn of 1806 to (to
+                    dispatch)</p>
+                <p>James Collet - " Consul (apptd by Min. at Paris) Mar. 22, 1817 to Oct. 1827.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

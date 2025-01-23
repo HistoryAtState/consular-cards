@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5789" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Germany</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5788" type="prev"/>
+                <relatedItem target="c5790" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5789f1">
+                <graphic height="3622px" url="07572.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1903</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07572</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5789f2">
+                <graphic height="3622px" url="07573.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Germany</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1917</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07573</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5789">
+        <body>
+            <div corresp="#c5789f1">
+                <head>Germany</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Laurence H. Hoile</cell>
+                        <cell>Clerk</cell>
+                        <cell>England</cell>
+                        <cell>Germany</cell>
+                        <cell>Pre. clerk prior to 1903 not obtainable</cell>
+                        <cell>Jan. 20, 1903</cell>
+                        <cell>Relations with Germany severed 4/3/17</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles B. Dyar</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass.</cell>
+                        <cell>Dec. 27, 1906.</cell>
+                        <cell>Employed, temporarily, Reg'n, Stockholm Mar. 1, 1917</cell>
+                        <cell>Relations with Germany severed, Feb. 3, 1917.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Employed, temporarily, Reg'n, The Hague Mar. 8, 1917</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c5789f2">
+                <head>Berlin, Germany</head>
+                <p>Laurence A. Voile's employment (temporary) in the Am. Legation at Stockholm was
+                    authorized in Departments telegram to Legation, Stockholm, Jated March. 1,
+                    1917.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

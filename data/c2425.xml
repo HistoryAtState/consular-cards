@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2425" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fort Erie, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2424" type="prev"/>
+                <relatedItem target="c2426" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2425f1">
+                <graphic height="3626px" url="03229.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Fort Erie, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1868</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03229</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2425">
+        <body>
+            <div corresp="#c2425f1">
+                <head>Fort Erie, Canada, (see Brie)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William R. Baker</cell>
+                        <cell>Dep. Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Feb. 4, 1868.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William R. Baker</cell>
+                        <cell>Vice " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Apr. 24, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John M.S. Hunter</cell>
+                        <cell>Dep. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Dec. 23, 1869.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Sylvester H. Graham</cell>
+                        <cell>Vice " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Jan. 13, 1874.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Daniel Derst</cell>
+                        <cell>V&amp;D. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Jan. 24, 1876.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Wuly Vahey</cell>
+                        <cell>Vice " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ Apr. 19, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Isaac H. Allen</cell>
+                        <cell>V&amp;D. " Gr.Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ July 8, 1891</cell>
+                        <cell>Died Apr. 27, 1897.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John V. Bedell</cell>
+                        <cell>" " " U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>✓ Jan. 30, 1900</cell>
+                        <cell>Resigned Aug. 1, 1902.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Lewis H. Manly</cell>
+                        <cell>" " " " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>✓ Sept. 5, 1902.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James B. Curtiss</cell>
+                        <cell>" " " " </cell>
+                        <cell/>
+                        <cell>Buffalo</cell>
+                        <cell>N.Y.</cell>
+                        <cell>✓ July 24, 1909.</cell>
+                        <cell>Made Vice Consul by Act approved Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>V.D.</cell>
+                        <cell>James B. Curtiss</cell>
+                        <cell>Vice Con. " </cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>✓ By Act Feb. 5, 1915.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate closed by Consul Messersmith June, 1916.</p>
+                <p>Consulate closed September 30, 1940.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

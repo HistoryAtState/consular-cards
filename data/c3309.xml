@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3309" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Norway</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3308" type="prev"/>
+                <relatedItem target="c3310" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3309f1">
+                <graphic height="3604px" url="04336.tif" width="6044px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Norway</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1944</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04336</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3309">
+        <body>
+            <div corresp="#c3309f1">
+                <head>Norway (Govt. now established in London)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Orren N. Nielsen</cell>
+                        <cell>7.8.0.1</cell>
+                        <cell>1-16-44 bon. Gen.</cell>
+                        <cell>9-16-38~</cell>
+                        <cell>8-12-440 1-20-39c</cell>
+                        <cell>Wis.</cell>
+                        <cell>Oct. 11, 1944</cell>
+                        <cell>Also Counselor of Embassy. <lb/> now est. in Oslo, 5-9-45</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5337" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Panama</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5336" type="prev"/>
+                <relatedItem target="c5338" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5337f1">
+                <graphic height="3626px" url="06944.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Panama</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="14.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>06944</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5337">
+        <body>
+            <div corresp="#c5337f1">
+                <head>PANAMA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>RANK</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>Stanford Univ.</cell>
+                        <cell>Thomas M. Tonkin</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Rome</cell>
+                        <cell>John W. Anderson</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Nov. 21, 1965</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Leo F. Cecchini, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 31, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell>Panamá Buenos Aires</cell>
+                        <cell>Gerald D. O'Grady, Jr.</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Jan. 30, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Cons. FSR off. assigned to the Dept., 19-11-66. Resigned as FSO
+                            only CO 6-18-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Buenos Aires</cell>
+                        <cell>Louis M. Marrano</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Feb. 27, 1966</cell>
+                        <cell/>
+                        <cell>Couns. of Emb.</cell>
+                        <cell>Also Consul Gen. &amp; Deputy Chief of Mission.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Donald P. Downs</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Apr. 25, 1966</cell>
+                        <cell/>
+                        <cell>1st Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                    <row>
+                        <cell>Panamá</cell>
+                        <cell>Max L. Shimp</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Panamá</cell>
+                        <cell>Clyde Donald Taylor</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C. To Canberra as 2d Sec. 8-1466</cell>
+                    </row>
+                    <row>
+                        <cell>Lima</cell>
+                        <cell>Bruce F. Porter</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Nov. 21, 1966</cell>
+                        <cell/>
+                        <cell>3d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Paul J. Burns</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also V.C.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

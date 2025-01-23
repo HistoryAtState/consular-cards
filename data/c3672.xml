@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3672" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belfast, Northern Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3671" type="prev"/>
+                <relatedItem target="c3673" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3672f1">
+                <graphic height="3628px" url="04803.tif" width="6014px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Belfast, Northern Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="3.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1953</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04803</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3672">
+        <body>
+            <div corresp="#c3672f1">
+                <head>Belfast, Northern Ireland</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons.<lb/>Belfast</cell>
+                        <cell>H. Reid Bird</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell>Utah</cell>
+                        <cell/>
+                        <cell>Sept. 21, 1953</cell>
+                        <cell>Designated Consul, Belfast,<lb/>5-24-54.<lb/>To Palermo as V.C.
+                            (755)</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Miss Nancy S. Koch</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 18, 1961</cell>
+                        <cell>12-9-63.<lb/>To Madrid as Visa Cons.,</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Mrs. Fern M. Nystedt-Lysell</cell>
+                        <cell>V. Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Apr. 13, 1964</cell>
+                        <cell>7-19-64.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

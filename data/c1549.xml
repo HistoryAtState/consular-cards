@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1549" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tela, Honduras</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1548" type="prev"/>
+                <relatedItem target="c1550" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1549f1">
+                <graphic height="3636px" url="02067.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tela, Honduras</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1942</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02067</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1549">
+        <body>
+            <div corresp="#c1549f1">
+                <head>Tela, Honduras</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPOINTED.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>acting</cell>
+                        <cell>Victor C. MacMillan</cell>
+                        <cell>Cons. Ag. U.S.A.</cell>
+                        <cell/>
+                        <cell>Ohio</cell>
+                        <cell/>
+                        <cell>Dec. 31, 1942</cell>
+                        <cell><unclear>Terminated</unclear>: C.O.B. 7-13-43 <lb/>
+                            <unclear>Reassigned</unclear> off C.O.B. 3-31-47</cell>
+                    </row>
+                    <row>
+                        <cell>Consular Agt.</cell>
+                        <cell>Willis E. Walton</cell>
+                        <cell>Con. Ag. U.S.a.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Sept. 1, 1943</cell>
+                        <cell>Resigned <lb/> May 15, 1953</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Marion E. Read</cell>
+                        <cell><unclear>Cow. Agent</unclear> U.S.A</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>April 1, 1947.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Gregory A. Gaboury</cell>
+                        <cell>Con. Agt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March 1, 1954</cell>
+                        <cell><unclear>Reassigned</unclear> off CoB 3-30-57</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

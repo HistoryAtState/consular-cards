@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0190" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cape Gracias a Dios, Nicaragua-Port Deitrick</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0189" type="prev"/>
+                <relatedItem target="c0191" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0190f1">
+                <graphic height="3636px" url="00276.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cape Gracias a Dios, Nicaragua-Port Deitrick</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00276</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0190">
+        <body>
+            <div corresp="#c0190f1">
+                <head>Cape Gracias à Dios, Nicaragua</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Blue-fields</cell>
+                        <cell>Edwin W. Trimmer</cell>
+                        <cell>Com'l Agt. U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>N.Y.</cell>
+                        <cell>Aug. 4, 1904.</cell>
+                        <cell>(office changed to)<lb/><lb/><lb/>Port Deitrick<lb/><lb/><lb/>Appt'd
+                            U.Com'l Agt at Port<lb/><lb/><lb/>Deitrick, Nic, Jan. 13, 1905.</cell>
+                    </row>
+                </table>
+                <p>Cape Gracias à Dios ceased to be a port of entry Jan. 1, 1905, and
+                    the<lb/><lb/><lb/>office was transfered to Port Deitrick on Feb. 1,
+                    1905.<lb/><lb/><lb/>see Cape Gracias à Dios (Port Deitrick)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

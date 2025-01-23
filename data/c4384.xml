@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4384" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adana, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4383" type="prev"/>
+                <relatedItem target="c4385" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4384f1">
+                <graphic height="3608px" url="05704.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Adana, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1961</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05704</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4384">
+        <body>
+            <div corresp="#c4384f1">
+                <head>ADANA, Turkey</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Iskenderun</cell>
+                        <cell>Maxwell K. Berry</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Sept. 4, 1961</cell>
+                        <cell/>
+                        <cell>FSO assigned to Princeton Univ, Princeton, New Jersey, 9-1-63. To
+                            Istanbul as V.C., 7-19-65.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Duane C. Butcher</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Aug. 5, 1963</cell>
+                        <cell/>
+                        <cell>Designated Consul, Adana, 5-13-66</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Terry G. Grant</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>June 24, 1963</cell>
+                        <cell/>
+                        <cell>To Ankara as V.C. and 3d Sec., 5-23-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>John H. Kelly</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>June 21, 1965</cell>
+                        <cell/>
+                        <cell>Detail Terminated 1-31-67.</cell>
+                    </row>
+                    <row>
+                        <cell>Ankara</cell>
+                        <cell>James Alan Williams (Detail)</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 31, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas J. Sinclair, Jr.</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Oct. 13, 1966</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate established effective Oct. 3, 1961.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

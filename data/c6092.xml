@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c6092" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c6091" type="prev"/>
+                <relatedItem target="c6093" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c6092f1">
+                <graphic height="3624px" url="07998.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07998</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c6092f2">
+                <graphic height="3624px" url="07999.tif" width="5980px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07999</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c6092">
+        <body>
+            <div corresp="#c6092f1">
+                <head>France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Secretary</cell>
+                        <cell>Robert Woods Bliss</cell>
+                        <cell>(see over) Counselor</cell>
+                        <cell>Mo.</cell>
+                        <cell>N.Y.</cell>
+                        <cell>July 17, 1916.</cell>
+                        <cell>Assigned to Dept. of State Apr. 26, 1920</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Arthur Hugh Frazier</cell>
+                        <cell>"</cell>
+                        <cell>Ga.</cell>
+                        <cell>Pa.</cell>
+                        <cell>June 11, 1918</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Joseph C. Brew</cell>
+                        <cell>"</cell>
+                        <cell>Mass.</cell>
+                        <cell>Mass</cell>
+                        <cell>Nov. 28, 1919</cell>
+                        <cell>Appt'd E. &amp; V. M. P. to Denmark Apr. 7, 1920</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell><unclear>Beland</unclear> Harrison</cell>
+                        <cell>Junior Counselor</cell>
+                        <cell>Ill.</cell>
+                        <cell>May 20, 1920</cell>
+                        <cell>Detailed to Dept. of State Mar. 9, 1921.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Frederick A. Sterling</cell>
+                        <cell>Counselor</cell>
+                        <cell>Tex.</cell>
+                        <cell>June 12, 1920</cell>
+                        <cell>Assigned to Lima Apr. 16, 1921.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>"</cell>
+                        <cell>Sheldon Whitehouse</cell>
+                        <cell>Counselor</cell>
+                        <cell>N.Y.</cell>
+                        <cell>Apr. 16, 1921</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c6092f2">
+                <head>Note. For authority, see reverse side of "Counselor" card under Austria
+                    Hungary</head>
+            </div>
+        </body>
+    </text>
+</TEI>

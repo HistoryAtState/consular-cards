@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5825" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Russia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5824" type="prev"/>
+                <relatedItem target="c5826" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5825f1">
+                <graphic height="3632px" url="07623.tif" width="5996px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1916</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07623</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c5825f2">
+                <graphic height="3592px" url="07624.tif" width="5970px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Russia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="5.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1933</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07624</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5825">
+        <body>
+            <div corresp="#c5825f1">
+                <head>Russia.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>GRADE, CLASS.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept. of<lb/>State</cell>
+                        <cell>J. Butler Wright</cell>
+                        <cell>Sec. of Emb<lb/>or Leg'n</cell>
+                        <cell>1</cell>
+                        <cell>27/5/1915</cell>
+                        <cell>Wyo.</cell>
+                        <cell>Oct. 2, 1916</cell>
+                        <cell>Assigned to Dept. of State May 14, 1918,<lb/>Appt'd Secretary Class 3
+                            July 13, 1917<lb/>Arrived,<lb/>1/20/1917;</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Livingston Phelps</cell>
+                        <cell>"</cell>
+                        <cell>4</cell>
+                        <cell>10/2/16 recess<lb/>12/17</cell>
+                        <cell>Conf. N.Y.</cell>
+                        <cell>Oct. 26, 1916.</cell>
+                        <cell>Assigned to the Dept. of State June 24, 1918</cell>
+                    </row>
+                    <row>
+                        <cell>Class 4</cell>
+                        <cell>James G. Bailey</cell>
+                        <cell>"</cell>
+                        <cell>2</cell>
+                        <cell>1/5/1915</cell>
+                        <cell>Ky.</cell>
+                        <cell>Dec. 6, 1916.</cell>
+                        <cell>Assigned to Brussels Dec. 17, 1918.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Norman Armatur</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>11/3/1917</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 22, 1916</cell>
+                        <cell>Assigned to The Hague Jan 18, 1919.<lb/>Placed on list of unassigned
+                            Sec'y 1/27/1918<lb/>(Dual Capacity) at Vancouver</cell>
+                    </row>
+                    <row>
+                        <cell>Class 4</cell>
+                        <cell>Livingston Phelps</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>7/13/1917<lb/>Conf. N.Y.</cell>
+                        <cell>Oct. 26, 1916.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>(See: Soviet Socialist Republics, Union of)</p>
+            </div>
+            <div corresp="#c5825f2">
+                <head>Riga</head>
+                <p>Norris B. Chipman, lately 2.O. Une at Paris, transferred to Legation Riga,
+                    pending his assignment commission as 3rd Sec'y Leg'n.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

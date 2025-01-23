@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1657" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Valdivia, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1656" type="prev"/>
+                <relatedItem target="c1658" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1657f1">
+                <graphic height="3632px" url="02215.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Valdivia, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1904</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02215</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1657">
+        <body>
+            <div corresp="#c1657f1">
+                <head>Valdivia, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Robert Williams</cell>
+                        <cell>Con. Agt. Ud.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Nov. 16, 1904,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Agency closed June 22, 1907.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Valparaiso</cell>
+                        <cell>Samuel A. McIhenny</cell>
+                        <cell>Vice Con. U.S. Texas</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Texas</cell>
+                        <cell>Nov. 16, 1946,</cell>
+                        <cell>appt'd P.C. Consul, Antofagoste, Chile 37-42.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Vice Consulates Established January 1, 1941.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>(opened to public April, 1945)</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept</cell>
+                        <cell>Carl O. Hawthorne</cell>
+                        <cell>Vice Con. U.S. Ark.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Mo. Sept. 23, 1942</cell>
+                        <cell/>
+                        <cell>3-14-42 to Aruba 11-26-43.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>American Vice Consulate of Valdivia, Chile was closed Dec. 31,
+                            1944.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

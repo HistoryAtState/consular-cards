@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0793" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Queenstown, Ireland</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0792" type="prev"/>
+                <relatedItem target="c0794" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0793f1">
+                <graphic height="3642px" url="01075.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Queenstown, Ireland</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1921</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01075</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0793">
+        <body>
+            <div corresp="#c0793f1">
+                <head>Queenstown, Ireland.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Plymouth</cell>
+                        <cell>Russell F. Abdill</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell>" "</cell>
+                        <cell>Ind.</cell>
+                        <cell>Aug. 19, 1921</cell>
+                        <cell>Resigned, effective Jan. 14, 1922.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Roterdam</cell>
+                        <cell>John S. Richardson, Jr.</cell>
+                        <cell>" "</cell>
+                        <cell>" "</cell>
+                        <cell>Mass</cell>
+                        <cell>Mass Jan. 21, 1922.</cell>
+                        <cell>Appt'd V.C. Cobh Feb. 27, 1924.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Name of Queenstown changes to "Cobh"</p>
+            </div>
+        </body>
+    </text>
+</TEI>

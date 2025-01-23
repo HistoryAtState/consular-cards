@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0018" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Agua Prieta, Mexico</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0017" type="prev"/>
+                <relatedItem target="c0019" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0018f1">
+                <graphic height="3634px" url="00026.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Agua Prieta, Mexico</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1941</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00026</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0018">
+        <body>
+            <div corresp="#c0018f1">
+                <head>Agua Prieta, Mexico</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Raymond Phelan</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U. S.</cell>
+                        <cell>Belgium</cell>
+                        <cell>Calif.</cell>
+                        <cell>July 28, 1941.</cell>
+                        <cell>To London as V.C. 3-20-45</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Leonard Lillestrom</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>Finland</cell>
+                        <cell>N.Y.</cell>
+                        <cell>May 1, 1942</cell>
+                        <cell>To Ciudad Juarez - 5-6-42</cell>
+                    </row>
+                    <row>
+                        <cell>Clerk</cell>
+                        <cell>Phillip H. Fahrenholz</cell>
+                        <cell>"</cell>
+                        <cell>"</cell>
+                        <cell>U.S.</cell>
+                        <cell>R. I.</cell>
+                        <cell>Mar. 15, 1943.</cell>
+                        <cell>Resigned effective C.O.B. 6-15-46.</cell>
+                    </row>
+                    <row>
+                        <cell>Vice Consul</cell>
+                        <cell>Chester H. Kimsey</cell>
+                        <cell>Vice Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>June 12, 1946</cell>
+                        <cell>Alco Adm. Officer Apptd. Consul, <lb/> F.S.S., 12-23-46 Assignd.
+                            Consul, 7.5.5., <lb/> 1-31-470 Agua Prieta 1-31-47</cell>
+                    </row>
+                    <row>
+                        <cell>Cairo</cell>
+                        <cell>George M. Atkinson</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Oct. 16, 1950</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate officially closed Nov. 30, 1952</p>
+            </div>
+        </body>
+    </text>
+</TEI>

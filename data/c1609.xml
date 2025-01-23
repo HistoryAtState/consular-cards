@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1609" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Trebizond, Turkey</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1608" type="prev"/>
+                <relatedItem target="c1610" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1609f1">
+                <graphic height="3620px" url="02149.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trebizond, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1880</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02149</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1609f2">
+                <graphic height="3620px" url="02150.tif" width="5994px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Trebizond, Turkey</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1912</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02150</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1609">
+        <body>
+            <div corresp="#c1609f1">
+                <head>Trebizonde, Turkey.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Jean Baptiste Marengo</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell>U.S. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>July 28, 1880.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>H.Z. Longworth</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 9, 1890.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Erzerum</cell>
+                        <cell>Vital Gjalvo (n)</cell>
+                        <cell>Vice Con. U.S.</cell>
+                        <cell/>
+                        <cell>Smyrna</cell>
+                        <cell>Calif. July 19, 1904.</cell>
+                        <cell>superseded</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Isaiah Montesanto</cell>
+                        <cell>V.D.</cell>
+                        <cell/>
+                        <cell>Greece Turkey</cell>
+                        <cell>Turkey Aug. 18, 1906.</cell>
+                        <cell>Made Vice Consul by Act</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vice Con.</cell>
+                        <cell>Isaiah Montesanto</cell>
+                        <cell>V.D.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 22, 1911.</cell>
+                        <cell>approved Feb. 5, 1915.</cell>
+                    </row>
+                    <row>
+                        <cell>V.D.C.</cell>
+                        <cell>Isaiah Montesanto</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>By Act of Feb. 5, 1915.</cell>
+                        <cell>Out June 30, 1919<lb/>Not an American citizen</cell>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c1609f2">
+                <head>Trebizond, Turkey.</head>
+                <p>Isaiah Montesanto. V.D.C. took over the Consulate from Consul Jewett Jan. 24,
+                    1912, and turned it over to Consul <unclear/> June 25, 1912.</p>
+                <p>Isaiah Montesanto, V. C., took over the office from Consul <unclear/> Mar. 1,
+                    1915 and turned it over to Consul Heizer <unclear/> Apr. 1, 1916.</p>
+                <p>Isaiah Montesanto. V. C. " " " " " " Jenkins July 10, 1916.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

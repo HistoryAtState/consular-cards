@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2931" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mandalay, Union of Burma</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2930" type="prev"/>
+                <relatedItem target="c2932" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2931f1">
+                <graphic height="3628px" url="03861.tif" width="6016px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mandalay, Union of Burma</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1962</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03861</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2931">
+        <body>
+            <div corresp="#c2931f1">
+                <head>MANDALAY, UNION OF BURMA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>James E. Bradshaw</cell>
+                        <cell>V. Cons.</cell>
+                        <cell>USIA</cell>
+                        <cell>Other Agencies</cell>
+                        <cell>Tenn.</cell>
+                        <cell>Jan. 12, 1962</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Consulate established 7-15-60</p>
+            </div>
+        </body>
+    </text>
+</TEI>

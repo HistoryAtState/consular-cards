@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4219" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tunis, Tunisia</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4218" type="prev"/>
+                <relatedItem target="c4220" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4219f1">
+                <graphic height="3638px" url="05489.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Tunis, Tunisia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="6.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1965</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05489</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4219">
+        <body>
+            <div corresp="#c4219f1">
+                <head>TUNIS, TUNISIA</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>James L. O'Sullivan</cell>
+                        <cell>FSO</cell>
+                        <cell>1</cell>
+                        <cell>Cons.</cell>
+                        <cell>Sept. 13, 1965</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Tunis</cell>
+                        <cell>Samuel C. Keiter</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Cons.</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Henry Sears Sizer</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Nov. 7, 1966</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Also Counselor of Embassy &amp;<lb/>Deputy Chief of Mission.</p>
+                <p>Also 2d Sec. To Baida<lb/>as Consul, 6-20-66.</p>
+                <p>Also 2d Sec.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

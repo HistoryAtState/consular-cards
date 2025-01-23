@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c3645" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Beirut, Lebanon</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c3644" type="prev"/>
+                <relatedItem target="c3646" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c3645f1">
+                <graphic height="3636px" url="04764.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Beirut, Lebanon</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="7.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1959</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>04764</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c3645">
+        <body>
+            <div corresp="#c3645f1">
+                <head>Beirut, Lebanon</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>RANK</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Beirut</cell>
+                        <cell>John M. Powell</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>Mau. 9, 1959</cell>
+                        <cell/>
+                        <cell>Also 2d Sec. as Consul + 2d Sec. To Colombo 11-26-62.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. Beirut</cell>
+                        <cell>May R. Caldwell</cell>
+                        <cell>FSO</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Mar. 9, 1959</cell>
+                        <cell/>
+                        <cell>To Buenos Aires as 2d Sec. 6.14.59.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. Montreal</cell>
+                        <cell>William B. Lowden</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 8, 1959</cell>
+                        <cell>Consul</cell>
+                        <cell>Also 2d Sec. To Quito as Consul Detail to Quito terminated and Retired
+                            5-15-65 5-31-66. Also 2d Sec. To Tigirana as Consul 3-15-65</cell>
+                    </row>
+                    <row>
+                        <cell>V.C. 2d Sec. Habana</cell>
+                        <cell>Miss Eleanor A. Burnett</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>June 27, 1960</cell>
+                        <cell/>
+                        <cell>Also 1st Sec. Retired eff. cos 6-30-63. Also 2d Sec.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Richard D. Gatewood</cell>
+                        <cell>FSO</cell>
+                        <cell>2</cell>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 13, 1961</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Dept. F.S.O.</cell>
+                        <cell>Wesley E. Jorgensen</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Cons.</cell>
+                        <cell>Apr. 27, 1964</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>V.C. Manila</cell>
+                        <cell>Miss Elsie C. Bell</cell>
+                        <cell>FSS</cell>
+                        <cell/>
+                        <cell>Cons.</cell>
+                        <cell>Nov. 8, 1965</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Beirut</cell>
+                        <cell>James K. Bishop, Jr.</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul</cell>
+                        <cell>May 13, 1966</cell>
+                        <cell/>
+                        <cell>Also 2d Sec.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

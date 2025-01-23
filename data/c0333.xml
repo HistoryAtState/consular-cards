@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0333" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Keijo, Chosen-Seoul</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0332" type="prev"/>
+                <relatedItem target="c0334" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0333f1">
+                <graphic height="3620px" url="00460.tif" width="6010px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Keijo, Chosen-Seoul</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1936</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00460</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0333">
+        <body>
+            <div corresp="#c0333f1">
+                <head>Keijo, Chosen. Formerly Seoul, Chosen)</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF APPT. TO CLASS.</cell>
+                        <cell>RANK AND DATE OF RANK.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>See Seoul card</cell>
+                        <cell>O. Gaylord Marsh</cell>
+                        <cell>F.D.O.</cell>
+                        <cell>3</cell>
+                        <cell>7/24/1930R</cell>
+                        <cell>Con. Gen. 17/6/1930C 12-16-33</cell>
+                        <cell>Hash.</cell>
+                        <cell>Sept. 16, 1936</cell>
+                        <cell>- did not serve -</cell>
+                    </row>
+                    <row>
+                        <cell>Monterey</cell>
+                        <cell><unclear>Dayle</unclear> C. McDonough</cell>
+                        <cell>"</cell>
+                        <cell>3</cell>
+                        <cell>6-8-39</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell>Mo.</cell>
+                        <cell>April 30, 1941.</cell>
+                        <cell>to Santiago Chile 204.5. <unclear>iepd</unclear>. on Gripsholm</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Harold B. Quarton</cell>
+                        <cell>"</cell>
+                        <cell>A</cell>
+                        <cell>4-1-39</cell>
+                        <cell>Con. Gen.</cell>
+                        <cell>Soua</cell>
+                        <cell>Sept. 3, 1941.</cell>
+                        <cell>6-3-4--To Malaga 9-28-42.</cell>
+                    </row>
+                </table>
+                <p>Consulate closed December 7, 1941</p>
+                <p>(For subsequent entries see Seoul, Korea)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

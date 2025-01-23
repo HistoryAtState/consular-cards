@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2655" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Katmandu Kingdom of Nepal</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2654" type="prev"/>
+                <relatedItem target="c2656" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2655f1">
+                <graphic height="3608px" url="03523.tif" width="6000px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Katmandu Kingdom of Nepal</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1953</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>03523</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2655">
+        <body>
+            <div corresp="#c2655f1">
+                <head>Kalmandu KINGDOM OF NEPAL</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF APPOINTMENT TO CLASS</cell>
+                        <cell>WHENCE APPOINTED</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                    </row>
+                    <row>
+                        <cell>V.Cons. 2dsec. Karachi</cell>
+                        <cell>Stephen A. Comiskey</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell/>
+                        <cell>Colo.</cell>
+                        <cell>Dec. 1, 1953</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Charles Willis Naas</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell/>
+                        <cell>Mass.</cell>
+                        <cell>Nov. 20, 1957</cell>
+                    </row>
+                </table>
+                <p>also 2d hee. also V.C. 2d Sec. here khi FSO assigned to Dept., 1-26-5-5.</p>
+                <p>also V.C. af. Calcutta.</p>
+                <p><unclear>Merignated</unclear> Cons. Calcutta 2/5/5-8.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

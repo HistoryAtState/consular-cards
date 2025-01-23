@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5809" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Morocco</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5808" type="prev"/>
+                <relatedItem target="c5810" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5809f1">
+                <graphic height="3632px" url="07601.tif" width="5984px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Morocco</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1896</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07601</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5809">
+        <body>
+            <div corresp="#c5809f1">
+                <head>Morocco.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph Gregory Abrines</cell>
+                        <cell>Clerk and <lb/>Interpreter</cell>
+                        <cell><unclear>Data re clerks prior to 1896 not obtainable</unclear></cell>
+                        <cell>1896</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Joseph R. Cazes (2)</cell>
+                        <cell>Clerk</cell>
+                        <cell>Morocco N.Y.</cell>
+                        <cell>July 1, 1905.</cell>
+                        <cell>Out, Apr., 1915</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ernest J. Dempster</cell>
+                        <cell>"</cell>
+                        <cell>England Morocco</cell>
+                        <cell>Nov. 16, 1912</cell>
+                        <cell>Out Apr. 1915</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

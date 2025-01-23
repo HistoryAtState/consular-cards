@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1521" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Taiwan</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1520" type="prev"/>
+                <relatedItem target="c1522" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1521f1">
+                <graphic height="3622px" url="02030.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taiwan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02030</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1521f2">
+                <graphic height="3622px" url="02031.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Taiwan</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1881</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02031</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1521">
+        <body>
+            <div corresp="#c1521f1"/>
+            <div corresp="#c1521f2">
+                <head>Taiwan</head>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>NAME.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>George Phillips</cell>
+                        <cell>British Consul - Rety Agent.</cell>
+                        <cell>Feb. 1881 to July 1882.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>J. Watters</cell>
+                        <cell/>
+                        <cell>July 1882 " Mar. 1883.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Pelham Warren</cell>
+                        <cell/>
+                        <cell>Mar. 1883 " Mar. 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>William Gregory</cell>
+                        <cell/>
+                        <cell>Mar. 1884 " Dec. 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Um Donald Spence</cell>
+                        <cell/>
+                        <cell>Dec. 1884 " Mar. 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>M. I. C. Fraser</cell>
+                        <cell/>
+                        <cell>Mar. 1886 " Apr. 1886.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>Pelham Warren</cell>
+                        <cell/>
+                        <cell>Apr. 1886 " June 1888.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>G. M. H. Olay fair</cell>
+                        <cell/>
+                        <cell>June 1888 " Aug. 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>P. L. Warren</cell>
+                        <cell/>
+                        <cell>Aug. 1893 " Sept 18, 1893.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>W. Holland</cell>
+                        <cell/>
+                        <cell>Sept 18, 1893 " Feb. 1894.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>✓</cell>
+                        <cell>R. W. Aurst</cell>
+                        <cell/>
+                        <cell>Feb. 1894 " </cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

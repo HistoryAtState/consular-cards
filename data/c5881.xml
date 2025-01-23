@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c5881" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Central African Republic</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c5880" type="prev"/>
+                <relatedItem target="c5882" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c5881f1">
+                <graphic height="3616px" url="07697.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Central African Republic</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="d"/>
+                    </f>
+                    <f name="year">
+                        <string>1966</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>07697</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c5881">
+        <body>
+            <div corresp="#c5881f1">
+                <head>Diplomatic 2.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE.</cell>
+                        <cell>CLASS.</cell>
+                        <cell>DATE OF ASSIGNMENT.</cell>
+                        <cell>OTHER AGENCIES.</cell>
+                        <cell>RANK.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Tripoli</cell>
+                        <cell>David E. L'Heureux</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Aug. 1, 1966</cell>
+                        <cell/>
+                        <cell>2d Sec.</cell>
+                        <cell>Also Cons.</cell>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

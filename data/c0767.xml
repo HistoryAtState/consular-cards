@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0767" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Oratava, Teneriffe, Canary Islands</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0766" type="prev"/>
+                <relatedItem target="c0768" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0767f1">
+                <graphic height="3632px" url="01041.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Oratava, Teneriffe, Canary Islands</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1794</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01041</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0767">
+        <body>
+            <div corresp="#c0767f1">
+                <head>Oratava, Teneriffe, Canary Islands.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEMANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>John Culnan</cell>
+                        <cell>Consul</cell>
+                        <cell>U.S.</cell>
+                        <cell/>
+                        <cell>Teneriffe</cell>
+                        <cell>May 29, 1774. Conf.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George W. Metroy</cell>
+                        <cell>"</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Pas</cell>
+                        <cell>Feb. 10, 1802. Conf.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>See card for Consular Agents. Agency ordered closed Nov. 11, 1896.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c2052" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cognac, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c2051" type="prev"/>
+                <relatedItem target="c2053" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c2052f1">
+                <graphic height="3624px" url="02747.tif" width="6002px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Cognac, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1862</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>02747</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c2052">
+        <body>
+            <div corresp="#c2052f1">
+                <head>Cognac, France.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Pinet</cell>
+                        <cell>Con. Agh</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Mar. 14, 1862,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Coates</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Nov. 4, 1865</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>A. Matuski</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Mar. 20, 1868,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Ebenezer Smith</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Apr. 19, 1871</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>E. Dodart</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Apr. 18, 1872.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Thomas P. Smith</cell>
+                        <cell>" "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Aug. 23, 1873</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>William Coates</cell>
+                        <cell>Vice Con.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Sept. 17, 1884.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Maurice Ordonnand</cell>
+                        <cell>" "</cell>
+                        <cell>Fr.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Apr. 28, 1891.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Archibald H. Follock</cell>
+                        <cell>" "</cell>
+                        <cell>Gr. Br.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Mar. 30, 1894,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Archibald W. Pollock</cell>
+                        <cell>V.D. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Apr. 9, 1895.</cell>
+                        <cell>Consulate transferred to <lb/> La Rochelle July 1898.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elisée Jouard (n)</cell>
+                        <cell>Con. Agh. U.S. France N. Yd</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ Feb. 11, 1899.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Elisée Jouard (n)</cell>
+                        <cell>V.D. Con. " "</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>√ June 17, 1908.</cell>
+                        <cell>Appt'd V.D. June 17, 1908. <lb/> Appt'd Vice Consul at <lb/> La
+                            Rochelle 5/21/1915.</cell>
+                    </row>
+                </table>
+                <p>Office moved to La Rochelle.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4584" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Brunei</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4583" type="prev"/>
+                <relatedItem target="c4585" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4584f1">
+                <graphic height="3628px" url="05974.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunei</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05974</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c4584f2">
+                <graphic height="3628px" url="05975.tif" width="6006px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Brunei</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1963</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05975</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4584">
+        <body>
+            <div corresp="#c4584f1">
+                <head>BRUNEI</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE</cell>
+                        <cell>NAME</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>OTHER AGENCIES</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bill J. Houston</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 16, 1963</cell>
+                        <cell/>
+                        <cell>Also V.C., Singapore. <unclear>7SR officer</unclear>, assigned to the
+                            Depty 9-26-65.<lb/>Also V.C., Singapore.</cell>
+                    </row>
+                    <row>
+                        <cell>V.C.</cell>
+                        <cell>Peter K. Solmssen</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 16, 1963</cell>
+                        <cell/>
+                        <cell>Also V.C., Singapore.</cell>
+                    </row>
+                    <row>
+                        <cell>Penang</cell>
+                        <cell>Edwin L. Barber III</cell>
+                        <cell>FSO</cell>
+                        <cell>8</cell>
+                        <cell>Oct. 14, 1963</cell>
+                        <cell/>
+                        <cell>Also V.C., Singapore.<lb/>Do Izmir as V.C., 11-9-64.</cell>
+                    </row>
+                    <row>
+                        <cell>Peace Corps</cell>
+                        <cell>John J. Sullivan</cell>
+                        <cell>FSO</cell>
+                        <cell>6</cell>
+                        <cell>Jan. 20, 1964</cell>
+                        <cell/>
+                        <cell>Also V.C., Singapore.<lb/><unclear>Designated Consul</unclear>,
+                            Singapore 5-26-65<lb/>Also <unclear>Govt</unclear> of Singapore.
+                            Recommissioned under<lb/>of Republic of Singapore 4-4-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>William Seth Shepard</cell>
+                        <cell>FSO</cell>
+                        <cell>7</cell>
+                        <cell>Jan. 4, 1965</cell>
+                        <cell/>
+                        <cell>Also V.C., Kuching, Malaysia</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Peter Cary Muncie</cell>
+                        <cell>FSR</cell>
+                        <cell/>
+                        <cell>Sept. 1, 1966</cell>
+                        <cell>USIA</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+            <div corresp="#c4584f2">
+                <head>Singapore</head>
+                <p>Singapore has become a part of Malaysia as of September 16, 1963. Brunei is
+                    within the consular jurisdiction of Singapore but is a British protectorate and,
+                    therefore, those officers assigned to Singapore would receive two commissions,
+                    one addressed to the Government of Malaysia and the other addressed to Her
+                    Majesty, Queen of Great Britain, etc.</p>
+                <p>Singapore gained independence Aug. 9, 1965, recognized by U.S. Aug. 11, 1965, and
+                    U.S. Embassy established April 4, 1966. Henceforth Brunei falls within the
+                    consular jurisdiction of Kuching, Malaysia. (not all officers assigned to
+                    Kuching will be accredited to Brunei)</p>
+            </div>
+        </body>
+    </text>
+</TEI>

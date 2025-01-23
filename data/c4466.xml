@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4466" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Antofagasta, Chile</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4465" type="prev"/>
+                <relatedItem target="c4467" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4466f1">
+                <graphic height="3602px" url="05816.tif" width="6062px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Antofagasta, Chile</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="2.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="y"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1955</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05816</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4466">
+        <body>
+            <div corresp="#c4466f1">
+                <head>Antofagasta, Chile.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>GRADE</cell>
+                        <cell>CLASS</cell>
+                        <cell>DATE OF<lb/>APPT. TO<lb/>CLASS</cell>
+                        <cell>RANK AND<lb/>DATE<lb/>OF RANK</cell>
+                        <cell>WHENCE<lb/>APPTD.</cell>
+                        <cell>DATE OF ASSIGNMENT</cell>
+                        <cell>REMARKS</cell>
+                    </row>
+                    <row>
+                        <cell>V. C.</cell>
+                        <cell>Wallace Clarke</cell>
+                        <cell>FSO</cell>
+                        <cell>5</cell>
+                        <cell>Consul Calf.</cell>
+                        <cell>August 2, 1955</cell>
+                        <cell>FSO assigned to Dept. 3/9/58</cell>
+                    </row>
+                    <row>
+                        <cell>Consul<lb/>Montreal</cell>
+                        <cell>Regulo Rivera</cell>
+                        <cell>F50</cell>
+                        <cell>5</cell>
+                        <cell>Consul Calf.</cell>
+                        <cell>Nov. 4, 1957</cell>
+                        <cell>FSO assigned to the Dept.<lb/>of Commerce 2-19-61</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. + 2d Sec.<lb/>Santiago</cell>
+                        <cell>Walter E. Kneeland</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Nov. 20, 1958</cell>
+                        <cell>To Santiago as 2d Sec.<lb/>&amp; Consul 12-20-58</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec.<lb/>Asuncion</cell>
+                        <cell>James E. Bowers</cell>
+                        <cell>750</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Nov. 28, 1960</cell>
+                        <cell>FSO assigned to the Dept.,<lb/>9-3-61<lb/>Retired off. Close
+                            of<lb/>business 5-31-62.</cell>
+                    </row>
+                    <row>
+                        <cell>Cons. + 1st Sec.<lb/>Guatemala</cell>
+                        <cell>Walter H. Dustmann, Jr.</cell>
+                        <cell>750</cell>
+                        <cell>3</cell>
+                        <cell>Consul</cell>
+                        <cell>Sept. 4, 1961</cell>
+                        <cell>assigned to the dept. 10-25-64<lb/>(10-25-64)</cell>
+                    </row>
+                    <row>
+                        <cell>2d Sec. + Cons.<lb/>Caracas</cell>
+                        <cell>Hunter L. Estep</cell>
+                        <cell>fso</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>Aug. 6, 1962</cell>
+                        <cell>To Santiago as 2d<lb/>Sec., 1-2-66.</cell>
+                    </row>
+                    <row>
+                        <cell>Dept.</cell>
+                        <cell>Melvin E. Sinn</cell>
+                        <cell>FSO</cell>
+                        <cell>4</cell>
+                        <cell>Consul</cell>
+                        <cell>June 22, 1964</cell>
+                        <cell/>
+                    </row>
+                </table>
+            </div>
+        </body>
+    </text>
+</TEI>

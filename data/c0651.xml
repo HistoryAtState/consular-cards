@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0651" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Mycono-Island, Greece</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0650" type="prev"/>
+                <relatedItem target="c0652" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0651f1">
+                <graphic height="3630px" url="00883.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mycono-Island, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string/>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00883</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0651f2">
+                <graphic height="3630px" url="00884.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Mycono-Island, Greece</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1854</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00884</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0651">
+        <body>
+            <div corresp="#c0651f1">
+                <head>Meycono (Island) Greece.</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                </table>
+                <p>(over)</p>
+            </div>
+            <div corresp="#c0651f2">
+                <head>Myconos (Island) Greece.</head>
+                <p>Pietro Cordias, siges as V. C. (appt'd by tety. tgh at Syra) May 1854 to
+                    1856?</p>
+            </div>
+        </body>
+    </text>
+</TEI>

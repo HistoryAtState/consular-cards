@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c4547" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bordeaux, France</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c4546" type="prev"/>
+                <relatedItem target="c4548" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c4547f1">
+                <graphic height="3630px" url="05927.tif" width="6012px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Bordeaux, France</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="4.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="a"/>
+                    </f>
+                    <f name="year">
+                        <string>1948</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>05927</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c4547">
+        <body>
+            <div corresp="#c4547f1">
+                <head>Bordeaux, France</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell>Lima</cell>
+                        <cell>Roy L. Davis</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>Mar. 25, 1948</cell>
+                        <cell>To Munich as V.C. 11-13-48.</cell>
+                    </row>
+                    <row>
+                        <cell>Warsaw</cell>
+                        <cell>Thaddeus M. Chylinski</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Conn.</cell>
+                        <cell>Dec. 2, 1949</cell>
+                        <cell>To Seville as V.C. 1-24-53.</cell>
+                    </row>
+                    <row>
+                        <cell>Guanda</cell>
+                        <cell>Edwin P. Dyer Jr.</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>R.I.</cell>
+                        <cell>Mar. 20, 1950</cell>
+                        <cell>FSS Officer, assigned<lb/>to Dept. 1-7-52.</cell>
+                    </row>
+                    <row>
+                        <cell>St. John, N.B.</cell>
+                        <cell>William A. Mitchell</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Ire.</cell>
+                        <cell>Jan. 12, 1951</cell>
+                        <cell>To KOBE as V.C. 5-7-54</cell>
+                    </row>
+                    <row>
+                        <cell>Lisbon</cell>
+                        <cell>Buford G. Rogers</cell>
+                        <cell>Vice Consul U.S.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell>Miss.</cell>
+                        <cell>Jan. 29, 1952</cell>
+                        <cell>Retired (val) off cob.<lb/>3/31/57</cell>
+                    </row>
+                    <row>
+                        <cell>Salzburg</cell>
+                        <cell>Charles T. Warner</cell>
+                        <cell>Vice Cons.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>March 23, 1957</cell>
+                        <cell>Designated V.C. of career<lb/>Bordeaux 5/6/57</cell>
+                    </row>
+                </table>
+                <p>American Consulate at Bordeaux elevated to Consulate General status on July 18,
+                    1966.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

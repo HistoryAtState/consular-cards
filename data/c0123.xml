@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c0123" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Assioot, Egypt</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c0122" type="prev"/>
+                <relatedItem target="c0124" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c0123f1">
+                <graphic height="3618px" url="00180.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Assioot, Egypt</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1889</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00180</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c0123f2">
+                <graphic height="3618px" url="00181.tif" width="5992px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Assioot, Egypt</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="w"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1919</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>00181</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c0123">
+        <body>
+            <div corresp="#c0123f1">
+                <head>Assioot, Egypt</head>
+                <table>
+                    <row role="label">
+                        <cell>PREV. OFFICE.</cell>
+                        <cell>NAME.</cell>
+                        <cell>OFFICE.</cell>
+                        <cell>ALLEGIANCE.</cell>
+                        <cell>WHERE BORN.</cell>
+                        <cell>WHENCE APPTD.</cell>
+                        <cell>DATE OF APPOINTMENT.</cell>
+                        <cell>REMARKS.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>Bestauros U. Shayat</cell>
+                        <cell>Com. Agt. Egypt.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>July 20, 1889.</cell>
+                        <cell>Resigned May 1903.</cell>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell>George Missa Bey</cell>
+                        <cell>""</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell>June 25, 1903.</cell>
+                        <cell/>
+                    </row>
+                </table>
+                <p>Agency ordered closed July 3, 1925.-Nov. or Dec. 1925 (3-7-26)</p>
+            </div>
+            <div corresp="#c0123f2">
+                <head>Assiut</head>
+                <p>Hakeem Rizkalla, in charge of Agency (absence of Wisca Bey)</p>
+                <p>to Dec. 1, 1919</p>
+            </div>
+        </body>
+    </text>
+</TEI>

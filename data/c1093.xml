@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="c1093" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Prince Rupert, British Columbia, Canada</title>
+            </titleStmt>
+            <publicationStmt/>
+            <notesStmt>
+                <relatedItem target="c1092" type="prev"/>
+                <relatedItem target="c1094" type="next"/>
+            </notesStmt>
+            <sourceDesc/>
+        </fileDesc>
+    </teiHeader>
+    <facsimile>
+        <surfaceGrp>
+            <surface xml:id="c1093f1">
+                <graphic height="3636px" url="01452.tif" width="5998px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Prince Rupert, British Columbia, Canada</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.1"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1935</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01452</string>
+                    </f>
+                </fs>
+            </surface>
+            <surface xml:id="c1093f2">
+                <graphic height="3640px" url="01453.tif" width="6004px"/>
+                <fs type="vendor-index">
+                    <f name="label">
+                        <string>Prince Rupert, British Columbia</string>
+                    </f>
+                    <f name="order">
+                        <numeric value="1.2"/>
+                    </f>
+                    <f name="color">
+                        <symbol value="b"/>
+                    </f>
+                    <f name="status">
+                        <symbol value="i"/>
+                    </f>
+                    <f name="year">
+                        <string>1926</string>
+                    </f>
+                    <f name="scan-sequence">
+                        <string>01453</string>
+                    </f>
+                </fs>
+            </surface>
+        </surfaceGrp>
+    </facsimile>
+    <text corresp="#c1093">
+        <body>
+            <div corresp="#c1093f1"/>
+            <div corresp="#c1093f2">
+                <head>Prince Rupert, British Columbia</head>
+                <p>Dale W. Maker, of ma, lately V. C. affez U.C.Jcareer Apr. 15, 1926. Anigns to
+                    Calenta fe 211726.</p>
+            </div>
+        </body>
+    </text>
+</TEI>
