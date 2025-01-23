@@ -19,6 +19,20 @@ else if ($exist:path eq "/") then
         <forward url="index.xq"/>
     </dispatch>
 
+else if (starts-with($exist:path, "/iiif/")) then
+    let $params := $exist:path => substring-after("/iiif/") => tokenize("/")
+    let $collection-id := $params[1]
+    let $manifest-id := $params[2]
+    let $canvas-id := $params[3]
+    return
+        <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
+            <forward url="{$exist:controller}/iiif.xq">
+                <add-parameter name="collection-id" value="{$collection-id}"/>
+                <add-parameter name="manifest-id" value="{$manifest-id}"/>
+                <add-parameter name="canvas-id" value="{$canvas-id}"/>
+            </forward>
+        </dispatch>
+
 else
     <dispatch xmlns="http://exist.sourceforge.net/NS/exist">
         <ignore/>
